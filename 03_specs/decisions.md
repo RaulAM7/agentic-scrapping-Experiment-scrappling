@@ -7,3 +7,4 @@ Short decision log.
 - [inferred] 2026-03-07: Evaluation is ICP-grounded, not generic. All tests should connect to the Canary Islands professional firms use case.
 - [inferred] 2026-03-07: The experiment uses a docs-first workspace (no runtime/framework defined in STACK.md yet). Python will likely be needed once Scrapling is installed.
 - [inferred] 2026-03-07: The Yanira Leyva client case and the Zack Shapiro article serve as reference material for understanding the ICP pain and the AI-native professional firm vision, not as direct inputs to the scraping evaluation.
+- 2026-03-07: Beachhead ICP definido: asesorías fiscales/contables independientes en Canarias (1-10 personas, 50-300 clientes). Caso Yanira como validación directa. Artefacto en 04_outputs/icp-asesoria-fiscal-contable-canarias.md

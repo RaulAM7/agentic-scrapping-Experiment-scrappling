@@ -4,7 +4,7 @@ One line per item.
 
 - [inferred] Install Scrapling and document setup process (friction, dependencies, gotchas)
 - [inferred] Review Scrapling docs/README and map capabilities to evaluation criteria
-- [inferred] Define ICP-driven research targets (specific websites/directories for Canary Islands professional firms)
+- [done] Define ICP-driven research targets (specific websites/directories for Canary Islands professional firms) — see 04_outputs/icp-asesoria-fiscal-contable-canarias.md
 - [inferred] Run basic scraping test: extract structured data from a public directory of despachos
 - [inferred] Run advanced test: crawl + categorize firms by type (law, accounting, tax, mixed)
 - [inferred] Test signal collection: identify observable ICP pain signals from firm websites
