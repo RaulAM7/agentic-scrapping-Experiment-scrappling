@@ -2,12 +2,11 @@
 
 One line per item.
 
-- [inferred] Install Scrapling and document setup process (friction, dependencies, gotchas)
-- [inferred] Review Scrapling docs/README and map capabilities to evaluation criteria
-- [done] Define ICP-driven research targets (specific websites/directories for Canary Islands professional firms) — see 04_outputs/icp-asesoria-fiscal-contable-canarias.md
-- [inferred] Run basic scraping test: extract structured data from a public directory of despachos
-- [inferred] Run advanced test: crawl + categorize firms by type (law, accounting, tax, mixed)
-- [inferred] Test signal collection: identify observable ICP pain signals from firm websites
-- [inferred] Document Scrapling strengths, weaknesses, and tradeoffs vs. evaluation criteria
-- [inferred] Write comparative evaluation report (decision-ready, formatted for cross-repo comparison)
-- [inferred] Assess orchestration ergonomics: how easily can Claude drive Scrapling inside a repo workflow
+- [done] Define ICP — see 04_outputs/icp-asesoria-fiscal-contable-canarias.md
+- [done] Plan maestro del experimento — see 03_specs/now/001_now.md
+- [done] Fase 0: Setup e instalacion de Scrapling — ver 05_scratch/fase-0_setup-log.md
+- [done] Fase 1: Reconocimiento del terreno — ver 05_scratch/fase-1_reconocimiento-fuentes.md
+- [done] Fase 2: Extraccion estructurada — 137 despachos + 49 colegiados
+- [done] Fase 3: Spider de descubrimiento — 30 fichas rastreadas, 0 fallos
+- [done] Fase 4: Scoring ICP — 77 prospectos scored, ver 04_outputs/2026-03-07_icp-prospect-ranking_v1.md
+- [done] Fase 5: Evaluacion final — ver 04_outputs/2026-03-07_scrapling-evaluation-report_v1.md

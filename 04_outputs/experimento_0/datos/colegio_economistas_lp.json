@@ -1,0 +1,296 @@
+[
+  {
+    "num_colegiado": "0003",
+    "apellidos": "MARRERO GARCÍA",
+    "nombre": "FRANCISCO",
+    "nombre_completo": "FRANCISCO MARRERO GARCÍA"
+  },
+  {
+    "num_colegiado": "0006",
+    "apellidos": "ESTANY CABRERA",
+    "nombre": "JUAN",
+    "nombre_completo": "JUAN ESTANY CABRERA"
+  },
+  {
+    "num_colegiado": "0013",
+    "apellidos": "TALAVERA DÉNIZ",
+    "nombre": "LUIS FERNANDO",
+    "nombre_completo": "LUIS FERNANDO TALAVERA DÉNIZ"
+  },
+  {
+    "num_colegiado": "0014",
+    "apellidos": "MONZÓN BLANCO",
+    "nombre": "VICTOR MANUEL",
+    "nombre_completo": "VICTOR MANUEL MONZÓN BLANCO"
+  },
+  {
+    "num_colegiado": "0015",
+    "apellidos": "MÁRQUEZ FERNÁNDEZ",
+    "nombre": "ANTONIO",
+    "nombre_completo": "ANTONIO MÁRQUEZ FERNÁNDEZ"
+  },
+  {
+    "num_colegiado": "0018",
+    "apellidos": "MOLINA PETIT",
+    "nombre": "RAFAEL",
+    "nombre_completo": "RAFAEL MOLINA PETIT"
+  },
+  {
+    "num_colegiado": "0021",
+    "apellidos": "BENITEZ CRUZ",
+    "nombre": "MIGUEL DALMACIO",
+    "nombre_completo": "MIGUEL DALMACIO BENITEZ CRUZ"
+  },
+  {
+    "num_colegiado": "0022",
+    "apellidos": "HERNÁNDEZ PÉREZ",
+    "nombre": "LUIS",
+    "nombre_completo": "LUIS HERNÁNDEZ PÉREZ"
+  },
+  {
+    "num_colegiado": "0026",
+    "apellidos": "SANTANA DOMINGUEZ",
+    "nombre": "JOSÉ GABRIEL",
+    "nombre_completo": "JOSÉ GABRIEL SANTANA DOMINGUEZ"
+  },
+  {
+    "num_colegiado": "0028",
+    "apellidos": "GARCIA GONZALEZ",
+    "nombre": "JUAN ANTONIO GREGORIO",
+    "nombre_completo": "JUAN ANTONIO GREGORIO GARCIA GONZALEZ"
+  },
+  {
+    "num_colegiado": "0029",
+    "apellidos": "MARRERO HERNÁNDEZ",
+    "nombre": "ANTONIO",
+    "nombre_completo": "ANTONIO MARRERO HERNÁNDEZ"
+  },
+  {
+    "num_colegiado": "0030",
+    "apellidos": "BARBER GUERRA",
+    "nombre": "MIGUEL ANGEL",
+    "nombre_completo": "MIGUEL ANGEL BARBER GUERRA"
+  },
+  {
+    "num_colegiado": "0032",
+    "apellidos": "SANTANA LORENZO",
+    "nombre": "ANIBAL",
+    "nombre_completo": "ANIBAL SANTANA LORENZO"
+  },
+  {
+    "num_colegiado": "0033",
+    "apellidos": "HERNÁNDEZ GUERRA",
+    "nombre": "ANTONIO MANUEL",
+    "nombre_completo": "ANTONIO MANUEL HERNÁNDEZ GUERRA"
+  },
+  {
+    "num_colegiado": "0037",
+    "apellidos": "ARTILES RAMÍREZ",
+    "nombre": "JUAN JACINTO",
+    "nombre_completo": "JUAN JACINTO ARTILES RAMÍREZ"
+  },
+  {
+    "num_colegiado": "0038",
+    "apellidos": "AGUIAR MORALES",
+    "nombre": "IGNACIO",
+    "nombre_completo": "IGNACIO AGUIAR MORALES"
+  },
+  {
+    "num_colegiado": "0039",
+    "apellidos": "MÁRQUEZ FERNÁNDEZ",
+    "nombre": "AGUSTÍN",
+    "nombre_completo": "AGUSTÍN MÁRQUEZ FERNÁNDEZ"
+  },
+  {
+    "num_colegiado": "0040",
+    "apellidos": "QUINTANA CABRERA",
+    "nombre": "FRANCISCO JAVIER",
+    "nombre_completo": "FRANCISCO JAVIER QUINTANA CABRERA"
+  },
+  {
+    "num_colegiado": "0041",
+    "apellidos": "RAMÍREZ GARCÍA",
+    "nombre": "RODOLFO J.",
+    "nombre_completo": "RODOLFO J. RAMÍREZ GARCÍA"
+  },
+  {
+    "num_colegiado": "0045",
+    "apellidos": "BORDES BENÍTEZ",
+    "nombre": "ARMANDO",
+    "nombre_completo": "ARMANDO BORDES BENÍTEZ"
+  },
+  {
+    "num_colegiado": "0052",
+    "apellidos": "WOOD GUERRA",
+    "nombre": "ENRIQUE",
+    "nombre_completo": "ENRIQUE WOOD GUERRA"
+  },
+  {
+    "num_colegiado": "0053",
+    "apellidos": "POU GALINDO",
+    "nombre": "NICASIO",
+    "nombre_completo": "NICASIO POU GALINDO"
+  },
+  {
+    "num_colegiado": "0054",
+    "apellidos": "LÓPEZ MARTÍN",
+    "nombre": "ORLANDO",
+    "nombre_completo": "ORLANDO LÓPEZ MARTÍN"
+  },
+  {
+    "num_colegiado": "0055",
+    "apellidos": "ESPÍNDOLA RUSCITTI",
+    "nombre": "NILDA GLORIA",
+    "nombre_completo": "NILDA GLORIA ESPÍNDOLA RUSCITTI"
+  },
+  {
+    "num_colegiado": "0057",
+    "apellidos": "PADRÓN RIVAS",
+    "nombre": "ALBERTO",
+    "nombre_completo": "ALBERTO PADRÓN RIVAS"
+  },
+  {
+    "num_colegiado": "0058",
+    "apellidos": "DELGADO JALÓN",
+    "nombre": "JOSE-LUIS",
+    "nombre_completo": "JOSE-LUIS DELGADO JALÓN"
+  },
+  {
+    "num_colegiado": "0061",
+    "apellidos": "LEY DE LEÓN",
+    "nombre": "MANUEL",
+    "nombre_completo": "MANUEL LEY DE LEÓN"
+  },
+  {
+    "num_colegiado": "0062",
+    "apellidos": "MIRANDA CALDERÍN",
+    "nombre": "SALVADOR",
+    "nombre_completo": "SALVADOR MIRANDA CALDERÍN"
+  },
+  {
+    "num_colegiado": "0064",
+    "apellidos": "RODRÍGUEZ BELTRÁ",
+    "nombre": "ATILIO",
+    "nombre_completo": "ATILIO RODRÍGUEZ BELTRÁ"
+  },
+  {
+    "num_colegiado": "0065",
+    "apellidos": "CASTELLANO CABALLERO",
+    "nombre": "VICENTE",
+    "nombre_completo": "VICENTE CASTELLANO CABALLERO"
+  },
+  {
+    "num_colegiado": "068R",
+    "apellidos": "BRITO FARRAY",
+    "nombre": "DAVINIA",
+    "nombre_completo": "DAVINIA BRITO FARRAY"
+  },
+  {
+    "num_colegiado": "0069",
+    "apellidos": "SÁNCHEZ MAYOR",
+    "nombre": "JUAN FRANCISCO",
+    "nombre_completo": "JUAN FRANCISCO SÁNCHEZ MAYOR"
+  },
+  {
+    "num_colegiado": "0071",
+    "apellidos": "CALIXTO ESTUPIÑÁN",
+    "nombre": "JUAN",
+    "nombre_completo": "JUAN CALIXTO ESTUPIÑÁN"
+  },
+  {
+    "num_colegiado": "0072",
+    "apellidos": "NARANJO SINTES",
+    "nombre": "JOSE CARLOS",
+    "nombre_completo": "JOSE CARLOS NARANJO SINTES"
+  },
+  {
+    "num_colegiado": "0073",
+    "apellidos": "SINTES MARRERO",
+    "nombre": "GUILLERMO",
+    "nombre_completo": "GUILLERMO SINTES MARRERO"
+  },
+  {
+    "num_colegiado": "0075",
+    "apellidos": "RUIZ DE LA TORRE GONZÁLEZ",
+    "nombre": "MARIA CONCEPCION",
+    "nombre_completo": "MARIA CONCEPCION RUIZ DE LA TORRE GONZÁLEZ"
+  },
+  {
+    "num_colegiado": "0076",
+    "apellidos": "ALVAREZ MONZÓN",
+    "nombre": "JUAN FRANCISCO",
+    "nombre_completo": "JUAN FRANCISCO ALVAREZ MONZÓN"
+  },
+  {
+    "num_colegiado": "0078",
+    "apellidos": "FERNÁNDEZ MOLINA",
+    "nombre": "JOSE AQUILINO",
+    "nombre_completo": "JOSE AQUILINO FERNÁNDEZ MOLINA"
+  },
+  {
+    "num_colegiado": "0079",
+    "apellidos": "LÓPEZ SANTANA",
+    "nombre": "LORENZO BERNARDO",
+    "nombre_completo": "LORENZO BERNARDO LÓPEZ SANTANA"
+  },
+  {
+    "num_colegiado": "0080",
+    "apellidos": "ROMERO VERNETTA -COMMINGES",
+    "nombre": "FERNANDO",
+    "nombre_completo": "FERNANDO ROMERO VERNETTA -COMMINGES"
+  },
+  {
+    "num_colegiado": "0083",
+    "apellidos": "BENITEZ ROBAINA",
+    "nombre": "FAUSTINO M.",
+    "nombre_completo": "FAUSTINO M. BENITEZ ROBAINA"
+  },
+  {
+    "num_colegiado": "0086",
+    "apellidos": "DOMINGUEZ HORMIGA",
+    "nombre": "CARMELO",
+    "nombre_completo": "CARMELO DOMINGUEZ HORMIGA"
+  },
+  {
+    "num_colegiado": "0088",
+    "apellidos": "SUÁREZ LÓPEZ",
+    "nombre": "FRANCISCO JAVIER",
+    "nombre_completo": "FRANCISCO JAVIER SUÁREZ LÓPEZ"
+  },
+  {
+    "num_colegiado": "0089",
+    "apellidos": "SANTANA ROMERO",
+    "nombre": "JULIAN JESÚS",
+    "nombre_completo": "JULIAN JESÚS SANTANA ROMERO"
+  },
+  {
+    "num_colegiado": "0091",
+    "apellidos": "SÁNCHEZ ARENCIBIA",
+    "nombre": "JOSE JUAN",
+    "nombre_completo": "JOSE JUAN SÁNCHEZ ARENCIBIA"
+  },
+  {
+    "num_colegiado": "0096",
+    "apellidos": "FELIPE MOLINA",
+    "nombre": "JOSE JUAN",
+    "nombre_completo": "JOSE JUAN FELIPE MOLINA"
+  },
+  {
+    "num_colegiado": "0097",
+    "apellidos": "KESSOMAL KAKNANI",
+    "nombre": "MURLI",
+    "nombre_completo": "MURLI KESSOMAL KAKNANI"
+  },
+  {
+    "num_colegiado": "0100",
+    "apellidos": "JUNQUERA DE LA COBA",
+    "nombre": "ANGEL",
+    "nombre_completo": "ANGEL JUNQUERA DE LA COBA"
+  },
+  {
+    "num_colegiado": "0101",
+    "apellidos": "DÉNIZ HERNÁNDEZ",
+    "nombre": "SEVERIANO",
+    "nombre_completo": "SEVERIANO DÉNIZ HERNÁNDEZ"
+  }
+]

@@ -1,0 +1,973 @@
+[
+  {
+    "nombre": "Sánchez Marichal Auditores",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928382550",
+    "score": 12,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Romero S.l.",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928362600",
+    "score": 12,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Artiles",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "636244818",
+    "score": 12,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Responsable Mario Alonso Alvarez",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Santa Cruz de Tenerife",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "630911575",
+    "score": 12,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Fiscal Miguel López Rosa",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "928813176",
+    "score": 10,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Agustín J. Marrero",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Telde",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34928702068",
+    "score": 10,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Agustín Ruiz Y Asociados S.L.",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Puerto de la Cruz",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "922372430",
+    "score": 10,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Lujan Asesores S.L.",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928293120",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Elena Maria Gutierrez Suarez",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34928330400",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Galván & Martín Asesoría de empresas",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "628105111",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Carmen Martín Consultores S.L.P.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928270116",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Francisco Hernández González",
+    "actividad": "Abogados",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928364511",
+    "score": 9,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "ASESORIA SANCHEZ MARICHAL",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928373483",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Chesey Gestiones",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Santa Cruz de Tenerife",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "+34630945635",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Fiscal Méndez Roldán",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Santa Cruz de la Palma",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "922414462",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asesoría EvMar Tenerife",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Santa Cruz de Tenerife",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "661673290",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Gestoria Benitez Sarmiento",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "628340707",
+    "score": 9,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Rdp Asociados",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928374171",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Asociacion Castro",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "603270273",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "HDN Asesores de Empresas",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928431047",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Rg Asesoria Y Gestion De Las Palmas S.L.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928965182",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "ASESORES VEGA & ESTUPIÑAN S.L.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928226161",
+    "score": 9,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Montesdeoca Asesores, S.L.",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Telde",
+    "provincia": "LAS PALMAS",
+    "telefono": "928680555",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "M & L Abogados Y Asesores Tributarios",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Vecindario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928155788",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Fernandez Asesores Lanzarote",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Playa Blanca",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34657234038",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Hector Ruiz Verona",
+    "actividad": "Asesorías jurídicas",
+    "localidad": "Santa Brígida",
+    "provincia": "LAS PALMAS",
+    "telefono": "674932952",
+    "score": 7,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesoria Esther Guedes Araña",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Vecindario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928754405",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Cubas De Agua Hernández Marcial",
+    "actividad": "Agua: abastecimientos",
+    "localidad": "San Antonio",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34659436752",
+    "score": 7,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Gestoría Jesús Santana Sánchez",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Cruce de Sardina",
+    "provincia": "LAS PALMAS",
+    "telefono": "928759521",
+    "score": 7,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesoría Inmaculada Hernández Rijo",
+    "actividad": "Asesorías laborales",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "928804282",
+    "score": 7,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesoria Elisan",
+    "actividad": "Asesorías fiscales",
+    "localidad": "San Agustín",
+    "provincia": "LAS PALMAS",
+    "telefono": "646289351",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Maho Gestiones S.L.",
+    "actividad": "Asesorías fiscales",
+    "localidad": "La Oliva",
+    "provincia": "LAS PALMAS",
+    "telefono": "828981774",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Gabinete Afimecoasesores Sociedad",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Telde",
+    "provincia": "LAS PALMAS",
+    "telefono": "928690322",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Marcagestion",
+    "actividad": "Asesorías fiscales",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "625455880",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesoría José Cándido García",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Playa del Inglés",
+    "provincia": "LAS PALMAS",
+    "telefono": "928760184",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "MARCOS SANTANA MENDOZA GESTORÍA ADMINISTRATIVA S.L.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "San Fernando",
+    "provincia": "LAS PALMAS",
+    "telefono": "928730599",
+    "score": 7,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "Gestoría Administrativa Soledad Monzón",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Puerto del Rosario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928851232",
+    "score": 7,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "posible_registro_colegial (+3)"
+    ]
+  },
+  {
+    "nombre": "MIGUEL ANGEL MEDINA ALEMAN",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Ingenio",
+    "provincia": "LAS PALMAS",
+    "telefono": "699392085",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Gestiones Y Servicios Doctoral S.l.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "El Doctoral",
+    "provincia": "LAS PALMAS",
+    "telefono": "928125422",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Carrizal Consulting S.L.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Carrizal",
+    "provincia": "LAS PALMAS",
+    "telefono": "928789115",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "TRANSTEC CONSULTING S.L.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Carrizal",
+    "provincia": "LAS PALMAS",
+    "telefono": "658895106",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Evolution Global Risk Management Europe",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Mogán",
+    "provincia": "LAS PALMAS",
+    "telefono": "629641113",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesores Gestiempresa Vecindario S.L.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Vecindario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928752914",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Restaurante La Marina S.L. Restaurante La Marina S.L.",
+    "actividad": "Asesorías de empresas",
+    "localidad": "Playa de Mogán",
+    "provincia": "LAS PALMAS",
+    "telefono": "928565095",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Asesoria Hdm",
+    "actividad": "Asesorías de empresas",
+    "localidad": "El Sobradillo",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "922613250",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Alfonso Carvajal Asoci y Gesti",
+    "actividad": "Asesorías de empresas",
+    "localidad": "",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "649953505",
+    "score": 7,
+    "signals": [
+      "asesoria_fiscal_canarias (+4)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Armada & Asociados Abogados Y Asesores",
+    "actividad": "Abogados",
+    "localidad": "Santa Cruz de Tenerife",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "922246881",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "GRUPO ASGA",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928266421",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "GESTORIA MAS 2000",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928245842",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "GESTORIA BORRERO PEREZ S.L.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928229183",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Benjamin Arencibia Suarez",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928371841",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "ENRIQUE HERNANDEZ TRISTAN E HIJOS GESTORES ADMINISTRATIVOS S.L.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928372188",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "T&S OFICINARIAS",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928398011",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Gestoría Vega Luján",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928490255",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Gestoria Administrativa Casado Negrin",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Santa Cruz de Tenerife",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "922547428",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Henríquez & Portillo",
+    "actividad": "Asesorías laborales",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34928233910",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Consultoresmas Internacional",
+    "actividad": "Asesorias para extranjeros",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34643826092",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Rgc Auditores",
+    "actividad": "Auditorías de cuentas",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "646680656",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Bartolome Santiago Vega",
+    "actividad": "Limpieza, artículos: establecimientos",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "LAS PALMAS",
+    "telefono": "928467308",
+    "score": 6,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)",
+      "capital_insular (+2)"
+    ]
+  },
+  {
+    "nombre": "Gestoria Garnica Sanchez Sl",
+    "actividad": "Asesorías financieras",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "928803890",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Btorres Gestiona Tu Hogar",
+    "actividad": "Inmobiliarias",
+    "localidad": "",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34642664893",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "A. S. G. Inter - Consulting Abogados Y Consultoría",
+    "actividad": "Abogados",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "928806363",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Emprende2. Asesoría Laboral y Fiscal. Consultoría Empresarial",
+    "actividad": "Asesorías laborales",
+    "localidad": "San Pedro de Breña Alta",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "+34638672688",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Clavijo Rodriguez Gestoria Administrativa",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Tacoronte",
+    "provincia": "SANTA CRUZ DE TENERIFE",
+    "telefono": "922563518",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "GESTIONES FLEISAN S.L.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Puerto del Rosario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928533929",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Gestoría Díaz Mejías",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Vecindario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928794060",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Gestoria Administrativa Carlos Suarez Matos",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Vecindario",
+    "provincia": "LAS PALMAS",
+    "telefono": "629471040",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Henriquez & Estupiñan",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Tafira",
+    "provincia": "LAS PALMAS",
+    "telefono": "928350948",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "COTECTUR",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Playa Honda",
+    "provincia": "LAS PALMAS",
+    "telefono": "928820402",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "ANSITE ACESORES Y GESTORES S.L.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Vecindario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928795811",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "ABIAN MARTIN OJEDA",
+    "actividad": "Gestorías administrativas",
+    "localidad": "San Fernando",
+    "provincia": "LAS PALMAS",
+    "telefono": "928673938",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Gestiones Fuerteventura",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Puerto del Rosario",
+    "provincia": "LAS PALMAS",
+    "telefono": "928533929",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "E.U. A. Federico Echeberria Canaria S.L.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "928811299",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Tajinaste Azul 2002 S.L.U.",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Pueblo de Tauro",
+    "provincia": "LAS PALMAS",
+    "telefono": "928561204",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "AFRILANZ 2000",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Arrecife",
+    "provincia": "LAS PALMAS",
+    "telefono": "928815110",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Juan Manuel Gonzalez Sosa",
+    "actividad": "Gestorías administrativas",
+    "localidad": "Santidad",
+    "provincia": "LAS PALMAS",
+    "telefono": "928634393",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  },
+  {
+    "nombre": "Serviprec Ingenieros",
+    "actividad": "Prevención de riesgos laborales: consultorías",
+    "localidad": "Santa María de Guía",
+    "provincia": "LAS PALMAS",
+    "telefono": "+34928366399",
+    "score": 4,
+    "signals": [
+      "en_canarias_no_asesoria (+1)",
+      "sin_web_propia (+3)"
+    ]
+  }
+]
