@@ -1,0 +1,39 @@
+{
+  "generated_at_utc": "2026-03-07T23:38:33+00:00",
+  "google_probe": {
+    "status": 429,
+    "note": "Google Search con DynamicFetcher/StealthyFetcher devuelve /sorry en esta fase"
+  },
+  "sources": [
+    {
+      "source_name": "google_basic_seeded_websites",
+      "sample_size": 12,
+      "p0_contactable_pct": 100.0,
+      "email_real_pct": 100.0,
+      "alt_channel_pct": 0.0,
+      "unique_email_pct": 100.0,
+      "noise_pct": 0.0,
+      "duplicate_pct": 0.0,
+      "icp_signal_useful_pct": 100.0,
+      "source_quality_score": 82,
+      "integral_scrapling_viability": false,
+      "gate_pass": false,
+      "viability_note": "La extraccion de webs funciona con Scrapling, pero la discovery live en Google devuelve 429/sorry."
+    },
+    {
+      "source_name": "AAFC - Despachos Profesionales",
+      "sample_size": 12,
+      "p0_contactable_pct": 100.0,
+      "email_real_pct": 100.0,
+      "alt_channel_pct": 0.0,
+      "unique_email_pct": 100.0,
+      "noise_pct": 0.0,
+      "duplicate_pct": 0.0,
+      "icp_signal_useful_pct": 91.7,
+      "source_quality_score": 93,
+      "integral_scrapling_viability": true,
+      "gate_pass": true,
+      "viability_note": "Fuente extraible con Fetcher en esta muestra piloto."
+    }
+  ]
+}

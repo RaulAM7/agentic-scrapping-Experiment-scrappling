@@ -1,0 +1,1260 @@
+[
+  {
+    "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+    "query_cluster": "gb_core_contact",
+    "fallback_geography": "las palmas de gran canaria|gran canaria",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22asesoria+fiscal%22+%22Las+Palmas+de+Gran+Canaria%22+%22contacto%22&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=Xrusad7ML9Oni-gPoe-PkAo&iflsig=AFdpzrgAAAAAaazJbq1nF3G4lmbla7vufv8fvUjVPVbf&ved=0ahUKEwje86vw_o6TAxXT0wIHHaH3A6IQ4dUDCCg&uact=5&oq=%22asesoria+fiscal%22+%22Las+Palmas+de+Gran+Canaria%22+%22contacto%22&gs_lp=Egdnd3Mtd2l6IjkiYXNlc29yaWEgZmlzY2FsIiAiTGFzIFBhbG1hcyBkZSBHcmFuIENhbmFyaWEiICJjb250YWN0byIyBRAhGKABMgUQIRigAUjVG1AsWJUbcAF4AJABAJgBjwGgAa01qgEEMC41NrgBA8gBAPgBAZgCOKAC9DWoAgrCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYgwHCAgUQABiABMICCBAAGIAEGLEDwgILEC4YgAQY0QMYxwHCAhEQLhiABBixAxjRAxiDARjHAcICEBAAGIAEGLEDGIMBGIoFGArCAggQLhiABBixA8ICCxAuGIAEGLEDGIMBwgILEC4YgAQYxwEYrwHCAggQABiABBjJA8ICCxAAGIAEGJIDGIoFwgIOEC4YgAQYkgMYxwEYrwHCAgoQABiABBixAxgKwgILEAAYgAQYsQMYyQPCAgYQABgWGB7CAggQABgWGAoYHsICCBAAGIAEGKIEmAMI8QXs3PINI2-F35IHBDEuNTWgB7HdArIHBDAuNTW4B-s1wgcHNS4yNy4yNMgHlQGACAA&sclient=gws-wiz&sei=ZbusaZTsEqqN9u8PlrGlsA0",
+        "title": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\" - Buscar con Google",
+        "h3_count": 14,
+        "results": [
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 1,
+            "url": "https://www.gruportr.com/asesoria-fiscal/",
+            "serp_title": "Asesoría Fiscal Las Palmas RTR Consultores https://www.gruportr.com › asesoria-fiscal",
+            "domain": "gruportr.com"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 2,
+            "url": "https://asesoriadetriana.com/",
+            "serp_title": "Asesoría de Triana l Tu despacho en Las Palmas asesoriadetriana.com https://asesoriadetriana.com",
+            "domain": "asesoriadetriana.com"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 3,
+            "url": "https://www.galvan-martin.com/",
+            "serp_title": "Asesoría fiscal y contable en Las Palmas de Gran Canaria galvan-martin.com https://www.galvan-martin.com",
+            "domain": "galvan-martin.com"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 4,
+            "url": "https://laspalmasgc.ceconsulting.es/",
+            "serp_title": "Asesoría fiscal, laboral y contable | CE Las Palmas de Gran ... CE Consulting Las Palmas de Gran Canaria https://laspalmasgc.ceconsulting.es",
+            "domain": "laspalmasgc.ceconsulting.es"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 5,
+            "url": "https://www.axerconsulting.es/cuanto-cuesta-asesoria-fiscal-madrid/",
+            "serp_title": "Unknown",
+            "domain": "axerconsulting.es"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 6,
+            "url": "https://www.deustoformacion.com/curso-asesoria-fiscal/sueldo",
+            "serp_title": "Unknown",
+            "domain": "deustoformacion.com"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 7,
+            "url": "https://www.glassdoor.es/Sueldos/asesor-fiscal-sueldo-SRCH_KO0,13.htm",
+            "serp_title": "Unknown",
+            "domain": "glassdoor.es"
+          },
+          {
+            "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 8,
+            "url": "https://ayudatpymes.com/gestron/cuanto-cobra-una-asesoria-a-un-autonomo/",
+            "serp_title": "Unknown",
+            "domain": "ayudatpymes.com"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 1,
+        "url": "https://www.gruportr.com/asesoria-fiscal/",
+        "serp_title": "Asesoría Fiscal Las Palmas RTR Consultores https://www.gruportr.com › asesoria-fiscal",
+        "domain": "gruportr.com"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 2,
+        "url": "https://asesoriadetriana.com/",
+        "serp_title": "Asesoría de Triana l Tu despacho en Las Palmas asesoriadetriana.com https://asesoriadetriana.com",
+        "domain": "asesoriadetriana.com"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 3,
+        "url": "https://www.galvan-martin.com/",
+        "serp_title": "Asesoría fiscal y contable en Las Palmas de Gran Canaria galvan-martin.com https://www.galvan-martin.com",
+        "domain": "galvan-martin.com"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 4,
+        "url": "https://laspalmasgc.ceconsulting.es/",
+        "serp_title": "Asesoría fiscal, laboral y contable | CE Las Palmas de Gran ... CE Consulting Las Palmas de Gran Canaria https://laspalmasgc.ceconsulting.es",
+        "domain": "laspalmasgc.ceconsulting.es"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 5,
+        "url": "https://www.axerconsulting.es/cuanto-cuesta-asesoria-fiscal-madrid/",
+        "serp_title": "Unknown",
+        "domain": "axerconsulting.es"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 6,
+        "url": "https://www.deustoformacion.com/curso-asesoria-fiscal/sueldo",
+        "serp_title": "Unknown",
+        "domain": "deustoformacion.com"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 7,
+        "url": "https://www.glassdoor.es/Sueldos/asesor-fiscal-sueldo-SRCH_KO0,13.htm",
+        "serp_title": "Unknown",
+        "domain": "glassdoor.es"
+      },
+      {
+        "query": "\"asesoria fiscal\" \"Las Palmas de Gran Canaria\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 8,
+        "url": "https://ayudatpymes.com/gestron/cuanto-cobra-una-asesoria-a-un-autonomo/",
+        "serp_title": "Unknown",
+        "domain": "ayudatpymes.com"
+      }
+    ]
+  },
+  {
+    "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+    "query_cluster": "gb_core_contact",
+    "fallback_geography": "santa cruz de tenerife|tenerife",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22asesoria+contable%22+%22Santa+Cruz+de+Tenerife%22+%22contacto%22&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=brusaZidBcOvi-gPq7nM2AQ&iflsig=AFdpzrgAAAAAaazJfhAlkuV0Ph1SpOUHy7RNTH9CxyhM&ved=0ahUKEwiYjNL3_o6TAxXD1wIHHascE0sQ4dUDCCg&uact=5&oq=%22asesoria+contable%22+%22Santa+Cruz+de+Tenerife%22+%22contacto%22&gs_lp=Egdnd3Mtd2l6IjciYXNlc29yaWEgY29udGFibGUiICJTYW50YSBDcnV6IGRlIFRlbmVyaWZlIiAiY29udGFjdG8iMgUQIRigATIFECEYoAFIqhpQKljsGXABeACQAQCYAZkBoAGONqoBBDAuNTO4AQPIAQD4AQGYAjSgAuU1qAIKwgIKEC4YAxjqAhiPAcICChAAGAMY6gIYjwHCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAggQABiABBixA8ICCxAuGIAEGNEDGMcBwgIREC4YgAQYsQMY0QMYgwEYxwHCAhAQABiABBixAxiDARiKBRgKwgIIEC4YgAQYsQPCAgsQLhiABBixAxiDAcICCxAuGIAEGMcBGK8BwgIIEAAYgAQYyQPCAgsQABiABBiSAxiKBcICDhAuGIAEGJIDGMcBGK8BwgIKEAAYgAQYsQMYCsICCxAAGIAEGLEDGMkDwgIGEAAYFhgewgIIEAAYFhgKGB7CAgUQABjvBcICCBAAGIAEGKIEwgIEECEYFcICBRAhGJ8FmAMI8QVaMNyFJcxc8JIHBDEuNTGgB7qjArIHBDAuNTG4B901wgcIMTYuMTguMTjIB3mACAA&sclient=gws-wiz&sei=dLusaavmFv-G9u8PuOHlgQw",
+        "title": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\" - Buscar con Google",
+        "h3_count": 12,
+        "results": [
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 1,
+            "url": "https://ayudatpymes.com/cambio-asesoria-autonomos/",
+            "serp_title": "Asesoría Contable Autónomos Ayuda T Pymes https://www.ayudatpymes.com",
+            "domain": "ayudatpymes.com"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 2,
+            "url": "https://www.asesorae.com/",
+            "serp_title": "Asesores Fiscales Tenerife Asesorae Smart solutions https://www.asesorae.com",
+            "domain": "asesorae.com"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 3,
+            "url": "https://www.holded.com/es/asesorias/santa-cruz-de-tenerife",
+            "serp_title": "Mejores Asesorías y Gestorías en Santa Cruz De Tenerife | Holded holded.com https://www.holded.com",
+            "domain": "holded.com"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 4,
+            "url": "https://www.asesoriaentenerife.es/",
+            "serp_title": "Asesoría Santa Cruz de Tenerife Asesoría Santa Cruz de Tenerife https://www.asesoriaentenerife.es",
+            "domain": "asesoriaentenerife.es"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 5,
+            "url": "https://eximasesores.com/contacto/",
+            "serp_title": "CONTACTO Asesores Tenerife https://eximasesores.com › contacto",
+            "domain": "eximasesores.com"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 6,
+            "url": "https://tengoasesor.com/contable/",
+            "serp_title": "Asesoría Contable en Tenerife Tengo Asesor https://tengoasesor.com › contable",
+            "domain": "tengoasesor.com"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 7,
+            "url": "https://santacruzdetenerife.ceconsulting.es/asesoria-empresas/",
+            "serp_title": "Asesoría y consultoría CE Santa Cruz de Tenerife CE Consulting Santa Cruz de Tenerife https://santacruzdetenerife.ceconsulting.es › asesoria-em...",
+            "domain": "santacruzdetenerife.ceconsulting.es"
+          },
+          {
+            "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "santa cruz de tenerife|tenerife",
+            "serp_rank": 8,
+            "url": "https://www.atasesores.net/",
+            "serp_title": "A.T. ASESORES TENERIFE A.T. ASESORES TENERIFE https://www.atasesores.net",
+            "domain": "atasesores.net"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 1,
+        "url": "https://ayudatpymes.com/cambio-asesoria-autonomos/",
+        "serp_title": "Asesoría Contable Autónomos Ayuda T Pymes https://www.ayudatpymes.com",
+        "domain": "ayudatpymes.com"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 2,
+        "url": "https://www.asesorae.com/",
+        "serp_title": "Asesores Fiscales Tenerife Asesorae Smart solutions https://www.asesorae.com",
+        "domain": "asesorae.com"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 3,
+        "url": "https://www.holded.com/es/asesorias/santa-cruz-de-tenerife",
+        "serp_title": "Mejores Asesorías y Gestorías en Santa Cruz De Tenerife | Holded holded.com https://www.holded.com",
+        "domain": "holded.com"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 4,
+        "url": "https://www.asesoriaentenerife.es/",
+        "serp_title": "Asesoría Santa Cruz de Tenerife Asesoría Santa Cruz de Tenerife https://www.asesoriaentenerife.es",
+        "domain": "asesoriaentenerife.es"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 5,
+        "url": "https://eximasesores.com/contacto/",
+        "serp_title": "CONTACTO Asesores Tenerife https://eximasesores.com › contacto",
+        "domain": "eximasesores.com"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 6,
+        "url": "https://tengoasesor.com/contable/",
+        "serp_title": "Asesoría Contable en Tenerife Tengo Asesor https://tengoasesor.com › contable",
+        "domain": "tengoasesor.com"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 7,
+        "url": "https://santacruzdetenerife.ceconsulting.es/asesoria-empresas/",
+        "serp_title": "Asesoría y consultoría CE Santa Cruz de Tenerife CE Consulting Santa Cruz de Tenerife https://santacruzdetenerife.ceconsulting.es › asesoria-em...",
+        "domain": "santacruzdetenerife.ceconsulting.es"
+      },
+      {
+        "query": "\"asesoria contable\" \"Santa Cruz de Tenerife\" \"contacto\"",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "santa cruz de tenerife|tenerife",
+        "serp_rank": 8,
+        "url": "https://www.atasesores.net/",
+        "serp_title": "A.T. ASESORES TENERIFE A.T. ASESORES TENERIFE https://www.atasesores.net",
+        "domain": "atasesores.net"
+      }
+    ]
+  },
+  {
+    "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+    "query_cluster": "gb_core_contact",
+    "fallback_geography": "unknown|gran canaria",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22gestoria%22+%22Gran+Canaria%22+inurl%3Acontacto&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=fbusaZ3jC7mAi-gPhqPr6AM&iflsig=AFdpzrgAAAAAaazJjVnRdXsyXaD60ZriaBkkp0p0YJbd&ved=0ahUKEwjdlez-_o6TAxU5wAIHHYbRGj0Q4dUDCCg&uact=5&oq=%22gestoria%22+%22Gran+Canaria%22+inurl%3Acontacto&gs_lp=Egdnd3Mtd2l6IigiZ2VzdG9yaWEiICJHcmFuIENhbmFyaWEiIGludXJsOmNvbnRhY3RvSKETUC9Y4xJwAXgAkAEAmAGjAaABtyeqAQQwLjM5uAEDyAEA-AEBmAIgoALLIagCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIIEAAYgAQYsQPCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAg4QABiABBixAxiDARiKBcICCxAuGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAggQLhiABBixA8ICCxAuGIAEGMcBGK8BwgILEAAYgAQYkgMYigXCAgsQABiABBixAxjJA8ICBhAAGBYYHsICAhAmwgIIEAAYgAQYogTCAgUQABjvBcICCBAAGKIEGIkFwgIFECEYoAGYAwjxBYzm51wGcWj7kgcEMS4zMaAHm_8BsgcEMC4zMbgHwiHCBwYxLjguMjPIB22ACAA&sclient=gws-wiz&sei=grusaeeZIv387_UPtOTkkAo",
+        "title": "\"gestoria\" \"Gran Canaria\" inurl:contacto - Buscar con Google",
+        "h3_count": 10,
+        "results": [
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 1,
+            "url": "https://www.einforma.com/informes-empresas/PALMAS/Palmas-De-Gran-Canaria--Las-/Empresas-46.html",
+            "serp_title": "Unknown",
+            "domain": "einforma.com"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 2,
+            "url": "https://www.einforma.com/informes-empresas/PALMAS/Palmas-De-Gran-Canaria--Las-/Empresas-45.html",
+            "serp_title": "Unknown",
+            "domain": "einforma.com"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 3,
+            "url": "https://sede.gobiernodecanarias.org/tributos/jsf/publico/sede/utilidades_web/contacto.jsp",
+            "serp_title": "Unknown",
+            "domain": "sede.gobiernodecanarias.org"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 4,
+            "url": "https://red-abogados-espana.webnode.es/",
+            "serp_title": "Unknown",
+            "domain": "red-abogados-espana.webnode.es"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 5,
+            "url": "https://www.laspalmasgc.es/es/ayuntamiento/horario-de-atencion/",
+            "serp_title": "Unknown",
+            "domain": "laspalmasgc.es"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 6,
+            "url": "https://www.helvetia.es/contacto/localiza-tu-oficina-mas-cercana",
+            "serp_title": "Localiza tu oficina más cercana Helvetia Seguros https://www.helvetia.es › contacto › localiza-tu-oficina-m...",
+            "domain": "helvetia.es"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 7,
+            "url": "https://www.iberinform.es/empresa/1366303/herdomisan",
+            "serp_title": "HERDOMISAN SL: CIF, Dirección y Ventas Iberinform https://www.iberinform.es › empresa › herdomisan",
+            "domain": "iberinform.es"
+          },
+          {
+            "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "unknown|gran canaria",
+            "serp_rank": 8,
+            "url": "https://www.todosbiz.es/gestoria-roca-puga-y-garcia-duarte-928-43-14-37",
+            "serp_title": "Gestoria Roca Puga y Garcia Duarte Asociados S.L.U. TodosBiz https://www.todosbiz.es › gestoria-roca-puga-y-garcia-du...",
+            "domain": "todosbiz.es"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 1,
+        "url": "https://www.einforma.com/informes-empresas/PALMAS/Palmas-De-Gran-Canaria--Las-/Empresas-46.html",
+        "serp_title": "Unknown",
+        "domain": "einforma.com"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 2,
+        "url": "https://www.einforma.com/informes-empresas/PALMAS/Palmas-De-Gran-Canaria--Las-/Empresas-45.html",
+        "serp_title": "Unknown",
+        "domain": "einforma.com"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 3,
+        "url": "https://sede.gobiernodecanarias.org/tributos/jsf/publico/sede/utilidades_web/contacto.jsp",
+        "serp_title": "Unknown",
+        "domain": "sede.gobiernodecanarias.org"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 4,
+        "url": "https://red-abogados-espana.webnode.es/",
+        "serp_title": "Unknown",
+        "domain": "red-abogados-espana.webnode.es"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 5,
+        "url": "https://www.laspalmasgc.es/es/ayuntamiento/horario-de-atencion/",
+        "serp_title": "Unknown",
+        "domain": "laspalmasgc.es"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 6,
+        "url": "https://www.helvetia.es/contacto/localiza-tu-oficina-mas-cercana",
+        "serp_title": "Localiza tu oficina más cercana Helvetia Seguros https://www.helvetia.es › contacto › localiza-tu-oficina-m...",
+        "domain": "helvetia.es"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 7,
+        "url": "https://www.iberinform.es/empresa/1366303/herdomisan",
+        "serp_title": "HERDOMISAN SL: CIF, Dirección y Ventas Iberinform https://www.iberinform.es › empresa › herdomisan",
+        "domain": "iberinform.es"
+      },
+      {
+        "query": "\"gestoria\" \"Gran Canaria\" inurl:contacto",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "unknown|gran canaria",
+        "serp_rank": 8,
+        "url": "https://www.todosbiz.es/gestoria-roca-puga-y-garcia-duarte-928-43-14-37",
+        "serp_title": "Gestoria Roca Puga y Garcia Duarte Asociados S.L.U. TodosBiz https://www.todosbiz.es › gestoria-roca-puga-y-garcia-du...",
+        "domain": "todosbiz.es"
+      }
+    ]
+  },
+  {
+    "query": "\"asesoria fiscal contable\" Canarias email",
+    "query_cluster": "gb_core_contact",
+    "fallback_geography": "multiple|canarias",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22asesoria+fiscal+contable%22+Canarias+email&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=i7usacjmFaKL9u8PvvqHqAQ&iflsig=AFdpzrgAAAAAaazJm3Fi8Rm8cxHCK9ggZTW3ndF02_ml&ved=0ahUKEwiI2MyF_46TAxWihf0HHT79AUUQ4dUDCCg&uact=5&oq=%22asesoria+fiscal+contable%22+Canarias+email&gs_lp=Egdnd3Mtd2l6IikiYXNlc29yaWEgZmlzY2FsIGNvbnRhYmxlIiBDYW5hcmlhcyBlbWFpbDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSM8TUCxYkBNwAXgAkAEAmAGJAaABlB-qAQUyNi4xNLgBA8gBAPgBAZgCKKAC2R-oAgrCAgoQLhgDGOoCGI8BwgIKEAAYAxjqAhiPAcICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYgwHCAgUQABiABMICCBAAGIAEGLEDwgILEC4YgAQY0QMYxwHCAhEQLhiABBixAxjRAxiDARjHAcICEBAAGIAEGLEDGIMBGIoFGArCAggQLhiABBixA8ICCxAuGIAEGLEDGIMBwgILEC4YgAQYxwEYrwHCAggQABiABBjJA8ICCxAAGIAEGJIDGIoFwgIOEC4YgAQYkgMYxwEYrwHCAgoQABiABBixAxgKwgILEAAYgAQYsQMYyQPCAgYQABgWGB7CAggQABiABBiiBMICBRAAGO8FwgIIEAAYogQYiQWYAwnxBTUjfDM40uLEkgcFMTYuMjSgB4rEArIHBTE1LjI0uAfQH8IHBzAuMTQuMjbIB4EBgAgA&sclient=gws-wiz&sei=kLusadniLrP_7_UP-IeHoAk",
+        "title": "\"asesoria fiscal contable\" Canarias email - Buscar con Google",
+        "h3_count": 14,
+        "results": [
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 1,
+            "url": "https://www.lemesasesoresfiscales.com/contacto-lemes-asesores-fiscales/",
+            "serp_title": "www.lemesasesoresfiscales.com",
+            "domain": "lemesasesoresfiscales.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 2,
+            "url": "https://cabrerarodriguez.com/asesoria-fiscal-contable/",
+            "serp_title": "Cabrera Rodríguez",
+            "domain": "cabrerarodriguez.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 3,
+            "url": "https://armas-asociados.com/servicios/asesoria-fiscal",
+            "serp_title": "armas-asociados.com",
+            "domain": "armas-asociados.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 4,
+            "url": "https://ahasesores.com/",
+            "serp_title": "ah asesores",
+            "domain": "ahasesores.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 5,
+            "url": "https://vegaasesores.com/asesoria-tributaria/",
+            "serp_title": "Vega Asesores",
+            "domain": "vegaasesores.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 6,
+            "url": "https://weeksasesores.com/",
+            "serp_title": "Home: Asesoría Fiscal | Laboral | Contable y Digital en La ... weeksasesores.com https://weeksasesores.com",
+            "domain": "weeksasesores.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 7,
+            "url": "https://www.adrianadelanuez.com/",
+            "serp_title": "Adriana de la Nuez - ASESORÍA FISCAL, CONTABLE Y ... Adriana de la Nuez https://www.adrianadelanuez.com",
+            "domain": "adrianadelanuez.com"
+          },
+          {
+            "query": "\"asesoria fiscal contable\" Canarias email",
+            "query_cluster": "gb_core_contact",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 8,
+            "url": "https://gomezasesores.com/",
+            "serp_title": "Gómez Asesores Gómez Asesores https://gomezasesores.com",
+            "domain": "gomezasesores.com"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 1,
+        "url": "https://www.lemesasesoresfiscales.com/contacto-lemes-asesores-fiscales/",
+        "serp_title": "www.lemesasesoresfiscales.com",
+        "domain": "lemesasesoresfiscales.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 2,
+        "url": "https://cabrerarodriguez.com/asesoria-fiscal-contable/",
+        "serp_title": "Cabrera Rodríguez",
+        "domain": "cabrerarodriguez.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 3,
+        "url": "https://armas-asociados.com/servicios/asesoria-fiscal",
+        "serp_title": "armas-asociados.com",
+        "domain": "armas-asociados.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 4,
+        "url": "https://ahasesores.com/",
+        "serp_title": "ah asesores",
+        "domain": "ahasesores.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 5,
+        "url": "https://vegaasesores.com/asesoria-tributaria/",
+        "serp_title": "Vega Asesores",
+        "domain": "vegaasesores.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 6,
+        "url": "https://weeksasesores.com/",
+        "serp_title": "Home: Asesoría Fiscal | Laboral | Contable y Digital en La ... weeksasesores.com https://weeksasesores.com",
+        "domain": "weeksasesores.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 7,
+        "url": "https://www.adrianadelanuez.com/",
+        "serp_title": "Adriana de la Nuez - ASESORÍA FISCAL, CONTABLE Y ... Adriana de la Nuez https://www.adrianadelanuez.com",
+        "domain": "adrianadelanuez.com"
+      },
+      {
+        "query": "\"asesoria fiscal contable\" Canarias email",
+        "query_cluster": "gb_core_contact",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 8,
+        "url": "https://gomezasesores.com/",
+        "serp_title": "Gómez Asesores Gómez Asesores https://gomezasesores.com",
+        "domain": "gomezasesores.com"
+      }
+    ]
+  },
+  {
+    "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+    "query_cluster": "gb_service_pain",
+    "fallback_geography": "multiple|canarias",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22asesoria+autonomos%22+Canarias+%22contacto%22&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=mbusaYPNHISNkdUP0ZSe8Ac&iflsig=AFdpzrgAAAAAaazJqf3sof95R5B0PHABV8bMOr7J9dbV&ved=0ahUKEwjD_amM_46TAxWERqQEHVGKB34Q4dUDCCg&uact=5&oq=%22asesoria+autonomos%22+Canarias+%22contacto%22&gs_lp=Egdnd3Mtd2l6IigiYXNlc29yaWEgYXV0b25vbW9zIiBDYW5hcmlhcyAiY29udGFjdG8iMgUQIRigATIFECEYoAFIrRNQJljqEnABeACQAQCYAZYBoAH7JaoBBDEuMzi4AQPIAQD4AQGYAiWgAo8kqAIKwgIKEAAYAxjqAhiPAcICChAuGAMY6gIYjwHCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAggQABiABBixA8ICFBAuGIAEGLEDGNEDGMcBGIoFGI0GwgILEC4YgAQY0QMYxwHCAhQQLhiABBixAxjHARiKBRiNBhivAcICERAuGIAEGLEDGNEDGIMBGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICCBAuGIAEGLEDwgILEC4YgAQYsQMYgwHCAgsQLhiABBjHARivAcICCBAAGIAEGMkDwgILEAAYgAQYkgMYigXCAgoQABiABBixAxgKwgILEAAYgAQYsQMYyQPCAg4QLhiABBiSAxjHARivAcICCBAAGKIEGIkFwgIIEAAYgAQYogTCAgUQABjvBcICBhAAGBYYHsICCBAAGBYYChgemAMF8QXGECwceMzpD5IHBDEuMzagB5euArIHBDAuMza4B4kkwgcHMS4xOS4xN8gHZ4AIAA&sclient=gws-wiz&sei=nrusabaJLvaI9u8PxJehyQw",
+        "title": "\"asesoria autonomos\" Canarias \"contacto\" - Buscar con Google",
+        "h3_count": 14,
+        "results": [
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 1,
+            "url": "https://contasert.com/",
+            "serp_title": "Contasert",
+            "domain": "contasert.com"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 2,
+            "url": "https://www.billeo.es/gestoria-gran-canaria",
+            "serp_title": "Billeo",
+            "domain": "billeo.es"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 3,
+            "url": "https://mooremarket.es/asesoria-pymes-y-autonomos/asesoria-autonomos-online-canarias/",
+            "serp_title": "mooremarket.es",
+            "domain": "mooremarket.es"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 4,
+            "url": "https://lafuenteasesores.es/asesoria-autonomos-tenerife/",
+            "serp_title": "Lafuente Asesores (Tenerife)",
+            "domain": "lafuenteasesores.es"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 5,
+            "url": "https://www.youasesoria.com/ser-autonomo-en-canarias/",
+            "serp_title": "Unknown",
+            "domain": "youasesoria.com"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 6,
+            "url": "https://lafuenteasesores.es/asesoria-fiscal-tenerife/",
+            "serp_title": "Unknown",
+            "domain": "lafuenteasesores.es"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 7,
+            "url": "https://taxgocanarias.com/asesoria-autonomos-en-canarias",
+            "serp_title": "Asesoría de Autónomos en Canarias | Fiscal, Contable y ... TaxGo Canarias https://taxgocanarias.com › asesoria-autonomos-en-cana...",
+            "domain": "taxgocanarias.com"
+          },
+          {
+            "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 8,
+            "url": "https://fiscalisy.es/cuanto-cuesta-un-gestor-para-autonomos/",
+            "serp_title": "¿Cuánto cuesta un gestor para autónomos? 2025 - Fiscalisy Fiscalisy https://fiscalisy.es › cuanto-cuesta-un-gestor-para-autono...",
+            "domain": "fiscalisy.es"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 1,
+        "url": "https://contasert.com/",
+        "serp_title": "Contasert",
+        "domain": "contasert.com"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 2,
+        "url": "https://www.billeo.es/gestoria-gran-canaria",
+        "serp_title": "Billeo",
+        "domain": "billeo.es"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 3,
+        "url": "https://mooremarket.es/asesoria-pymes-y-autonomos/asesoria-autonomos-online-canarias/",
+        "serp_title": "mooremarket.es",
+        "domain": "mooremarket.es"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 4,
+        "url": "https://lafuenteasesores.es/asesoria-autonomos-tenerife/",
+        "serp_title": "Lafuente Asesores (Tenerife)",
+        "domain": "lafuenteasesores.es"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 5,
+        "url": "https://www.youasesoria.com/ser-autonomo-en-canarias/",
+        "serp_title": "Unknown",
+        "domain": "youasesoria.com"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 6,
+        "url": "https://lafuenteasesores.es/asesoria-fiscal-tenerife/",
+        "serp_title": "Unknown",
+        "domain": "lafuenteasesores.es"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 7,
+        "url": "https://taxgocanarias.com/asesoria-autonomos-en-canarias",
+        "serp_title": "Asesoría de Autónomos en Canarias | Fiscal, Contable y ... TaxGo Canarias https://taxgocanarias.com › asesoria-autonomos-en-cana...",
+        "domain": "taxgocanarias.com"
+      },
+      {
+        "query": "\"asesoria autonomos\" Canarias \"contacto\"",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 8,
+        "url": "https://fiscalisy.es/cuanto-cuesta-un-gestor-para-autonomos/",
+        "serp_title": "¿Cuánto cuesta un gestor para autónomos? 2025 - Fiscalisy Fiscalisy https://fiscalisy.es › cuanto-cuesta-un-gestor-para-autono...",
+        "domain": "fiscalisy.es"
+      }
+    ]
+  },
+  {
+    "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+    "query_cluster": "gb_service_pain",
+    "fallback_geography": "las palmas de gran canaria|gran canaria",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22asesoria+pymes%22+%22Las+Palmas%22+inurl%3Aservicios&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=p7usafGJIvuZkdUP5fbxuA4&iflsig=AFdpzrgAAAAAaazJt2_GVw-wEBGZK8OQfMRxPrBer706&ved=0ahUKEwix-YWT_46TAxX7TKQEHWV7HOcQ4dUDCCg&uact=5&oq=%22asesoria+pymes%22+%22Las+Palmas%22+inurl%3Aservicios&gs_lp=Egdnd3Mtd2l6Ii0iYXNlc29yaWEgcHltZXMiICJMYXMgUGFsbWFzIiBpbnVybDpzZXJ2aWNpb3NI-RVQKVi7FXABeACQAQCYAZQBoAGmKaoBBDMuNDG4AQPIAQD4AQGYAiSgArwjqAIKwgIKEAAYAxjqAhiPAcICChAuGAMY6gIYjwHCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAggQABiABBixA8ICCxAuGIAEGNEDGMcBwgIREC4YgAQYsQMY0QMYgwEYxwHCAhAQABiABBixAxiDARiKBRgKwgIIEC4YgAQYsQPCAgsQLhiABBixAxiDAcICCxAuGIAEGMcBGK8BwgIIEAAYgAQYyQPCAgsQABiABBiSAxiKBcICDhAuGIAEGJIDGMcBGK8BwgIKEAAYgAQYsQMYCsICCxAAGIAEGLEDGMkDwgIGEAAYFhgewgIIEAAYgAQYogTCAgUQABjvBcICBRAhGKABwgIFECEYnwWYAwjxBR3uIR7Cb9gtkgcEMS4zNaAHlOwBsgcEMC4zNbgHsyPCBwc2LjExLjE5yAdigAgA&sclient=gws-wiz&sei=rbusaZKRD_f87_UP-O3ogA0",
+        "title": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios - Buscar con Google",
+        "h3_count": 4,
+        "results": [
+          {
+            "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 1,
+            "url": "https://www.macrosuma.es/otros-servicios-asesoria/asesoria-pymes-las-palmas",
+            "serp_title": "Asesoría Pymes Las Palmas - Macrosuma asesores macrosuma.es https://www.macrosuma.es › asesoria-pymes-las-palmas",
+            "domain": "macrosuma.es"
+          },
+          {
+            "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 2,
+            "url": "https://carlosmantillaasociados.es/servicios-asesoria-empresas-vigo-madrid-las-palmas",
+            "serp_title": "Servicios | Asesoría de empresas en Vigo, Madrid y Las Palmas carlosmantillaasociados.es https://carlosmantillaasociados.es › servicios-asesoria-em...",
+            "domain": "carlosmantillaasociados.es"
+          },
+          {
+            "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 3,
+            "url": "https://www.macrosuma.es/otros-servicios-asesoria",
+            "serp_title": "Otros servicios de asesoría - Macrosuma asesores macrosuma.es https://www.macrosuma.es › otros-servicios-asesoria",
+            "domain": "macrosuma.es"
+          },
+          {
+            "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "las palmas de gran canaria|gran canaria",
+            "serp_rank": 4,
+            "url": "https://galeria.vulka.es/fotos-de-servicios-juridicos_63.html",
+            "serp_title": "Fotos de servicios jurídicos - Página 63 - Fotos de empresas - Vulka vulka.es https://galeria.vulka.es › fotos-de-servicios-juridicos_63",
+            "domain": "galeria.vulka.es"
+          }
+        ],
+        "results_count": 4
+      }
+    ],
+    "results": [
+      {
+        "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 1,
+        "url": "https://www.macrosuma.es/otros-servicios-asesoria/asesoria-pymes-las-palmas",
+        "serp_title": "Asesoría Pymes Las Palmas - Macrosuma asesores macrosuma.es https://www.macrosuma.es › asesoria-pymes-las-palmas",
+        "domain": "macrosuma.es"
+      },
+      {
+        "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 2,
+        "url": "https://carlosmantillaasociados.es/servicios-asesoria-empresas-vigo-madrid-las-palmas",
+        "serp_title": "Servicios | Asesoría de empresas en Vigo, Madrid y Las Palmas carlosmantillaasociados.es https://carlosmantillaasociados.es › servicios-asesoria-em...",
+        "domain": "carlosmantillaasociados.es"
+      },
+      {
+        "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 3,
+        "url": "https://www.macrosuma.es/otros-servicios-asesoria",
+        "serp_title": "Otros servicios de asesoría - Macrosuma asesores macrosuma.es https://www.macrosuma.es › otros-servicios-asesoria",
+        "domain": "macrosuma.es"
+      },
+      {
+        "query": "\"asesoria pymes\" \"Las Palmas\" inurl:servicios",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "las palmas de gran canaria|gran canaria",
+        "serp_rank": 4,
+        "url": "https://galeria.vulka.es/fotos-de-servicios-juridicos_63.html",
+        "serp_title": "Fotos de servicios jurídicos - Página 63 - Fotos de empresas - Vulka vulka.es https://galeria.vulka.es › fotos-de-servicios-juridicos_63",
+        "domain": "galeria.vulka.es"
+      }
+    ]
+  },
+  {
+    "query": "IGIC asesoria Tenerife contacto",
+    "query_cluster": "gb_service_pain",
+    "fallback_geography": "unknown|tenerife",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 429,
+        "final_url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DIGIC%2Basesoria%2BTenerife%2Bcontacto%26sca_esv%3D5e258db83c5b9e6b%26hl%3Des%26gl%3DES%26source%3Dhp%26ei%3Dtbusad7XOu6ikdUPtq6LmQo%26iflsig%3DAFdpzrgAAAAAaazJxQ_RfJdot2IOcnjq1yKvsyEWNSx7%26ved%3D0ahUKEwiehvWZ_46TAxVuUaQEHTbXIqMQ4dUDCCg%26uact%3D5%26oq%3DIGIC%2Basesoria%2BTenerife%2Bcontacto%26gs_lp%3DEgdnd3Mtd2l6Ih9JR0lDIGFzZXNvcmlhIFRlbmVyaWZlIGNvbnRhY3RvMgUQIRigATIFECEYoAEyBRAhGKABSIoPUCZYzA5wAXgAkAEAmAGhAaABvByqAQQwLjI5uAEDyAEA-AEBmAIeoAKYHagCCsICChAAGAMY6gIYjwHCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIFEAAYgATCAgsQABiABBixAxiKBcICCxAuGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAg4QLhiABBixAxiDARiKBcICCBAAGIAEGLEDwgIFEC4YgATCAgsQLhiABBjHARivAcICBhAAGBYYHsICCBAAGKIEGIkFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDBvEFNM78_hUiM6uSBwQxLjI5oAeEaLIHBDAuMjm4B5EdwgcGMy4xOS44yAc_gAgA%26sclient%3Dgws-wiz%26sei%3DurusafLaLMuG9u8Pw9PkqA8&hl=es&q=EhAqDFqGAwEgAA8-1syLdF8aGLr3ss0GIjD2AzKa8Lq99o0eyE6jfzictys_xJaic5OtS_R_m5oNijG_khSrQwHViNMC9Ip0eKoyAnJSWgFD",
+        "title": "https://www.google.com/search?q=IGIC+asesoria+Tenerife+contacto&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=tbusad7XOu6ikdUPtq6LmQo&iflsig=AFdpzrgAAAAAaazJxQ_RfJdot2IOcnjq1yKvsyEWNSx7&ved=0ahUKEwiehvWZ_46TAxVuUaQEHTbXIqMQ4dUDCCg&uact=5&oq=IGIC+asesoria+Tenerife+contacto&gs_lp=Egdnd3Mtd2l6Ih9JR0lDIGFzZXNvcmlhIFRlbmVyaWZlIGNvbnRhY3RvMgUQIRigATIFECEYoAEyBRAhGKABSIoPUCZYzA5wAXgAkAEAmAGhAaABvByqAQQwLjI5uAEDyAEA-AEBmAIeoAKYHagCCsICChAAGAMY6gIYjwHCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIFEAAYgATCAgsQABiABBixAxiKBcICCxAuGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAg4QLhiABBixAxiDARiKBcICCBAAGIAEGLEDwgIFEC4YgATCAgsQLhiABBjHARivAcICBhAAGBYYHsICCBAAGKIEGIkFwgIFEAAY7wXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRifBZgDBvEFNM78_hUiM6uSBwQxLjI5oAeEaLIHBDAuMjm4B5EdwgcGMy4xOS44yAc_gAgA&sclient=gws-wiz&sei=urusafLaLMuG9u8Pw9PkqA8",
+        "h3_count": 0,
+        "results": [],
+        "results_count": 0
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "home_url": "https://www.google.es/?hl=es",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=IGIC+asesoria+Tenerife+contacto&sca_esv=5e258db83c5b9e6b&hl=es&source=hp&ei=w7usad6WA9-TkdUPjLyg-Ao&iflsig=AFdpzrgAAAAAaazJ03y3qOqdjWtdn4rnIexUMIKJOjMK&ved=0ahUKEwiehJSg_46TAxXfSaQEHQweCK8Q4dUDCCg&uact=5&oq=IGIC+asesoria+Tenerife+contacto&gs_lp=Egdnd3Mtd2l6Ih9JR0lDIGFzZXNvcmlhIFRlbmVyaWZlIGNvbnRhY3RvMgUQIRigATIFECEYoAEyBRAhGKABSIAPUCpYwA5wAXgAkAEAmAF3oAHbFqoBBTIwLjEwuAEDyAEA-AEBmAIfoALSF6gCCsICChAAGAMYjwEY6gLCAgoQLhgDGI8BGOoCwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICBRAAGIAEwgILEAAYgAQYigUYsQPCAgsQLhiABBixAxiDAcICCxAuGIAEGMcBGNEDwgIOEC4YgAQYigUYsQMYgwHCAggQABiABBixA8ICBRAuGIAEwgILEC4YgAQYxwEYrwHCAgYQABgWGB7CAggQABiJBRiiBMICBRAAGO8FwgIIEAAYgAQYogTCAgcQIRgKGKABwgIFECEYnwWYAwjxBbNAVErzMM9LkgcFMTQuMTegB75gsgcFMTMuMTe4B8kXwgcGMi4yMi43yAc_gAgB&sclient=gws-wiz&sei=x7usaeXNM_iN9u8P0MLUiQQ",
+        "title": "IGIC asesoria Tenerife contacto - Buscar con Google",
+        "h3_count": 14,
+        "results": [
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 1,
+            "url": "https://sede.gobiernodecanarias.org/tributos/jsf/publico/sede/utilidades_web/contacto.jsp",
+            "serp_title": "Gobierno de Canarias",
+            "domain": "sede.gobiernodecanarias.org"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 2,
+            "url": "https://www3.gobiernodecanarias.org/tributos/atc/consulta-telefonica",
+            "serp_title": "Unknown",
+            "domain": "www3.gobiernodecanarias.org"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 3,
+            "url": "https://lafuenteasesores.es/asesoria-fiscal-tenerife/",
+            "serp_title": "Unknown",
+            "domain": "lafuenteasesores.es"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 4,
+            "url": "https://cotime.es/sii-igic-contacto-para-consultas-informaticas/",
+            "serp_title": "Unknown",
+            "domain": "cotime.es"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 5,
+            "url": "https://advixy.com/asesoria-fiscal-tenerife-canarias/",
+            "serp_title": "Unknown",
+            "domain": "advixy.com"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 6,
+            "url": "https://www.martinlechado.com/servicios/asesoria-fiscal-tenerife/",
+            "serp_title": "Unknown",
+            "domain": "martinlechado.com"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 7,
+            "url": "https://eximasesores.com/asesoria-fiscal-tenerife/",
+            "serp_title": "Unknown",
+            "domain": "eximasesores.com"
+          },
+          {
+            "query": "IGIC asesoria Tenerife contacto",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "unknown|tenerife",
+            "serp_rank": 8,
+            "url": "https://www.afecoperera.com/es/nuestros-servicios/asesoria-fiscal",
+            "serp_title": "Unknown",
+            "domain": "afecoperera.com"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 1,
+        "url": "https://sede.gobiernodecanarias.org/tributos/jsf/publico/sede/utilidades_web/contacto.jsp",
+        "serp_title": "Gobierno de Canarias",
+        "domain": "sede.gobiernodecanarias.org"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 2,
+        "url": "https://www3.gobiernodecanarias.org/tributos/atc/consulta-telefonica",
+        "serp_title": "Unknown",
+        "domain": "www3.gobiernodecanarias.org"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 3,
+        "url": "https://lafuenteasesores.es/asesoria-fiscal-tenerife/",
+        "serp_title": "Unknown",
+        "domain": "lafuenteasesores.es"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 4,
+        "url": "https://cotime.es/sii-igic-contacto-para-consultas-informaticas/",
+        "serp_title": "Unknown",
+        "domain": "cotime.es"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 5,
+        "url": "https://advixy.com/asesoria-fiscal-tenerife-canarias/",
+        "serp_title": "Unknown",
+        "domain": "advixy.com"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 6,
+        "url": "https://www.martinlechado.com/servicios/asesoria-fiscal-tenerife/",
+        "serp_title": "Unknown",
+        "domain": "martinlechado.com"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 7,
+        "url": "https://eximasesores.com/asesoria-fiscal-tenerife/",
+        "serp_title": "Unknown",
+        "domain": "eximasesores.com"
+      },
+      {
+        "query": "IGIC asesoria Tenerife contacto",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "unknown|tenerife",
+        "serp_rank": 8,
+        "url": "https://www.afecoperera.com/es/nuestros-servicios/asesoria-fiscal",
+        "serp_title": "Unknown",
+        "domain": "afecoperera.com"
+      }
+    ]
+  },
+  {
+    "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+    "query_cluster": "gb_service_pain",
+    "fallback_geography": "multiple|canarias",
+    "status": "pass",
+    "attempts": [
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "home_url": "https://www.google.com/?hl=es&gl=ES",
+        "status": 200,
+        "final_url": "https://www.google.com/search?q=%22sociedades%22+%22asesoria+fiscal%22+Canarias+email&sca_esv=5e258db83c5b9e6b&hl=es&gl=ES&source=hp&ei=0Lusab6oH9_5kdUP5bmb2Qw&iflsig=AFdpzrgAAAAAaazJ4JyqKxbQZ6t_ty9xSPh1b6zlCN2C&ved=0ahUKEwi-0Mmm_46TAxXffKQEHeXcJssQ4dUDCCg&uact=5&oq=%22sociedades%22+%22asesoria+fiscal%22+Canarias+email&gs_lp=Egdnd3Mtd2l6Ii0ic29jaWVkYWRlcyIgImFzZXNvcmlhIGZpc2NhbCIgQ2FuYXJpYXMgZW1haWwyBRAhGKABMgUQIRigATIFECEYoAFI4xVQKlilFXABeACQAQCYAZEBoAGYKqoBBDEuNDK4AQPIAQD4AQGYAiugAvYqqAIKwgIKEAAYAxjqAhiPAcICChAuGAMY6gIYjwHCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAgUQLhiABMICERAuGIAEGLEDGNEDGIMBGMcBwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIOEAAYgAQYsQMYgwEYigXCAgsQLhiABBjHARivAcICCBAuGIAEGLEDwgILEAAYgAQYsQMYigXCAgsQLhiABBjRAxjHAcICBhAAGBYYHsICCBAAGBYYChgewgIIEAAYogQYiQXCAgUQABjvBcICCBAAGIAEGKIEwgIIEAAYCBgNGB7CAgQQIRgVwgIFECEYnwWYAwjxBY6hp0Ka0NUrkgcEMS40MqAHusMCsgcEMC40MrgH7irCBwczLjE4LjIyyAd-gAgA&sclient=gws-wiz&sei=1rusad6GC46M9u8PwZr20AY",
+        "title": "\"sociedades\" \"asesoria fiscal\" Canarias email - Buscar con Google",
+        "h3_count": 13,
+        "results": [
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 1,
+            "url": "https://www.gallegoyasociados.es/",
+            "serp_title": "Unknown",
+            "domain": "gallegoyasociados.es"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 2,
+            "url": "https://www.gruportr.com/asesoria-fiscal/",
+            "serp_title": "Unknown",
+            "domain": "gruportr.com"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 3,
+            "url": "https://fiscaltaxcanarias.com/",
+            "serp_title": "Unknown",
+            "domain": "fiscaltaxcanarias.com"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 4,
+            "url": "https://www.tax.es/es/oficinas/islas-canarias/asesoria-santa-cruz-de-tenerife-tax",
+            "serp_title": "Unknown",
+            "domain": "tax.es"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 5,
+            "url": "https://ferreraasesores.com/",
+            "serp_title": "Unknown",
+            "domain": "ferreraasesores.com"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 6,
+            "url": "https://sede.agenciatributaria.gob.es/Sede/procedimientoini/GE04.shtml",
+            "serp_title": "Unknown",
+            "domain": "sede.agenciatributaria.gob.es"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 7,
+            "url": "https://santacruzdetenerife.ceconsulting.es/especialidades/asesoramiento-constitucion-de-sociedades/",
+            "serp_title": "Unknown",
+            "domain": "santacruzdetenerife.ceconsulting.es"
+          },
+          {
+            "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+            "query_cluster": "gb_service_pain",
+            "fallback_geography": "multiple|canarias",
+            "serp_rank": 8,
+            "url": "https://santacruzdetenerife.ceconsulting.es/especialidades/ref-canarias/",
+            "serp_title": "Unknown",
+            "domain": "santacruzdetenerife.ceconsulting.es"
+          }
+        ],
+        "results_count": 8
+      }
+    ],
+    "results": [
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 1,
+        "url": "https://www.gallegoyasociados.es/",
+        "serp_title": "Unknown",
+        "domain": "gallegoyasociados.es"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 2,
+        "url": "https://www.gruportr.com/asesoria-fiscal/",
+        "serp_title": "Unknown",
+        "domain": "gruportr.com"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 3,
+        "url": "https://fiscaltaxcanarias.com/",
+        "serp_title": "Unknown",
+        "domain": "fiscaltaxcanarias.com"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 4,
+        "url": "https://www.tax.es/es/oficinas/islas-canarias/asesoria-santa-cruz-de-tenerife-tax",
+        "serp_title": "Unknown",
+        "domain": "tax.es"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 5,
+        "url": "https://ferreraasesores.com/",
+        "serp_title": "Unknown",
+        "domain": "ferreraasesores.com"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 6,
+        "url": "https://sede.agenciatributaria.gob.es/Sede/procedimientoini/GE04.shtml",
+        "serp_title": "Unknown",
+        "domain": "sede.agenciatributaria.gob.es"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 7,
+        "url": "https://santacruzdetenerife.ceconsulting.es/especialidades/asesoramiento-constitucion-de-sociedades/",
+        "serp_title": "Unknown",
+        "domain": "santacruzdetenerife.ceconsulting.es"
+      },
+      {
+        "query": "\"sociedades\" \"asesoria fiscal\" Canarias email",
+        "query_cluster": "gb_service_pain",
+        "fallback_geography": "multiple|canarias",
+        "serp_rank": 8,
+        "url": "https://santacruzdetenerife.ceconsulting.es/especialidades/ref-canarias/",
+        "serp_title": "Unknown",
+        "domain": "santacruzdetenerife.ceconsulting.es"
+      }
+    ]
+  }
+]

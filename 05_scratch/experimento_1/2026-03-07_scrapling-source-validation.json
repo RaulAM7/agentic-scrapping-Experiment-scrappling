@@ -1,0 +1,905 @@
+[
+  {
+    "source_id": "google_basic_webs_propias",
+    "source_name": "Google Basic -> webs propias con email visible",
+    "status": "PASS_TECH",
+    "recommended_fetcher": "Fetcher",
+    "verdict": "Fetcher carga varias webs propias y extrae emails visibles sin necesitar browser.",
+    "pages_tested": [
+      {
+        "url": "https://jmsconsulting.es/contacto/",
+        "fetcher": "Fetcher",
+        "final_url": "https://jmsconsulting.es/contacto/",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_seconds": 0.36,
+        "title": "Contacte con la asesoría fiscal de Gran Canaria j&m consulting",
+        "emails": [
+          "asesoria@jmsconsulting.es"
+        ],
+        "phones": [
+          "1739797278",
+          "1739969630",
+          "1739969678",
+          "1739969631",
+          "883701671631616",
+          "088377163161616",
+          "716360067163076",
+          "1000710007",
+          "122812281228321904448",
+          "122812283219122844480",
+          "1761892875938921",
+          "1092825692135607",
+          "12281228322122844480",
+          "001000100",
+          "8832631343203",
+          "33628123758221",
+          "07722321291391",
+          "286871503101254",
+          "9173441492",
+          "0282185921185",
+          "200575266",
+          "19415024791715",
+          "26238367361177546",
+          "1057103251455",
+          "4526323246464337",
+          "23212250974464337",
+          "2514551057103",
+          "1918585508177546",
+          "38215023167178",
+          "1172364562395740",
+          "621320526",
+          "1780267215141341",
+          "7878205782830",
+          "462135135192313192",
+          "34621320526",
+          "6360114951311491149",
+          "513114911491149",
+          "3393195339255928771412241141",
+          "4110747335747747",
+          "335747747747747335747747336747747747",
+          "014912268268268149026812268268",
+          "1226826826826812268268",
+          "1735999677362939262262583449393623721147921184903581767699939361",
+          "34458362939",
+          "2137211479018491735999677362939",
+          "58344939362",
+          "372114792118490359176779993936226226234458362939213721147801848",
+          "78196229347426426295117995913219",
+          "10272613219",
+          "19678347229426426117295999591321",
+          "26102791321",
+          "27102791321",
+          "339551283232223932",
+          "122402229962222220391102773296111",
+          "32417768927106127",
+          "12230224199622412220593252115671157",
+          "33206578994257",
+          "674698183",
+          "1852942826332829820101782818451846184549309561921304541348349562812561130501018849184618661846",
+          "55283281623791851198828125283756143181762183237654212143261635429175566579857911633031837969",
+          "59714281253011714124510891931259532",
+          "237097141486951561941919446302731995372265742837391597948838352152491656661391071632813437426446134624132264132553910566",
+          "0010001000",
+          "929333958304958271",
+          "929208896208",
+          "712084223742271",
+          "71333104333",
+          "929583958554958521",
+          "929458896458",
+          "714584248742521",
+          "71583104583",
+          "929833958804958771",
+          "929708896708",
+          "717084273742771",
+          "71833104833",
+          "500408258167",
+          "246154233150217150196150179158167167154179150196150212150229154242171254",
+          "408500167742",
+          "138771138800167829196858225858254829",
+          "496587738829",
+          "750842767846783846800846817842829829842817846804846783846767842750829737",
+          "588500833258",
+          "863229863200833171804137775137742167",
+          "818801638312522629375",
+          "125125125327504525",
+          "327512545250",
+          "125125327512545250",
+          "125327504525",
+          "240441292322416224416",
+          "1739797280",
+          "366793375",
+          "57010447104104",
+          "55721650216",
+          "10447104104",
+          "26346254652",
+          "02923525252",
+          "27049215247",
+          "1151425282413122112424",
+          "22725475247",
+          "29052235252",
+          "0272494652",
+          "346254652",
+          "02621474747",
+          "193183322841728",
+          "249165243",
+          "12621484851",
+          "0425375888",
+          "4250837588",
+          "061755025112112112",
+          "112502511211250251121121121125025112112",
+          "01775142532323285016753522595",
+          "29252025642531997531972501767875176176",
+          "78751761761761767875176176",
+          "03551075705319975",
+          "57557592514925225",
+          "942538375",
+          "133538375",
+          "1807538375",
+          "196538375",
+          "2357538375",
+          "306538375",
+          "361538375",
+          "4087538375",
+          "424538375",
+          "75013661136136",
+          "61136136136",
+          "010686192192192",
+          "192861921928619219219219286192192",
+          "2375367556256825952588251017152536515255625061755025112112112",
+          "1125025112112",
+          "0197552539251525562539207155159525882542756611175112192112",
+          "1492546192112",
+          "0655512121241750763425767606555121212",
+          "028523552525265012551212",
+          "062521251725467575130251267521912675",
+          "173512521912675",
+          "352551151725",
+          "46755130251267521912675",
+          "0172526752440244250837588",
+          "232505612255640",
+          "0505075809680",
+          "01665327517454755510251075152516517752125327546253525745",
+          "252825175532535257455575105111525165105122517291745",
+          "025758548257567",
+          "40457542725",
+          "72542511751225117520506225117562516442562510625160825425157511252025235325775325117501625127524272524651452124367524",
+          "302595367524",
+          "145027257752725240412582532511757451125121125202506225117562516442562510625160825451625117520522675247553542725",
+          "25754125257567",
+          "0686475112128112",
+          "12844128112",
+          "06525125717",
+          "45451075717772501327518882582518152518280132510752424241275019759752818525582510758251825062525125717",
+          "4545107567517675",
+          "1252251765",
+          "4545710571675",
+          "1882512775",
+          "062525125717",
+          "454510757177",
+          "1252517675",
+          "454571057167506525125717",
+          "4545107567517675725013251877582582518152518280132510752424241275019759752818525582510758251825",
+          "01977537521255075",
+          "13513531752075507520751925037575512125",
+          "1351352075317520755075019758385225225",
+          "1375143225225222190375755121",
+          "13751375213175215101977537521255075",
+          "137513752131752151",
+          "1812513975",
+          "247502549517425147509502514250513382825767546113",
+          "235725492255952925",
+          "592515470181",
+          "1175235275525",
+          "18754425368955133112526205275325782517545251158751425825653125843125075475159515142502250254250256531750635495254327506552759825375065025131195",
+          "67515203252012509322583253625935",
+          "65145317580317589501925367520512202547502595025145022502545056752905825587255350851512215752753125354735",
+          "010575862519219219257250111252525147756925253252258051075",
+          "17515422562522522502545125575324531756125497510149757050128575128128",
+          "575128128128",
+          "327506375125873425",
+          "47545611535172525682510147510",
+          "8750167251616",
+          "06541225101475575251275125172535",
+          "35253325835313225531057501928625192192"
+        ],
+        "link_count": 37,
+        "html_length": 103022,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 1,
+          "despachos": 0,
+          "buscador": 0,
+          "colegiados": 0
+        },
+        "sample_links": [
+          {
+            "text": "Ir al contenido",
+            "href": "#content"
+          },
+          {
+            "text": "",
+            "href": "https://jmsconsulting.es"
+          },
+          {
+            "text": "Inicio",
+            "href": "https://jmsconsulting.es/"
+          },
+          {
+            "text": "Servicios",
+            "href": "https://jmsconsulting.es/servicios-asesoria-fiscal-contable-laboral-las-palmas/"
+          },
+          {
+            "text": "Novedades",
+            "href": "https://jmsconsulting.es/novedades/"
+          },
+          {
+            "text": "Contacto",
+            "href": "https://jmsconsulting.es/contacto/"
+          },
+          {
+            "text": "Política de Privacidad",
+            "href": "/politica-de-privacidad"
+          },
+          {
+            "text": "",
+            "href": "https://jmsconsulting.es"
+          },
+          {
+            "text": "",
+            "href": "https://instagram.com/jmsconsultingasesoria"
+          },
+          {
+            "text": "",
+            "href": "https://wa.me/+34621320526"
+          }
+        ]
+      },
+      {
+        "url": "https://unificont.es/",
+        "fetcher": "Fetcher",
+        "final_url": "https://unificont.es/",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_seconds": 1.69,
+        "title": "Unificont.es - Asesoria Fiscal, Contable, Laboral y Jurídica",
+        "emails": [
+          "direccion@unificont.es"
+        ],
+        "phones": [
+          "1769356490",
+          "1772177469",
+          "1772177470",
+          "671096875",
+          "50765311400",
+          "3873188400",
+          "191911599705",
+          "922765967",
+          "1000710007",
+          "122812281228321904448",
+          "122812283219122844480",
+          "1761892875938921",
+          "1092825692135607",
+          "12281228322122844480",
+          "818801638312522629375",
+          "125125125327504525",
+          "327512545250",
+          "125125327512545250",
+          "125327504525",
+          "240441292322416224416"
+        ],
+        "link_count": 54,
+        "html_length": 247135,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 1,
+          "despachos": 0,
+          "buscador": 0,
+          "colegiados": 0
+        },
+        "sample_links": [
+          {
+            "text": "direccion@unificont.es",
+            "href": "mailto:direccion@unificont.es"
+          },
+          {
+            "text": "",
+            "href": "#"
+          },
+          {
+            "text": "",
+            "href": "#"
+          },
+          {
+            "text": "",
+            "href": "https://unificont.es/"
+          },
+          {
+            "text": "Inicio",
+            "href": "https://unificont.es/"
+          },
+          {
+            "text": "Nosotros",
+            "href": "https://unificont.es/nosotros/"
+          },
+          {
+            "text": "Servicios",
+            "href": "https://unificont.es/servicios/"
+          },
+          {
+            "text": "Planes y precios",
+            "href": "https://unificont.es/planes-y-precios/"
+          },
+          {
+            "text": "Blog – Noticias",
+            "href": "https://unificont.es/blog-noticias/"
+          },
+          {
+            "text": "Contacto",
+            "href": "https://unificont.es/contacto/"
+          }
+        ]
+      },
+      {
+        "url": "https://asesoriafiscaltenerife.es/",
+        "fetcher": "Fetcher",
+        "final_url": "https://asesoriafiscaltenerife.es/",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_seconds": 0.77,
+        "title": "Asesoria Fiscal Tenerife – Asesoria Fiscal Santa Cruz de Tenerife",
+        "emails": [
+          "javier@asesoriafiscaltenerife.es",
+          "sandra@asesoriafiscaltenerife.es",
+          "sonsoles@asesoriafiscaltenerife.es",
+          "veronica@asesoriafiscaltenerife.es"
+        ],
+        "phones": [
+          "1634734870",
+          "670846472",
+          "905943278",
+          "025841813984",
+          "5058218788",
+          "723001215",
+          "516016004805",
+          "241763566224",
+          "35022706678",
+          "3023899314",
+          "1804461971",
+          "1772925971",
+          "2025021808"
+        ],
+        "link_count": 71,
+        "html_length": 100652,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 1,
+          "despachos": 1,
+          "buscador": 0,
+          "colegiados": 0
+        },
+        "sample_links": [
+          {
+            "text": "670846472",
+            "href": "/Contacto/"
+          },
+          {
+            "text": "",
+            "href": "#"
+          },
+          {
+            "text": "",
+            "href": "#"
+          },
+          {
+            "text": "Open/Close Menu",
+            "href": "#"
+          },
+          {
+            "text": "",
+            "href": "https://asesoriafiscaltenerife.es"
+          },
+          {
+            "text": "Skip to content",
+            "href": "#main"
+          },
+          {
+            "text": "Inicio",
+            "href": "https://asesoriafiscaltenerife.es/"
+          },
+          {
+            "text": "Sobre mí",
+            "href": "https://asesoriafiscaltenerife.es/sobre-mi"
+          },
+          {
+            "text": "Servicios",
+            "href": "https://asesoriafiscaltenerife.es/servicios"
+          },
+          {
+            "text": "REF",
+            "href": "https://asesoriafiscaltenerife.es/regimen-economico-y-fiscal-de-canarias"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "aafc_despachos_profesionales",
+    "source_name": "AAFC / Despachos Profesionales",
+    "status": "PASS_TECH",
+    "recommended_fetcher": "Fetcher",
+    "verdict": "Scrapling localiza el directorio o al menos un entrypoint usable del buscador/despachos.",
+    "pages_tested": [
+      {
+        "url": "https://asesoresfiscalesdecanarias.org/",
+        "fetcher": "Fetcher",
+        "final_url": "https://asesoresfiscalesdecanarias.org/",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_seconds": 7.0,
+        "title": "Inicio - Asociación de Asesores Fiscales de Canarias",
+        "emails": [],
+        "phones": [
+          "1395214731",
+          "1772823856",
+          "2147483647",
+          "22533333333333",
+          "1772823862",
+          "20260314260",
+          "00512462799",
+          "31021919604512462799",
+          "23026130100788669462799",
+          "183455209683",
+          "11185614788",
+          "27556415805",
+          "13836344527",
+          "28399371278",
+          "1332220260224",
+          "1332220260301",
+          "1332220260302",
+          "1332220260303",
+          "1332220260304",
+          "1332220260305",
+          "1332220260306",
+          "1332220260307",
+          "1332220260308",
+          "1332220260309",
+          "1332220260310",
+          "1332220260311",
+          "1332220260312",
+          "1332220260313",
+          "1332220260314",
+          "1332220260315",
+          "1332220260316",
+          "1332220260317",
+          "1332220260318",
+          "1332220260319",
+          "1332220260320",
+          "1332220260321",
+          "1332220260322",
+          "1332220260323",
+          "1332220260324",
+          "1332220260325",
+          "1332220260326",
+          "1332220260327",
+          "1332220260328",
+          "1332220260329",
+          "1332220260330",
+          "1332220260331",
+          "928227064",
+          "928278292",
+          "928222153",
+          "197522263",
+          "1395214733",
+          "366793375",
+          "2025120115",
+          "114921342",
+          "113421491",
+          "112921106",
+          "24373016236123613016",
+          "030141249",
+          "111061291",
+          "506939196",
+          "1747650007",
+          "1747655172",
+          "1705491744"
+        ],
+        "link_count": 185,
+        "html_length": 1556131,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 1,
+          "despachos": 1,
+          "buscador": 1,
+          "colegiados": 0
+        },
+        "sample_links": [
+          {
+            "text": "Acceso Asociados",
+            "href": "https://asesoresfiscalesdecanarias.org/acceso-asociados/"
+          },
+          {
+            "text": "",
+            "href": "https://asesoresfiscalesdecanarias.org/"
+          },
+          {
+            "text": "INICIO",
+            "href": "https://asesoresfiscalesdecanarias.org/"
+          },
+          {
+            "text": "Premios AFC 2026",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-afc-2026/"
+          },
+          {
+            "text": "VI EDICIÓN Premios AFC 2026",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-afc-2026/"
+          },
+          {
+            "text": "V Edición – Premios AFC 2025",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2025/"
+          },
+          {
+            "text": "IV Edición – Premios AFC 2024",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2024/"
+          },
+          {
+            "text": "III Edición – Premios AFC 2023",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2023/"
+          },
+          {
+            "text": "II Edición – Premios AFC 2022",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2022/"
+          },
+          {
+            "text": "I Edición – Premios AFC 2021",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2021/"
+          }
+        ]
+      },
+      {
+        "url": "https://asesoresfiscalesdecanarias.org/despachos-profesionales/",
+        "fetcher": "Fetcher",
+        "final_url": "https://asesoresfiscalesdecanarias.org/servicios/despachos-profesionales/",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_seconds": 2.87,
+        "title": "Despachos Profesionales - Asociación de Asesores Fiscales de Canarias",
+        "emails": [
+          "fiscal@asesoriahdez.com",
+          "asesoria@rygasesor.com",
+          "ramon@rcallero.es",
+          "galco2782@gmail.com",
+          "informacion@mabriba.com",
+          "mariolodos@asesoriamariolodos.es",
+          "asesoriagtg@gmail.com",
+          "paya@payaconsultores.com",
+          "info@finacoasesores.com",
+          "info@gonzalezabogadosyasesores.com",
+          "informacion@confijulab.com",
+          "info@fcgasesoria.es",
+          "info@forolanz.com",
+          "info@asesoriajubenkas.com",
+          "info@asapema.com",
+          "info@lopeasesores.com",
+          "info@mplaspalmas.com",
+          "asesoria@galvan-martin.com",
+          "asesoralejandro@telefonica.net",
+          "info@asesoriagarciamendoza.com",
+          "asesores@pertierra.es",
+          "cieasesoria@gmail.com",
+          "sergio@netoconsultores.es",
+          "info@carrizalconsulting.com",
+          "mapilfaro@gmail.com",
+          "abelfer@infonegocio.com",
+          "alba@redtapelanzarote.com",
+          "info@financanary.es",
+          "direccion@gestidoasesores.com",
+          "administracion@arguamaconsultores.es",
+          "amparo@gallegoyasociados.com",
+          "asesoria@palconta.com",
+          "info@contaherradores.es",
+          "administracion@vivosol.com",
+          "info@vysasesores.com",
+          "info@canarieconsulting.com",
+          "gonzalezasesoria@canariasgonzalez.com",
+          "administracion@ascora.es",
+          "mhutton@economistas.org",
+          "alodan@alodanasesores.es",
+          "lg.asesoramiento@gmail.com",
+          "info@sanroasesores.com",
+          "info@islaconsulting.es",
+          "info@ecoven.info",
+          "info@corefiscal.com",
+          "laurasantiago@bsvega.com",
+          "asesoria@adrianadelanuez.com",
+          "info@hergonza.com",
+          "pepa@asesoriagonzalezvega.es",
+          "welcome@solveitspain.com",
+          "admin@canaryadminservices.com",
+          "info@hublo.es",
+          "info@martinezyasociados.net",
+          "info@lamarasesoria.com",
+          "asesores@goyaasesores.com",
+          "real@realasesoresyabogados.com",
+          "juridico@asesorialombardi.es",
+          "juanjose@gonzalezygarciaconsultores.es",
+          "asesoriahermanosespino@gmail.com",
+          "asesoria.alemansanchez@gmail.com",
+          "info@sietexciento.es",
+          "info@vdpasesores.com",
+          "hola@monicavirtual.com",
+          "asesoriaconsulting@cristyplasencia.com",
+          "ecbufetejuridico@gmail.com",
+          "elisabeth@asesoriasantanagonzalez.com",
+          "lpadilla@economistas.org",
+          "info@spasesoriaintegral.com",
+          "info@llarenaasesores.com",
+          "bissaconsulting@gmail.com"
+        ],
+        "phones": [
+          "1772823890",
+          "2147483647",
+          "22533333333333",
+          "649467945",
+          "928715360",
+          "928814275",
+          "922560904",
+          "928226803",
+          "928531617",
+          "828913876",
+          "922730334",
+          "922235700",
+          "928223394",
+          "928059210",
+          "922787069",
+          "928791636",
+          "928803050",
+          "928792784",
+          "928844448",
+          "928161365",
+          "928483154",
+          "928963719",
+          "928701490",
+          "928371500",
+          "922291710",
+          "677412400",
+          "928380946",
+          "928789115",
+          "687439295",
+          "922550356",
+          "625032910",
+          "928793679",
+          "922926615",
+          "922278008",
+          "928266609",
+          "822296638",
+          "922149623",
+          "34922792379",
+          "603011470",
+          "928765249",
+          "928432120",
+          "928353907",
+          "922246012",
+          "603479679",
+          "928261920",
+          "928275482",
+          "828085975",
+          "928768392",
+          "928765554",
+          "676469318",
+          "671367761",
+          "922878575",
+          "928785113",
+          "810101177",
+          "668837250",
+          "666834976",
+          "669613678",
+          "928529817",
+          "828981278",
+          "628656993",
+          "922335628",
+          "34643851099",
+          "922852352",
+          "928756029",
+          "690352485",
+          "686700448",
+          "928361561",
+          "658029876",
+          "34677718993",
+          "928049668",
+          "663360012",
+          "928756473",
+          "676256507",
+          "928263756",
+          "922392754",
+          "633172154",
+          "928227064",
+          "197522263",
+          "1395214733",
+          "366793375",
+          "2025120115",
+          "114921342",
+          "113421491",
+          "112921106",
+          "24373016236123613016",
+          "030141249",
+          "111061291"
+        ],
+        "link_count": 130,
+        "html_length": 408806,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 1,
+          "despachos": 1,
+          "buscador": 1,
+          "colegiados": 0
+        },
+        "sample_links": [
+          {
+            "text": "Acceso Asociados",
+            "href": "https://asesoresfiscalesdecanarias.org/acceso-asociados/"
+          },
+          {
+            "text": "",
+            "href": "https://asesoresfiscalesdecanarias.org/"
+          },
+          {
+            "text": "INICIO",
+            "href": "https://asesoresfiscalesdecanarias.org/"
+          },
+          {
+            "text": "Premios AFC 2026",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-afc-2026/"
+          },
+          {
+            "text": "VI EDICIÓN Premios AFC 2026",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-afc-2026/"
+          },
+          {
+            "text": "V Edición – Premios AFC 2025",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2025/"
+          },
+          {
+            "text": "IV Edición – Premios AFC 2024",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2024/"
+          },
+          {
+            "text": "III Edición – Premios AFC 2023",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2023/"
+          },
+          {
+            "text": "II Edición – Premios AFC 2022",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2022/"
+          },
+          {
+            "text": "I Edición – Premios AFC 2021",
+            "href": "https://asesoresfiscalesdecanarias.org/premios-aafc-2021/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "gestores_tenerife_localizador_pdf",
+    "source_name": "Gestores Tenerife / Localiza tu GA + PDF",
+    "status": "WATCH",
+    "recommended_fetcher": "Fetcher",
+    "verdict": "El entrypoint carga, pero el listado reusable no queda suficientemente demostrado.",
+    "pages_tested": [
+      {
+        "url": "https://gestorestenerife.org/localiza-ga/",
+        "fetcher": "Fetcher",
+        "final_url": "https://gestorestenerife.org/localiza-ga/",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_seconds": 1.93,
+        "title": "Localiza a tu GA – Colegio Oficial de Gestores Administrativos de Santa Cruz de Tenerife",
+        "emails": [
+          "colgestfe@gestores.net"
+        ],
+        "phones": [
+          "1744364139",
+          "00106240502",
+          "1475650289497",
+          "50000030517578",
+          "1484560570141",
+          "922286462",
+          "922245817",
+          "1000710007",
+          "122812281228321904448",
+          "122812283219122844480",
+          "1761892875938921",
+          "1092825692135607",
+          "12281228322122844480",
+          "818801638312522629375",
+          "125125125327504525",
+          "327512545250",
+          "125125327512545250",
+          "125327504525",
+          "240441292322416224416"
+        ],
+        "link_count": 59,
+        "html_length": 61494,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 1,
+          "despachos": 0,
+          "buscador": 1,
+          "colegiados": 1
+        },
+        "sample_links": [
+          {
+            "text": "Transparencia",
+            "href": "https://transparenciaportal.es/portal/1092pt00106240502/"
+          },
+          {
+            "text": "Canal ético",
+            "href": "https://gestorestenerife-canaletico.appcore.es/"
+          },
+          {
+            "text": "Acceso colegiados",
+            "href": ""
+          },
+          {
+            "text": "",
+            "href": "https://gestorestenerife.org/"
+          },
+          {
+            "text": "El Colegio",
+            "href": "#"
+          },
+          {
+            "text": "Saludo de la presidenta",
+            "href": "https://gestorestenerife.org/saludo-presidenta/"
+          },
+          {
+            "text": "Junta de Gobierno",
+            "href": "https://gestorestenerife.org/junta-gobierno/"
+          },
+          {
+            "text": "Convenios colegiales",
+            "href": "https://gestorestenerife.org/convenios-colegiales/"
+          },
+          {
+            "text": "Estatuto orgánico de la profesión",
+            "href": "https://gestorestenerife.org/estatuto-organico-profesion/"
+          },
+          {
+            "text": "Gestores",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "url": "https://docs.google.com/gview?embedded=true&url=https://gestorestenerife.org/wp-content/uploads/2022/10/Listado_WEB.pdf",
+        "fetcher": "Fetcher",
+        "final_url": "https://docs.google.com/gview?embedded=true&url=https://gestorestenerife.org/wp-content/uploads/2022/10/Listado_WEB.pdf",
+        "status": 200,
+        "reason": "",
+        "content_type": "text/html; charset=utf-8",
+        "elapsed_seconds": 1.23,
+        "title": "Listado_WEB.pdf",
+        "emails": [],
+        "phones": [
+          "1772925975000"
+        ],
+        "link_count": 0,
+        "html_length": 8548,
+        "text_length": 0,
+        "keywords": {
+          "contacto": 0,
+          "despachos": 0,
+          "buscador": 0,
+          "colegiados": 0
+        },
+        "sample_links": []
+      }
+    ]
+  }
+]
