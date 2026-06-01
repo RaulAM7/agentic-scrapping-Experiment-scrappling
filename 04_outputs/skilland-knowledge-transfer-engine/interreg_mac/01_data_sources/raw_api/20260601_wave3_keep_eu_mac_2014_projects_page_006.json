@@ -1,0 +1,386 @@
+{
+  "current": 6,
+  "next": "https://keep.eu/api/search/projects/?page=7",
+  "previous": "https://keep.eu/api/search/projects/?page=5",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23625,
+      "acronym": "UMEMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "MODULAR EMERGENCY CARE UNIT IN MACARONESIA.",
+          "description": "UMEMAC aims to create urban rescue teams or light USERS that must have sufficient personnel in the five elements (management, search, rescue, health and logistics), which will form the transnational network of joint collaboration called MODULAR UNIT OF ATTENTION TO EMERGENCES IN MACARONESIA. \nFor this purpose the project has been made in 3 action blocks: \n— First block of formation of the network of cooperation, transfer of experiences, studies of current situation, roadmaps and objectives will be set. \n— Second block of media update according to the minimum specificities marked by regulations for the minimum operation of urban rescue teams and also attending to the specific needs of each partner. \n— Third block of certification of capabilities, realistic, homogeneous and reliable, by carrying out drills and classification, affixing in accordance with INSARAG (International Search and Rescue Advisory Group).",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "UNIDAD MODULAR DE ATENCIÓN A EMERGENCIAS EN LA MACARONESIA.",
+          "description": "UMEMAC pretende la creación de equipos de rescate urbano o USAR ligeros que deberán de contar con personal suficiente en los cinco elementos (gestión, búsqueda, rescate, sanidad y logística), los cuales conformaran la red transnacional de colaboración conjunta denominada UNIDAD MODULAR DE ATENCIÓN A EMERGENCIAS EN LA MACARONESIA. \nPara tal fin el proyecto se ha confeccionado en 3 bloques de actuación:\n- Primer bloque de conformación de la red de cooperación, transferencia de experiencias, estudios de situación actual, se fijarán hojas de ruta y objetivos.\n- Segundo bloque de actualización de medios acorde a las especificidades mínimas marcadas por normativa para el funcionamiento mínimo de los equipos de rescate urbano y atendiendo además a las necesidades específicas de cada socio.\n- Tercer bloque de certificación de capacidades, realista, homogéneo y fiable, mediante realización de simulacros y clasificación, afilicación conforme con INSARAG (International Search and Rescue Advisory Group).",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23624,
+      "acronym": "MAC-CLIMA",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "METEOROLOGICAL AND OCEAN OBSERVATION SYSTEM AS A TOOL FOR BUILDING RESILIENCE AND ADAPTATION TO CLIMATE CHANGE IN THE SPACE OF COOPERATION",
+          "description": "Mac-CLIMA aims to consolidate an international scientific observation network in the region in order to define coordinated strategies in climate monitoring, both atmospheric and oceanographic. These strategic measures will focus on strengthening the resilience capacity and preservation of vital resources of the region’s populations, such as water supply, productive sectors, coastal infrastructure in the face of rising sea levels, public health, biodiversity and many other areas where disruption is expected as a result of climate change. The resulting diagnoses will allow to propose policies of adaptation and mitigation to this phenomenon in all the territories that may be affected by this type of disasters. The project will also promote the participation and knowledge of citizens about the risks and impacts caused by global warming in the space of cooperation.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "SISTEMA DE OBSERVACIÓN METEOROLÓGICA Y OCEÁNICA COMO HERRAMIENTA PARA EL FOMENTO DE LA RESILIENCIA Y ADAPTACIÓN AL CAMBIO CLIMÁTICO EN EL ESPACIO DE COOPERACIÓN",
+          "description": "MAC-CLIMA pretende consolidar una red de observación científica internacional en la región para poder definir estrategias coordinadas en el seguimiento climático, tanto atmosférico como oceanográfico. Estas medidas estratégicas se centrarán en el fortalecimiento de la capacidad de resiliencia y preservación de los recursos vitales de las poblaciones de la región, como el abastecimiento de agua, los sectores productivos, las infraestructuras costeras frente al incremento del nivel del mar, la salud pública, la biodiversidad y otros muchos ámbitos en los que se prevén alteraciones como consecuencia del cambio climático. Los diagnósticos resultantes permitirán proponer políticas de adaptación y mitigación a este fenómeno en todos los territorios que pueden verse afectados por este tipo de desastres. El proyecto fomentará asimismo la participación y el conocimiento de la ciudadanía sobre los riesgos e impactos ocasionados por el calentamiento global en el espacio de cooperación.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23623,
+      "acronym": "PLANCLIMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "JOINT PLANNING, MONITORING AND OBSERVATION, IMPROVING KNOWLEDGE AND AWARENESS OF RISKS AND AMEZAS OF CLIMATE CHANGE IN MACARONESIA",
+          "description": "PLANCLIMAC arises from the need to create a “Climate Change Observatory of Macaronesia”, which allows to adopt corrective and preventive measures and facilitate management tools for natural risks caused by climate change in the Macaronesian region. It also aims to improve the knowledge of climate change indicators, physico-chemical, biological and anthropic that alert us to adverse natural phenomena, as well as to raise awareness among the population and socio-economic agents of the MAC Region of the risks associated with climate change, through training, exchange of experiences and the implementation of a plan of adaptation to climate change.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "PLANIFICACIÓN CONJUNTA, SEGUIMIENTO Y OBSERVACIÓN, MEJORA DEL CONOCIMIENTO Y SENSIBILIZACIÓN ANTE RIESGOS Y AMEZAS DEL CAMBIO CLIMATICO EN LA MACARONESIA",
+          "description": "PLANCLIMAC surge por la necesidad de crear un “Observatorio del Cambio Climático de la Macaronesia”, que permita adoptar medidas correctoras y preventivas y faciliten herramientas de gestión ante riesgos naturales provocados por el cambio climático en la región macaronésica. Además tiene también como objetivos mejorar el conocimiento de indicadores del cambio climático, físico-químicos, biológicos y antrópicos que nos alerten ante fenómenos naturales adversos, así como sensibilizar a la población y los agentes socio-económicos de la Región MAC de los riesgos asociados al cambio climático, a través de la formación, el intercambio de experiencias y la aplicación de un plan de adaptación al cambio climático.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23622,
+      "acronym": "Red_GesFoGO",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "COMPREHENSIVE NETWORK FOR THE PREVENTION AND MANAGEMENT OF FOREST FIRES THROUGH GEOREFERENCING IN MOBILE OBSERVERS",
+          "description": "The main objective of Red GesFoGO is the cooperation between agencies, institutions and companies with operational and scientific-technological capabilities for the development of a comprehensive network of prevention and management of forest fires in real time, through light mobile units of rapid deployment with self-referred system, to achieve sustainable management in forest environments characteristic of the territory of cooperation. \nThe Red GesFoGO project is articulated in three fundamental actions: \n— Development of a more robust and precise network that includes several observers and a graphical interface that facilitates its isolated and networked use. \n— Test and data collection plan that will serve for the training of forest technicians from the Canary Islands, Madeira and Cape Verde and to adapt the system to the needs of the service. \n— Design of the deployment, prevention, management and maintenance operation of the GesFoGO Network, evaluated in field exercises with all participating partners.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "RED INTEGRAL DE PREVENCIÓN Y GESTIÓN DE INCENDIOS FORESTALES MEDIANTE GEORREFERENCIACIÓN EN OBSERVADORES MÓVILES",
+          "description": "El objetivo principal de Red GesFoGO es la cooperación entre organismos, instituciones y empresas con capacidades operativas y científico-tecnológicas para el desarrollo de una red integral de prevención y gestión de incendios forestales en tiempo real, mediante unidades ligeras móviles de despliegue rápido con sistema auto-georreferenciado, para lograr una gestión sostenible en entornos forestales característicos del territorio de cooperación.\nEl proyecto Red GesFoGO se articula en tres acciones fundamentales:\n- Desarrollo de una red más robusta y precisa que incluya varios observadores y una interfaz gráfica que facilite su uso aislado y en red.\n- Plan de pruebas y toma de datos que servirá para la formación de técnicos forestales de Canarias, Madeira y Cabo Verde y para adaptar el sistema a las necesidades del servicio.\n- Diseño del operativo de despliegue, prevención, gestión y mantenimiento de la Red GesFoGO, evaluado en ejercicios de campo con todos los socios participantes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23621,
+      "acronym": "MERCAMARKT",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "IMPROVING THE COMPETITIVENESS OF AGRICULTURAL AND ARTISANAL MARKETS IN THE MAC COOPERATION SPACE",
+          "description": "With the development of the MERCAMARKT project, through shared experiences and the development of the joint work programme, it is intended to: \n\n1) Reflect on the concept of the agricultural and artisanal market (procedure and criteria for selecting producers, products that can be sold and price policy, mechanisms for the allocation of posts and free competition, opening days, facilities, management body and competences, hygiene of the premises and health inspections, conditions of marketing of producers, canon/tariffs and prices, obligations/prohibitions, infractions and sanctions, type of consumer, economic impact). \n\n2) Define a plan of competitiveness (business development, quality, marketing, innovation and training) of our markets and our producers. \n \n3) Improve the marketing of our local products.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "MEJORA DE LA COMPETITIVIDAD DE LOS MERCADOS AGRÍCOLAS Y ARTESANALES DEL ESPACIO DE COOPERACIÓN MAC",
+          "description": "Con el desarrollo del proyecto MERCAMARKT, a través de las experiencias compartidas y el desarrollo del programa de trabajo conjunto, se pretende:\n\n1) Reflexionar sobre el concepto de mercado agrícola y artesanal (procedencia y criterios de selección de los productores, productos que se pueden vender y política de precios, mecanismos de adjudicación de los puestos y libre competencia, días de apertura, instalaciones, órgano de gerencia y competencias, higiene del local e inspecciones sanitarias, condiciones de comercialización de los productores, canon/tarifas y precios, obligaciones/prohibiciones, infracciones y sanciones, tipología de consumidor, impacto económico).\n\n2) Definir un plan de competitividad (desarrollo empresarial, calidad, comercialización, innovación y formación) de nuestros mercados y nuestros productores.\n\n3) Mejorar la comercialización de nuestros productos locales.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23620,
+      "acronym": "ConfiÁfri2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "SUPPORT SOCIAL ENTREPRENEURSHIP AND IMPROVE ITS COMPETITIVENESS IN THE MACARONESIAN AREA",
+          "description": "The ConfiÁfri2 project responds to the objective of continuing with the improvement of competitiveness and institutional relations in the business field of the Macaronesian area. Thus, with the activities carried out in ConfiÁfri2 it is expected to increase the level of knowledge about the training needs in Africa and arouse the interest of Canarian companies to access the African market. In order to increase competitiveness, special emphasis is placed on the formation of human capital in order to improve the capacities of Canarian companies in the African market and raise the standards of African markets. In turn, activities will be carried out to promote cooperation between Canarian and African companies through the dissemination of information on standardised forms of business partnerships.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "APOYO AL EMPRENDIMIENTO SOCIAL Y MEJORA DE SU COMPETITIVIDAD EN EL ÁREA MACARONÉSICA",
+          "description": "El proyecto ConfiÁfri2 responde al objetivo de continuar con la mejora de la competitividad y de las relaciones institucionales en el ámbito empresarial del área macaronésica. Así, con las actividades llevadas a cabo en ConfiÁfri2 se espera aumentar el nivel de conocimiento sobre las necesidades formativas en África y despertar el interés de las empresas canarias para acceder al mercado africano. En pro del aumento de la competitividad se hace especial énfasis en la formación del capital humano para así mejorar las capacidades de las empresas canarias en el mercado africano y aumentar los estándares de los mercados africanos. A su vez, se van a realizar actividades para impulsar la cooperación entre empresas canarias y africanas a través de difusión de la información sobre formas normalizadas de partenariados empresariales.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

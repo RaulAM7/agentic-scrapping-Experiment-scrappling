@@ -1,0 +1,374 @@
+{
+  "current": 3,
+  "next": "https://keep.eu/api/search/projects/?page=4",
+  "previous": "https://keep.eu/api/search/projects/?page=2",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23643,
+      "acronym": "MIMAR+",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "MONITORING, CONTROL AND MITIGATION OF PROLIFERATIONS OF MARINE ORGANISMS ASSOCIATED WITH HUMAN DISTURBANCES AND CLIMATE CHANGE IN THE MACARONESIAN REGION",
+          "description": "With MIMAR+, the advances in MIMAR’s knowledge are consolidated and expanded, aiming to bring together interested agents throughout the region under the coverage of a Marine Observatory dedicated to carrying out a real assessment of the impacts that are generating the introduced and invasive species, the proliferation of harmful algae and the changes produced by global warming and human activity in marine habitats, proposing common methodologies for monitoring, control and mitigation. In addition, it will export all the scientific knowledge acquired and implement an ambitious program of training and awareness of the changes that are taking place in the marine area and its conservation.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "SEGUIMIENTO, CONTROL Y MITIGACIÓN DE PROLIFERACIONES DE ORGANISMOS MARINOS ASOCIADAS A PERTURBACIONES HUMANAS Y CAMBIO CLIMÁTICO EN LA REGIÓN MACARONÉSICA",
+          "description": "Con MIMAR+ se consolidan y expanden los avances en el conocimiento de MIMAR, pretendiendo agrupar a los agentes interesados en toda la región bajo la cobertura de un Observatorio Marino dedicado a realizar una evaluación real de los impactos que están generando las especies introducidas e invasoras, la proliferación de algas nocivas y los cambios producidos por el calentamiento global y la actividad humana en los hábitats marinos, proponiendo metodologías comunes de seguimiento, control y mitigación. Además exportará todo el conocimiento científico adquirido e implementará un ambicioso programa de formación y sensibilización sobre los cambios que se están produciendo en el área marina y su conservación.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23642,
+      "acronym": "EELabs",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "LABORATORIES TO MEASURE THE ENERGY EFFICIENCY OF ARTIFICIAL NIGHT LIGHT IN PROTECTED NATURAL AREAS OF MACARONESIA.",
+          "description": "The EELabs project seeks to respond to the impact and threat that the loss of darkness due to the increasing use of Artificial Night Light (LAN) has in natural ecosystems, such as 30 % of vertebrates and 60 % of invertebrates -nocturnes and very sensitive to light-. \nEELabs’ goal is to maximise the energy efficiency of new lighting technology — mainly LED — while minimising their effect in the form of light pollution — sky glare — on Macaronesia’s natural ecosystems. EELabs will propose activities to acquire a deep knowledge of both LED lighting and macaronesic natural ecosystems to achieve sustainable growth where the increase of LAN, as a consequence of economic development, does not compromise natural spaces by an excessive increase in light pollution.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "LABORATORIOS PARA MEDIR LA EFICIENCIA ENERGÉTICA DE LA LUZ ARTIFICIAL NOCTURNA EN ÁREAS NATURALES PROTEGIDAS DE LA MACARONESIA.",
+          "description": "El proyecto EELabs trata de dar respuesta al impacto y la amenaza que la pérdida de la oscuridad debido al uso creciente de la Luz Artificial Nocturna (LAN) tiene en los ecosistemas naturales, como el 30% de los vertebrados y el 60% de los invertebrados -nocturnos y muy sensibles a la luz-.\nEl objetivo de EELabs es maximizar la eficiencia energética de las nuevas tecnología de alumbrado -principalmente LED- a la vez que se minimiza su efecto en forma de contaminación lumínica -resplandor del cielo- en ecosistemas naturales de la Macaronesia. EELabs propondrá actividades para adquirir un conocimiento profundo tanto de la iluminación con LED como de los ecosistemas naturales macaronésicos para lograr un crecimiento sostenible donde el aumento de la LAN, consecuencia del desarrollo económico, no comprometa los espacios naturales por un aumento excesivo de la contaminación lumínica.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23641,
+      "acronym": "NEXTGENDEM",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "EVOLUTIONARY MANAGEMENT OF THE ENDEMIC TERRESTRIAL PLANT DIVERSITY OF MACARONESIA THROUGH ACTIONS ON THREATENED SPECIES AND THE CREATION OF TOOLS OF GEOGRAPHICAL BIOINFORMATICS WITH APPLICATION TO THE CONSERVATION OF SPECIES, SPACES AND GENES.",
+          "description": "The NEXTGENDEM project complements genetic, taxonomic, ecological, geographical and computational lines of work to help managers make appropriate decisions based on the most current proven and validated scientific data at all times. The calculations will be made using various resources, from supercomputers (seeking the support of the Spanish Supercomputing Network, RES) to the bioinformatics computing services of the European Institute of Bioinformatics, belonging to the European Laboratory of Molecular Biology, through local computing resources based on graphics cards. As a result of the enrichment of the sample and data banks indispensable to achieve these objectives, the conservation status of 60 endangered endemisms in the Canary Islands and Cape Verde will be improved through various actions in the field, and the transnational cooperation network on biodiversity will be strengthened.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "GESTIÓN EVOLUTIVA DE LA DIVERSIDAD VEGETAL TERRESTRE ENDÉMICA DE MACARONESIA MEDIANTE ACTUACIONES SOBRE ESPECIES AMENAZADAS Y LA CREACIÓN DE HERRAMIENTAS DE BIOINFORMÁTICA GEOGRÁFICA CON APLICACIÓN A LA CONSERVACIÓN DE ESPECIES, ESPACIOS Y GENES.",
+          "description": "El proyecto NEXTGENDEM complementa líneas de trabajo genéticas, taxonómicas, ecológicas, geográficas y computacionales para ayudar a los gestores a tomar decisiones adecuadas basadas en los datos científicos contrastados y validados más actuales en cada momento. Los cálculos se realizarán utilizando diversos recursos, desde supercomputadores (buscando el apoyo de la Red Española de Supercomputación, RES) a los servicios de computación bioinformática del Instituto Europeo de Bioinformática, perteneciente al Laboratorio Europeo de Biología Molecular, pasando por recursos de cómputo locales basados en tarjetas gráficas. A consecuencia del enriquecimiento de los bancos de muestras y datos indispensable para conseguir estos objetivos, se mejorará el estado de conservación de 60 endemismos amenazados de Canarias y Cabo Verde a través de diversas actuaciones en el campo, y se consolidará la red de cooperación transnacional en materia de biodiversidad.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23640,
+      "acronym": "GUARAPO",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "CONSERVATION AND MANAGEMENT OF MACARONESIAN ISLAND PALM GROVES THROUGH SUSTAINABLE USE",
+          "description": "Guarapo, is based on the integration of the harvesting activity of palm groves with the conservation of this habitat, according to the climate scenarios that have been derived from climate change. \nIt seeks to identify the procedures that are developed in the traditional use of this habitat and the phytosanitary and physiological problems that may be conditioning the normal development of island palm groves. \nThe knowledge generated in GUARAPO will allow to improve the techniques of use, management, exploitation and control; through communication and training actions, this natural heritage value will be enhanced and optimised, both by the economic sectors linked to them, as well as to their own population. \nIt implements the study and application of new techniques for the conservation and use of island palm groves, applicable in the Macaronesian region and that result in the enhancement of the resource, both environmentally, culturally and economically.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CONSERVACIÓN Y GESTIÓN DE LOS PALMERALES INSULARES MACARONÉSICOS MEDIANTE EL APROVECHAMIENTO SOSTENIBLE",
+          "description": "GUARAPO, tiene como base la integración de la actividad de aprovechamiento de los palmerales con la conservación de este hábitat, en virtud a los escenarios climáticos que se vienen derivando del cambio climático.\nTrata de identificar los procedimientos que se desarrollan en el aprovechamiento tradicional de este hábitat y los problemas fitosanitarios y fisiológicos que pueden estar condicionando el desarrollo normal de los palmerales insulares.\nEl conocimiento generado en GUARAPO permitirá mejorar las técnicas de uso, gestión, aprovechamiento y control; mediante las acciones de comunicación y formación, se potenciará y optimizará este valor patrimonial natural, tanto por los sectores económicos ligados a ellos, como a la población propia.\nImplementa el estudio y aplicación de nuevas técnicas para la conservación y aprovechamiento de los palmerales insulares, aplicables en la región macaronésica y que deriven en la puesta en valor del recurso, tanto ambiental, cultural y económicamente.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23639,
+      "acronym": "Inv2Mac",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "POTENTIAL USE OF BIOMASS GENERATED FROM INVASIVE PLANT SPECIES OF MACARONESIA FOR INDUSTRIAL USE",
+          "description": "The Inv2Mac project is based on the valorisation of biomass generated by invasive plant species in Macaronesia, such as Arundo donax, Pennisetum, Hedychium gardnerianum or Acacia spp, among others, which in some cases constitute a serious environmental problem. The proposal aims to produce composite materials (biodegradable/recyclable plastic matrix and fibers from this biomass), although it also faces the characterisation and use of them for use as a complement of animal feed or compost. At the end of the project, a series of demonstrators will be produced, so that real tests will be available to demonstrate the performance and final appearance of plastic parts made from composite materials using the natural fibres obtained. These demonstrators will also be used as a tool for dissemination of the project and its results, as well as to highlight the importance of control in its introduction in Macaronesia.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "POTENCIAL APROVECHAMIENTO DE BIOMASA GENERADA A PARTIR DE ESPECIES VEGETALES INVASORAS DE LA MACARONESIA PARA USO INDUSTRIAL",
+          "description": "El proyecto Inv2Mac se basa en la valorización de la biomasa generada por especies vegetales invasoras en la Macaronesia, como la Arundo donax, Pennisetum, Hedychium gardnerianum o Acacia spp, entre otros, que constituyen en algunos casos un problema medioambiental serio. La propuesta pretende producir materiales compuestos (matriz plástica biodegradable/reciclable y fibras provenientes de esta biomasa), aunque también afronta la caracterización y utilización de las mismas para su empleo como complemento de alimentación animal o compost. Al final del proyecto se producirá una serie de demostradores, de manera que se dispondrán de pruebas reales que demostrarán el comportamiento y el aspecto final de las piezas plásticas fabricadas con materiales compuestos utilizando las fibras naturales obtenidas. Estos demostradores se emplearán también como herramienta de diseminación del proyecto y sus resultados, así como para resaltar la importancia del control en su introducción en la Macaronesia.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23638,
+      "acronym": "MARCET II",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PROMOTION OF THE ECOTOURISM ACTIVITY OF WHALE WATCHING AS A MODEL OF SUSTAINABLE ECONOMIC DEVELOPMENT THROUGH THE PROTECTION AND CONSERVATION OF CETACEAN POPULATIONS AND THEIR ENHANCEMENT AS A NATURAL HERITAGE OF MACARONESIA.",
+          "description": "Through the already created MARCET Network, its consequent harmonisation of protocols aimed at the conservation of cetacean populations of Macaronesia and the analyses carried out on the current situation of the tourism sector associated with these species, this new initiative, MARCET II Project, was born, with the aim of generating management tools at local and regional level for the protection of cetacean groups residing in marine protected areas and of particular interest for the activity, the conservation of the good environmental status of these areas and the development of ecological and environmental sustainability criteria applicable to the ecotourism activity of cetacean sighting, thus implying its strengthening and value as a model of sustainable economic development.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "FOMENTO DE LA ACTIVIDAD ECOTURÍSTICA DE WHALE WATCHING COMO MODELO DE DESARROLLO ECONÓMICO SOSTENIBLE MEDIANTE LA PROTECCIÓN Y CONSERVACIÓN DE LAS POBLACIONES DE CETÁCEOS Y SU PUESTA EN VALOR COMO PATRIMONIO NATURAL DE LA MACARONESIA.",
+          "description": "A través de la ya creada Red MARCET, su consecuente armonización de protocolos dirigidos a la conservación de las poblaciones de cetáceos de la Macaronesia y los análisis realizados sobre la situación actual del sector turístico asociado a estas especies, nace esta nueva iniciativa, Proyecto MARCET II, con el objetivo de generar herramientas de gestión a nivel local y regional para la protección de los grupos de cetáceos residentes en áreas marinas protegidas y de especial interés para la actividad, la conservación del buen estado ambiental de dichas áreas y el desarrollo de criterios de sostenibilidad ecológica y medioambiental aplicables a la actividad ecoturística de avistamiento de cetáceos, conllevando así su fortalecimiento y puesta en valor como modelo de desarrollo económico sostenible en la región.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

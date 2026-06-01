@@ -1,0 +1,298 @@
+{
+  "current": 3,
+  "next": "https://keep.eu/api/search/projects/?page=4",
+  "previous": "https://keep.eu/api/search/projects/?page=2",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33259,
+      "acronym": "WEEEVALUE~A_T_2.4_0613",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Promoting circular valorization of WEEEE waste (waste for electrical and electronic equipment)",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n067. Household waste management: prevention, minimisation, sorting, reuse, recycling measures\n~\nSUMMARY: THE PROBLEM\nGrowing consumption is generating changes in the composition of waste, including 'new' waste streams such as electronic. The Mediterranean Strategy for Sustainable Development 2016-2025 is based on the principle that economic growth needs to be harmonized with the protection of natural resources. \n\nIn EU countries, the WEEE is managed within a strict legislative framework, however, only one third of the WEEE produced is collected separately and destined for appropriate treatment. \n\nFurthermore, countries not belonging to EU territories have a less restrictive WEEE waste management legislation, contributing to improver disposal and treatment methods of discarded electrical equipment.\n\nE-waste exposes a high environmental risk for NEXT MED area, as informal recycling, and e-waste abandoned in dumping sites, provide hazardous substances seed into groundwater, affecting water sources, aquifers and sea water.\n\nTHE OBJECTIVE\nWEEE VALUE aims to promote local and regional policies for better e-waste management, to reduce WEEE environmental damage in the selected areas, while promoting: \nComprehensive awareness campaigns, through the solution WEEE AWARE, \nNew innovative eco-business models and an efficient online collection platform, through the solution WEEE COLLECT,\nSocial inclusion in WEEE management companies, through the solution WEEE SOCIAL.\n\nTRANSNATIONAL COOPERATION \nThe unification of waste management criteria in the transnational MED area is essential, since otherwise it could facilitate the dynamization of the illegal movement of e-waste from areas with stricter regulations towards areas with more permissive regulations. To stop this threat, it is necessary to take into account common joint planning, and coordinated business promotion. WEEE VALUE gathers 8 partners and 5 associated, covering 8 countries, which will approve 8 new Action Plans for e-waste management.\n~\nKEEP KEYWORDS: SME and entrepreneurship, Social inclusion and equal opportunities, Waste and pollution",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: A 2.6.3. Transnational initiatives to increase awareness and encourage active participation of citizens, civil society organizations and private sector and cooperation with public authorities regarding electronic resource efficiency, impacts of resource use and consumption patterns, to promote a\n~\nEXPECTED RESULT: This Specific Objective seeks to increase the amount of e-waste collected and delivered to new business, assuring a constant source of material, and a long-term sustainability. Waste awareness have to start in the earliest days, and WEEE Value will do so by involving citizens and school.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: A 2.6.1. Promoting local and regional policies and implementation of pilots to demonstrate technical, financial and environmental benefits of measures for a better e-waste management and recycling in the MED areas, engaging local authorities, e-waste management companies, consumers, NGOs and en\n~\nEXPECTED RESULT: This Specific Objective aims to promote transnational cooperation resulting in an increased capacity of local stakeholders, public bodies and policy makers for the development of more efficient e-waste management collection. It also supports the creation of new eco-businesses.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: A 2.6.3. Transnational initiatives to increase awareness and encourage active participation of citizens, civil society organizations and private sector and cooperation with public authorities regarding electronic resource efficiency, impacts of resource use and consumption patterns, to promote a\n~\nEXPECTED RESULT: This Specific Objective seeks to increase the amount of e-waste collected and delivered to new business, assuring a constant source of material, and a long-term sustainability. Waste awareness have to start in the earliest days, and WEEE Value will do so by involving citizens and school.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33258,
+      "acronym": "TRANSFORMED~A_G_4.1_0590",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Fostering Transnational Knowledge for More Inclusive and Participatory Mediterranean",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: \n\n173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: The lack of participatory planning for social inclusion programs on the part of local authorities has led to a misguided conception in identifying real needs and inclusive understanding of the pressing social challenges across the Mediterranean. This has hindered the development of society driven solutions that effectively respond to these challenges. TRANSFORMED will foster cross-sector synergies through a transnational cooperation to jointly develop solutions to facilitate the establishment of efficient governance models for improving social inclusion at local level.\nThe project proposal comprises analysing, complementing and disseminating the transnational knowledge demonstrated in implementing 4 regionally-acclaimed governance models that have adopted bottom-up and participatory approaches to deliver inclusive community-serving programs; the objective being to exploit and upscale this knowledge. \nThe outputs are complementary, using a building blocks approach. They are: \n-Transnational Handbook, that is a fruit of 5 transnational Community-engagement symposia, Online data analysis clusters and a practitioners’ lab; \n-Enhanced institutional capacities of 5 local authorities and 5 social inclusion civic actors, thanks to the project’s call for inclusive Local Planning concept notes, the Peer-to-peer knowledge capsules and the procedure demonstration pilots; \n- 5 Blueprints with jointly developed social inclusion community-serving programs operated by tandems between local authorities and civil society actors responding to inclusion challenges identified on the national level. Inclusive Local Planning Blueprints resulting from Peer-to-peer mentoring, enhanced by national round table debates and will be introduced in a regional knowledge sharing exhibition. \nFinal beneficiaries are local authorities and civic actors from partner countries benefiting from best practices of participatory governance, and local communities benefiting from the improved local governance.\n~\nKEEP KEYWORDS: Community integration and common identity, Governance, partnership, Knowledge and technology transfer",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Improve the capacities of local authorities and civil society actors working with social inclusion and foster their cooperation to formulate jointly developed governance models for inclusive community serving programmes.\n~\nEXPECTED RESULT: Transnational exchange of knowledge invested in formulating governance models of four regionally commended community-serving programmes for social inclusion. \nParticipatory governance bodies operated by empowered civic actors in cooperation with institutionally improved local authorities.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Improve the capacities of local authorities and civil society actors working with social inclusion and foster their cooperation to formulate jointly developed governance models for inclusive community serving programmes.\n~\nEXPECTED RESULT: Transnational exchange of knowledge invested in formulating governance models of four regionally commended community-serving programmes for social inclusion. \nParticipatory governance bodies operated by empowered civic actors in cooperation with institutionally improved local authorities.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Improve the capacities of local authorities and civil society actors working with social inclusion and foster their cooperation to formulate jointly developed governance models for inclusive community serving programmes.\n~\nEXPECTED RESULT: Transnational exchange of knowledge invested in formulating governance models of four regionally commended community-serving programmes for social inclusion. \nParticipatory governance bodies operated by empowered civic actors in cooperation with institutionally improved local authorities.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33257,
+      "acronym": "MILenARI~A_T_1.1_0403",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Scaling-up advanced lentiviral and CAR-T academic production across the Mediterranean region",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n028. Technology transfer and cooperation between enterprises, research centres and higher education sector\n~\nSUMMARY: Chimeric Antigen Receptor T-cell therapy (CAR-T) is an immunotherapy used to treat certain cancers. It involves modifying the patient’s own T-cells to better recognize and attack cancer cells in the body. T-cells are collected from the patient’s blood and engineered to produce a Chimeric Antigen Receptor (CAR) on their surface. This genetic modification is usually performed using a lentiviral vector (LV), carrying the genetic material that will be introduced into the T-cells. Once modified, the T-cells are infused back into the patient, with the new ability to recognize specific antigens found on cancer cells surface and destroy them.\n\nOur project addresses the challenge of limited access to CAR T-cell therapy by fostering transnational collaboration across EU Mediterranean Countries (EUMC, Spain and Italy) and Mediterranean Partner Countries (MPC, Lebanon and Jordan). Through our concerted efforts, we aim to democratize access to CAR T-cell therapy in the Mediterranean region. To this end, we will increase LV production capacity in Spain, ensuring a stable and ample supply of vectors and overcoming a major bottleneck in therapy production. Spain will share its LV technology with Italy, Lebanon and Jordan, that will validate cell production in their respective facilities. \n\nThe final beneficiaries of our project are cancer patients across EUMC and MPC, who will directly benefit from improved access to CAR T-cell therapy, offering them a lifeline in their battle against cancer. Additionally, healthcare providers, researchers, and pharmaceutical companies involved in cancer research and treatment will benefit from enhanced collaboration, ultimately leading to advancements in the field and better outcomes for patients. \n\nAfter the project, we expect a transformed landscape: improved access, accelerated adoption, and enhanced collaboration. Patients will benefit from expanded treatment options and researchers will continue pushing the boundaries of CAR T-cell therapy.\n~\nKEEP KEYWORDS: Knowledge and technology transfer, Scientific cooperation",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To facilitate cross-border collaboration and technology transfer by scaling up lentivirus batch production to improve the accessibility and adoption of CAR T-Cell Therapy in the Mediterranean Region (Recommended from list A. 1. 1. 1.)\n~\nEXPECTED RESULT: Increased exchange of knowledge, expertise and technology among researchers and clinicians leading to accelerated development, enhanced accessibility, and wider adoption of CAR T-Cell Therapy across Mediterranean countries.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To facilitate cross-border collaboration and technology transfer by scaling up lentivirus batch production to improve the accessibility and adoption of CAR T-Cell Therapy in the Mediterranean Region (Recommended from list A. 1. 1. 1.)\n~\nEXPECTED RESULT: Increased exchange of knowledge, expertise and technology among researchers and clinicians leading to accelerated development, enhanced accessibility, and wider adoption of CAR T-Cell Therapy across Mediterranean countries.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To facilitate cross-border collaboration and technology transfer by scaling up lentivirus batch production to improve the accessibility and adoption of CAR T-Cell Therapy in the Mediterranean Region (Recommended from list A. 1. 1. 1.)\n~\nEXPECTED RESULT: Increased exchange of knowledge, expertise and technology among researchers and clinicians leading to accelerated development, enhanced accessibility, and wider adoption of CAR T-Cell Therapy across Mediterranean countries.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 11,
+          "title": "Scientific cooperation"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33256,
+      "acronym": "SheEmpower~A_T_1.2_0514",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Unleashing the Power of Female Entrepreneurs in the Mediterranean",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n021. SME business development and internationalisation, including productive investments\n~\nSUMMARY: SheEmpower proposal stands as a beacon of opportunity within the NEXT MED program. With a focus on empowering women-led businesses, SheEmpower aims to address the joint challenges faced at a transnational level, such as limited access to resources, digitalization challenges, and the lack of entrepreneurs skills and commercialization support.\nSheEmpower build on three pillars Empowering Women’s Skills, Business and Innovation. The diverse and transnational consortium including chambers of commerce, universities, and business networks across Cyprus, Italy, Spain, France, Egypt and Lebanon, ensures a robust support system and proven capacity to deliver the goals. \nEmpowering Women’s Skills through transformative change by providing entrepreneurship capacity-building, mentorship programs to enhance the competitiveness. Empowering Women’s Business through e-business and digital transformation capacity building, and SheEmpower MED e-Store creation which is dedicated to commercialize products and services. Empowering Women’s Innovation through create a network of women-led businesses, Services package to establish SMEs. Innovation Award, SheEmpower MED Network, SheEmpower MED Innovation Exhibition are tools to empower Women’s Innovation\nThe expected results: 280 women enhancing their entrepreneurial skills, 140 female entrepreneurs receive the mentorship program; 140 women-led businesses receive Digital transformation program ; 140 female receive E-business training ; SheEmpower MED e-Store created, Up to 20 e-business and 10 women-led start-up established, Up to 100 jobs created, A network of 500 women entrepreneurs established. 21 women participate in the Business mission, Up to 20 female receive Services package to establish their own SMEs. \nThe beneficiaries including female entrepreneurs, women-led businesses/start-up. By empowering women to become key economic actors, the project promotes inclusive economic growth, and create jobs across the MED region\n~\nKEEP KEYWORDS: Knowledge and technology transfer, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance the competitiveness of SMEs led by women through targeted support and capacity-building initiatives\n~\nEXPECTED RESULT: 10 women-led start-up established , 280 women-led businesses enhancing their skills,  in innovation, digitalization, \n140 female entrepreneurs receive mentorship program\n140 women-led businesses, receive Digital transformation capacity building program . 140 female entrepreneurs receive E-business\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance the competitiveness of SMEs led by women through targeted support and capacity-building initiatives\n~\nEXPECTED RESULT: 10 women-led start-up established , 280 women-led businesses enhancing their skills,  in innovation, digitalization, \n140 female entrepreneurs receive mentorship program\n140 women-led businesses, receive Digital transformation capacity building program . 140 female entrepreneurs receive E-business\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To promote inclusive economic growth and job creation in the Mediterranean region\n~\nEXPECTED RESULT: -Up to 20 e-business led by women will be established     \n-Up to 100 jobs created. Up to 20 female entrepreneurs receive Services package to establish their own  SMEs . SheEmpower Innovation Award created",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33255,
+      "acronym": "MedFireWise~A_T_2.2_0319",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Cross-Med Wildfire Resilience: Harnessing Nature-Based Solutions for Wildfire Risk Mitigation",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 059. Adaptation to climate change measures and prevention and management of climate related risks: fires (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem-based approaches)\n~\nSUMMARY: The MedFireWise addresses the escalating threat of wildfires in the Med forests by promoting prescribed burning & silvopasture as Nature-based Solutions (NbS) for wildfire risk management (WRFM). Through transnational cooperation, it aims to mitigate wildfire risk in ecosystems, leveraging ecological processes to enhance resilience & reduce fire intensity & severity. The development of innovative tools & frameworks will enhance situational awareness for evaluating sustainable interventions in strategic forest management areas, thereby refining risk management systems. The implementation in 7 regions will demonstrate the effectiveness of the NbS, benefiting local communities, economies & ecosystems. It will provide tools for more effective WRFM, increase stakeholder capacity, raise public awareness & transfer its outcomes to regions among & beyond the project areas, contributing to more resilient Med forests to confront the climate change impacts.\nMain Outputs (O):\nWP3: O3.1 Report on needs, regulatory framework & existing NbS of partner countries in WFRM, O3.2 Framework of indicators for the implementation of NbS & O3.3 Seasonal WRFM tool\nWP4: O4.1 Cross-Campaigns design, O4.2 Forestry works to facilitate the execution of prescribed burns & silvopasture & O4.3 Cross-Campaigns implementation\nWP5: O5.1 Increased risk awareness of local community in wildfire-prone areas & O5.2 Strategy for transferring solutions to regions beyond partnership\nMedFireWise will produce tools & facilitate resources that will leave a significant impact on the beneficiaries: enhanced protection against wildfires to local communities in high-risk areas; better tools for environmental & risk managers to effectively manage wildfire risks while promoting ecosystem restoration & functionality; safe forest infrastructure for firefighting services; new grazing opportunities in strategic areas for shepherds; evidence-based methods for policy-makers to promote wildfire-related policies.\n~\nKEEP KEYWORDS: Managing natural and man-made threats, risk management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance wildfire risk prevention & disaster resilience in the MED area by promoting NbS for wildfire risk mitigation, fostering transnational cooperation & building stakeholder capacity through innovative tools, frameworks & strategies, while raising awareness and ensuring lasting impact.\n~\nEXPECTED RESULT: Increased knowledge and availability of innovative tools for the deployment of Nature-based Solutions (NbS) for Wildfire Risk Management (WFRM)\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance wildfire risk prevention & disaster resilience in the MED area by promoting NbS for wildfire risk mitigation, fostering transnational cooperation & building stakeholder capacity through innovative tools, frameworks & strategies, while raising awareness and ensuring lasting impact.\n~\nEXPECTED RESULT: Increased knowledge and availability of innovative tools for the deployment of Nature-based Solutions (NbS) for Wildfire Risk Management (WFRM)\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance wildfire risk prevention & disaster resilience in the MED area by promoting NbS for wildfire risk mitigation, fostering transnational cooperation & building stakeholder capacity through innovative tools, frameworks & strategies, while raising awareness and ensuring lasting impact.\n~\nEXPECTED RESULT: Increased knowledge and availability of innovative tools for the deployment of Nature-based Solutions (NbS) for Wildfire Risk Management (WFRM)",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33254,
+      "acronym": "STORM~A_T_2.1_0553",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Integrating Seasonal Thermal Energy Storage in the Mediterranean Region",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 041. Energy efficiency renovation of existing housing stock, demonstration projects and supporting measures\n~\nSUMMARY: The Mediterranean faces common challenges related to energy consumption, climate change, and the need for sustainable solutions. Mediterranean countries spend more than 50% of their energy consumption on space heating and/or cooling. The Mediterranean climate is ideal for harnessing and storing solar thermal energy to reduce the energy demand of buildings toward a net zero energy building target.\n\nSTORM capitalizes on the Mediterranean's solar potential by integrating seasonal thermal energy storage (STES) in the building stock. STES is a mature technology that involves harnessing thermal energy during the sun-rich months and storing the energy in soil/rock/water via borehole thermal energy storage or tank thermal energy storage. The stored energy is utilized to heat spaces and provide domestic hot water or to cool spaces by powering innovative thermally-activated adsorption chillers with low grade heat. Despite it being a proven technology, there remains minimal deployment of STES in Mediterranean countries. This is attributed to the lack of regulations, data, and pilot demonstrations that prove the efficiency and feasibility of this technology in the Mediterranean. \n\nThrough 4 pilots that are jointly implemented in Beirut, Ajloun, and Palermo or showcased in Barcelona, STORM will generate localized data on efficiency gains and develop simulation models to speed up the uptake of this technology in decentralized applications in the Mediterranean. The project’s transnational implementation will lead to social, economic, and environmental benefits for owners/occupants of residential, commercial, and public buildings and energy grid operators, regulatory bodies, and policy makers who will benefit from an improved resilience and efficiency in the energy infrastructure. STORM aims to unlock the potential of seasonal thermal storage in the Mediterranean and advocate for a shift from conventional energy practices to a sustainable, energy-efficiency decentralized model.\n~\nKEEP KEYWORDS: Energy efficiency, Green technologies, Renewable energy",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the energy efficiency of the building stock with tested seasonal thermal energy storage technologies that are designed for the Mediterranean Region climate setting\n~\nEXPECTED RESULT: Enhanced visibility and access to innovative, cost effective tested solutions for energy efficiency of buildings using seasonal thermal energy storage technologies that involve Borehole Thermal Energy Storage (BTES) and Tank Thermal Energy Storage (TTES) systems.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the energy efficiency of the building stock with tested seasonal thermal energy storage technologies that are designed for the Mediterranean Region climate setting\n~\nEXPECTED RESULT: Enhanced visibility and access to innovative, cost effective tested solutions for energy efficiency of buildings using seasonal thermal energy storage technologies that involve Borehole Thermal Energy Storage (BTES) and Tank Thermal Energy Storage (TTES) systems.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the energy efficiency of the building stock with tested seasonal thermal energy storage technologies that are designed for the Mediterranean Region climate setting\n~\nEXPECTED RESULT: Enhanced visibility and access to innovative, cost effective tested solutions for energy efficiency of buildings using seasonal thermal energy storage technologies that involve Borehole Thermal Energy Storage (BTES) and Tank Thermal Energy Storage (TTES) systems.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the energy efficiency of the building stock with tested seasonal thermal energy storage technologies that are designed for the Mediterranean Region climate setting\n~\nEXPECTED RESULT: Enhanced visibility and access to innovative, cost effective tested solutions for energy efficiency of buildings using seasonal thermal energy storage technologies that involve Borehole Thermal Energy Storage (BTES) and Tank Thermal Energy Storage (TTES) systems.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

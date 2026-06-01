@@ -1,0 +1,209 @@
+{
+  "current": 9,
+  "next": null,
+  "previous": "https://keep.eu/api/search/projects/?page=8",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31249,
+      "acronym": "Atlantic Whale Deal",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Mitigating Ship Strikes and Enhancing Carbon Sequestration in the Atlantic",
+          "description": "The ATLANTIC WHALE DEAL aims to make sure that ships don't accidentally hit whales in the Atlantic Area. Partners from different countries are working together to prevent these collisions that can damage biodiversity, trying out new and smart technologies to reduce ship strikes. They want to help the environment by capturing carbon (which is good for the planet) and making sure the ecosystem works well. This involves localization techniques to find whales, making maps to show where there's a risk of collisions, and creating tools to reduce noise in the ocean.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31248,
+      "acronym": "ATLANTIC SUNSET",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Sunset Tourism in the Atlantic Area",
+          "description": "ATLANTIC_SUNSET brings together researchers from the Atlantic Area to make the most of the beautiful sunsets and related events in Western Europe.\nThe main goal is to promote the West Coast as a tourist destination, make the local economy more diverse and stop people from moving away. The project is all about finding the best places to watch the sunset, working with local communities and businesses, and creating a tourist plan for people who might want to visit.\nThe project aims to make the West Coast more valuable for development, thus contributing to being mindful of the environment and social concerns, and finding ways for tourism to work well with other activities in the area.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31247,
+      "acronym": "AQUAFISH0.0",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Aquaculture & Fisheries 0.0 - Improving the acceptance and social awareness in the consumption of sustainable marine food products developed under the zero-waste philosophy",
+          "description": "AQUAFISH\n\n0.0 is about producing marine food in an innovative and sustainable way. \nThe project has three main goals. First, they want to do research and develop new and creative ways to make food from parts of the catch that would usually be thrown away. Second, they aim to update the rules and systems that help these products get made. And third, they want to tell people, especially younger ones, about how we can use marine resources wisely and not waste anything.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31246,
+      "acronym": "ADT4blue",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Advanced Digital Technologies for the Blue Economy",
+          "description": "ADT4Blue aims to develop and implement action business ideas for the blue economy using Advanced Digital Technologies (ADT) like Artificial Intelligence, Blockchain and IoT.\nThe partners in different areas will identify challenges, and the group will bring together students, alumni, and new entrepreneurs to form teams. Special training programs will teach different roles like business, solutions architects, and developers, focusing on data-value chains and European Dataspaces. Partners also plan to support businesses across regions and generations, making the areas more attractive and innovative.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

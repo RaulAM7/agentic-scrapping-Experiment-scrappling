@@ -1,0 +1,287 @@
+{
+  "current": 6,
+  "next": "https://keep.eu/api/search/projects/?page=7",
+  "previous": "https://keep.eu/api/search/projects/?page=5",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31267,
+      "acronym": "REINFFORCE2",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "REsource INFrastructures for monitoring, adapting and protecting European Atlantic FORests under changing ClimatE 2",
+          "description": "REINFFORCE2 is working on solutions by looking at different climate conditions across the Atlantic regions. Partners want to predict how climate change might affect coastal forests by simulating a significant warming of 6°C. To do this, they'll use data from field trials that were set up back in 2012, and now, they'll analyze this data with new technology like drones and sensors, which weren't available ten years ago.\nTaking into account what was learned in the first project (REINFFORCE1), this project is adding new experiments to figure out how forests can adapt to climate change. At this time, partners are also working with organisations in warmer regions to plan for even hotter climates in the future. The goal is to find and promote solutions on how to adjust forests so that they can continue to provide resources for industries that rely on them.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31266,
+      "acronym": "POST",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Polycentric Sustainable Tourism: Identification of a strategy towards the sustainability of the sector",
+          "description": "POST is developing and testing the \"Polycentric Tourism\" concept, focusing on redistributing tourist flows in inland territories. The goal is to create a strategy for sustainable tourism, promoting tourism in the Atlantic Area's hinterland while alleviating pressure on highly affected areas. The project will implement four pilot Action Plans to showcase the effectiveness of the concept and serve as a guide for other regions interested in adopting sustainable tourism practices.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        },
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31265,
+      "acronym": "PLAST4H2",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Plastic circularity through an efficient detection, collection, and valorization into Hydrogen and value-added products",
+          "description": "PLAST4H2 is on a mission to tackle plastic pollution in the Atlantic Area by focusing on circularity and sustainability. Partners want to turn plastic waste into valuable products, such as hydrogen, and encourage people to make eco-friendly lifestyle choices. \nIn the first part, they're figuring out the extent of ocean pollution, creating tools to detect it, mapping how litter moves in the water, and testing an advanced system to collect plastic using a special boat. The second part involves showing off new and creative ways to turn plastic into useful things like hydrogen, energy, and eco-friendly plastics. The third part is all about making sure these processes are sustainable and spreading awareness about the benefits.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31264,
+      "acronym": "MARINNONET",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Transnational R&D&I cooperation network to foster the competitiveness and sustainability of the Blue Biotech sector in the Atlantic Area territory",
+          "description": "Considering the characteristics of the Blue Biotech sector of the 8 AA regions involved, and their respective R&D&I strengths, our network MARINNONET focuses on 3 Marine Biotechnology Platforms:\nBP1 – Innovations for an efficient, sustainable, and resilient aquaculture: Advancing our knowledge in the physiology, nutrition, genetics, and breeding of farmed organisms, as well as disease control methods. This contributes to improvements in fishing and shellfish farming activities, such as offering solutions for species identification and combating phenomena like red tides.\nBP2 – Omic and observation technologies for preserving marine biodiversity and restore ocean health: Assisting to decipher the intricate biological and environmental interactions within marine ecosystems, including biodiversity and protection measures. Providing public administrations with the necessary tools and knowledge required to adapt to the effects of global climate change and safeguarding human health and well-being.\nBP3 – Marine-derived products for industrial applications: Technologies for the isolation and processing of materials and bioactives from marine organisms, focusing on employing environmentally-friendly methods and approaches applied to marine by-products or under-exploited resources, towards their sustainability application in biomedicine, pharma, cosmetics and food.",
+          "expected_results": "",
+          "achievements": "",
+          "expected_outputs": "",
+          "delivered_outputs": "",
+          "expected_achievements": "",
+          "actual_achievements": ""
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31263,
+      "acronym": "HYDEA",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Boosting the hydrogen transition in the Atlantic Area ports",
+          "description": "HYDEA is committed to pilot projects for the integration of clean energies in the ports of Brest (France), Leixões (Portugal), Vigo and Seville (Spain), namely by boosting the use of hydrogen in maritime operations.\nDuring the project, the partnership is trying out new technologies, supporting research and development by testing out different technologies in real situations, like pilot projects along the hydrogen supply chain. The working plan also includes actions to make this investment work as a business, looking at different ways to make using hydrogen in ports a practical and profitable choice.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31262,
+      "acronym": "HY4RES",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Hybrid solutions for Renewable Energy Systems: achieving net-zero Atlantic area energy consumers & communities",
+          "description": "HY4RES is working on creating new technology that uses renewable energy sources, like wind and solar power, along with smart data systems to help communities in the Atlantic Area become more energy-efficient. The main challenge they are tackling is how to use more renewable energy in different regions by coming up with smart ways to store and manage it.\nThe project will focus on developing advanced systems that combine different renewable energy sources, like wind, solar, and hydropower, and store that energy for when it's needed. They also plan to create affordable and eco-friendly power systems. Another important part of the project is to build intelligent software that uses sensors, big data analysis, and artificial intelligence to better manage and predict how different renewable energy sources work together in a hybrid system.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

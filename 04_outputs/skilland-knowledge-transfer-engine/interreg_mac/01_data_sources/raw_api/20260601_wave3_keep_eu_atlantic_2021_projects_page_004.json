@@ -1,0 +1,291 @@
+{
+  "current": 4,
+  "next": "https://keep.eu/api/search/projects/?page=5",
+  "previous": "https://keep.eu/api/search/projects/?page=3",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31279,
+      "acronym": "DigiATLA",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Building Digital Capacity for Innovation in Atlantic Aquaculture",
+          "description": "DigiATLA drives digital transformation in Atlantic aquaculture by fostering capacity building in sustainable aquaculture and precision nutrition technologies. It tackles key challenges like limited digital integration, inefficiencies and environmental impacts, which hinder the sector's resilience and competitiveness. \nBy promoting the adoption of Industry \n\n4.0, DIGIATLA enhances digital capacity, equipping the professionals with tools and knowledge to improve efficiency, reduce environmental impacts and boost sustainability. Key outputs include digital training programs with online repository, pilot demonstrations and awareness initiatives on Industry \n\n4.0 adoption. Beneficiaries are aquaculture professionals, researchers and educational communities.\nThrough a transnational approach DigiATLA merges expertise from multiple regions to align strategies, share best practices and develop scalable, impactful and broad solutions for a sustainable and competitive Atlantic aquaculture sector.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31278,
+      "acronym": "Aofftech",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic Offshore Tech",
+          "description": "AoffTech's transnational challenge is to contribute to decarbonisation, mitigate climate change and the EU's energy independence through floating offshore wind energy, a strategic technology for the Atlantic Area. The overall objective is to boost the industry's value chain and accelerate the deployment of floating offshore wind through public-private collaboration. \nThe main results include connecting and disseminating the technological developments of the offshore experimental plataforms, a cross-border ESG approach to deployment, the development of a shared strategy for the Atlantic Area on floating offshore wind and facilitating contact with the network of blue academies. The project adopts a balanced approach that harmonizes the advancement of technocentric, ecocentric and anthropocentric perspectives, for which transnational cooperation is required.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31277,
+      "acronym": "ACTIV-N",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Action for Communities in Teleassistance and Integration of Vulnerable populations facing Natural hazards",
+          "description": "Social inclusion, and environmental and climate risks are two concepts that are usually seen as separate. However, we must understand the need to establish clear links between the fight against climate change and the defence of the most vulnerable people. Without this innovative vision, we will not be able to create a truly socially and environmentally just and resilient Atlantic Area. \nRecent climate events force us to move towards environmental planning that takes into account the most vulnerable people, both for their protection and their empowerment. In this project, it pursues this dual purpose. On the one hand, it creates innovative mechanisms to support vulnerable people in case of extreme environmental risks such as floods, fires or droughts. Nonetheless, it creates methodologies to make this group a key actor in the fight against climate change and its consequences, demonstrating that pilots of maximum environmental effectiveness can be carried out through social inclusion.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31276,
+      "acronym": "AWAVES",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic Waves for Advancing Visionary, Equitable, and Sustainable Tourism and Heritage.",
+          "description": "AWAVES is an innovative transnational project that transforms the Atlantic Area's maritime heritage into a driver of regenerative tourism and social inclusion. Facing intergenerational disconnection and declining interest in maritime culture, it promotes sustainable solutions that revitalize this legacy and strengthen social cohesion in coastal communities. Its goal is to preserve, transmit, and enhance maritime heritage through cultural hubs, immersive experiences, sensory routes, and itinerant schools, benefiting coastal communities, youth, maritime and tourism professionals, and visitors seeking authentic, sustainable experiences. \nAligned with the New European Bauhaus, AWAVES encourages new generations to rediscover maritime heritage through creativity and technology. Transnational cooperation between Spain, Portugal, France, and Ireland ensures lasting impact, fostering a more inclusive and sustainable future in the Atlantic Area.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31275,
+      "acronym": "SMART Coast",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Sustainable Management of visitor flows for Resilient Tourism in Coastal Areas",
+          "description": "The Atlantic Area coast, both highly attractive and sensitive, is home to a multitude of challenges regarding climate change, with tourism being a major sector requiring evolution to succeed in adaptation. Some coastal areas are currently experiencing levels of tourist numbers that question the capacity of natural areas to accommodate visitors, facing a number of challenges, in particular the need to preserve the natural heritage of the Atlantic coastline.\nThrough cooperation between Atlantic Area regions facing these challenges, the project aims to provide tools for better understanding and managing coastal tourist flows, and to rethink access to these areas from a sustainable perspective. Precisely, the project will develop a common replicable strategy to ensure that visitors are better managed and welcomed. This strategy will be supported by testing pilot actions based on visitor flow management, alternative mobility and visitor empowerment, to determine the best practices to adopt.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31274,
+      "acronym": "ATLANTIC BRIDGES",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Building a Reliable Common Identity towards a Global Urban Sustainable Development in the Atlantic",
+          "description": "The ATLANTIC BRIDGES project, launched by a consortium representing the Atlantic medium-sized cities quadruple helix, promotes sustainable urban development by integrating the sea into urban planning. Focusing on the triple transition (ecological, economic, and social), the initiative embraces the New European Bauhaus philosophy to create resilient and sustainable territories.\nCoastal cities face growing challenges from urban pressures; however, current approaches often fail to balance economic growth with environmental preservation, resilience, and social equity. By strengthening the land-sea relationship and cooperation, the project enables territories to responsibly capitalize on coastal resources by fostering the dialogue among quadruple helix actors on both sides of the Atlantic, advancing a Unified Atlantic Space, facilitating knowledge-sharing, and improving port-city integration, urban regeneration, sustainable tourism, and the blue economy.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 7,
+          "title": "Urban development"
+        },
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

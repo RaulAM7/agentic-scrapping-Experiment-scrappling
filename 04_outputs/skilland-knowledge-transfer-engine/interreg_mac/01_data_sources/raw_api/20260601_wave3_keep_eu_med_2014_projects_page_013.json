@@ -1,0 +1,417 @@
+{
+  "current": 13,
+  "next": "https://keep.eu/api/search/projects/?page=14",
+  "previous": "https://keep.eu/api/search/projects/?page=12",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 21386,
+      "acronym": "IMPULSE",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Soutien de gestion Intégré à la planification d’interventions en faveur de l’efficacité Energétique dans les bâtiments PUbLics Méditerranéens",
+          "description": "IMPULSE introduit un système intégré de soutien à la planification d’interventions en faveur de l’efficacité énergétique dans les bâtiments publics. L’enjeu principal est la faible capacité des administrations publiques à mettre en place des plans d'efficacité énergétique fiables et abordables pour leur patrimoine bâti public, ce qui se traduit au niveau local par des plans d’actions en faveur de l’énergie durable (PAED) incomplets ou inexistants. Le principal problème est le manque de données de consommation d’énergie du patrimoine bâti et de systèmes simples d'aide à la décision pour le développement des plans d'action les plus abordables avec des solutions réalistes et finançables. Le projet établit le besoin de donner des solutions concrètes d’aide à la décision dans une approche transnationale pour tenir compte des conditions MED des bâtiments, solutions d'énergie, climat, règlements, etc. Cette approche prévoit des tests extensifs dans les MED Villes pilotes dans 6 pays, sur des méthodes déjà établies pour définir des typologies MED de bâtiments publics, accompagnées par des interventions de coût optimal et des plans de rénovation financiers et graduels. Les résultats seront organisés dans une interface WEB commune et avec un système SIG, outil décisionnel convivial pour mettre en place des PAED abordables avec un fort impact. L'outil est testé sur des projets de rénovation à petite échelle dans chaque ville pilote puis évalué avec des activités de transfert ciblées.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'outils de planification disponibles pour le suivi et la gestion de la consommation énergétique dans les bâtiments publics, Nombre de stratégies en faveur des plans de gestion de la consommation énergétique dans les bâtiments publics, Nombre de groupes cibles participant aux activités de sensibilisation sur l'efficacité énergétique pour les bâtiments publics, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à développer des plans/stratégies d'efficacité énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Integrated Management Support for Energy efficiency in Mediterranean PUblic buiLdings",
+          "description": "IMPULSE introduces an integrated management support system for planning energy efficiency interventions in public buildings. The main challenge tackled is the insufficient capacities of public administrations to set-up reliable and affordable energy efficiency plans for their public building stock, which at local level is reflected by missing or incomplete Sustainable Energy Action Plans (SEAPs). The main problem is the lack of available energy consumption data for the building stock and of easy-to-use decision-support systems to conclude the most affordable action plans with bankable and realistic solutions. The project acknowledges the need for concrete decision-support solutions as well as the transnational approach needed to account for MED diversified conditions in buildings, energy solutions, climate, regulations, etc., towards the wider capturing of MED specificities. The project’s transnational approach foresees extensive testing in representative pilot MED Cities in 6 Countries, of previously established methods for the conclusion of MED public building typologies accompanied with cost-optimal interventions and financial and gradual renovation plans. The results are organised into a transnational purpose web and GIS-based information system being a user-friendly decision making tool for affordable SEAPs with high impact. The tool is verified through small-scale renovation projects in each pilot City and further evaluated through targeted transferring activities.",
+          "expected_results": "1 Six libraries of municipal-building typologies : N/A1 Six libraries of municipal-building typologies : N/A2 One IMPULSE management support information system : N/A3 At least 50 completed SEAPs’ public-building sections by the authority partners and by participants to portability campaigns : N/A4 One small-scale renovation project (Six in total) in one public building in each partner Country and monitoring of energy indicators : N/A5 Twelve MoUs among the project and key representatives of political intervention in local/regional/national level : N/A",
+          "achievements": "The project has concluded 6 inventories of replicable energy upgrading scenarios for more than 350 representative municipal buildings in the participating Mediterranean Cities. These are presented by means of categorized projects ranging from minor to deep retrofits, accompanied with energy, environmental and cost indicators. In addition, the responsible partners have produced GIS-based maps of the pilot Cities with depicted municipal buildings, which are now under further processing towards the development of the integrated IMPULSE information system, a GIS online tool with cartographies of affordable gradual energy upgrading plans. The tool is expected to be released by Spring \n\n2019. A PLUG-IN processor is developed, which provides affordable energy-upgrading roadmaps, as well as an excel-based financial tool has been produced, which evaluates mixes of financial resources throughout the period of the projects’ roadmap implementation. Responsible partners have started pilot testing of both tools and produced initial (draft) gradual renovation plans for the municipal buildings of the participating Cities. Despite that the IMPULSE integrated online system is still loading, partners continued disseminating the excel-based platforms by participating in external events, distributing newsletters as well as by performing story-telling actions such as info-kiosks and videos. The interim results have been also disseminated in the last MEDNICE-GREENCAP Conference in Ljubljana (October 2018). In the framework of communication activities, EnvirobatBDM in collaboration with all partners has finalized the Networking forum (which is now available in the url https://impulseforum.eu/). In Greece, CRES presented the IMPULSE tools to the Ministry of Environment and Energy contributing to targeted templates for homogeneous public-buildings’ energy efficiency plans in the framework of local-authorities’ compliance with the directive 2012/27/EU. Finally, all partners have started planning transferring activities in their Countries. In Greece, the Municipality of Heraklion already co-organized a Focus Group meeting and a training seminar. In the focus group meeting, policy and technical actors mainly from the public sector (e.g. Municipalities and Regions) met and discussed the challenges of public-buildings’ energy renovations and the solutions provided by the IMPULSE project, while in the training seminar 37 technical representatives were trained in the use of IMPULSE tools.",
+          "expected_outputs": "A protocol for public-building typologies' identification and library of typologies in pilot Cities,A web-based system for planning energy-upgrading interventions in public buildings,Completed SEAPs' sections for public buildings,Technical actors from the public and private sectors trained on the use of IMPULSE products,Agreements among policy-makers on uptaking project outcomes in developing energy efficiency plans",
+          "delivered_outputs": "Number of available planning tools to monitor and manage energy consumption in public buildings, Number of strategies supporting plans on energy consumption management for public buildings, Number of target groups participating in capacity raising activities on energy efficiency for public buildings, Number of regions and sub-regions engaged (through charters, protocols, MoU) in developing energy efficiency plans/strategies, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 10,
+          "title": "Construction and renovation"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21384,
+      "acronym": "ACT4LITTER",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Joint measures to preserve natural ecosystems from marine litter in the Mediterranean Protected Areas",
+          "description": "Many Mediterranean Marine Protected Areas (MPA) affirm that Marine Litter (ML) represents one of the major threats for the protection of biodiversity and marine ecosystems and confirmed the lack of knowledge and skills on how to effectively tackle this issue at their level.\r\nML is a priority of the Euro-Mediterranean policies for sustainable development. Recently, many actions have been implemented but these policy commitments still need to be translated into the MPA context. \r\nACT4LITTER will aim at reviewing the most promising proposed measures and select the ones that could be implemented in the MPA , considering particularly the ecosystem services. The selection of measures will result in the development of MPA-specific action plans whose implementation could be the object of a future project. In addition, those plans will be complemented, by a realistic and operational governance plan at transnational level. \r\nMPA stakeholders and key experts of ML value chain will be involved all through the process in order to validate the outputs together. The action plans will have a strong focus on preventive measures, using circular economy and sustainable consumption and production approaches. \r\nThe issue of ML is global but MPAs are directly affected by its increasing amount, restraining highly the achievement of the conservation goals.",
+          "expected_results": "1 Strengthened networking of MPAs in defining a common framework of measures to address the problem of ML in the Mediterranean Sea : By offering a dedicated space for that, the ACT4LITTER project will strengthen the cooperation of Mediterranean MPAs, experts and partners and identify the most creative, innovative and applicable measures. Prevention of the generation of ML upstream in its value chain will be at the core of the effective solutions proposed to significantly hamper the loss of biodiversity in Mediterranean MPAs. Intensive cooperation between and among Mediterranean MPAs will be assured through their participation in the Associated Partner Group (APG) which has a key role in the project to guarantee the scientific and technical quality of project outcomes and their high potential of application at the end of the project. In addition, the participation of MedPAN as beneficiary partner will ensures the dissemination to the rest of the MPAs (not directly involved in the project) and sustainability of the project results. Finally, it is expected that the participation of experts on ML management in the APG in close cooperation with the MPAs managers will increase the multiplying effect of the measures identified being the base to build new projects (module 2) to test the efficiency of the most promising measures in the Interreg MED new programming period.1 Strengthened networking of MPAs in defining a common framework of measures to address the problem of ML in the Mediterranean Sea : By offering a dedicated space for that, the ACT4LITTER project will strengthen the cooperation of Mediterranean MPAs, experts and partners and identify the most creative, innovative and applicable measures. Prevention of the generation of ML upstream in its value chain will be at the core of the effective solutions proposed to significantly hamper the loss of biodiversity in Mediterranean MPAs. Intensive cooperation between and among Mediterranean MPAs will be assured through their participation in the Associated Partner Group (APG) which has a key role in the project to guarantee the scientific and technical quality of project outcomes and their high potential of application at the end of the project. In addition, the participation of MedPAN as beneficiary partner will ensures the dissemination to the rest of the MPAs (not directly involved in the project) and sustainability of the project results. Finally, it is expected that the participation of experts on ML management in the APG in close cooperation with the MPAs managers will increase the multiplying effect of the measures identified being the base to build new projects (module 2) to test the efficiency of the most promising measures in the Interreg MED new programming period.2 Improved management of the participating MPAs through the definition of MPA-specific action plans to reach good environmental status in the marine env : On the basis of the evidence collected from literature review, the key findings of relevant assessments showed that the potential measures to address the problem of ML need to be tailored to particular contexts. ACT4LITTER focuses on the specificities of MPAs and via the ‘vehicle’ of proper ML management, the management of the MPAs themselves will be considerably enhanced. Dealing with ML requires the know-how and skills to deal with a complex and multi-faceted problem through a coordinated and harmonised approach with all sectors at all levels. ACT4LITTER directly responds to the needs expressed by the participating MPAs. The foreseen action plans at MPA level will support a better response to address the ML problem at Mediterranean-wide level, in a coordinated way. Concrete actions can be implemented jointly by MPAs at local/sub-regional proximity. Involvement of the different actors along the ML value chain in the project activities and processes will significantly contribute to achieving Good Environmental Status (GES) by 2020.3 Enhanced implementation of EU policies and International agreements through awareness raising : A successful integrated management of the ML problem requires a comprehensive approach where the different perspectives of the Mediterranean area are considered. This is why ACT4LITTER is oriented to raise the awareness on the problem among the different actors involved in the life cycle of litter in different Mediterranean regions and in an efficient and effective way to achieve the objectives established in the UNEP/MAP Regional Plan on ML management in the Mediterranean Sea and in the EU Marine Strategy Framework Directive (which aims at achieving or maintaining GES by 2020). Lessons learned and capitalisation of previous EU and other project efforts and achievements will be the starting point (e.g. DEFISHGEAR, MARLISCO, etc.).",
+          "achievements": null,
+          "expected_outputs": "Joint Governance plan to address the problem of Marine Litter in the Mediterrean MPA,Surface of habitats afected by the measures included in the MPA-specific action plans",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Mesures conjointes pour préserver les écosystèmes naturels des déchets marins dans les aires protégées de Méditerranée",
+          "description": "Beaucoup d’aires marines protégées Méditerranéennes (AMP) affirment que les déchets marins (DM) représentent l'une des principales menaces pour la protection de la biodiversité et des écosystèmes marins et ont confirmé le manque de connaissances et de compétences sur la façon de lutter efficacement contre ce problème à leur niveau.\r\nLa question des DM est une priorité des politiques euro-méditerranéennes pour le développement durable. Récemment, de nombreuses actions ont été développées, mais les engagements politiques doivent encore être mis en application dans le contexte des AMP.\r\nACT4LITTER visera à examiner les mesures existantes les plus prometteuses et sélectionner celles qui pourraient être utilisées par les AMP, en considérant particulièrement les services écosystémiques. Le choix des mesures se traduira par l'élaboration de plans d'action spécifiques aux AMP, dont la mise en œuvre pourrait être l'objet d'un futur projet. De plus, ces plans seront complétés par un plan de gouvernance réaliste et opérationnel au niveau transnational.\r\nLes AMP et les experts clés sur les DM seront impliqués tout au long du processus afin de valider les résultats ensemble. Les plans d'action auront un fort accent sur les mesures préventives, basés sur l’économie circulaire et de la consommation et la production durables. \r\nLa question des DM est mondiale, mais les AMP sont directement touchées par sa quantité croissante, limitant fortement la réalisation des objectifs de conservation.",
+          "expected_results": "1 La mise en réseau des AMP pour la définition d'un cadre commun de mesures pour résoudre le problème de la ML dans la : NA1 La mise en réseau des AMP pour la définition d'un cadre commun de mesures pour résoudre le problème de la ML dans la : NA2 La gestion des AMP participantes est améliorée par la définition de plans d’action spécifiques pour les AMP afin d : NA3 La mise en œuvre des politiques de l'UE et des accords internationaux est renforcée par le biais de la sensibilisation : NA",
+          "achievements": null,
+          "expected_outputs": "Plan de gouvernance conjointe visant à traiter du problème des déchets marins dans les AMP de Méditerranée,Surface des habitats concernés par les mesures prévues dans les plans d'action spécifiques aux AMP",
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21380,
+      "acronym": "+ RESILIENT",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Open REsouRcEs for Social Innovation of SociaLly ResponsIve ENTerprises",
+          "description": "+RESILIENT puts together a 4-helix partnership of 8 MED countries to tackle the need for innovation conducive to increased socially-responsive competitiveness of SMEs & stimulate new jobs, especially for companies operating in the social economy. It aims to kickstart a process of policy change at regional level in the involved areas resulting in the integration of successful elements into the new Cohesion policy (EU2020+). \r\n\r\nThe overall objective is to positively influence, adapt/change the different structural elements of policy governing \"clusters with high social vocation and responsiveness\" (SVRC) by leveraging on innovation dynamics led by technology, open data & successful models with social relevance & impact, creating socially-responsive value chains at a transnational level. \r\n\r\nSVRC are usually codified only at local level, so the project addresses the transnational dimension as networking and capacity building approach to achieve a critical mass, increase horizontal opportunities for SMEs, mobility, employability and for scaling up into Cohesion Policy and Funds. \r\n\r\nIt is an integrated project that establishes a structural approach to policy & practice improvement of emerging dynamics in social innovation through an overarching process based on the intertwined use of open data & the creation of a transnational socially-responsive value chain. This includes studying existing initiatives, adapting and testing, with the final objective of capitalizing them in the MED area.\r\n\r\nInformation added on 2020-05-27, regarding the mitigation of the effects of COVID-19 (the coronavirus pandemic that started in 2019) (English language only): + Resilient is providing solutions for reemployment recovery after the COVID pandemic, through the development of a platform for the management of skill mismatch and the creation of job opportunities.",
+          "expected_results": "1 SVR Clusters implement sets of innovative transnational /common policies/operations : As a result of the transnational cooperation, SVRCs stakeholders have improved their operational and strategic capability to innovate their services in three main reference social innovation scenarios: 1) innovative public services, 2) civil society-led social innovation and 3) cross-sectoral social vocation and responsiveness.SVRCc are identified, adapted through benchlearning, and improvements tested at local and transnational level and they better respond to common socially-driven market requirements and human capital needs. The streamlining of open/big data and the codification in user-case scenarios into a transnational OD platform allow for better interoperability and usability not only in the involved territories, but in the whole MED area.SVRCs improve delivery of services and locally implement sets of transnational /common policies/operations by leveraging on a common framework in line with existing policy. The delivered consolidated mix of activities embeds the potential of open/big data and technology and improved models (tools, services and methods, and transnational open data hub).1 SVR Clusters implement sets of innovative transnational /common policies/operations : As a result of the transnational cooperation, SVRCs stakeholders have improved their operational and strategic capability to innovate their services in three main reference social innovation scenarios: 1) innovative public services, 2) civil society-led social innovation and 3) cross-sectoral social vocation and responsiveness.SVRCc are identified, adapted through benchlearning, and improvements tested at local and transnational level and they better respond to common socially-driven market requirements and human capital needs. The streamlining of open/big data and the codification in user-case scenarios into a transnational OD platform allow for better interoperability and usability not only in the involved territories, but in the whole MED area.SVRCs improve delivery of services and locally implement sets of transnational /common policies/operations by leveraging on a common framework in line with existing policy. The delivered consolidated mix of activities embeds the potential of open/big data and technology and improved models (tools, services and methods, and transnational open data hub).2 SVRCs become integrated elements and measures of mainstream policy and funding : The consolidation at transnational level of emerging SVRCs as a factor of growth and jobs is mainstreamed in coherence with macro and local policy (for example social innovation local and national policy framework, RIS 3, ERDF ESF structural funds in the period 2020+) and regional authorities/ policy makers include successful elements in policy and measures for inclusion, employment, entrepreneurship, social and health services, support to strategic sectors such as those in the smart specialization and cross-sectoral economies such as accessible and sustainable tourism, green and blue growth. The project’s support tools tested such as knowledge transfer, social innovation skills, financial collaborative or innovative tools, mobility and cross-country partnering, capacity building and pilot actions become functional elements in investments, projects and initiatives supported by improved policy structural, or other funding during and after the end of the project.3 SVRC generate jobs, skills and social cohesion : The reinforcement of SVRCs capability includes open data, exchange of effective models of social innovation and methods of user-centered co-creation resulting in enhanced competitiveness and expertise to respond to changing needs and viable responses to demographic change challenges. In particular SVRCs growth is supported by the cross-sectoral concept of Social Return on Investment and focuses on :- Human capital with innovation potential,- Individuals finding new opportunities to contribute to growth of existing business- Creation of new enterprises- Policy-makers with stakeholders to identify areas of social investment both at policy and operational level.This results in the increase of transnationally recognized professional profiles as agents in social innovation, jobs opportunities especially for most vulnerable people, social cohesion, socially responsive economies and social entrepreneurship and dynamics of sharing economy,including financial and support services (e.g. microfinance and crowdfunding) and other actions leading to an early and enhanced participation in economic activities and development.4 SVRCs respond better to socially-driven market requirements in different sub-sectors and in other MED areas : As result of project's communication, transfer and capitalization MED authorities, stakeholders in other areas in the MED (and beyond), projects ( with collaboration with HP) and networks activities, policy- making bodies and representatives benefit from the transferred knowledge and concrete tools/methods implemented . 4-helix stakeholders: a)Policy makers; b) SMEs and social enterprises of SVRCs; c) Intermediaries/Employment Agencies providers of PSI open data; d) Social innovation R&D (universities, research); e) Civil society actors working in social innovation and cohesion have a better understanding of the potential and relevance of SVRC and are provided the methods and tools to further replicate the strengthening process generated by the project's activities, to better respond to socially-driven market requirements in different sub-sectors and in other areas",
+          "achievements": "In the period from March to the end of August 2021, the delayed activities regarding Module 2 have been implemented. In June we have been able to finally conclude all activities of WP 4 – with the finalization of the pilot actions (12 in total), the final evaluation and the definition of the + RESILIENT approach. Rather than a model, the results of the pilot actions have led to a diverse set of approaches that reflect the complexity of social innovation vis a vis with the different baseline and interest/focus of the MED areas. As in the previous semesters, the partnership has continued to work remotely. Management has continued online, with coordination meetings that have mostly focused on the delicate passage from Module 2 to 3, in light of the fluidity of the pandemic and the way it impacts single areas. Looking forward to meeting in person, the Transnational meeting n 7 has been postponed to the next period. The external evaluation for the passage from M 2 to M 3 has been implemented in this period.Official modifications of the project (Duration, budget and some other minor adjustments) have been agreed upon among partners and communicated to the JS. We have concentrated all communication activities online, on our social FB account, on the minisite and via newsletters. Three teleconference meetings concerning the coordination and progress of WP 4 and 5 have been organized and coordinated by REMTH, with the participation of all partners, except for the Albanian partner, UCCIAL.All foreseen pilot actions were carried out and framed into the three macro scenarios. The 4-helix approach, therefore, has been part and parcel of the implementation. The final evaluation report consolidated by AMU show seven dimensions of the social innovation grid: 1) Answer to unmet social needs; 2) Participative process; 3) Territorial relationships – Ecosystem; 4) Economic sustainability; 5) Share of the value created; 6) Skills development, 7) Use or creation of open data. As to WP 5, preparatory activities have started in March and planning of training and scale up and scale out events has been defined according to a proposal shared by ANCI. Two out of six transfer webinars have been carried out in this period. Also, some partners were able to organize the transfer events, but the majority of such events will be carried out in the next period. All webinars are also available on the open data platform opensocialcluster.eu.Preparatory actions of WP 6 have started.",
+          "expected_outputs": "+ RESILIENT OPEN DATA PLATFORM,+ RESILIENT MODEL,+ Resilient network,Policy commitment,Transnational agreements,SVRC WHITE PAPER",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "RESSOURCES OUVERTES DE LA MÉDITERRANÉE POUR L'INNOVATION SOCIALE DES ENTREPRISES SOCIALEMENT SENSIBLES",
+          "description": "+ RESILIENT met en place un partenariat 4 hélices de 8 pays MED afin de répondre au besoin d'innovation propice à une compétitivité sociale accrue des PME et de stimuler de nouveaux emplois, en particulier pour les entreprises dans l'économie sociale. Il lance un processus de changement de politique au niveau régional dans les domaines concernés, aboutissant à l'intégration d'éléments réussis dans la nouvelle politique de cohésion (EU2020 +). L'objectif est d'influencer positivement, d'adapter / modifier les éléments structurels de la politique régissant les «clusters à vocation et réactivité sociale élevées» en s'appuyant sur des dynamiques d'innovation conduites par la technologie, créer des chaînes de valeur socialement sensibles au niveau transnational. Le projet aborde la dimension transnationale en tant qu'approche de mise en réseau et de renforcement des capacités pour atteindre une masse critique, accroître les opportunités horizontales pour les PME, la mobilité, l'employabilité et la transposition en politique de cohésion et en fonds. Il s'agit d'un projet intégré qui établit une approche structurelle de l'amélioration des politiques et des pratiques de la dynamique émergente de l'innovation sociale à travers un processus global basé sur l'utilisation entrelacée des données ouvertes et la création d'une chaîne de valeur transnationale. Cela inclut l'étude des initiatives existantes, l'adaptation et les tests, avec l'objectif final de les capitaliser dans la zone MED.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21379,
+      "acronym": "DestiMED",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Ecotourism Destination: main components (joint planning, monitoring, management and promotion)for a governance system in Mediterranean protected areas",
+          "description": "Tourism illustrates an important source of revenues and employment in the MED area. At the same time it implicates enormous negative impacts for nature and society. \r\nSome years ago, the concept of ecotourism appeared. What does this imply for the MED area? Unfortunately not much. Despite increasing international efforts to create harmonized concepts, agreed definitions and quality standards are missing in the MED area. Due to the lack of coherent planning and monitoring and seriously perceived promotion, ecotourism in the MED does not yet constitute a real alternative. \r\nThis could be changed through a governance system for ecotourism in protected areas, e.g. constituted through a destination management organisation (DMO). Such DMO could harmonize quality standards and tools to monitor compliance, propose attractive ecotourism offers promoted through a lasting brand. \r\nThis is where the project DestiMED comes into play aiming to build pre-conditions for a DMO: \r\nFirstly, it will further develop and test standards, offers and monitoring tools - forming the quality scheme of a future DMO. It will build on results of the MEET project that created and tested planning and marketing approaches. These will be enriched by a monitoring tool. \r\nThe offers and tools developed will subsequently be tested in pilot actions involving local actors as well as the local community. In parallel, a network (based on the MEET network) will serve as idea-smithy to further shape the DMO.",
+          "expected_results": "1 A “Mediterranean Ecotourism destination” sustainability monitoring system : First action will be the analysis of existing environmental and socio-economic assessment standards ( MEET project results – ECST, GSTC, ETIS...) at destination level, and adaptation of the appropriate ones as “Med ecotourism destination standards”. The standards will be verified with ETIS-deriving indicators, therefore they will serve as an instrument for the evolution of sustainability in Med protected coastal areas.Itwill be tested at the destination level during the 13 Pilot Actions implementation, to track changes of sustainability over time. At the local scale a sustainability monitoring systemwill be implemented to assess the level of sustainability of tourism activities, structures and services of DestiMED ecotourism packages compared with similar activities/structures/services of the destination. To define the baseline, DestiMED project will firstly assess the ecological footprint and the ecological deficits of the tourism destinations to derive an initial sustainability checks. The specific Ecological Footprint of the DestiMED ecotourism products will then be assessed and compared to the above benchmark. Ecological deficits for the destinations will then be assessed again at the end of the project to assess transition towards sustainability over time, once again being able to feed the programme’s indicator of improved sustainability. Building on the above outcomes, specific guidelines for the establishment and implementation of tourism management plans for Mediterranean PAs will be also developed.1 A “Mediterranean Ecotourism destination” sustainability monitoring system : First action will be the analysis of existing environmental and socio-economic assessment standards ( MEET project results – ECST, GSTC, ETIS...) at destination level, and adaptation of the appropriate ones as “Med ecotourism destination standards”. The standards will be verified with ETIS-deriving indicators, therefore they will serve as an instrument for the evolution of sustainability in Med protected coastal areas.Itwill be tested at the destination level during the 13 Pilot Actions implementation, to track changes of sustainability over time. At the local scale a sustainability monitoring systemwill be implemented to assess the level of sustainability of tourism activities, structures and services of DestiMED ecotourism packages compared with similar activities/structures/services of the destination. To define the baseline, DestiMED project will firstly assess the ecological footprint and the ecological deficits of the tourism destinations to derive an initial sustainability checks. The specific Ecological Footprint of the DestiMED ecotourism products will then be assessed and compared to the above benchmark. Ecological deficits for the destinations will then be assessed again at the end of the project to assess transition towards sustainability over time, once again being able to feed the programme’s indicator of improved sustainability. Building on the above outcomes, specific guidelines for the establishment and implementation of tourism management plans for Mediterranean PAs will be also developed.2 A tested and monitored Ecotourism offer for Mediterranean protected areas : DestiMED pilot actions will focus on assessing and improving the sustainability of the newly developed ecotourism products through the monitoring instrument defined in result 1. The WP “Testing”, therefore, envisages the creation of completely new ecotourism products in the protected areas. This will create a baseline for the territory that will allow for a clear comparison before/after as regards sustainability improvement.The process of ecotourism product development – to which the monitoring tool will be applied - is based on the principles of the ECST and on the results of MEET project, and it includes the participatory planning of the ecotourism activities to be implemented in the package (and beyond) with local stakeholders (Local Ecotourism Cluster - LEC). A Manual of Ecotourism planning and promotion in Mediterranean PAs will be developed including the sustainability criteria and branding requirements identified in result 2. The Local Ecotourism Cluster will be responsible for the diffusion and promotion of the project results at local scale.DestiMED project will establish and implement a clear capacity building strategy for all involved Pilot Actions stakeholders, with the purpose of ensuring pilot actions are properly implemented and that ecotourism activities in Mediterranean coastal and marine protected areas and beyond are planned, implemented and promoted in a coherent, sustainable and viable way3 Mediterranean Ecotourism governance framework : Building on the existing MEET network (which includes 24 Protected Areas - from 8Mediterranean countries) represented by project partner IUCN Med, DestiMED project will work towards the identification of a shared vision and actual tools to set up and develop a Mediterranean governance framework for Ecotourism; DestiMED will focus on: -\tDrafting a plan for ensuring the transferability of projects results at regional scale -\tDefining the main components of a suitable governance system (DMO) building on DestiMED results;-\tDeveloping a feasibility study for the forthcoming DMO-\tDeveloping a progressive and cohesive brand strategy and marketing plan that enables clear communications and ensure products’ and services’ adherence to the common Brand, Standard and Baseline Sustainability Criteria (result 1 – ETIS indicator A.4)By providing all the components for the future functioning of an ecotourism governance system (DMO), DestiMED will put the basis for the creation and promotion of the Mediterranean as a unique “Ecotourism destination”, therefore clearly contributing to MED Programme results indicator.",
+          "achievements": "During the January-June 2019 period, and as the project is approaching its end, the main focus of the partnership started to shift from Testing to WP Transferring activities. All PPs efforts were therefore aimed at progressing towards the completion of testing-related activities, and at starting and implementing transferring activities.Under WP1, partners continued to cooperate to ensure coordination of activities as well as periodic technical and financial reporting of progress. In addition to periodic coordination calls, PPs representatives gathered for a technical and PSC meeting in June in Barcelona (held along the Sustainable Tourism Convention organized by HP).Within WP2, the whole partnership kept active, under the coordination of PP IUCN, in communicating the project accomplishments to external audiences and to the MED community. DestiMED hosted a side event during Sustainable Tourism HP final event held in Barcelona, and had the chance to share many of the project´s concrete deliverables and take-aways. The project video was launched in February 2019 and reached quite a large audience through the outreach efforts of project partners. The partnership also participated in one external tourism promotion event, such as ITB in Berlin.Within WP3, the 2nd and last round of tests of the pilot ecotourism packages was carried out in May-June in 4 pilot PAs (the 2 Albanians and the 2 of Lazio Region). As for previous rounds, feedback from testers was collected by means of a structured questionnaire. Results are being assessed by PPs. Based on results of this test, it will be possible to have the Ecological Footprint balance (1st vs 2nd test) calculated for all the 13 destinations targeted by pilot actions. Data from tests will also be exploited to develop the Ecological Footprint Calculator (Deliv \n\n3.\n\n3.4). A 3rd additional regional training for Local Ecotourism Clusters representatives was also organized and implemented in April in Albania. Activities of WP4 intensified in this reporting semester. Several dissemination and transferability events (Act.\n\n4.3) took place in particular in Spain (IUCN Med), Greece (WWF Med), Croatia (WWF Adria) and Italy (Federparchi and Lazio Region). Concerning the regional event to be held by the end of the project (Act.\n\n4.\n\n4.), partners finally agreed on the date and scope of the event, and on main subdivision of tasks and responsibilities. Preparatory activities were expected to become more intensive starting from July.",
+          "expected_outputs": "Mediterranean Ecotourism Destinations Standard for products,Monitoring system to assess the level of sustainability of tourism offer at Park level,Local Ecotourism Clusters in protected areas,DestiMED Ecotourism products apporach,Transferability Plan of Pilot Project results and achievements,Guidelines for the establishment of eco-tourism management plans for Mediterranean Pas",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Destinations Ecotouristiques méditerranéennes: principales composantes (planification conjointe, surveillance, gestion et promotion) pour un système de gouvernance dans les aires protégées de la Méditerranée",
+          "description": "Le tourisme constitue une source importante de revenus et d'emploi dans la zone MED. En même temps, il implique d'énormes impacts négatifs pour sa nature et société.\r\nIl y a quelques années, le concept de l'écotourisme est apparu. Qu'est-ce que cela implique pour la région MED ? \r\nMalheureusement pas beaucoup. Malgré l'intensification d'efforts internationaux visant à créer des concepts harmonisés, des normes de qualité conjoints manquent dans la région MED. En raison de l'absence d'une planification et suivi cohérentes ainsi qu'une promotion sérieuse, l'écotourisme ne constitue pas une véritable alternative.\r\nCela pourrait être changé par un système de gouvernance pour l'écotourisme dans les aires protégées, par exemple constituée par une organisation de gestion des destinations (DMO). Le DMO pourrait harmoniser les normes de qualité et les outils de suivi, proposer des offres attractives promus par une marque stable.\r\nLe projet DestiMED y entre en jeu visant à construire les conditions préalables: \r\nTout d'abord, il développe davantage et teste des normes, des offres et des outils de suivi (créant le schéma de qualité). Il se fonde sur les résultats du projet MEET qui a créé et testé des approches de planification et de marketing. Ceux-ci seront enrichis par l'outil de suivi.\r\nEnsuite, ce schéma développé sera testé par des actions pilotes impliquant des acteurs locaux ainsi que la communauté locale. Le réseau servira comme un ateliler de future pour modéler le DMO.",
+          "expected_results": "1 Un système de surveillance de la durabilité \"de la destination méditerranéenne écotourisme\" : not needed1 Un système de surveillance de la durabilité \"de la destination méditerranéenne écotourisme\" : not needed2 Une offre de l'écotourisme testée et contrôlée pour les aires protégées de la Méditerranée : not needed3 Cadre de gouvernance de l'écotourisme Méditerranée : not needed",
+          "achievements": null,
+          "expected_outputs": "Destinations méditerranéenne écotourisme: standard,Système de contrôle pour évaluer le niveau de durabilité de l'offre touristique au niveau du parc,Clusters locales d'écotourisme dans les aires protégées,Produits d'écotourisme DestiMED,Plan des transférabilité des résultats et des réalisations du projet pilote,Lignes directrices pour la mise en place de plans de gestion de l'éco-tourisme pour MPAs méditerranéens",
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21378,
+      "acronym": "PHAROS4MPAs",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Economie bleue et conservation marine: Préserver les AMP de Méditerranée afin d'atteindre le Bon Etat Ecologique",
+          "description": "Le développement de l’Economie Bleue et de la Planification Spatiale Maritime (PEM) représentent un défi transnational pour les aires marines protégées(AMP). Les secteurs de l’économie maritime vont opérer de plus en plus souvent dans et à proximité des AMP avec des impacts croissants, alors qu'en même temps, la Directive Stratégie pour le Milieu Marin exige d’atteindre le Bon Etat Ecologique du Milieu Marin d’ici 2020. \nDe nombreux projets européens et d’autres initiatives ont publié des résultats concernant les AMP et leurs interactions avec les secteurs maritimes mais il manque une approche intégrée méditerranéenne. Capitalisant sur ces résultats, PHAROS4MPAs va livrer un cadre intégré de recommandations pour la collaboration pratique nécessaire entre les AMP de Méditerranée et les activités maritimes, adaptés à une appropriation par les cibles du projet.\nLe changement attendu est une efficacité de la gestion et une mise en réseau accrues pour les AMP. Le but ultime est la préservation de la biodiversité et des écosystèmes marins. \nL’approche et les livrables comprennent la définition d’une base de capitalisation partagée, des recommandations, des outils adaptés à une appropriation par le réseau MedPAN, les autorités de Planification de l’Espace Maritime, la Commission Européenne, la Convention de Barcelone et les secteurs maritimes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Plan de gouvernance conjoint,Expressions d'intérêt des actuers dans les groupes cibles,Habitats soutenus pour atteindre un meilleur état de conservation",
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Blue Economy and Marine Conservation: Safeguarding Mediterranean MPAs in order to achieve Good Environmental Status",
+          "description": "The development of Blue Economy and Maritime Spatial Planning (MSP) represents a transnational challenge for marine protected areas (MPAs). Maritime sectors have started to operate more and more frequently inside and in the vicinity of MPAs with expected growing environmental impacts, while at the same time, the Marine Strategy Framework Directive requires to reach Good Environmental Status of the European Seas by 2020. \nMany EU projects and other initiatives have published results and recommendations concerning MPAs and their interactions with economic sectors but a Mediterranean integrated approach is lacking. By capitalizing on these results, the PHAROS4MPAs project will deliver an integrated framework for recommendations on the necessary practical collaboration between Mediterranean MPAs and the maritime sectors adapted to appropriation by the project’s targets. \nThe expected change originating from the project is an enhanced management effectiveness and networking for Mediterranean MPAs, which will ultimately contribute to the conservation of marine biodiversity and natural ecosystems. \nApproach and outputs include delivering common capitalization baselines, recommendations and policy tools adapted to appropriation by the MedPAN network, MSP Authorities, the European Commission, the Barcelona Convention and the various maritime sectors.",
+          "expected_results": "1 MPA management effectiveness and networking is enhanced through capacity building and engagement under the MedPAN network and MPA authorities. : Pressures and impacts from the operations of maritime sectors are known, evaluated, managed, monitored and eventually mitigated by Mediterranean MPAs. As a consequence, an increased share of marine protected areas are meeting their conservation goals and objectives, thanks to their improved management.1 MPA management effectiveness and networking is enhanced through capacity building and engagement under the MedPAN network and MPA authorities. : Pressures and impacts from the operations of maritime sectors are known, evaluated, managed, monitored and eventually mitigated by Mediterranean MPAs. As a consequence, an increased share of marine protected areas are meeting their conservation goals and objectives, thanks to their improved management.2 MPA management effectiveness is strengthened by an adequate inclusion of MPA networks issues in the national maritime spatial plans / ICZM strategies : Pressures and impacts from the operations of maritime sectors are known, evaluated, managed, monitored and eventually mitigated by Mediterranean MSP/ICZM authorities and addressed in the Ecosystem Approach of the Mediterranean Action PlanAs a consequence, an increased share of marine protected areas are meeting their conservation goals and objectives.3 MPA management effectiveness is strengthened by an adequate inclusion of MPA networks issues in maritime sectors strategies. : Pressures and impacts from the operations of maritime sectors are known, evaluated, managed, monitored and eventually mitigated by the maritime sectors themselves. As a consequence, an increased share of marine protected areas are meeting their conservation goals and objectives.",
+          "achievements": "The project obtained a 6 months extension, therefore all deliverables are expected to be completed in time for step 4: the stakeholder engagement phase, targeting the four diversified target groups of the project.The overview of project main outputs achievement will be mainly documented during the 4th semester of the project. Workpackage 1:WWF-France ensured the coordination of the project over the whole period, including many daily exchanges with all the partners as well as : - Organisation and participation to Steering Committees: 8th SC meeting (online April 24, 2019), 9th SC meeting (face-to-face in Venice on May 2-3, 2019)- Update of Synergie: All partners have entered their expenses in Synergie. All partners except NAPA (Albania) have had their 3rd semester expenses certified and their expenses included in the request for payment. All partners produced a progress report. - An evaluation report was produced after the 3rd face-to-face Steering Committee. - A request for a 6-month extension of the project was prepared and approved. The project will end on January 31 \n\n2019. Workpackage 2:- Active contribution of all partners to the first phases of the implementation of the Communication Plan. - WWF-France and WWF-Med attended the European Maritime Days in May \n\n2019. Targeting maritime professionals, entrepreneurs and ocean leaders, this event represented the perfect occasion to meet key stakeholders from the aquaculture and offshore wind energy sectors to promote our first recommendations. Specific communications was done around this event - social media post, creation of a stand.Workpackage 3: Over this period, the following capitalisation reports were finalised : -\tMPAs and offhsore windfarms-\tMPAs and maritime transport-\tMPAs and cruise4 capitalisation reports are close to be finalised : -\tMPAs and aquaculture-\tMPAs and recreational fisheries-\tMPAs and leisure boating-\tMPAs and scuba-divingCross-cutting issues : A chapter was drafted by the LP on a general approach to MPAs interactions with Blue EconomyBased on the capitalisation reports, the following recommendations were finalised (before layout): -\tMPAs and offshore windfarms-\tMPAs and cruise-\tMPAs and aquaculture-\tMPAs and recreational fisheries-\tMPAs and scuba-diving Due to lack of time, it was decided that the recommendations on MPAs and scubadiving and MPAs and tour boats will not go through the rewriting andlayout process under the responsability of WWF-Med.",
+          "expected_outputs": "Joint governance plan,Expressions of interest by stakeholders in target groups,Habitats supported to attain a better conservation status",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 21,
+          "title": "Regional planning and development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21377,
+      "acronym": "STEPPING",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Soutenir l’avancement du Marché public EPC",
+          "description": "Les Contrats de Performance Energétique (CPE) sont-ils toujours adaptés à la mise en place de plans d'efficacité énergétique dans la zone MED ? Comment les promouvoir ? L'expérience acquise par les partenaires du projet STEPPING ainsi que les résultats de projets MED antérieurs, témoignent de la nécessité d'adapter cet outil d'investissement aux contextes des pays de la zone MED, ceux-ci ne pouvant être assimilés à ceux des pays d'Europe du nord et de l'est. Il est donc nécessaire d'introduire des approches innovantes dans le développement de ces plans d'investissement.\nUne démarche collaborative transnationale basée sur l'échange d'expériences permettra de faciliter la mise en œuvre et la diffusion de modèles de CPE adaptés au pays de la zone MED, avec pour impact une transposition plus efficace des directives européennes sur l'efficacité énergétique dans les bâtiments publics.\nSTEPPING, avec des partenaires de 7 pays de la zone MED, permettra d'échanger les bonnes pratiques des CPE, de développer et évaluer 8 plans d'investissement faisant appel à des CPE et de lancer les appels d'offre afin de démontrer l'intérêt pour de telles solutions. Les enseignements du projet seront diffusés au sein des organisations partenaires du projet ainsi que largement au niveau MED, ceci grâce à la conception et publication d'un guide\" CPE MED guideline\" pour l'efficacité énergétique dans les bâtiments publics et un centre de ressources disponible en 7 langues.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Les plans d'investissement de l'EPC pour les autorités locales MED,.,MED DIRECTIVES EPC",
+          "delivered_outputs": "Nombre d'outils de planification disponibles pour le suivi et la gestion de la consommation énergétique dans les bâtiments publics, Nombre de stratégies en faveur des plans de gestion de la consommation énergétique dans les bâtiments publics, Nombre de groupes cibles participant aux activités de sensibilisation sur l'efficacité énergétique pour les bâtiments publics, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à développer des plans/stratégies d'efficacité énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Supporting The EPC Public Procurement IN Going-beyond",
+          "description": "Are Energy Performance Contract (EPC) always the best solution of energy efficiency plans of public buildings in the MED area? How to increase their diffusion? STEPPING’s partners past experience and results of MED projects developed under previous programmes, show that it is necessary to adapt this investment scheme to the conditions of the MED area, which are not comparable to those of northern and central EU countries. To this scope, it is necessary to introduce innovative approaches in the design of investment plans. A transnational collaborative action based on pooling and sharing of experiences can increase successful investment plans in the MED countries, accelerating the accomplishment of EU directives on energy saving in public buildings. STEPPING, grouping partners of 7 MED countries, mutualize EPC good practices among partners, to develop and test new 8 EPC investment plans, with the launch of tenders to prove their effectiveness in the MED context. The lessons learnt will be transferred into the ordinary practice of partner’s institutions and widely disseminated MED level, with the realization of \"EPC MED Guide line\" for energy efficiency in public buildings and a resource center available in 7 languages.",
+          "expected_results": "1 Reinforcement of capacities of public administrations to optimize energy planning measures leading to a reduction of energy consumption : Development of tools and models on EPC application for energy efficiency of MED public buildings, in support of elaboration and adoption by MED local institution of new Investment plans focused on energy efficiency of buildings.1 Reinforcement of capacities of public administrations to optimize energy planning measures leading to a reduction of energy consumption : Development of tools and models on EPC application for energy efficiency of MED public buildings, in support of elaboration and adoption by MED local institution of new Investment plans focused on energy efficiency of buildings.2 Growth of Share of regional, sub-regional and local (RSL) energy efficiency plans including adapted measures for public building stock : Eight new EE investment plans for at least 65 local MED municipalities on new EPC models for MED contexts, with launch of 4 tenders directly activating private investments on energy efficiency of MED buildings.3 Growth of capacities of owners and managers of public buildings to elaborate and implement energy efficiency practice : To directly train at least 600 people among public officers, experts and public procures on EPC use in MED context, and disseminate project’s outputs to an audience of at least 13.000 targets among local institutions, enterprises , experts and general public.",
+          "achievements": "STEPPING project is progressing its implementation phase. The 4th project meeting was organized in Elvas (PT) in October 2018, hosted by PP\n\n8. The 4th Steering Committee (PSC), also organized in Elvas, approved the request of Subsidy Contract amendment: project prolongation and other various amendments to the AF. The procedure was carried out by the LP and successfully completed within January \n\n2019. PR3 was submitted on time and was accepted with 2 rounds of clarification managed during late \n\n2018. LP kept periodical contacts with the HP–MEDNICE through conference calls, while the project actively participated to MED Lubjana event. The project communication campaign is boosted via STEPPING social media. STEPPING website contents are constantly updated. PP6 delivered the mid-term local events report: totally 17 local events, involving 650 stakeholders have been organized. PP2 worked at the implementation of the EPC MED Web Community http://steppingplatform.com/, contents updating is still ongoing. The English version of the flyer was released by PP5 and translated in all PP languages. It was already distributed during several meetings and events. Some PP have customized it with their pilots information. Activities related to IP are running everywhere and for several partners the IP documents have been already finalized. So far STEPPING managed to involve nearly 80 Municipalities and over 90 related buildings in the EPC process. The agreements signed with LAs could be considered as a further project indicator. A summary template for reporting and sharing the results of the IPs was prepared by PP1 and it will be included it in the STEPPING EPC platform. 2 propject main outputs (EPC investment plans model for MED local authorities and Procurement procedure for awarding energy efficiency works) have been delivered during this RP. The training package was completed, including also the simulation tool. The format for the trainings was elaborated by PP2, all PPs will start organizing training in the RP\n\n5. During 4th PM, PP6 presented and discussed with PPs a draft of the EPC MED Guidelines. Concerning the EPC policy recommendation, PPs are using the set of key questions elaborated by PP5 during meetings with policy-makers.",
+          "expected_outputs": "EPC investment plans model for MED local authorities,Procurement procedure for awarding energy efficiency works.,MED EPC GUIDELINES",
+          "delivered_outputs": "Number of available planning tools to monitor and manage energy consumption in public buildings, Number of strategies supporting plans on energy consumption management for public buildings, Number of target groups participating in capacity raising activities on energy efficiency for public buildings, Number of regions and sub-regions engaged (through charters, protocols, MoU) in developing energy efficiency plans/strategies, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 10,
+          "title": "Construction and renovation"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

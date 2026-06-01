@@ -1,0 +1,298 @@
+{
+  "current": 9,
+  "next": "https://keep.eu/api/search/projects/?page=10",
+  "previous": "https://keep.eu/api/search/projects/?page=8",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33223,
+      "acronym": "YOUthCARE4planet~A_Y_2...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "YOU(th)CARE 4 Planet - Youth Green Initiative for change",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: 059. Adaptation to climate change measures and prevention and management of climate related risks: fires (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem-based approaches)\n~\nSUMMARY: YouthCARE 4 Planet tackles significant transnational challenges in the Mediterranean region, particularly related to climate change adaptation, risk prevention, and disaster resilience. These issues are exacerbated by the region's vulnerability to climate impacts, increasing frequency of natural disasters. By focusing on youth engagement and eco-systemic care for people and the planet, the action aims to support a new environmentally conscious generation in planning, acting, advocating and accessing decision making to drive sustainable change.\nYouth-led Local Adaptation Plans will be developed and implemented, through participatory decision-making and collaborative governance, to translate into reality civil society initiatives on climate adaptation and disaster risk management. \nYouth-led Green Actions will be supported in Italy, Tunisia, and Egypt, enhancing the resilience and environmental sustainability of local communities. Additionally, the project will facilitate local and regional networking meetings, enabling youth CSOs and networks across the Mediterranean to share best practices and collaborate.\nFurthermore, multimedia storytelling will be produced to inform, educate and engage the general public, particularly young people, promoting environmental stewardship. An international networking forum will also be organised, featuring a series of exchange sessions that will culminate in an international forum. \nBy fostering a culture of environmental stewardship and providing tangible support to youth initiatives, the project will create a robust network of young environmental pioneers equipped to address the complex challenges of climate change and to voice out new and creative proposals, actions towards a more sustainable and resilient Mediterranean.\n~\nKEEP KEYWORDS: Education and training, Rural and peripheral development",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth in the Mediterranean Area engage and connect initiatives on climate change adaptation, risk prevention and disaster resilience, gaining enhanced awareness and capacities to co-plan, voice and lead actions towards a more sustainable future for People and Planet\n~\nEXPECTED RESULT: Youth Led Green Local Adaptation Plans (LAPs) co-designed with solutions and initiatives promoting socio-ecological transition in the Mediterranean Basin\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth in the Mediterranean Area engage and connect initiatives on climate change adaptation, risk prevention and disaster resilience, gaining enhanced awareness and capacities to co-plan, voice and lead actions towards a more sustainable future for People and Planet\n~\nEXPECTED RESULT: Youth Led Green Local Adaptation Plans (LAPs) co-designed with solutions and initiatives promoting socio-ecological transition in the Mediterranean Basin\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth in the Mediterranean Area engage and connect initiatives on climate change adaptation, risk prevention and disaster resilience, gaining enhanced awareness and capacities to co-plan, voice and lead actions towards a more sustainable future for People and Planet\n~\nEXPECTED RESULT: Youth Led Green Local Adaptation Plans (LAPs) co-designed with solutions and initiatives promoting socio-ecological transition in the Mediterranean Basin",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33222,
+      "acronym": "Sludge2Energy~A_T_2.1_...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Pyrolysis of Dried Sewage Sludge for the Production of Energy and Biochar, as a Multifactor Process for Energy Efficiency and Reduction of Gas Emissions",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 046. Support to entities that provide services contributing to the low carbon economy and to resilience to climate change, including awareness-raising measures\n~\nSUMMARY: The energy that is consumed (and the respected funds) for the management of sewage sludge in central wastewater treatment facilities (CWTF), the pollutants (mainly of organic nature) that are distributed through the existing soil application of sewage sludge and the emerging concern that this creates, the energy (heat and power) that could be potentially produced when dried sewage sludge is used as a fuel, the energy that could be saved when biochar produced from sewage sludge could be used locally as a soil amendment and finally the carbon that is sequestrated (removed) from the atmosphere within that same biochar are the challenges that the Sludge2Energy project aims to tackle. Will do so by taking advantage of a common characteristic of the Mediterranean region related with the most predominant existing sewage sludge management process, that of solar drying. With the majority of relevant facilities in the basin adopting solar drying in order to reduce moisture and decrease the cost of utilization (mainly though soil application for organic matter enrichment) or final disposal of sewage sludge (mainly in landfills), the opportunity for energy and biochar production through the state of the art process of pyrolysis, becomes a common and transnational opportunity. This will change completely the way the sludge is managed and also how is regarded, from a waste to a raw material of numerous potentials. The beneficiaries of such change in the current situation are numerous, with the local population (and visitors) at the top of the list. This is due to the risk reduction of water (surface and underground) contamination from organic pollutants as for example pharmaceuticals and contaminants as the antibiotic resistance bacteria and genes (ARBGs). Similarly, people that are serviced by these wastewater treatment facilities will benefit from the energy saved and produced, as will be the global climate from the reduction of emissions and carbon sequestration.\n~\nKEEP KEYWORDS: Energy efficiency, Institutional cooperation and cooperation networks, Waste and pollution",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Jointly establish, operate, evaluate and optimize pyrolysis of solar dried sewage sludge as an energy utilization and biochar production methodology, in an effort to reduce the carbon emissions related with sludge management and contribute to carbon sequestration and climate change mitigation.\n~\nEXPECTED RESULT: Acquisition and commissioning of 3 pilot / demonstration pyrolysis units for 3 CWFTs placed in 1 EU state and 2 MPCs and combined operation with an existing 4th placed in EU (HMU), in an effort to determine the optimum operational characteristics and the real possibilities in the Mediterranean.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Jointly establish, operate, evaluate and optimize pyrolysis of solar dried sewage sludge as an energy utilization and biochar production methodology, in an effort to reduce the carbon emissions related with sludge management and contribute to carbon sequestration and climate change mitigation.\n~\nEXPECTED RESULT: Acquisition and commissioning of 3 pilot / demonstration pyrolysis units for 3 CWFTs placed in 1 EU state and 2 MPCs and combined operation with an existing 4th placed in EU (HMU), in an effort to determine the optimum operational characteristics and the real possibilities in the Mediterranean.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Further protect soil, crops and water bodies from the direct soil application of sewage sludge and the threat that this practice imposes due to the presence of organic pollutants (eg pharmaceuticals), micro and nanoplastics and ARBGs, recovering at the same time valuable nutrients and especially P.\n~\nEXPECTED RESULT: Considerable field work results to quantify: a) the threat presented by the existing sludge disposal approach, and b) the quality and possibilities of the produced biochar among others as a soil amendment. Utilization of data and units’ operation to raise awareness and reconsider policies.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Further protect soil, crops and water bodies from the direct soil application of sewage sludge and the threat that this practice imposes due to the presence of organic pollutants (eg pharmaceuticals), micro and nanoplastics and ARBGs, recovering at the same time valuable nutrients and especially P.\n~\nEXPECTED RESULT: Considerable field work results to quantify: a) the threat presented by the existing sludge disposal approach, and b) the quality and possibilities of the produced biochar among others as a soil amendment. Utilization of data and units’ operation to raise awareness and reconsider policies.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33221,
+      "acronym": "Gov4GreenMed~A_G_4.1_0202",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Inclusive Governance Models 4 a Greener Transition in the Mediterranean",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: There are still many challenges to overcome to make the local green transition a reality across the Mediterranean region. Municipal solid and food waste management is a key field of interest that if planned and managed properly, can boost this transition through local initiatives. However, it is essential to improve the capacities of public authorities and other stakeholders to design and effectively deliver public services that aim at the socio-economic and environmental well-being of citizens and territories, specifically on a local scale. Moreover, municipalities have found participatory processes and stakeholder engagement necessary to involve the public in designing, implementing and monitoring robust municipal public services and maintaining long-term support. \nGov4GreenMed will design territorial participatory methodologies to make these processes possible, implementing them in five pilot actions in municipalities of Spain, Italy, Türkiye, Jordan and Tunisia, to ensure efficient cooperation between local public authorities and various stakeholders. \nTo this end, this project will build on past and existing experiences to establish multi-stakeholder consultation spaces to collectively define, support, and improve the development of local governance models and measures on municipal solid waste management and food waste policies in the selected territories. A dual approach will be followed:\n(i)\tapplying capacity building programmes for public authorities and stakeholders, and\n(ii)\tmobilizing local stakeholders on-the-ground around participatory processes and awareness raising campaigns,\nThe final aim to facilitate the implementation of shared public services, improve the quality of life of citizens, and support the green transition of Mediterranean municipalities.\nGov4GreenMed relies on a strong and experienced partnership composed of six organizations from five countries, reinforced by five Associated Partners, to successfully implement the project.\n~\nKEEP KEYWORDS: Governance, partnership, Urban development, Waste and pollution",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and implement inclusive local governance models with participatory approaches and build capacities of public authorities and stakeholders for the design of public services on solid and food waste management to support the green transition of Mediterranean municipalities.\n~\nEXPECTED RESULT: 5 new local participatory governance models designed in the multi-stakeholder consultation spaces in each pilot and increased capacities of at least 30 public authorities and local stakeholders. Up to 390.000 citizens can benefit from these results.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and implement inclusive local governance models with participatory approaches and build capacities of public authorities and stakeholders for the design of public services on solid and food waste management to support the green transition of Mediterranean municipalities.\n~\nEXPECTED RESULT: 5 new local participatory governance models designed in the multi-stakeholder consultation spaces in each pilot and increased capacities of at least 30 public authorities and local stakeholders. Up to 390.000 citizens can benefit from these results.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and implement inclusive local governance models with participatory approaches and build capacities of public authorities and stakeholders for the design of public services on solid and food waste management to support the green transition of Mediterranean municipalities.\n~\nEXPECTED RESULT: 5 new local participatory governance models designed in the multi-stakeholder consultation spaces in each pilot and increased capacities of at least 30 public authorities and local stakeholders. Up to 390.000 citizens can benefit from these results.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33220,
+      "acronym": "CAREMED~A_T_3.2_0066",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Community-based Approach for Resilient Mediterranean Health",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 160. Measures to improve the accessibility, effectiveness and resilience of healthcare systems (excluding infrastructure)\n~\nSUMMARY: CAREMED addresses the challenge of improving access to healthcare by promoting a shift from institutional to community-based care, focusing on non-communicable diseases (NCDs). In the Med region NCDs account for 80% of healthcare utilization and expenditures. They are an increasingly critical public health and development need, exacerbated in case of pandemics and concerning an especially large, disadvantaged and vulnerable social group. Currently, NCDs are mainly treated at hospital level and are the most appropriate to shift to community-level, freeing also hospital capacity for more secondary/tertiary healthcare activities.\nBuilding on project partners/associates experiences and within a structured cooperation framework (WP3), CAREMED pilots innovative proactive healthcare models (WP4-5) and digital HIMS solutions (WP6) that transform NCD management from hospital-centric to community-focused. This not only enhances patients’ health outcomes but also generates cost savings, impacting on long-term sustainability of NCD care and on the resilience and crisis-preparedness of overall health systems (project legacy). By implementing the Active Patient Care Model (APCM) and the Chronic Care Model (CCM) in 30 PHCs (684 patients) in Tunisia, Lebanon, Turkey, Italy and Spain, CAREMED emphasizes prevention, health education and patient engagement, resulting in reduced hospitalizations and prevented complications.\nThe project targets 10 groups (TGs), including national/international stakeholders, healthcare professionals, pharmacists and patients, with key outputs of capacity building, personalized care plans, peer-to-peer focus groups, collaborative healthcare networks, improved HIMS, community awareness and screening days, improved health infrastructure and equipment. CAREMED implementation contributes to build a sustainable, resilient healthcare framework, improving health outcomes, reducing costs, and strengthening community health in the Mediterranean Region.\n~\nKEEP KEYWORDS: Health and social services",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To favour the transition from institutional to community-based care for chronic diseases patients\n~\nEXPECTED RESULT: Enhanced the adoption of community-based innovative and tested care models for chronic diseases patients\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To favour the transition from institutional to community-based care for chronic diseases patients\n~\nEXPECTED RESULT: Enhanced the adoption of community-based innovative and tested care models for chronic diseases patients\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To favour the transition from institutional to community-based care for chronic diseases patients\n~\nEXPECTED RESULT: Enhanced the adoption of community-based innovative and tested care models for chronic diseases patients\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To favour the transition from institutional to community-based care for chronic diseases patients\n~\nEXPECTED RESULT: Enhanced the adoption of community-based innovative and tested care models for chronic diseases patients",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33219,
+      "acronym": "MEDWISE~A_T_2.4_0393",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Waste Innovations for Sustainable Environments",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 067. Household waste management: prevention, minimisation, sorting, reuse, recycling measures\n~\nSUMMARY: The Mediterranean grapples with waste management issues, with most municipal waste ending up in landfills untreated. Organic waste, a major component, and a valuable energy and nutrient resource, is often contaminated, making it inadequate for usage. The imminent climate change challenge worsens these effects. The Ellen MacArthur Foundation stresses the need for a circular economy to address this. However, the region faces inconsistent variations of legislative, technical, and funding gaps hindering the implementation of circular strategies. Public perception of waste as a disposal issue adds to these challenges. In response to this context, the MedWISE project aims to accelerate the transition to a circular resource-efficient economy within the region through the sharing of proven-efficient solutions. The project will therefore optimize organic resource management using two main strategies: enhancing cross-border testing of innovative technological resource efficiency solutions and increasing transnational knowledge sharing of technologies through a triple helix approach. The methodology comprises 6 WPs implemented in Italy, Spain, Lebanon, Jordan, Turkey, and Tunisia. While WP1 prioritizes efficient project management, WP2 develops a robust communication strategy and communities of practice for widespread result dissemination. The technical WPs focus on promoting cradle-to-grave solutions. Specifically, WP3 maps 3 types of innovations: industrial symbiosis, AI-powered sorting at the source, and decentralized composting by focusing not only on technological but also environmental social and economic transferability. Then, WP4 pilots the solutions while enhancing parallelism between northern and southern contexts. The remaining WPs target cross-border solution adoption. WP5 builds the capacities of public and private entities while raising awareness at the societal level while WP6 concentrates on policy integration to ensure regional and local policy mainstreaming.\n~\nKEEP KEYWORDS: Green technologies, ICT and digital society, Innovation capacity and awareness-raising",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance cross-border testing of innovative technological resource efficient solutions\n~\nEXPECTED RESULT: Improved implementation of innovative resource management solutions within the Mediterranean region\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To enhance cross-border testing of innovative technological resource efficient solutions\n~\nEXPECTED RESULT: Improved implementation of innovative resource management solutions within the Mediterranean region\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To increase transnational knowledge sharing of technologies among academic, private and public entities\n~\nEXPECTED RESULT: Resource efficient mindset is adopted by stakeholders transnationally\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To increase transnational knowledge sharing of technologies among academic, private and public entities\n~\nEXPECTED RESULT: Resource efficient mindset is adopted by stakeholders transnationally",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33218,
+      "acronym": "SMAC~A_T_1.2_0523",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Sustainability Model for Accommodation MSMEs",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 021. SME business development and internationalisation, including productive investments\n~\nSUMMARY: Sustainable development is a global priority and challenge, motivating governments, institutions, and society in general to adopt new practices. This mega-trend is particularly relevant to the tourism sector where, according to reliable surveys, sustainable traveling is becoming a criterion in destination choosing\n\nHowever, the accommodation MSMEs that dominate the sector, remain inactive in adapting to this new reality and adopting and systematically implementing a sustainability plan, thus undermining their competitiveness. The main reason is that, due to their small size, they don't have the knowledge or resources for their sustainable transformation. The problem is intensified by the existence of dozens of sustainability standards, containing thousands of \"specifications\", which make compliance for MSMEs particularly complicated, extremely costly, and practically impossible\n\nThrough the project, the 7 partners form 5 countries aim to TACKLE this challenge and develop a Simplified Sustainability Model for Accommodation (SSMA) supported by an AI Recommendation Tool (AIRET), so that hundreds of thousands of MSMEs in the sector can achieve sustainable tourism\n\nThe sequence of the main project activities is: Public awareness => Development of the tools SSMA and AIRET => Joint mentors' training => Pilot implementations of the tools => Refinement of the model => Policy recommendation paper composition => Capitalisation\n\nThe main outputs of the project are\nOUT3.1: Simplified Sustainability Model for Accommodation businesses (SSMA)\nOUT3.2: Joint training of sustainability mentors based on a training package\nOUT3.3: Pilot implementation of SSMA with the support of AIRET\nOUT3.4: Policy recommendation paper \nOUT4.1-5: Capitalisation and continuous learning outputs including MSMEs' support, SMAC OER-LLAB platform and SMAC Network\n\nFinal beneficiaries: Accommodation MSMEs & their staff, tourism policy makers and other stakeholders, tourists/ visitors and the local communities\n~\nKEEP KEYWORDS: Innovation capacity and awareness-raising, SME and entrepreneurship, Tourism",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop, pilot implement and refine a Simplified Sustainability Model for Accommodation businesses (SSMA), supported by an Artificial Intelligence Recommendation Tool (AIRET), ensuring the lasting effects and transferability of outputs and results\n~\nEXPECTED RESULT: A tested and refined Simplified Sustainability Model for Accommodation businesses (SSMA), supported by an Artificial Intelligence Recommendation Tool (AIRET), to be easily adopted and implemented by MSMEs so that they can start their journey to sustainability and become more competitive\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop, pilot implement and refine a Simplified Sustainability Model for Accommodation businesses (SSMA), supported by an Artificial Intelligence Recommendation Tool (AIRET), ensuring the lasting effects and transferability of outputs and results\n~\nEXPECTED RESULT: A tested and refined Simplified Sustainability Model for Accommodation businesses (SSMA), supported by an Artificial Intelligence Recommendation Tool (AIRET), to be easily adopted and implemented by MSMEs so that they can start their journey to sustainability and become more competitive",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

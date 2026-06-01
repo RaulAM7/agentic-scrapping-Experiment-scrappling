@@ -1,0 +1,409 @@
+{
+  "current": 3,
+  "next": "https://keep.eu/api/search/projects/?page=4",
+  "previous": "https://keep.eu/api/search/projects/?page=2",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 27354,
+      "acronym": "GRASPINNO PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": "GRASPINNOPLUS vise à transférer les principaux résultats développés et testés au niveau transnational dans le projet GRASPINNO tels que la base de données, l'outil de support eGPP et l'outil de calcul du coût du cycle de vie (Unified Platform Package) vers d ' autres nouveaux territoires MED (organisations au niveau régional & PME). Ces instruments sont capables de générer des dynamiques territoriales impactant les communautés locales et régionales, en termes de procédures de prise de décision, de politiques et de fourniture de produits et services dans le cluster des PME, en se concentrant sur les méthodes d'approvisionnement qui est clé pour la mise en œuvre d'un marché public durable, circulaire et conscient, tenu compte de tous les coûts qui seront encouragés pendant la durée de vie d'un produit, d'un travail public ou d'un service. Le processus de transfert, coordonné par les donateurs, combinera des sessions de formation thématiques et des applications pratiques guidées, qui conduiront les 4 régions et chambres de commerce à concevoir des solutions conjointes concrètes adaptées aux plans d'application spécifiques du LCC et aux spécifications vertes dans les appels d'offres.GRASPINNOPLUS obtiendra l'engagement formel des destinataires de reproduire la méthodologie transférée sur leur territoire, en tenant compte des besoins locaux spécifiques et des défis apparus pendant et après son achèvement. L'exploitation des résultats sera également garantie par les AP.",
+          "expected_results": "1 Sensibilisation, compétences et capacités accrues : Sensibilisation, compétences et capacités accrues des gouvernements régionaux et des réseaux et clusters des PME par une telle coopération transnationale pour définir les conditions de mise en œuvre d'une économie plus circulaire à la fois du côté de la demande et de l'offre: les marchés publics verts et autres interventions d'EE nécessitent un changement de mentalité et un nouveau paradigme économique; en outre les outils de mesure spécifique intégré dans le paquet ne sont pas seulement un outil pour une évaluation objective et articulée des achats publics, mais aussi une méthodologie pour évaluer les stratégies vertes et les politiques de développement de l'UE et promouvoir une croissance durable. interaction et échange d'idées, de perspectives et de contributions sur la capitalisation de la méthodologie GRASPINNO et de la plate-forme unifiée, ainsi que pour mettre en œuvre les meilleures pratiques, adopter des éco-innovations, s'informer sur le financement de la rénovation des bâtiments et participer aux appels d'offres verts via les procédures e-GPP. Établissement de nouveaux liens entre les secteurs public et privé, sensibilisation accrue aux risques et avantages liés aux critères écologiques minimums environnementaux.1 Sensibilisation, compétences et capacités accrues : Sensibilisation, compétences et capacités accrues des gouvernements régionaux et des réseaux et clusters des PME par une telle coopération transnationale pour définir les conditions de mise en œuvre d'une économie plus circulaire à la fois du côté de la demande et de l'offre: les marchés publics verts et autres interventions d'EE nécessitent un changement de mentalité et un nouveau paradigme économique; en outre les outils de mesure spécifique intégré dans le paquet ne sont pas seulement un outil pour une évaluation objective et articulée des achats publics, mais aussi une méthodologie pour évaluer les stratégies vertes et les politiques de développement de l'UE et promouvoir une croissance durable. interaction et échange d'idées, de perspectives et de contributions sur la capitalisation de la méthodologie GRASPINNO et de la plate-forme unifiée, ainsi que pour mettre en œuvre les meilleures pratiques, adopter des éco-innovations, s'informer sur le financement de la rénovation des bâtiments et participer aux appels d'offres verts via les procédures e-GPP. Établissement de nouveaux liens entre les secteurs public et privé, sensibilisation accrue aux risques et avantages liés aux critères écologiques minimums environnementaux.2 Eco-innovation et nouveaux modèles économiques de PME : Eco-innovation, start-ups introduisant des services éco-innovants sur le marché et de nouveaux modèles économiques de PME, transformant leurs offres traditionnelles en offres durables, y compris dans la rénovation énergétique verte des bâtiments publics. Ils affecteront à leur tour les services des achats / de l'énergie / de la rénovation des bâtiments; les décideurs (Ministères / Régions) influençant le processus de passation des marchés et l'application des plans / lois sur l'eGPP / EE / RES; Agences de l'énergie avec des services aux décideurs dans la conduite des SEAP et dans la mise en œuvre des lois / plans de réduction de l'empreinte carbone. En outre, pour le secteur des entreprises et les PME: le secteur des entreprises et en particulier les PME sont les «utilisateurs finaux» qui doivent être atteints et invités à discuter de leurs besoins et problèmes concernant la fourniture de solutions / produits éco-innovants et l'accès aux mécanismes de financement . En particulier: les secteurs des entreprises et de l'énergie bénéficieront du transfert de technologie et du renforcement des réseaux pertinents.3 Validation conjointe de la personnalisation des outils et méthodologies du projet GRASPINNO : Validation conjointe de la personnalisation des outils et méthodologies du point de vue technique local / régional et de l'utilisateur final: en termes de conception pour l'identification, le démontage, la récupération, le recyclage des composants du produit,conception de produits \"plus légers\" (pour les matériaux et l'énergie utilisés); récupération et recyclage des matériaux (RECYCLABILITÉ), prolongation de la durée de vie des actifs (DURABILITÉ); transformation des produits en services (SERVICES ET PARTAGE) et innovation écologique.Contribution à l'indicateur de programme:les clusters / réseaux augmenteront leur puissance sur le marché conformément aux nouvelles orientations du Green Deal de la Commission européenne. Aujourd'hui, on accorde peu d'attention à la conception de produits durables et aux méthodes d'assemblage, l'utilisateur jette souvent ces produits après les avoir utilisés pour la conception technique, l'assemblage et la fabrication de produits qui permettent une grande valeurréutilisation future.",
+          "achievements": null,
+          "expected_outputs": "CC :50,Mou :2",
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "GRASPINNO PLUS",
+          "description": "GRASPINNOPLUS aims to transfer key deliverables/outputs developed & tested at transnational level within GRASPINNO project such as Data-Base, eGPP Support tool & Life Cycle Costing tool (Unified Platform Package) to new MED territories. These instruments are expected to generate territorial dynamics impacting on local and regional communities, in terms of decision-making procedures and policies.The new dynamics will also be favorably impacting on eco-innovation of clusters/networks for their products/services provision, focusing on GPP methods and other possible intervention areas such as Energy-Efficiency & other investment sectors. These impacts are key for the implementation of a sustainable, circular and aware public procurement considering all the costs that will be incurred during the lifetime of a product, public work or service. The transferring process will combine thematic training sessions & guided practical applications, which will lead the 4 receiver partners (regions & Chamber of enterprises)in designing concrete joint solutions adapted to specific green specs/criteria, eGPP support & LCC application plans in tenders with green products/services thus increasing their capacity in green growth.GRASPINNOPLUS will achieve the formal commitment of receivers to replicate the transferred methodology in their territories,taking into account specific local needs & challenges emerged during and after its completion.Exploitation of results will be also guaranteed by APs.",
+          "expected_results": "1 Awareness, more competences and increased capacities : 1 Awareness, more/stronger competences and increased capacities of regional governments and SMEs networks & clusters by transnational cooperation to define the conditions to implement a more circular economy on both demand and supply: GPP and other EE interventions require a change of a mentality and economic paradigm; the measurement tool (LCC) integrated in the package is not only a tool for an objective and articulated public purchase evaluation but also a method to assess EU green strategies and development policies, and promote Sustainable Growth. Interaction and exchange of ideas, perspectives and inputs to capitalize GRASPINNO methodology and Unified Platform, and to implement best practices, adopt eco-innovations, learn about finance for building refurbishment, and participate in green tenders through e-GPP procedures. Established new connections between public and private sectors, increased awareness of risks and benefits connected to the Minimum Environmental Green Criteria.1 Awareness, more competences and increased capacities : 1 Awareness, more/stronger competences and increased capacities of regional governments and SMEs networks & clusters by transnational cooperation to define the conditions to implement a more circular economy on both demand and supply: GPP and other EE interventions require a change of a mentality and economic paradigm; the measurement tool (LCC) integrated in the package is not only a tool for an objective and articulated public purchase evaluation but also a method to assess EU green strategies and development policies, and promote Sustainable Growth. Interaction and exchange of ideas, perspectives and inputs to capitalize GRASPINNO methodology and Unified Platform, and to implement best practices, adopt eco-innovations, learn about finance for building refurbishment, and participate in green tenders through e-GPP procedures. Established new connections between public and private sectors, increased awareness of risks and benefits connected to the Minimum Environmental Green Criteria.2 Eco-innovation and new business models of SMEs : Eco-innovation, start-ups introducing eco-innovative services to market and new business models for SMEs, transforming their traditional offers into sustainable ones including in green energy refurbishment of public buildings. They will, in turn, affect departments of procurement/energy/building refurbishment; decision makers (Ministries/Regions) influencing the procurement process and application of plans/laws on eGPP/EE/RES; Energy Agencies with services to decision makers in conducting SEAPs and in implementing laws/plans for reduction of carbon footprint. Further, for business sector and SMEs: They are the “end users” who must be reached and invited to discuss their needs and problems on the supply of eco-innovative solutions /products and access to funding facilities. In particular: Business & Energy Sectors will benefit from the technology transfer and from the strengthening of relevant networks.3 Joint Validation of customisation of tools and methodologies of GRASPINNO project : Joint Validation of customised tools and methodologies of GRASPINNO project: From the local/regional technical and end-user perspective, in terms of the design for the identification, disassembly, recovery, recycling of product components, design for \"lighter\" products (for materials and energy used); recovery and recycling of materials (RECYCLABILITY), extension of life span of assets (DURABILITY); transformation of products into services (SERVICES AND SHARING) and Ecological innovation. Contribution to programme indicator: clusters/networks will increase their power on the market in line with the new guidelines of Green Deal of the European Commission. Today there is little attention to sustainable product design and assembly methods, users often throw away these products after use. In addition, GRASPINNOPLUS transferring actions will impact both demand and supply tiers of the green market supply-chain, and will leverage sustainability and transnational activities of clusters/networks.",
+          "achievements": "During the reporting period TSL coordinated and supervised all the project activities.Main project taks:TASK 3.1-\tKick Off meeting: it took place remotely on the 22/07/2021. During such meeting we introduced the project’s vision and methodology and provided the partners with instructions to effectively carry out both the technical and administrative tasks.-\t1st Project Meeting: it took place in Patras in December 13th and 14th (blended mode). During such meeting the state of the play was discussed and next steps for all project tasks addressed.-\t2nd Project Meeting: it took place in March 21st to check the progress of T3.4 and prepare the first technical/financial reporting.Additional online meetings took place even on bilateral basis with the project partners to address specific issues.TASK 3.2Coordinated by CCIT. TSL supervised the activities and performed the communication activities through its institutional channels (Social media and Website) according to the Communication Plan.TASK 3.3TSL coordinated the transferring activities by:-\tTraining the partners through online meeting and providing material from the previous GRASPINNO Project;-\tProviding the template for collecting feedback from local stakeholders; -\tProcessing the data collected by the partners.-\tDelivering the capitalization plan, starting from the above.TASK 3.4TSL carried out the training sessions targeting the receivers, in order for them to proceed with the transfer seminars (which took place in February and March 2022 and allowed the partnership to reach the first expected result – 50 SME involved in the seminars – early in advance).TASK 3.5Just starting. TSL is drafting the MoU in order for the partners to follow up.",
+          "expected_outputs": "TRANSFER SEMINARS FOR ENTERPRISES :50,Memorandum of Understanding :2",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 10,
+          "title": "Construction and renovation"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27353,
+      "acronym": "CreativeWear Plus",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Transferring the CreativeWear Model across the Mediterranean",
+          "description": "CreativeWear Plus builds on the results of the MED CreativeWear project (2016-2019), which brought a new attention to creativity, personalised design, and artisan and small-scale production for territorially specific value chains for the Textile & Clothing (T&C) industry. Five Creative Hubs brought together artists, designers, and creatives with T&C businesses in Italy, Spain, Slovenia and Greece. Experimentation with different interaction formats led to a common CreativeWear Model, whose transfer capacity was tested by extension to seven new Creative Hubs through an Open Call in 2018 and by incorporation into the H2020 TCBL (https://tcbl.eu/) network of innovation Labs in 2019.In CreativeWear Plus, three original partners from Italy and Greece pair up with three new Hubs in Portugal, France and Bosnia to further extend the CreativeWear network. A specific focus on sustainable fashion in the Circular Economy aims to highlight the contribution of Mediterranean creativity, design heritage and T&C knowledge to green innovation.The work plan sees each new Hub paired with a partner from the original project to apply the CreativeWear Model in the initial steps of building local communities and launching a first set of events in project month 6. The second phase involves deeper transnational cooperation and knowledge exchange, culminating in the project’s final event in month 13. Network sustainability is again ensured within the TCBL Foundation’s network of innovation labs.",
+          "expected_results": "1 Strengthened CreativeWear network working towards sustainable, creativity-based business model innovation in the T&C sector : The Hubs network developed in the CreativeWear project covers 5 regions in 4 Member States, extended to an additional 7 regions and a total of 6 Member States plus 1 IPA. For long term sustainability, the model was incorporated into the Labs network built up in the H2020 TCBL project, adding “Creative Hubs” to the existing Activity Types. 10 TCBL Labs have since added “Creative Hub” to their profile, for a total of 22 Hubs across all of Europe.CreativeWear Plus further strengthens this already robust network along two axes:- Geographical scope: the 3 new Hubs in CreativeWear Plus bring in important textile districts that have been missing to date: Alentejo, rich with artisan textile production linked to innovative T&C businesses; southern France, a textile production region (e.g. denim) with innovation in materials and a strong presence of CCIs; and northern Bosnia, with a deep knowledge heritage especially in garment production coupled with emergent brands.- Policy relevance: TCBL and CreativeWear placed attention to sustainable fashion, the Circular Economy has gained greater importance in EU policy with the European Green Deal. The T&C industry is one of the key sectors identified here, through the Smart Industrial Specialisation initiative. CreativeWear Plus aligns with this trend, identifying themes of particular relevance: bio-based fabrics and textiles, upcycling and re-use of used fabrics and clothing, and the reinterpretation of artisan and textile heritage.1 Strengthened CreativeWear network working towards sustainable, creativity-based business model innovation in the T&C sector : The Hubs network developed in the CreativeWear project covers 5 regions in 4 Member States, extended to an additional 7 regions and a total of 6 Member States plus 1 IPA. For long term sustainability, the model was incorporated into the Labs network built up in the H2020 TCBL project, adding “Creative Hubs” to the existing Activity Types. 10 TCBL Labs have since added “Creative Hub” to their profile, for a total of 22 Hubs across all of Europe.CreativeWear Plus further strengthens this already robust network along two axes:- Geographical scope: the 3 new Hubs in CreativeWear Plus bring in important textile districts that have been missing to date: Alentejo, rich with artisan textile production linked to innovative T&C businesses; southern France, a textile production region (e.g. denim) with innovation in materials and a strong presence of CCIs; and northern Bosnia, with a deep knowledge heritage especially in garment production coupled with emergent brands.- Policy relevance: TCBL and CreativeWear placed attention to sustainable fashion, the Circular Economy has gained greater importance in EU policy with the European Green Deal. The T&C industry is one of the key sectors identified here, through the Smart Industrial Specialisation initiative. CreativeWear Plus aligns with this trend, identifying themes of particular relevance: bio-based fabrics and textiles, upcycling and re-use of used fabrics and clothing, and the reinterpretation of artisan and textile heritage.2 A more competitive role for artists and CCIs in the Green Economy : Artists and creatives have to date been pigeon-holed into well-defined roles in the T&C industry, with design followed by sourcing, production, and distribution. With the rise of luxury brands and fast fashion, a select few have attained super-star status while those remaining have seen their role constrained by Artificial Intelligence systems that basically tell them what to design.As the Covid crisis continues its devastating effect on the global brands’ supply chains, a new breed of smaller scale sustainable fashion brands are offering consumers the quality products they are looking for. As we emerge from the crisis, this trend will be further reinforced by Circular Economy policy directions such as the European Green Deal. The new role for artists and creatives in this emerging scenario has yet to be fully understood, however, especially by T&C businesses hesitant to take risks as they emerge from the Covid crisis. In fact, the Circular Economy is far more design-intensive than traditional manufacturing, as creative decisions are required at every circular ‘branch’ (see https://www.ellenmacarthurfoundation.org/explore/the-circular-economy-in-detail) where materials and energy flows take on new life. Work in CreativeWear Plus aims to concretely demonstrate the competitive role that artists and CCIs can play in defining new post-Covid business opportunities, by creating the conditions for bringing together creative professionals and industrial/economic players.3 A more innovative and competitive Med T&C industry in the Circular Economy : The Med space has a particularly rich tradition in T&C with a once-important role in the Med economy, including:- the production of natural fibres from cotton to sheeps wool, silk and fibres such as hemp and broom,- artisan and proto-industrial textile production, drawing on both traditional loom designs and centuries-old manufacturing facilities,- highly-skilled sartorial traditions, including e.g. the Neapolitan school of tailoring,- diffused and varied knowledge of both sewing and embroidery, partially surviving in remote areas,- a specific flair for fashion design, perhaps the only asset still remaining.The rise of multinational brands has, over the last decades, drained the Med space of this knowledge capital (with perhaps the exception of fashion design), as global supply chains have outsourced garment production and abandoned factory sheds in the search for lax regulations and low cost labour. The ‘knowledge drain’ this has created, first revealed by initial attempts at re-shoring, has become strikingly evident with the Covid-related retail crisis and disruption of global supply chains. By drawing on artists and CCIs to reinterpret both tradition and innovation, CreativeWear Plus helps T&C SMEs capture the new opportunities of sustainable ‘slow fashion' in the post-Covid Circular Economy. In so doing, the Med space’s T&C sector can re-discover the value of its knowledge and industrial heritage and regain a leading role in the post Covid economic recovery.",
+          "achievements": "In this semester, with the coordination of the Textile Museum of Prato as the Lead Partner of the project, the partners have delivered the implementation of the approved workplan.Several meetings were organized to support the partners, among which:-12the first steering committee to kick-off the project on the 15th July 2021, review the work plan, jump start the activities;-12a coordination meeting on the 29th September to assess the canvas of the receiver hubs, define the new hubs’ strategies, connect to the local communities and stakeholders, plan the workshops and events, provide technical and administrative support to the partners.The workplan unfolded in parallel in each of the giver-receiver hubs pairs over 2 three-month phases: In phase one (Jun-Aug 21):-\teach ‘receiver’ Creative Hub identified local creative and business stakeholders and together with the paired ‘giver’ partner defined a thematic and operational strategy, by compiling the CreativeWear Canvas6 CreativeWear Canvas were produced:-3 new canvas by the ‘receiver’ Hubs-3 updated canvas by the ‘giver’ HubsIn phase two (Sep-Nov 21): networked workshops by pairs of ‘giver’ and ‘receiver’ hubs to share experiences and explore the thematic strategy of the new hubs were organized:-The Textile Museum of Prato and the University of Evora presented the CW model at two workshops on November 18th, 2021 in the framework of the month-long TCBL Days 2021 events (11 November - 2 December 2021).-\tARCA and RAŽ organised a shared transnational workshop on November 29th, 2021 + several meetings with stakeholders (SMEs, creatives and craftsmen)-\tCreThiDev and Prisme organised 2 webinars with remote participation (events of the Textilement votre Transnational Thematic Groups):-12to introduce the project to the stakeholders and associated partners,-12on the approach on sustainability from a textile artistThe LP is also in charge of the project Communication, where the following has been delivered:-12reception and use of the official project logo according to the official guidelines-12project’s word and power point templates-12thematic image forging the visual and graphic set up of the project-12A3 poster for project dissemination-12Project social profiles on FB, IG, TW and YouTube-12Project website (update of the previous CreativeWear website), with regular news updates etc based on the progress of the project",
+          "expected_outputs": "Greener' CreativeWear Model :1,Improved awareness of opportunities for CCIs in the Circular Economy :50,T&C businesses discovering circular business models by creative inspiration :75,Extended and strengthened CreativeWear transnational innovation cluster :1",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27352,
+      "acronym": "ARISTOILPLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Les huiles d’olive extra-vierges ne sont pas toutes les mêmes!",
+          "description": "Partant de l’expérience du ARISTOIL, ARISTOILPLUS vise à accroître la conscience des acteurs méditerranéens de l’huile d’olive sur les méthodes de production en réalisant un huile d'olive extra vierge riche (HOEV) en polyphénols et donc un nouveau produit de plus grande valeur sur le marché. Pour atteindre cet objectif, ARISTOIL PLUS transférera les Directives pour les producteurs et les méthodes de certification (Health Claim reg. 432/12) à de nouveaux territoires et organisations partenaires. Tout ça, le projet tiendra à renforcer l’approche et la méthodologie du Cluster Aristoil Med Health HOEV se concentrer vers la pérennité du cluster dans le futur et à travers les Living Labs va maintenir la communauté des parties prenantes de l’HOEV reliée, mise à jour et soutenue par les services afin de développer un avantage concurrentiel pour son produit (blockchain, vitrine). En outre, le projet vise à sensibiliser les consommateurs sur les bienfaits pour la santé de l’huile d’olive extra vierge riche en polyphénols pour Promouvoir une nouvelle catégorie d'huile d'olive sur le marché avec une approche innovante.Le Kit Aristoil comprendra un ensemble d’outils pour le renforcement des capacités et le coaching pour les entreprises locales en fonction des besoins des parties prenantes, au sein de la communauté des Living Labs, qui seront les principaux véhicules pour le processus de transfert vers la Grèce occidentale, Toscane, Campanie, Andalousie, Monténégro ainsi qu’en Albanie.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Not All Extra-Virgin Olive Oils are the same!",
+          "description": "Starting from the experience of ARISTOIL, the project aims to increase consciousness of Mediterranean Olive oil actors on production methods which result in Extra Virgin Olive Oil (EVOO) rich in polyphenols and therefore a new product of higher value in the market and for the health of consumers. To achieve this goal ARISTOILPLUS will transfer the Guidelines for producers and the certification methods (Health Claim reg. 432/12) in new territories and partner organisations to reinforce the Aristoil Med Healthy EVOO Cluster approach and methodology pointing to the sustainability of the cluster in the future. Moreover through the Living Labs partners will maintain the stakeholders community of EVOO rich in polyphenols connected, updated and supported with services in order to develop a competitive advantage for their product (block-chain, showcase). In addition the project aims to increase consumers awareness on the healthy benefits of EVOO rich in polyphenols as well as its differentiation from ordinary EVOO, promoting a new category of olive oil in the market with an innovative approach.The ARISTOILPLUS Kit will contain a set of tools for Capacity building and coaching for local businesses according to the needs of stakeholders , within the community of Living Labs, that will be the main vehicles for the transferring process to Western Greece, Tuscany,Campania , Andalucia, Montenegro as well as in Albania.",
+          "expected_results": "1 Enlargement of ARISTOIL MED HEALTHY OLIVE OIL Cluster through capacity building activities and sharing of best practices : ARISTOILPLUS will transfer to 120 SMEs and producers of EVOO sector, the Guidelines for producers and provide training and coaching activities for stakeholders in new territories in Greece, Spain, Italy Montenegro and Albania. The project will support them in the adoption of the EU Regulation 432/2012 and its use for the differentiation of their product in the market. This transnational community of stakeholders will be supported to follow a series of guidelines and respect a set of commonly agreed rules within the ARISTOIL project, in order to join the Aristoil Med Healthy Olive Oil Cluster. The main activities of the Aristoil MED Healthy Olive Oil Cluster will focus on the networking, connection of stakeholders with international markets, capacity building, promotion of R&D, facilitation and coordination of cooperation among international stakeholders.Project partners will sign an MoU to commit themselves in their contribution to the continuation of the Cluster.To achieve the main result the Partners will support olive oil companies (producers, millers, bottlers) through Living Labs, training and coaching to better connect quality control activities and market promotion building the necessary skills of producers and millers in order to define,and produce EVOO rich in polyphenols and support them to reinforce the link between the product and the consumers. As an indirect result the project supports small EVOO producers in different Mediterranean rural areas to engage with a new category of EVOO that is not present in the market.1 Enlargement of ARISTOIL MED HEALTHY OLIVE OIL Cluster through capacity building activities and sharing of best practices : ARISTOILPLUS will transfer to 120 SMEs and producers of EVOO sector, the Guidelines for producers and provide training and coaching activities for stakeholders in new territories in Greece, Spain, Italy Montenegro and Albania. The project will support them in the adoption of the EU Regulation 432/2012 and its use for the differentiation of their product in the market. This transnational community of stakeholders will be supported to follow a series of guidelines and respect a set of commonly agreed rules within the ARISTOIL project, in order to join the Aristoil Med Healthy Olive Oil Cluster. The main activities of the Aristoil MED Healthy Olive Oil Cluster will focus on the networking, connection of stakeholders with international markets, capacity building, promotion of R&D, facilitation and coordination of cooperation among international stakeholders.Project partners will sign an MoU to commit themselves in their contribution to the continuation of the Cluster.To achieve the main result the Partners will support olive oil companies (producers, millers, bottlers) through Living Labs, training and coaching to better connect quality control activities and market promotion building the necessary skills of producers and millers in order to define,and produce EVOO rich in polyphenols and support them to reinforce the link between the product and the consumers. As an indirect result the project supports small EVOO producers in different Mediterranean rural areas to engage with a new category of EVOO that is not present in the market.",
+          "achievements": null,
+          "expected_outputs": "Transfert de ARISTOILPLUS KIT pour la formation des membres potentiel du CLuster :120,MoU to foster the ARISTOIL transnational coordination of the Cluster as support for SMEs in olive oil sector :1",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27351,
+      "acronym": "FishMPABlue2 PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Transfert de l'approche FishMPABlue2 pour gérer durablement la pêche artisanale dans les AMP méditerranéennes",
+          "description": "FishMPABlue2 a été un projet réussi: 11 AMP pilotes de 6 pays Med ont réussi à tester 13 mesures de gouvernance et de gestion pour améliorer la durabilité socio-économique et environnementale de la pêche artisanale, et les impacts réels de ces tests ont été mesurés à travers 2 campagnes de suivi, menées avant et après la mise en œuvre des mesures de gestion. Par conséquent, le «SSF Governance Toolkit» n'est pas seulement une contribution théorique mais un manuel opérationnel, qui décrit les avantages et les limites réels de chaque mesure et fournit également un «degré de faisabilité» - en termes de temps, de ressources humaines et financières. Le Toolkit a déjà été transférée pendant FishMPABlue2 à 9 autres AMP, qui ont également été formées aux techniques de suivi socio-économique et environnemental.Par conséquent, dans le projet actuel, le transfert se fera principalement avec la même stratégie, - de nature différente, impliquant en tant qu'associés 11 nouvelles AMP de 5 pays- et où tous les PP sont des véritables formateurs et coachs des AMP nationales concernées.À la fin du projet, il y aura plus de 30 AMP Med appliquant la même approche liée à la gouvernance - c'est-à-dire une approche axée sur la cogestion - et des mesures de gestion similaires déjà testées et affinées. Enfin, ils amélioreront leurs capacités de suivi. Cela constituera une «communauté» solide pour plaider en faveur d'une gouvernance SSF basée sur la cogestion envers le CE - DG MARE.",
+          "expected_results": "1 11 AMP améliorant leurs capacités de gestion pour atteindre leurs objectifs de conservation : Le projet contribuera au résultat du programme en engageant le personnel de 11 AMP Med dans la mise en œuvre des outils de gouvernance et de gestion décrits dans la boîte à outils de gouvernance SSF de FishMPABlue2 pour améliorer la durabilité socio-économique et écologique de la pêche artisanale.1 11 AMP améliorant leurs capacités de gestion pour atteindre leurs objectifs de conservation : Le projet contribuera au résultat du programme en engageant le personnel de 11 AMP Med dans la mise en œuvre des outils de gouvernance et de gestion décrits dans la boîte à outils de gouvernance SSF de FishMPABlue2 pour améliorer la durabilité socio-économique et écologique de la pêche artisanale.",
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Transferring FishMPABlue2 approach to sustainably manage Small Scale Fisheries in Mediterranean MPAs",
+          "description": "FishMPABlue2 was a successful project: 11 pilot MPAs from 6 Med countries succeeded in testing 13 actual governance and management-related measures for improving socio-economic-environmental sustainability of the Small-Scale Fisheries within and around an MPA, and actual impacts of such testing were measured through 2 monitoring campaigns, carried out “before” and “after” the implementation of the management measures. Therefore “SSF Governance Toolkit” is not just a theoretical contribution but an operational manual, which describes the actual pros and limits of each measure and also provide a “feasibility degree” – in terms of time, human and financial resources - for each of them. Toolkit was already transferred during FishMPABlue2 to other 9 MPAs, that were also trained on the socio-economic-environmental monitoring techniques.Therefore, in the current project, transferring will be carried out mainly applying the same strategy, involving, as Associated partners, 11 new MPAs from 5 countries- and where all the PPs are actual trainers and coachers of the concerned domestic MPAs.At the end of the project there will be more than 30 Med MPAs applying same governance-related approach – i.e. a co-management-driven one – and similar management measures already tested and further fine-tuned. Last but not least, they will improve their monitoring capacities. This will constitute a solid “community” to advocate co-management-based SSF governance towards EC - DG MARE.",
+          "expected_results": "1 The 11 MPAs improving their management capacities in meeting their conservation goals : The project will contribute to the Programme result by engaging staff from 11 Med MPAs in adopting the governance and management tools described in the FishMPABlue2’s SSF Governance Toolkit to improve small scale fisheries socio-economic-ecological sustainability.1 The 11 MPAs improving their management capacities in meeting their conservation goals : The project will contribute to the Programme result by engaging staff from 11 Med MPAs in adopting the governance and management tools described in the FishMPABlue2’s SSF Governance Toolkit to improve small scale fisheries socio-economic-ecological sustainability.",
+          "achievements": "FishMPABlue2 PLUS has as main goal to disseminate the two key outputs of the previous FishMPABlue2 project: the \"SSF Governance Toolkit\" and an integrated system to assess the socio-ecological effectiveness of small scale fisheries management in MPAs for monitoring their socio-economic-environmental sustainability. 11 MPAs have accepted to be trained and supported in identifying the most suitable management measures from the Toolkit to be applied in their context, and the first step is to set up a SSF-related \"Local Governance Cluster\" where the MPA managing body involves the local small-scale fishers and other related stakeholders. In almost all the 11 pilot MPAs we managed to establish the LGC, that was fully trained on the SSF Governance Toolkit and started to discuss in depth on the measures that can better fit for their aims. Of course the need of slight modifications of the selected measures, in order to adapt them to the specific context, will be taken into account.In the meantime the project has been showcased in important fora (the most important one has been the \"MPA Forum for the 2030 Roadmap\", November 2021 in Monaco) and is preparing the activities of the second semester, in primis the Summer School on the socio-economic-environmental sustainability monitoring techniques and the press trip.",
+          "expected_outputs": "Establishment of 11 Local Governance Clusters :88851710,Formal commitment by the 11 LGCs to implement toolkit measures :11",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27350,
+      "acronym": "AMAre PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": "Les aires marines protégées (AMP) sont cruciales pour la conservation de la Méditerranée : gérées avec efficacité, elles protègent la biodiversité et régulent les activités humaines. Cependant, dans beaucoup d’AMP, les connaissances de base sur l'état de la biodiversité font encore défaut, la surveillance n'est pas systématique et la gestion est insuffisante. L’usage intensif de l'espace et des ressources marines nécessite des actions coordonnées pour réduire l'exploitation du capital naturel et atténuer l'effet des pressions humaines. AMAre PLUS s'appuiera sur les réalisations concrètes du projet AMAre et transférera des stratégies coordonnées vers de nouvelles AMP pour gérer biodiversité et ressources marines. AMAre PLUS, par une étroite collaboration entre scientifiques et organismes de gestion des AMP, proposera 3 outils très liés : 1- le géoportail collectant des données détaillées sur l'état de la biodiversité, les variables du milieu, la distribution et l'intensité des pressions humaines, pertinentes pour la gestion et l'échange d'informations entre AMP ; 2- les protocoles pour le monitoring écologique ; 3- les bonnes pratiques de gestion des usages humains et la réalisation des objectifs de la législation européenne. Le but est de transférer des normes pour harmoniser l’hétérogénéité de suivi et de gestion caractérisant les AMP de Méditerranée, créant ainsi un réseau d'AMP efficace optimisant la protection de la biodiversité recommandé par les politiques de l'UE.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Action for Marine Protected Areas PLUS",
+          "description": "Marine Protected Areas (MPAs) are crucial for the conservation of the Mediterranean Sea, since, when efficiently enforced, they protect biodiversity and regulate human activities. However, in many MPAs, baseline knowledge on biodiversity status is still lacking, monitoring is not systematically carried out and management is insufficient. The intensive use of marine space and resources calls for coordinated actions aimed at reducing the exploitation of the natural capital and mitigating the effect of cumulative human pressures. AMAre PLUS will build upon the concrete AMAre projects’ achievements and will transfer coordinated strategies towards new MPAs to monitor and manage biodiversity and marine resources. AMAre PLUS, through a close collaboration between scientists and MPA Management Bodies, will transfer three highly connected products: 1- the Spatial Geoportal to collect fine scale data on biodiversity status, environmental variables, human pressures distribution and intensity, relevant for management and for exchanging information among MPAs; 2- protocols for ecological monitoring; 3- best practices for the management of human uses and the achievement of the EU legislation goals. The aim is to transfer standards to harmonize the high monitoring/management heterogeneity characterizing present Mediterranean MPAs, contributing to the implementation of an effective MPA network, instrumental to maximize the effects of protection on biodiversity and recommended by EU policies.",
+          "expected_results": "1 Products transferring : ---1 Products transferring : ---",
+          "achievements": "The main objective of the project was to transfer products strengthening the management of Marine Protected Areas (MPAs), by implementing common best practices, standardized monitoring protocols and data sharing. Starting from the 1 June - today, we organized several meetings with MPA personnel to analyze existing data, data infrastructures, protocols, and best practices, followed by \"face-to-face\" meetings 1- to build one geoportal for each MPA, together with CNR, 2- to understand the status of monitoring across the MPAs involved in the project. Virtual regular meetings both with individual MPAs and with all partners facilitated the communication on how to transfer data and information. Two main achievements were reached1-18 spatial geoportals were built(http://gismargrey.bo.ismar.cnr.it:8080/mokaApp/apps/AMAV4H5/index.html?null)2-Signature of an Memorandum of understanding between AMAre Plus and the Pelagos Sanctuary (https://amare.interreg-med.eu/news-events/news/detail/actualites/mou-with-pelagos-has-been-signed/)In December, started also the pretaration for the GIS Course and the Training Modules for supporting monitoring.In terms of communication-Presentation of AMAre plus Geoportal and tools at Pelagos COP8 Rome - MBPC side event-Presentation of the AMAre plus Geoportal and tools at the MPA forum-Website update with a description of new MPAs, the link to the new Geoportal, News and Events",
+          "expected_outputs": "Memorandum of understanding :10",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 21,
+          "title": "Regional planning and development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27349,
+      "acronym": "BlueMed PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Capitaliser en transférant le modèle multidisciplinaire BlueMed sur des nouveaux territoires dans la Méditerranée pour un développement durable et responsable d'un tourisme côtier",
+          "description": "BlueMed PLUS a été conçu dans l’esprit de capitaliser sur les expériences et les résultats du projet BlueMed. Le projet s’appuie sur le Roadmap and Action Plan pour reprendre son modèle multidisciplinaire, qui distille les connaissances tacites accumulées, le savoir-faire et les autres résultats du projet. L'objectif principal du nouveau projet BlueMed PLUS est de « transférer » la Roadmap et le plan d'action vers de nouveaux « récepteurs » méditerranéens, à travers un processus qui soutient la systématisation des connaissances en facilitant l'appropriation communautaire du territoire.Un « transfert » réussi renforcera la capacité des « récepteurs » à exploiter des sites et des centres de sensibilisation qui vont être accessibles sur leur territoire, et promouvra de nouvelles destinations touristiques côtières.Le projet intéresse 3 territoires « récepteurs » en Italie, au Monténégro et en Albanie, offrant des ressources culturelles subaquatiques importantes qui couvrent 2000 ans d'histoire. Le développement économique potentiel qui pourrait être généré par la valorisation de ces ressources à travers BlueMed PLUS est énorme. Tous les 3 territoires surplombent la mer Adriatique du Sud et sont bien reliés par des services de transport maritime. Cette configuration géographique facilitera la coopération et le partage des meilleures pratiques pour la promotion touristique durable du patrimoine culturel sous-marin, tout en le préservant pour les générations futures.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Capitalization by transferring to new Med territories the BlueMed multidisciplinary model for sustainable and responsible coastal tourism development",
+          "description": "BlueMed PLUS builds on the perspective of capitalizing on relevant experiences, outputs, and results of the BlueMed project. In doing so it takes advantage of one of the main outputs of BlueMed – the Roadmap and Action Plan for taking up its multidisciplinary model, which distils the accumulated tacit knowledge, the knowhow, and most other outputs of the completed project. The chief objective of the new BlueMed PLUS project is to “transfer” the Roadmap and the Action Plan to new Med territorial “receivers”, through a process that supports knowledge systematization and decision-making and facilitates territorial uptake and ownership. Successful “transferring” will enhance the capacity of “receivers” to operate accessible Underwater Cultural Heritage (UW CH) sites and Knowledge Awareness Centres in their territory, and promote new coastal tourist destinations as assets of regional sustainability.The project encompasses 3 “receiver” territories in Italy, Montenegro and Albania, offering important UW cultural assets covering 2000 years of history. The potential economic development that could be generated by the promotion and valorisation of these assets through BlueMed PLUS is enormous. All 3 territories overlook S. Adriatic Sea and are well connected by ferries/ship services. This favourable geographic configuration will facilitate cooperation and sharing of best practices for sustainable touristic promotion of the UW heritage, while preserving it for the future generations.",
+          "expected_results": "1 Uptaking of BlueMed PLUS Roadmap & Action Plan by each receiver territory : Adaptation of BlueMed Roadmap & Action Plan to the needs and peculiarities of “receiver” territories, towards sustainable and responsible tourism development. Involves analysis and local adaptation of Roadmap milestones and Action Plan steps to implement and conditions to consider (incl. technical & non-technical barriers to overcome) for achieving the roadmap milestones. Indicative aspects include: legislation, preservation condition and physical accessibility; risk assessment, financing & sustainability plans, sustainability KPIs to monitor; Cooperation, Operational and Management frameworks; location, budget, and content of physical/virtual exhibitions at KACs, etc.The realisation of the above result will significantly contribute to the Programme result indicator in terms of:* Enhancing the capacity of “receivers” to locally adapt & implement the BlueMed model for operating accessible UWCH sites and KACs, as a catalyst to support sustainable and responsible tourism development in MED coastal regions.* Established synergies and cooperation among regional stakeholders to share the transferred solutions; awareness raising, joint planning and training of stakeholders towards promoting new coastal tourist destinations as assets of regional sustainability. * Consolidated policy elements for updating ICZM and MSP Strategies at regional/local levels (could produce multiplier effects for the entire MED area); and promotion of value of UWCH as growth pillar in the above policies.1 Uptaking of BlueMed PLUS Roadmap & Action Plan by each receiver territory : Adaptation of BlueMed Roadmap & Action Plan to the needs and peculiarities of “receiver” territories, towards sustainable and responsible tourism development. Involves analysis and local adaptation of Roadmap milestones and Action Plan steps to implement and conditions to consider (incl. technical & non-technical barriers to overcome) for achieving the roadmap milestones. Indicative aspects include: legislation, preservation condition and physical accessibility; risk assessment, financing & sustainability plans, sustainability KPIs to monitor; Cooperation, Operational and Management frameworks; location, budget, and content of physical/virtual exhibitions at KACs, etc.The realisation of the above result will significantly contribute to the Programme result indicator in terms of:* Enhancing the capacity of “receivers” to locally adapt & implement the BlueMed model for operating accessible UWCH sites and KACs, as a catalyst to support sustainable and responsible tourism development in MED coastal regions.* Established synergies and cooperation among regional stakeholders to share the transferred solutions; awareness raising, joint planning and training of stakeholders towards promoting new coastal tourist destinations as assets of regional sustainability. * Consolidated policy elements for updating ICZM and MSP Strategies at regional/local levels (could produce multiplier effects for the entire MED area); and promotion of value of UWCH as growth pillar in the above policies.",
+          "achievements": "The main achievements of the project are reported here:- Organization of 2 meetings (Kick-off and Steering Committee meeting - 23/06/2021 and the Meeting for the presentation of the data collection forms and the questionnaires to the receiving partners - 12/11/2021). Creation of the google group mailing list and Ms Teams for project management. - Collaboration with MED Horizontal Project (HP) “Sustainable Tourism Community”; participation to the Welcome workshop for the new Transferring projects - 09/07/2021. - Press releases have been prepared and published by all the partners, a flyer has been edited and printed, social media profiles have been updated and many posts and stories have been published (FB, YouTube, twitter, Instagram, LinkedIn). - The project was presented in 5 relevant conferences (3 international and 2 national):EMRA 2021, EU-funded Marine Robotics and Applications. July 7-8, 2021, Pisa, Italy.BMTA 2021 – The Mediterranean Exchange of Archaeological Tourism, 25-28/11/21, Paestum, ItalySunken Memories - The protection of underwater cultural heritage, 9/11/2021, Online Conference.Underwater Archaeology Symposium - 2001-2021, 16-18/12/21, Taranto, Italy Notte dei Ricercatori 2021 - Superscienceme, 24/9/21, Rende (Cosenza), Italy- Eleven different instruments were used to disseminate BlueMed Plus (press releases, news in the press, news on social networks, news on the website).- Elaboration and submission of the data collection form to the receiving partners (AR, BM and VM). - Definition of the stakeholders’ list and the related categories and sub-categories. - Elaboration of 4 different questionnaires, with questions addressed to the different categories of stakeholders in relation to their skills and competences.- Organization of 3 territorial workshops (by the receiving territories with the collaboration of the project partners):14/12/21: 1st workshop in Vlore, Albania (n° of stakeholders invited: 13; n° of participants: 13)12/01/22: 2nd workshop in Brindisi, Italy (n° of stakeholders invited: 172, n° of participants: 28)17/01/22: 3rd workshop in Budva, Montenegro (n° of stakeholders invited: 20, n° of participants: 20)- Preparation of the draft of the BLUEMED PLUS Roadmap and Action Plan to be adopted by the receivers; definition of the KPIs (social, cultural, environmental, financial) to measure sustainability and the risk assessment elements, with social/political, economic and environmental risks.",
+          "expected_outputs": "BlueMed PLUS Roadmap and Action Plan for uptaking. :3,BlueMed PLUS Action Plan. :0,Consolidated policy elements for updating ICZM and MSP Strategies. :0,MoUs with all stakeholders opted-in to cooperate with the project. :3,BlueMed PLUS “transferring” process. :0,Developed dissemination/communication instruments. :0,Minutes from territorial workshops & training events in ‘receiver’ territories. :0",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "current": 7,
+  "next": "https://keep.eu/api/search/projects/?page=8",
+  "previous": "https://keep.eu/api/search/projects/?page=6",
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 19367,
+      "acronym": "MONITOR",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Investigação multimodal na fiabilidade de conversores de energia das marés",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Investigación multi-modelos de la fiabilidad de convertidores de energía mareomotriz",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Étude multi-modèle sur la fiabilité des hydroliennes",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Multi-model investigation of tidal energy converter reliability",
+          "description": "Marine renewable energy from tides is a significant potential growth industry for the Atlantic Area. There is a barrier to growth due to uncertainty in the engineering design, resulting in technology that is too expensive and risky to attract financial investment. \nThe MONITOR project aims to foster the growth of the tidal energy sector. It will investigate the forces acting on the blades and structures of Tidal Energy Converters (TEC) and their impact on reliability. This investigation will be carried out in an iterative fashion and will incorporate simulations, laboratory tests and testing at sea. The impact of the project will be better quantification of technical risk to TEC developers and more robust TEC designs, which will allow lower engineering safety factors, thus lowering cost while also improving reliability. \nThe partners will identify critical parameters for the blades and support structure, allowing to design a monitoring system for the specific devices used in the investigation. This system will de-risk TEC development, improve reliability and thereby increase capacity factor (i.e., power generated as a proportion of theoretical capacity) and lower capital expenditure/ operating expenditure. This is a crucial challenge for the sector, and overcoming it will reduce risk, thus demonstrating TEC feasibility to investors and public bodies.",
+          "expected_results": "Identification of critical parameters for the blades and support structure, allowing to design a monitoring system for the specific devices used in the investigation. Development of a generalised monitoring system that can be applied to any TEC design. This system will de-risk TEC development, improve reliability, and thereby increase capacity factor, fostering the growth of the tidal energy sector.",
+          "achievements": "Marine renewable energy from tides is a significant potential growth industry for the Atlantic Area. But there is a barrier to growth due to uncertainty around device reliability, resulting in tidal energy converter (TEC) technology that is too expensive and risky to attract financial investment. MONITOR’s goal was to investigate the forces acting on TEC blades and structures, to help TEC developers improve device reliability and thereby encourage the growth of the tidal energy sector.\nThe project identified critical parameters for the blades and support structure to design a monitoring system for two specific TEC devices (Magallanes’ ATIR and Sabella’s D10) and develop a generalised monitoring system that can be applied to any TEC. This data was supplemented with an extended programme of laboratory-scale tests and numerical simulations at several levels of fidelity. MONITOR thereby sought to combine the ‘gold standard’ of measurements on real full-scale devices at sea with the greater control possible in lab and computational models. From these multi-model sources of technical data, a general reliability model of TECs using variation mode and effects analysis (VMEA) was developed.\nAs a new-to-the-market product that increases certainty regarding blade/structure reliability, the VMEA model will accelerate Blue Growth. It is applicable to any TEC design, to de-risk TEC development, improve reliability and increase capacity factor (i.e. power generated as a proportion of theoretical capacity), and lower capital and operating expenditure. \nThe outputs of this reliability tool are used in conjunction with technoeconomic modelling to predict the impact of reliability improvements on the cost of tidal energy: this is fundamentally the most important output of the project and it will have the strongest long-term impact on the development of the tidal energy sector in the Atlantic Area.\n\"Our work during the project has highlighted the common challenges that are faced by all tidal stream devices in achieving an commercially viable standard of reliability, and the effect this has on their ability to generate renewable energy economically. We hope that the work of MONITOR will be useful to everyone in tidal stream energy who is looking to improve the reliability of their devices.” Michael Togneri MONITOR project lead.",
+          "expected_outputs": "• Achieve a number of enterprises and research institutes participating in transnational research projects;\n•  The at-sea testing of the Magallanes and Sabella devices both constitute pilot actions that will immediately impact the development of the partners’ technologies, and will inform the development of the reliability/monitoring tool that will be produced;\n•  The reliability/monitoring tool is one of the most important planned outputs and it is expected to have the strongest long-term impact on the development of the tidal energy sector in the Atlantic Area. This is a new-to-the-market product that will provide Tidal Energy Converter (TEC) developers with certainty regarding blade/structure reliability, and will thereby accelerate Blue Growth;\n•  The project’s communication/dissemination plan will make use of the established contact network of the partnership, as well as regular tidal sector events that are well-attended by the project’s target audience (i.e., TEC developers, supply chain organisations, research institutes, public authorities etc.) to maximise the impact of the project outputs.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19366,
+      "acronym": "CONSORTEX",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Consórcios marítimos europeus de internacionalização",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Consorcios marítimos europeos de exportación",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Consortiums maritimes européens d'exportation",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "European maritime export consortia",
+          "description": "In Interreg Atlantic Area, the economic and social importance of the industry and services related to sea is high, and shipbuilding industry has a significant tractor effect on a set of complementary activities carried out, in most cases, by SMEs.\nConsortex project aims to set up at least five export consortia formed by six or more European interregional SMEs specialized in the manufacture of certain built-in packages of naval production (bridge, engine room, accommodation and deck) for a certain type of shipbuilding (offshore vessels, marine power plants, cruise ships and scientific vessels) to improve their market positioning, sign contracts, and make international sales.\nWhile the goal of the consortia is innovation in marketing, their performance will be extended to all areas of the shipbuilding industry, such as innovation and technological development. And, within a Corporate Social Responsibility approach, the result will be a return to society and territory. This return will be based in taxes income for Public Authorities, employment, high technical qualifications of workers and environment protection.",
+          "expected_results": "The main product of this project is the establishment and implementation of at least 5 export consortia specialized by product package, formed each of them by 6 or more SMEs to improve their market access. A diagnosis of the ancillary industry of shipbuilding and its impact on the economy of their territories, an analysis of the value chain of product packages and types of vessels chosen, the strategic diagnosis of each firm involved, an analysis of the world market for each market niche, and a plan to return results to the society will also be obtained along the project.\nThe beneficiaries will be the SMEs ancillary shipbuilding industry, which will increase its presence in international markets, workers of these firms, who will have greater assurance of continuity in their jobs, and economies of the territories where the industry is located, which will have less unemployment.",
+          "achievements": "The high importance of the economic and social shipbuilding industry and services related to the sea in the Atlantic regions has a significant tractor effect on a set of complementary activities carried out, in most cases, by SMEs. These firms do not have size enough to address international markets in a good negotiation position and cannot complete a whole value chain on their own regions. So, collaboration with other companies from other European Atlantic regions becomes strategic.\nThe CONSORTEX project aimed to set up export consortia formed by European SMEs specialised in providing solutions for vessels and maritime structures. Six consortia have been established and started up: Vessel design, Deck, Accommodation, Engine Room, Bridge, and Offshore energy. All of them are composed of companies from different European Atlantic regions. They address international markets of a certain type of shipbuilding, such as offshore vessels, marine power plants, cruise ships, and scientific vessels, offering specialised built-in packages which cover their value chain. \nThe project partners thus committed to bringing together SMEs in the shipbuilding sector of the Atlantic Area, promoting collaboration among themselves. By being part of an export consortium, the companies maintain their autonomy, share knowledge and financial means, and grow in size and in negotiating power in international markets, where there is fierce competition from Asian companies. The maritime industry in each of the European Atlantic regions has been reinforced by the new shared capacities of the participant companies.\n\"Obeki Electric Machines is a company specialised in the design, manufacturing and sale of electric engines for vessels deck, offshore and maritime cranes, ships propulsion and other related applications. We have participated in the CONSORTEX project incorporating our company into Deck Consortium. The project has allowed us to know other complementary to us companies from other regions of the Atlantic Area with which we have shared experiences. The possibilities of carrying out joint projects in the future remain open, being therefore the final assessment of the project positive.” Javier Múgica Obeki Electric Machines SL.",
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19363,
+      "acronym": "GeoAtlantic",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Boosting local ecosystems for the use of geothermal energy in the communities",
+          "description": "The GeoAtlantic project pursues to promote the use of geothermal energy in the communities through the joint development of tools and methodologies that make possible the creation of favourable local ecosystems, both for heat and power. \nThe general objective of this project is to develop cooperation methodologies and tools in order to jointly create the necessary conditions to encourage the energy transition in the Atlantic Area by boosting local geothermal resources. \nThe improvement of cooperation between private and public actors and researchers will be pursued through the articulation of the value chain of geothermal energy in the communities and the local territories. With this aim, the development of local policy frameworks and support tools will be promoted to encourage the energy transition and the promotion of geothermal energy, as well as the empowerment of the communities and local authorities to provide an effective response from the energy point of view to the threat of climate change and the construction of a new energy model.",
+          "expected_results": "• Transfer of technology to energetic companies and services to support local entrepreneurship and SMEs related to geothermal energy: 4 technology transfer experiences to boost innovation in the geothermal energy;\n• A resource centre for promoting geothermal energy for districts and buildings (both for electricity and heating/cooling) with an online Advisory Service will be set up;\n• At the end of the project a public demonstration project will be implemented in each territory and the integration of measures in favour geothermal energy in the local policy framework will be achieved.",
+          "achievements": "The new directive on renewable energy proposes as a binding target for the UE that at least 27% of its energy comes from renewable sources by 2030. Many of the changes that this transition involves will be noticed in cities and municipalities. An ecosystem for the promotion of the energy transition and geothermal energy in the local communities of the Atlantic Area is necessary. The GEOATLANTIC project aims to promote the use of geothermal energy in the communities through the joint development of tools and methodologies that make possible the creation of favorable local ecosystems, both for heat and power.\nTo achieve this objective the project is promoting the knowledge of initiatives, technologies, and the latest advances to boost local ecosystems in favor of the energy transition, as well as the most appropriate solutions for the Atlantic regions. Thus, an interactive Tool of Reference was implemented, and a pool with best practices, methodologies and tools applicable to local communities, available in different languages to facilitate the knowledge and exploitation of geothermal resources. The project is also promoting activities for research and transfer of skills, as well as providing local policy frameworks and joint support instruments among the different agents and stakeholders in the Atlantic Area, to strengthen the geothermal energy sector chain and energy transition.\nFurthermore, GEOATLANTIC is also providing training and advice at different levels to communities and local authorities to give an effective response to the threat posed by climate change and to the construction of a new energy model. The project also acts in the transfer of technology to the market, through the creation of a portfolio with the technologies to be transferred to energetic companies as well as to support local entrepreneurship and SMEs related to geothermal energy. As pilots, four technology transfer experiences to boost innovation in geothermal energy were carried out.  \n\"GEOATLANTIC has helped the city of Ourense to discover its real potential in the field of geothermal energy. Undoubtedly, this renewable energy is one of the great energy engines of the city, and this project has been the exceptional starting point to turn Ourense into the thermal capital of Europe.” Jorge Pumar Councilor for the Environment of Ourense.",
+          "expected_outputs": "• An interactive tool of reference to boost geothermal energy and a pool with best practices, methodologies and tools applicable to local communities of the Atlantic Area;\n• A map of skills and competencies to stimulate geothermal energy and 4 training activities will be carried out in each territory aimed to different groups: policy makers, the general consumer, companies, professionals, farmers, etc.;",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Estímulo de ecossistemas locais para o uso da energia geotérmica das comunidades",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Impulso de ecosistemas locales para el uso de la energía geotérmica en las comunidades",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Stimuler l’environnement local pour le utilisation de l’énergie géothermique dans les territoires",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19361,
+      "acronym": "NASPA",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Natural fungicides against air & soil borne pathogens in the Atlantic Area",
+          "description": "The Atlantic Area is characterised by high rainfall and high humidity, conditions which increase crop fungal infection and leaching of inputs from soil (EEA, 2009). Crop growers counter these problems by applying high levels of synthetic fungicides and fertilizers. However, heavy rainfall can render these applications ineffective and leach these chemicals into waterways, resulting in increased emissions of the powerful greenhouse gas, nitrous oxide (N2O). The problem is compounded as many fungicides are toxic and face EU bans due to residue accumulation in food, which affects growers and retailer alike. NASPA will develop a new generation of products based on bioactive compounds from seaweed/fish waste/aquatic plants combined with key plant micronutrients. These will either induce crops to produce protective (antimicrobial, anti-oxidant) substances against fungal pathogens which infect them or improve plant health making crops less prone to diseases via better nutrition and biostimulation. Together, these have been shown to alter nitrogen cycling rate, reduce the need for nitrogen fertilisers, and associated leaching of nitrates into water streams, and of N2O emissions from agricultural soils. The products will increase marketable yield and shelf-life, providing Return on Investment (ROI) for crop growers and retailers. NASPA will provide increases in food production, exports, employment and competition, whilst meeting regulatory requirements regarding food residues and environmental run-off.",
+          "expected_results": "NASPA will contribute to policy information for further development of EU objectives of Circular Economy, territorial social cohesion and rural economy development.\nThis project will provide approaches for a) a global 50 % reduction in pesticide consumption, required by the Grenelle Agreement, fitting EU sustainable pesticide strategy and b) for a reduction in fertiliser use and associated losses to water, fitting the EU Water Framework, and specifically the Nitrates Directive policy targets, as well as national targets for reducing GHG emissions from the Agriculture sector.\nThis project associates members (major market players) that will allow market pull of the novel eco-products, increasing rural jobs, and competitiveness, targeting 5% penetration for agri-products (current estimated EU market €2 billion).",
+          "achievements": "Most Atlantic regions are characterised by high rainfall and high humidity, conditions that increase crop fungal infection and leaching of inputs from the soil. Crop growers counter these problems by applying high levels of synthetic fungicides and fertilisers. However, many fungicides are toxic and face EU bans due to residue accumulation in food.\nThe NASPA project developed a new generation of products based on bioactive compounds from seaweed/ fish waste/aquatic plants combined with key plant micronutrients. The improved plant health makes crops less prone to diseases via better nutrition and biostimulation.\nThe project outputs were based on the wide adoption of new business models, demonstrated by the sustainable use of unexploited marine resources and fish discards, to produce eco-products that counteract fungal crop/tree diseases. This new generation of products thus provided an increased marketable crop yield, the quality and shelflife of fruits and vegetables, converted into a return on investment for crop growers and retailers.\nNASPA also promoted the market pull of novel ecoproducts and contributed to an increase in exports, employment, and competition, whilst meeting regulatory requirements regarding food residues and environmental run-off. Moreover, NASPA contributed to policy information for further development of EU objectives of circular economy, territorial social cohesion, and rural economic development.",
+          "expected_outputs": "The outputs will be based on wide adoption of new business models, demonstrated by small-to-medium processes for the sustainable use of un-exploited marine resources (mostly seaweeds from poor parts of the South-West Atlantic coast) and fish discards that cannot re-enter in the food supply chain, to produce value-added eco-products that counteract fungal crop/tree diseases, increase marketable crop yield, and fruit & veg quality.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Fungicidas naturales contra hongos patógenos en el Espacio Atlántico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Fongicides naturels contre des pathogènes transmis par le sol ou l'air dans la région Atlantique",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Fungicidas naturais contra patogênicos transmitidos por ar ou solo na região Atlântica",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 35,
+          "title": "Soil and air quality"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19359,
+      "acronym": "SEA-TRACES",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Ferramentas inteligentes de rastreabilidade e rotulagem para uma produção sustentável de pescado",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Herramientas inteligentes de trazabilidad y etiquetado para una producción pesquera sostenible",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Outils intelligents de traçabilité et d'étiquetage pour la production durable de produits de la mer",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Smart traceability and labeling toolbox for a sustainable seafood production",
+          "description": "Seafood fraud has been recognised by European Food Safety Agency (EFSA) in 2015 as an emergent risk. Illegal fisheries, fraud and mislabeling are the main issues representing a serious risk to the existence of this important economic activity for the Atlantic Area Regions. The main actors, producers, industry, markets and consumers should be aware of the threat and the available tools which will empower them to adopt a responsible attitude towards the production, marketing and buying of seafood. \nThe general objective of SEA-TRACES is to demonstrate to stakeholders and consumers that Labeling and Traceability are essential to protect and valorize Atlantic Area’s fisheries and aquaculture. \nSEA-TRACES will demonstrate, through case studies in different regions, how innovative implementation of traceability and labeling instruments will facilitate and increase the marketing and revenues, thus acting as a driving force to inspire other companies to adopt similar strategies. Consumers and industry are meant to find agreements about how product information has to be delivered and obtained in order to maximize the information flow, SEA-TRACES will foster these encounters and workshops. Administration, Control and Research Labs are the main actors involved in label analysis and control, involvement of these actors in newly virtual platform will allow SEA-TRACES test the feasibility of transferring results.",
+          "expected_results": "• Development of Standard Analytical Methods to implement a better seafood control for decreasing mislabeling. Consumers provided with trustworthy information through reliable labels;\n• Creation of a self-sustained Network of Expertise: a referent body for academia, industry and public authorities at international level, with joint problem-solving capacity to meet future challenges on this field.\n• Development and pilot implementation of a Virtual Reference Center for Seafood Authentication: improved and harmonized performance on Seafood Traceability and Labeling control by competent authorities; \n• Recommendations for improved seafood labels arisen from the close collaboration between consumers and industry at transnational level. Involvement of EU Consumers associations, CoR and relevant stakeholder associations to promote better labels. Strategy for consumers’ information;",
+          "achievements": "Illegal fishing, fraud and mislabeling pose a serious risk to this important economic activity in the Atlantic Area regions. The main actors, producers, industry, markets and consumers must be aware of these threats and know the available tools that will empower them to adopt a responsible attitude towards the production, marketing and buying of seafood. The overall objective of SEATRACES is to demonstrate to stakeholders and consumers that Labeling and Traceability are essential to protect and enhance fisheries and aquaculture in the Atlantic Area. By carrying out case studies in different regions, SEATRACES is demonstrating how innovative implementation of traceability and labeling instruments facilitate and increase marketing and revenue, thus acting as a driving force to inspire other companies to adopt similar strategies. In addition, pilot actions are being carried out to demonstrate how traceability benefits producers and consumers. Being the proper analytical tools essential for compliance with the latest labeling regulations, the project is developing, testing and validating new tools for verification of Labels.\nThe Administration, Control and Research Labs are the main actors involved in the analysis and control of labels. To help official control labs, SEATRACES has developed a new online tool (FISH-FIT) with the methodology used for species identification of seafood. Consumer studies carried out in six countries showed that traceability and sustainable certification are indeed important, however, these studies also conclude that price is a relevant factor in buying decision process.\nSEATRACES also assessed the level of compliance with European labeling regulations in these countries, demonstrating that there are specific needs to improve compliance throughout the supply chain. \n\"SEATRACES explored the use of radiofrequency identification tags for tracking  oysters in the farm: from seeds until they are sold to consumers. That is traceability like no other”. Nuno Ferreira Exporsado.",
+          "expected_outputs": "• Analysis of the results obtained in case studies and pilot actions with the involvement of industrial partners and stakeholders from the seafood sector (producers and farmers) focused on the implementation of Seafood; Traceability and Labeling schemes and innovative marketing tools: increased benefits for producers, reinforcement of Atlantic Area global position;\n• Dissemination material for the communication of results to different audiences. International Conference ISLAS 2020 to showcase all SEA-TRACES achievements and results: increased awareness on Seafood Traceability and Labeling and consequences of mislabeling.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19357,
+      "acronym": "ATLANTIC-KET-MED",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Establishment of an advanced pilot production ecosystem for future biomedical products",
+          "description": "Currently there is no biomaterials pilot manufacturing ecosystem for translating concepts from the research-bench to pilot production readily accessible for SMEs + micro-enterprises within the Atlantic Area. \nThe objective of Atlantic-Ket-Med is to create new innovation capacity by establishing an inter-regional pilot manufacturing ecosystem, developing human and infrastructural resources. The project will use the biomedical sector as a driver in the near term. In the longer term, it will help to establish productive systems for extracting greater value from the Atlantic biomaterials. \nIn terms of impact, partners and recruited SMEs + micro-enterprises will learn best practice in innovation and competition through: the implementation of audits and analyses of technical value chains, respectively; audits will inform transnational partnerships in which inter-regional innovation capacity is to be developed; differentiated value chains will determine sustainable competitiveness for enterprises; gaps in value chains will determine priority for development of innovation capacities; new training and expertise in key enabling technologies, Industrie 4.0 and Scalable Innovation, facilitated by three workshops, will underpin the use of transnational pilot system components. Finally, it will also be developed access procedures for 25 separate processes in the pilot ecosystem and five case studies will demonstrate opportunities for pilot manufacturing.",
+          "expected_results": "Establishing an inter-regional pilot manufacturing ecosystem by developing human and infrastructural resources. In the longer term, the project will help establish productive systems for extracting greater value from the Atlantic biomaterials",
+          "achievements": "Before ATLANTIC-KET-MED there was no biomaterials pilot manufacturing ecosystem for translating concepts from the research-bench to pilot production readily accessible for SMEs and micro-enterprises within the Atlantic Area. ATLANTIC-KET-MED has brought new, high tech, pilot production capacity to the SMEs and start-ups of the Atlantic Area, using the Key Enabling Technologies (KETs) to produce next generation medical devices. A network of KET experts works directly with companies and other stakeholders to develop both a large scale strategy for the Atlantic regions, as well as case by case specific product development strategies for novel biomed products.\nThis project offers direct support to companies with high potential to bring new KET-enabled products to market, to enhance their innovation management through innovation audits, product-specific value chain analysis, and assistance with product development case studies. Broader support also includes new training and knowledge in KETs, Industry 4.0 and scalable innovation, tailored matchmaking, and a comprehensive review and reimagining the Education Policy impacting the needs of regional companies. \nThe project will continue to work toward the enduring growth and expansion of this ecosystem having mapped all relevant facilities in the area to define a strategy for future development of an integrated and complementary technical infrastructure, capable of realising the high potential of the KETs in next-generation medical devices.\nATLANTIC-KET-MED had established and enacted a new type of interregional cooperation to enable the most cutting edge developments directly improving the quality of life for citizens and increasing the competitiveness of Atlantic Area enterprises.\n\"Manchester BIOGEL was delighted to be one of the companies selected to take part in the Value Chain Analysis (VCA)process. Talking through our company’s product and process portfolio with the consortium definitely helped us assess our innovation practices. This led us to expand the application and reach of our peptide hydrogel products which is beginning to lead to enhanced revenue generation. The outcome from the VCA process also identified a significant number of potential new customers and collaborators across the full network, and beyond.” Aline Miller CEO, Manchester Biogel.",
+          "expected_outputs": "- Establish and report on the reconfigurable pilot manufacturing ecosystem centred on biomaterials;\r\n- Mapping, 50 innovation audits will be conducted for SMEs, micro-enterprises and other public bodies;\r\n- 25 SME or microenterprise-specific, in-depth, value chain analyses will be completed;\r\n- Private and public partners will develop 5 new industrial training modules, 3 in KETs, 2 others in Scalable Innovation and Industrie\n\n4.0;\r\n- Build innovation capacity by demonstrating 25 new procedures in partnership with SMEs for enhanced inter-regional access to pilot line resources;\r\n- 5 show-case pilot manufacturing case studies targeting 2-3 new product launches;\r\n- Interaction with 1000 persons-through social media and websites, 3 workshops across the regions, preparation of 15 publications.\r\n- 10 hot desk exchanges, 10 round table discussions to ensure financial, institutional and political sustainability. \r\n- Explore how the biomaterials manufacturing ecosystem can be further developed by H2020, evolving RIS3 strategies, and by other private investments.",
+          "delivered_outputs": "",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Establecimiento de un ecosistema de producción piloto avanzada para productos biomédicos de futuro",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "O estabelecimento de um avançado ecossistema de fabricação piloto para futuros produtos biomédicos",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Ecosystème transnational pilote pour la production avancée des futurs produits biomédicaux",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

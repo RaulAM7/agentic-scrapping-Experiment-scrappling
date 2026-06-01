@@ -1,0 +1,470 @@
+{
+  "current": 3,
+  "next": "https://keep.eu/api/search/projects/?page=4",
+  "previous": "https://keep.eu/api/search/projects/?page=2",
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 22116,
+      "acronym": "CircularSeas",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Turning ocean plastic waste into green products for maritime industries",
+          "description": "CircularSeas promotes the Green Economy through the development of eco-innovative or green products or components by maritime industries. The approach includes the transfer of tools, through a combination of 3D printing technology and the use of marine plastic resute and biodegradable, renewable and high functional polymers; commercial cases demonstrating the viability of the parts; and an open innovation ecosystem for experimentation in 6 ports.",
+          "expected_results": "Expected impacts are:\n- Increase on the recollection and valorization of the Ocean Plastic Waste for its recycling and use on development of new materials;\n- Reduction on the use of plastic based parts in the Maritime Industries, reducing the spillover of plastic into the Atlantic Ocean;\n- Diversification of the economic activities linked to Green Growth by Maritime Industries by the introduction of 3DP and New Materials, bringing new market opportunities and jobs.",
+          "achievements": "Atlantic Area maritime industries can become frontrunners in the Green Growth economy by embracing new manufacturing technologies for the delivery of greener products, a challenge that requires a shared vision and strategy. The CIRCULARSEAS project promotes the development of eco-innovative products, parts, and components for the maritime industries, using recycled ocean plastic waste and biodegradable, renewable, and high-performance polymers.\nThrough the use of 3D printing technologies, the project increased the value of marine plastic waste that results from maritime industries, or that is left on beaches (pollution), to convert them into useful products for the economic activities of these industries, such as spare parts for freezers or thermoplastic molds for boats.\nIt also encouraged the community to collect plastics from the oceans promoting their depollution, to improve the waste management in the ports, and reduce the use of plastic-based parts in the maritime industry, namely for the fishing and shipyards sectors, and diversifying economic activities linked to green growth.\nThe consortium is carrying out six pilot tests of business cases to collect evidence about the economic, technical and environmental viability of 3D printing technology in  the manufacturing of green parts using green materials.\nCIRCULARSEAS will also deliver policy briefs to the public authorities with recommendations to update the Smart Specialisation strategies, to promote the 3D technologies, as well as the long-term sustainability of business cases. As the main results, CIRCULARSEAS contributed to the increased recollection of the maritime plastic waste for recycling and fostered the closing of the circular economy loop by using recycled materials for components for the Maritime Industries, reducing the spillover of plastic into the Atlantic Ocean. Thus, there was a  diversification of the economic activities linked to Green Growth by the introduction of 3D printing and new materials, bringing new market opportunities and jobs. \n\"The fishermen association of Ondarroa (Onare) has benefited from the project through the revalorisation of used nets, contributing to better waste management in the port. The development of the price tags as the green product of Ondarroa has been advantageous to this association by making the local fish more recognisable in the fish shops. Naberan, as a net seller, will also benefit from the results, because the recyclability of their product has been demonstrated at the pilot level. Birziplastic, a recycling company in the Node, is working on scaling up the process of recycling fishnets to an industrial level, which will help broaden their business. Indart, the 3D printing company, has seen that recycled materials based on maritime waste show potential for the technology and the interest of the maritime industries for the green products will help their economic activity as well.” Eli Aranbarri CEO fish trader federation of Ondarroa, ONARE.",
+          "expected_outputs": "- 1 Diagnosis report on circular plastic waste in maritime industries. A proposal for closing the loop on the use of plastic by maritime industries, by the means of using 3DP for manufacturing parts with recycled and greener materials. \n- 1 Portfolio of business cases. Business cases for manufacturing green parts by 3DP with indication of target industry, target component and proposed business model. \n- 1 New integrated 3DP system. Improvements conducted by 3 technology centers in hardware, software and materials for a system tailored to the needs and use by maritime industries. \n- 6 Pilot tests of business cases. Empiric evidence about the economic, technical and environmental viability 3DP tech in the manufacturing of green parts using green materials. \n- 1 Technology and materials catalogue. The commercial exploitable results from the development stage of the 3DP system, are disseminated in a publication with transfer purposes. \n- 6 Transfer workshops. Maritime industries, local and port authorities and the entrepreneur community from the 6 Nodes/Ports, know the findings of the Pilot Tests and Catalogue. \n- 6 Policy briefs. Public authorities are briefed on recommendations to update S3 and to provide long term sustainability to business cases and promote 3D tech update.\n- 6 Dissemination events and 1 final conference. Dissemination and transfer of project progress and results to target groups and multipliers.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Transformando os resíduos plásticos do oceano em produtos verdes para as indústrias marítimas",
+          "description": "CircularSeas visa a promoção da Economia Verde através do desenvolvimento de produtos ecologicamente inovadores ou ecológicos, pelas Indústrias Marítimas. A abordagem deste projeto inclui a transferência de ferramentas, através de uma combinação de tecnologia de impressão 3D e o uso de resíduos de plástico reciclado oceânico e polímeros biodegradáveis, renováveis e de alto desempenho; casos de negócios viáveis para a produção de peças verdes; e uma inovação aberta e ambiente de experimentação em 6 portos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Transformant les déchets plastiques de l’océan en produits verts pour les industries maritimes",
+          "description": "CircularSeas vise à promouvoir l'économie verte grâce au développement par les industries maritimes de produits éco-innovants ou verts. La démarche repose sur un transfert d’outils au travers d'une combinaison associant la technologie d'impression 3D à l’utilisation de déchets plastiques recyclés provenant de l’océan et de polymères biodégradables et renouvelables; des cas économiquement viables pour la production de pièces; et une innovation ouverte et des expérimentations dans 6 ports.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Transformando el residuo plástico del oceno en productos verdes para las industrias marítimas",
+          "description": "CircularSeas promociona la Economía Verde a través del desarrollo de productos o componentes eco-innovadores o verdes por las industrias marítimas. El enfoque incluye la transferencia de herramientas, a traves de una combinación de tecnología de impresión 3D y el uso de resudo plástico marino y polímeros biodegradables, renovables y de altas funcionalidades; casos comerciales que demuestren la viabilidad de las piezas; y un ecosistema de innovación abierta para la experimentación en 6 puertos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22115,
+      "acronym": "EMPORIA4KT",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Empower academia for knowledge transfer for value creation in the Atlantic Area",
+          "description": "Cultural diversity harmonization between the triple innovation helix key players (academia, business, government) is vital to foster knowledge transfer & innovation. \nWhile businesses are profit oriented and governments’ focus on economic development, academia motivation is knowledge creation, developing innovative early stage technologies that often do not reach the market. \nEMPORIA4KT will improve transnational cooperation and synergies between triple helix players to foster innovation and competitiveness in Atlantic Area's blue economy, by focusing on upgrading academia skills for knowledge transfer and innovation. \nThe project will promote the design of a market directed towards Research, Development & Innovation (RDI) projects, aiming to influence improvements in public policy through mapping RDI and knowledge transfer capacity and supportive funding tools in the programme area.",
+          "expected_results": "The expected results are: \n• Identify & share best practices in knowledge transfer (KT) & innovation, focusing on the role of Academia to foster cooperation between triple helix players; \n• Develop a Joint Action Plan to enhance KT & innovation capacity to foster Atlantic Area’s Blue Economy competitiveness at regional, interregional & transnational level; \n• Advance risk assessment and cost effectiveness tools to de-risk early stage technologies (EST); \n• Develop and share an operational tool to build capacity in Academia in KT and innovation; \n• Positively influence policy through assessment of regional RDI capacity and funding tools to mature EST for KT, ensuring cost-efficient exploitation of resources, so that best value for money on investment made by public & private bodies is achieved.",
+          "achievements": "The commercialisation of technological innovations is a key driver of long-term economic growth and sustainabley management of our ocean and sea resources, but Early Stage Technologies (EST) developed through academic research often do not reach the market. To drive sustainable growth of the EU Blue Economy, better links are needed between academia, business, and government (triple helix), sectors that often have different motivations.\nThe project developed a Joint Action Plan together with an Academia Innovation Enhancer operational tool - the EMPORIA4KT Blue Economy Technology Transfer Programme - to enhance knowledge transfer and innovation capacity to foster Blue Economy competitiveness at regional, interregional and transnational levels.\nThe project developed a Joint Action Plan together with an Academia Innovation Enhancer operational tool – named EMPORIA4KT Blue Economy Technology Transfer Programme, to enhance knowledge transfer and innovation capacity to foster Blue Economy competitiveness at regional, interregional and transnational levels. \nThe action plan and operational tool, which included training and innovative co-developed methodologies and tools to Early Stage Technologies, were successfully  implemented in the 5 participating countries of the project. It is now being improved for new pilot implementation, in this case, to revitalise and enhance the competitiveness of the Canary Islands, through blue economy technologies and knowledge valorisation. The developed tools and their improved versions will be available online to other research institutions that wish to upgrade skills in Knowledge Transfer and Innovation.\nEMPORIA4KT expects thus to positively influence public policy through assessment and resulting recommendations of regional RDI capacity and funding tools to mature Early Stage Technologies for commercialisation and value creation and competitiveness in the Atlantic Area. The project will finally publish a report that identifies key Blue Economy areas and funding support required for each Atlantic Area region. \n\"EMPORIA4KT programme was my first real contact with the tech transfer world, and where I was able to complement my scientific knowledge with essential skills that allow me to further investigate products and concepts focused on a sustainable society evolution.” Virginia Carvalho Ph.D. researcher and participant in the EMPORIA4KT programme.",
+          "expected_outputs": "• Blue economy stakeholders engagement, identify needs & trends, pre-evaluation of EST market need; \n• Design risk assessment and cost effectiveness tools for Atlantic Area academia and public bodies in the Atlantic region o strength risk management systems; \n• Co-development of the Academia Innovation Enhancer tool to upgrade Academia skills for KT & innovation in blue economy sectors \n• Development of KT channels to market EST.\n• Best-practices sharing through organization of joint events. \n• Influence improvements in public policy through assessment and recommendations of regional RDI capacity and funding tools to mature EST for commercialization, value creation and competitiveness increase for the Atlantic Area.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Capacitar a academia em transferência de conhecimento para a criação de valor no Espaço Atlântico",
+          "description": "O EMPORIA4KT visa estimular a cooperação transnacional e sinergias entre os atores da tripla hélice, promovendo a inovação e a competitividade na economia azul, focando-se no aumento de competências do meio académico para a transferência de conhecimento e inovação. Irá permitir a concepção de projectos de Investigação, Desenvolvimento e Inovação (IDI) dirigidos ao mercado. Este projeto pretende influenciar as políticas públicas através da avaliação da capacidade de transferência de de IDI e conhecimento e das ferramentas de financiamento existentes na área do programa.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Transferencia de conocimiento desde la academia para crear valor en el Espacio Atlántico",
+          "description": "EMPORIA4KT mejorará la cooperación transnacional y sinergias entre actores de la triple hélice para fomentar innovación y competitividad en la economía azul; centrándose en mejorar habilidades del sector académico para transferencia de conocimiento e innovación. Permitirá diseño de proyectos de investigación, desarrollo e innovación (IDI) dirigidos al mercado. Influirá en las políticas públicas a através de la evaluación de la capacidad de transferencia de IDI y de conocimiento,  y de las herramientas de financiación en el area del programa.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "De l’académique au transfert de connaissances pour la création de valeur sur l’Espace Atlantique",
+          "description": "EMPORIA4KT améliorera la coopération transnationale et les synergies entre les acteurs de la triple hélice pour aider l'innovation et la compétitivité de l'économie bleue, en augmentant les compétences académiques pour le transfert de connaissances et l'innovation. Il permettra la conception de projets de recherche, développement et innovation (RDI) axés sur le marché. Cela influera les politiques publiques grâce à l’évaluation des capacités de transfert de RDI et de connaissance, et des outils de financement dans le zone du programme.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22114,
+      "acronym": "DiadES",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Assessing and enhancing ecosystem services provided by diadromous fish in a climate change context",
+          "description": "Diadromous fish (shads, lampreys, eel, salmon, trout & mullet) are migratory, moving between fresh and marine waters. Through their journey, they provide ecosystem services (e.g. income, food, recreation) to local communities but few quantitative estimations exist. These services could be threatened by climate change due to spatial reallocation of fish and related benefits. \nDiadES aims to assess and enhance ecosystem services provided by diadromous fish in the Atlantic Area, and in parallel, the conservation status of these species, by explicitly considering in their management expected impacts of climate change on their distributions. \nDiadES will positively impact diadromous fish management in the face of global climate change by improving awareness and knowledge on the services provided by these species and the need to set common management measures targeting both anthropogenic pressures & climate change; favouring a joint promotion of ecosystem services related to diadromous fish in the Atlantic Area to the wider public; ensuring a sustainable ecosystem services provision by these species, combining exploitation & conservation, in support of Atlantic Area local economies and quality of life.",
+          "expected_results": "DiadES will positively impact diadromous fish management in the face of global climate change by:\n •\tFostering the necessary level of cooperation among Member States (MS) & actors involved in diadromous fish management to enable sound decision-making;\n •\tImproving awareness and knowledge among policy makers and other key stakeholders on the services provided by these species and the need to set common management measures targeting both anthropogenic pressures & climate change;\n •\tFavouring a joint promotion of ecosystem services related to diadromous fish in the AA to the wider public because they influence decision-making;\n •\tEnsuring a sustainable ecosystem services provision by these species, combining exploitation & conservation, in support of AA local economies and quality of life.",
+          "achievements": "Diadromous species (e.g. shads, lampreys, eel, salmon, and mullet) suffer a continuous decline across their Atlantic distribution, causing ecological and socioeconomic impacts on local communities. Despite significant conservation efforts, the situation remains critical because the management of these shared and migratory resources is mostly organised at the local scale, not considering interconnections between river basins. Additionally, these species are vulnerable to climate change. Therefore, a shift in their distributions would render their management an even more complex problem.\nIn consequence, a transnational approach is needed to enable common management for the conservation and enhancement of the ecosystem services associated with these species in the Atlantic Area that includes the explicit long-term and large-scale issues related to climate change. To achieve this goal, DiadES aims to create innovative and collaborative tools to ignite transnational management under present and future climatic conditions. Since 2019, the project partners are working to increase the capacity of policy makers and other key stakeholders to make efficient and informed management decisions.\nDiadES is finalising the development of an Interactive Web Atlas to present changes in diadromous species distributions and trends in relevant ecosystem services under climate change, promoting emerging benefits provided by these species. A Serious Game is almost ready to bring together target groups to imagine alternative management strategies in a globally changing environment. Policy guidelines will then be formalised for a large-scale and long-term management of diadromous species, in the form of a Parliament Magazine article to reach European deputies about this critical biodiversity issue. \n\"For three years, DiadES has demonstrated the intensity of the transnational cooperation between researchers in natural sciences and environmental economists and the increasing engagement of related managers. DiadES 29 partners 14 regions (PT, ES, FR, IE, UK)  Thanks to DiadES, the people working on the ground with diadromous species in the rivers of Gipuzkoa have been able to exchange experiences and knowledge with other stakeholders from all over the Atlantic Area. I am sure that the contacts they have made will be the basis for future collaborations”. Estibaliz Diaz AZTI, Head of Sustainable Fisheries Management for ICES species.",
+          "expected_outputs": "Three main outputs will be produced to increase the capacity of policy makers and other stakeholders to make efficient and informed management decisions and support them in the implementation of related policies on diadromous fish. \n• An Interactive Web Atlas will present changes in diadromous fish distributions and trends in relevant ecosystem services under climate change, promoting benefits provided by these species.\n• A Serious Game, of a role-playing form, will consist in bringing together target groups who have different sources of knowledge to (i) share this different knowledge, (ii) build a joint representation of fish population dynamics and (iii) imagine alternative management strategies in the face of climate change. \n• The Policy Guidelines for the long-term management of diadromous fish and the maintenance of the ecosystem services and economic welfare they produce in the AA.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Avaliar e promover serviços do ecossistema de peixes diádromos num cenário de alterações climáticas",
+          "description": "As atividades humanas e as alterações climáticas constituem uma ameaça para os peixes diádromos. A sua distribuição na região do Atlântico está a mudar, causando novas interações socioeconómicas e ecológicas neste território. O projeto DiadES visa reforçar os serviços ecossistémicos relevantes para estes recursos transnacionais, estabelecendo regras comuns para a gestão de peixes diádromos nas condições climáticas atuais e futuras e promovendo uma maior cooperação regional para a conservação e exploração destas espécies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Evaluación y mejora de los servicios ecosistémicos de los peces diádromos bajo el cambio climático",
+          "description": "Las actividades humanas y el cambio climático constituyen una amenaza para los peces diádromos. Su distribución en la región del Atlántico está cambiando, causando nuevas interacciones socioeconómicas y ecológicas en este territorio. El proyecto DiadES pretende reforzar los servicios ecosistémicos relevantes para estos recursos transnacionales, estableciendo reglas comunes para la gestión de peces diádromos en las condiciones climáticas actuales y futuras, y promoviendo una mayor cooperación regional para la conservación y explotación de estas especies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Services écosystémiques et poissons migrateurs amphihalins face au changement climatique",
+          "description": "Les poissons migrateurs amphihalins sont menacés par les activités humaines et le changement climatique. Leur distribution atlantique change, engendrant de nouvelles interactions socio-économiques entre les territoires. DiadES améliorera les services écosystémiques associés à cette ressource transnationale en établissant des règles communes de gestion des migrateurs sous conditions climatiques présentes et futures, et en favorisant la coopération régionale pour leur conservation et exploitation.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22112,
+      "acronym": "Triple-C",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Capitalising climate change projects in risk management for a better Atlantic Area resilience",
+          "description": "In the past, communities have mainly operated in isolation from each other when dealing with climate change and disaster management. Greater cooperation would increase the effectiveness of reducing people’s vulnerability to rising insecurities and to strengthen the Atlantic Area resilience. This project responds to the urgent need to achieve this by closer collaboration with current initiatives and previous ones successfully carried out across Europe.\nTriple-C project is focused on the analysis, evaluation and capitalization of sucessful EU projects on the prevention and management of risks deriving from climate change, aiming at disseminating and transfering the best practices and results identified in this domain into policy making.\nThe project specific objectives are: \ni) organize and update the results, methodologies and tools obtained from different projects in this field.\n ii) capitalize projects by exchange of good practices and experience among partners, as well as through identification of barriers and solutions and making recommendations.\niii) assure the widest visibility and tranfer of results of project products, methodologies, activities and results at European level.",
+          "expected_results": "Knowledge gained during the project implementation will be mainstreamed and transferred towards local regional and national public policies, to improve the prevention and management of risks associated to climate change in the Atlantic area regions. Moreover, the platform and the Guidelines produced will enrich and provide support for the next generation of EU funded projects to build upon the experience gained.",
+          "achievements": "In the past, communities have mainly operated in isolation from each other when dealing with climate change and disaster management. Greater cooperation would increase the effectiveness of reducing people’s vulnerability to rising insecurities and strengthen the Atlantic Area resilience. The TRIPLE-C project responds to the urgent need of achieving a closer collaboration between the different climate change-related initiatives carried out across Europe, thus contributing to strengthening the  territory’s resilience to climate and risks of natural origin. The project is focused on the analysis, evaluation and capitalisation of successful EU projects and on the prevention and management of risks associated with climate change, aiming at disseminating and transferring the best practices and results identified into policy making.\nThrough its platform and the compendium of capitalised projects, TRIPLE-C shared these best practices and results across Europe. This platform, allows practitioners, local, regional and national authorities to attain access to continuous learning.\nResearch missions, knowledge events and networking activities were carried out, creating synergies among projects and partners and building up a network to reinforce and enlarge the capacities in management action plans and strategies of the Atlantic territories.\n\"So far, TRIPLE-C has identified and capitalised 259 different EU projects, from which 129 good practices have been extracted and studied in depth. Moreover, TRIPLE-C partners have carried out over 40 bilateral interviews with capitalised projects representatives in order to obtain first-hand information about the initiatives.  Although climate change is already having negative consequences for the growth of the agriculture and forestry sectors, among others, at the same time it also represents a very powerful a driving force for research and innovation as well as to start working on the right direction, that is, advancing towards a more sustainable way of life.” Carlos Garbisu, Scientific Director, NEIKER (Basque Institute of Agricultural Research and Development).",
+          "expected_outputs": "• Triple-C platform and the compendium of capitalised projects will share the best practices across Europe on the management and prevention of risk associated to climate change. \n • Research missions, Knowledge events and networking activities carried out by the partnership will create synergies among projects and partners and build up a ‘network of networks’. \n • Guidelines for the next generation of EU cooperation programmes dealing with climate change risk management and the encounters with policy makers.\n • The Final conference to be held in Brussels will contribute to communicate that mainstreaming of mitigation and adaptation climate change and related risks management and prevention.\n The activities will cover an estimate population of 800.000 people benefiting from flood protection and forest fire measures.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Capitalisation de projets de risques liés au changement climatique pour une meilleure résilience de l'Espace Atlantique",
+          "description": "Triple-C est ciblé sur l’analyse, l`évaluation et la capitalisation de projets européens réussis de prévention et de gestion des risques issus du changement climatique. Les partenaires collaboreront pour transférer les meilleures pratiques identifiées pour que leurs résultats soient tenus en compte par les politiques régionales et européennes. Le travail de capitalisation pourra ainsi servir aux orientations de la prochaine génération de Programmes de coopération transnationale.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Capitalizando projetos sobre alterações climáticas e gestão de riscos para uma melhor resiliência do Espaço Atlântico",
+          "description": "Triple-C está focado na análise, avaliação e capitalização dos projetos europeus com reconhecido sucesso na prevenção e gestão de riscos decorrentes das alterações climáticas. Os parceiros irão colaborar entre si na transferência das melhores práticas identificadas, com o objetivo final de transferir os resultados selecionados para as políticas regionais e europeias. Estes resultados de capitalização também servirão de base para a próxima geração de programas de cooperação transnacional.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Capitalizando proyectos de riesgos ligados al cambio climático para una mejor resiliencia del Espacio Atlántico",
+          "description": "Triple-C se centra en el análisis, evaluación y capitalización de proyectos europeos exitosos de prevención y gestión de riesgos derivados del cambio climático. El partenariado del proyecto colaborará para transferir las mejores prácticas identificadas con el fin de que sus resultados sean tenidos en cuenta por las políticas regionales y europeas. El trabajo de capitalización podrá ser de utilidad para las orientaciones de la próxima generación de Programas de cooperación transnacional.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22111,
+      "acronym": "AHFES",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "A quadruple helix Atlantic Area healthy food ecosystem for growth of SMEs",
+          "description": "Innovation is a critical aspect of regional development and SMEs capacity to compete and grow. The innovation healthy food & lifestyles ecosystem is envisaged as a space to exploit synergies between stakeholders, discuss common issues, enhance the knowledge & skills exchange.\nAHFES project aims to support a sustainable growth of healthy food & lifestyle sector and SMEs - a key actor of EU common market. Its purposes are to improve overall competitiveness and growth of SMEs in the value chain of healthy food and lifestyles by contributing to enhance a transnational innovation ecosystem that helps SMEs access knowledge, partners and markets and align their products and services to consumer needs and expectations. \nThe proposed ecosystem & cooperative approach will contribute to an increased cooperation between different actors, involve & raise awareness of consumers through a series of events, actions & studies, provide services & trainings to SMEs and transfer the lessons learned to other organisations and regions.",
+          "expected_results": "AHFES will improve conditions to encourage innovation in the healthy food&lifestyles sector, as well as communication, networking & cooperation between actors. On-going evaluation, monitoring of implementation processes & results, map of infrastructure, SWOT analyse will help to reduce an innovation gap in the sector & let to find adequate solutions for common problems of the Atlantic Area. All partners & stakeholders can expect to experience sustainable, long-term, economic impact through enhanced collaboration & innovation efforts, both in the Atlantic Area & in global growth markets.",
+          "achievements": "Sustainability:\nAHFES carried out a situation analysis of food companies from the perspective of sustainability. After this analysis was studied, a report was produced including recommendations to assist companies with the ecological transition to adopt sustainable processes. Which are considered a critical aspect for innovation, competitiveness and growth of SMEs, within the value chain of healthy food.\n\nAHFES undertook Intelligence gathering on current consumer trends. Check out the 25 market analysis reports on the AHFES website investigating Healthy food and lifestyle market research and analysis.\n\nAHFES facilitated networking and supported building transnational innovation partnerships through in person and online events and webinars. You can view 27 recordings on the AHFES youtube channel.\n\nAHFES created a data base and mapping of the Atlantic Area healthy food innovation ecosystem. Over 1100 contacts of stakeholders working in the Healthy food sector from across the 7 partner regions.",
+          "expected_outputs": "• Analysis of the existing initiatives, policies & mechanisms for entrepreneurship, innovation & internationalisation.\n• Definition of the SMEs needs (technological, knowledge, administrative).\n• Matchmaking & networking between key value chain stakeholders with a view to transnational cooperation for entrepreneurship & innovation of SMEs.\n• Creation of the map of healthy food&lifestyles Infrastructure to strengthen transnational cooperation among regions, identify potential gaps & help mitigate risk along the value chain. \n• Networking, training support activities for SMEs based on the exchange & adaptation of best practices & joint, efficient solutions for common barriers. \n• Improving SMEs access to international markets by creating a transregional innovation ecosystem of SMEs.\n• Creation a more sustainable ecosystem in view to foster the customer-driven innovation. \n• Enhance transfer from research to the market thanks to the interaction between actors.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Ecosistema de alimentos saudáveis de hélice quadrúpla no Espaço Atlântico para o crescimento das PMES",
+          "description": "O projeto AHFES pretende melhorar a competitividade e crescimento das PMEs da cadeia de valor de alimentos saudáveis, através do reforço de um ecossistema de inovação que facilite acesso ao conhecimento, parceiros e mercados, alinhando produtos e serviços com as preferências dos consumidores. AHFES apoiará o crescimento sustentável do sector de alimentos e vida saudável, especialmente das PMEs, atores cruciais do mercado comum europeu.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Ecosistema de alimentos saludables de hélice cuádruple en el Espacio Atlántico para el crecimiento de las PYME",
+          "description": "El objetivo de AHFES es la mejora competitiva y crecimiento en la cadena de valor de la alimentación y estilo de vida saludables, fortaleciendo un ecosistema de innovación transnacional que facilite  el acceso de las Pyme al conocimiento, socios y mercados y que alinee sus productos y servicios con las necesidades y expectativas del consumidor. AHFES apoyará el crecimiento sostenible del sector de los alimentos y la vida sana, especialmente de las PYME, que son cruciales para el mercado común europeo.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Ecosystème alimentaire sain à quadruple hélice dans l'Espace Atlantique pour la croissance ds PME",
+          "description": "Le projet AHFES vise à améliorer l’écosystème d'innovation transnationale permettant aux PME un meilleur accès aux partenaires, marchés et compréhension des besoins/attentes consommateurs pour favoriser leur croissance et compétitivité. Le projet soutiendra une croissance durable du secteur de l'alimentation et mode de vie sain tout en faisant des PME-un acteur clé du marché commun de l'UE.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22110,
+      "acronym": "TIDE",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Rede Atlântica para o desenvolvimento do turismo marítimo histórico",
+          "description": "O projeto TIDE visa desenvolver novos tipos de atrações e serviços de turismo marítimo histórico no Atlântico baseados na cooperação para partilhar o património cultural das regiões, com o apoio de novas tecnologias e ferramentas de colaboração transnacional.\nO principal resultados esperado é que 30% das regiões do Atlântico utilizem os resultados do projeto para melhorar as suas políticas de exploração de ativos naturais e culturais até 2021",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Red Atlántica para el desarrollo del turismo marítimo histórico",
+          "description": "El proyecto TIDE pretende desarrollar nuevos tipos de atracciones y servicios de turismo marítimo en el Atlántico basados en la cooperación, para compartir el patrimonio cultural entre regiones, aprovechando las nuevas tecnologías y herramientas de colaboración transnacional. El resultado principal será aumentar un 30% de las regiones Atlánticas utilicen las conclusiones del proyecto para mejorar sus políticas de explotación del patrimonio natural y cultural como motor de desarrollo económico hacia 2021.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Réseau Atlantique pour le développement du tourisme maritime historique",
+          "description": "Le projet TIDE vise à développer de nouveaux types d’attractions et de prestations touristiques maritimes sur l’Atlantique, basés sur un partenariat permettant de mettre en commun dans toutes les régions un patrimoine culturel, en s’appuyant sur les nouvelles technologies et les outils de collaboration transnationaux. Le but est d’atteindre 30% des régions en utilisant les résultats du projet pour améliorer leurs politiques pour exploiter le patrimoine naturel et culturel pour le développement économique d’ici 2021.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Atlantic network for developing historical maritime tourism",
+          "description": "The Atlantic Area has a very attractive cultural and historical identity, with a unique stock of historical marine assets related to trade, migration and wars which can benefit the socio-economic development of this region.\nTIDE project aims to develop and market new types of historical maritime tourist attractions and packages and cultural attractions for the Atlantic, supported by new technologies and transnational collaboration tools. The cultural assets could be in museums, shipwreck sites, or archives related to battles or migrating passengers and their stories, etc.\nThese new attractions present cultural content from other regions, as well as their own; connect visitor centres to real underwater sites that contain shipwrecks or submarines; create a richer visitor experience by introducing new technologies such as Virtual Reality;  focus on historical niches that have left a cultural footprint across Atlantic regions, e.g., Napoleonic; and are based in existing cultural attraction building.\nThe expected impact is to increase the number of visits to supported cultural sites, facilitating local communities cooperate to develop new niche tourism services, create new local jobs, fix and attract people, create synergies between existing tourism providers and improve the economic and social well-being of the project regions.",
+          "expected_results": "The project will contribute to increase by 30% the number of Atlantic regions using the project's outputs to improve their policies for exploiting natural and cultural assets as a driving force for economic development.",
+          "achievements": null,
+          "expected_outputs": "• Capitalisation Plan implemented, aiming to achieve 42% of AA regions using the project outputs by 2023. Series of 7 Sustainability Plans produced, one per region;\n• Common \"cultural tourism ideas\" Toolkit designed, developed and tested using 3 ideas in each region (21 across the 7 regions);\n• Online Platform designed and operational, using the ideas generated to cooperatively develop and deliver new multi-region networked tourism packages. \n• “Multi-region” niche tourism packages piloted with tourists across the partner regions.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

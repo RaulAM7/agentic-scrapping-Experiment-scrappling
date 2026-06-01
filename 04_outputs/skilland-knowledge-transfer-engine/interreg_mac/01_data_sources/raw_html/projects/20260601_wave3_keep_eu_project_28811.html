@@ -1,0 +1,1331 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1.0,width=device-width">
+        <link rel="shortcut icon" href="https://keep.eu/wp-content/themes/theme/assets/img/favicon.ico" type="image/vnd.microsoft.icon">
+
+        <title>Project - Planning for autonomous mobility on demand in the Euro-MED area</title>
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v18.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Keep.eu" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://keep.eu/#website","url":"https://keep.eu/","name":"Keep.eu","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://keep.eu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"","isPartOf":{"@id":"https://keep.eu/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[""]}]},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"search"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='formidable-css'  href='https://keep.eu/wp-content/plugins/formidable/css/formidableforms.css?ver=711742' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://keep.eu/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='front-style-css'  href='https://keep.eu/wp-content/plugins/cookie-disclaimer/css/front-style.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-styles-css'  href='https://keep.eu/wp-content/themes/theme/node_modules/select2/dist/css/select2.min.css' type='text/css' media='' />
+<link rel='stylesheet' id='charts-styles-css'  href='https://keep.eu/wp-content/themes/theme/node_modules/chart.js/dist/Chart.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-styles-css'  href='https://keep.eu/wp-content/themes/theme/node_modules/swiper/swiper-bundle.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-global-css'  href='https://keep.eu/wp-content/themes/theme/assets/build/css/global-9a48317a54.css' type='text/css' media='all' />
+<link rel='stylesheet' id='survey-style-css'  href='https://keep.eu/wp-content/themes/theme/assets/css/survey.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://keep.eu/wp-includes/css/dashicons.min.css?ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wptt_front-css'  href='https://keep.eu/wp-content/plugins/wp-twitter-feeds/controller/../css/admin_style.min.css?ver=5.9.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://keep.eu/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/node_modules/select2/dist/js/select2.min.js' id='select2-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/node_modules/pako/dist/pako.min.js' id='pako-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/node_modules/iframe-resizer/js/iframeResizer.min.js' id='iframe-resizer-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/node_modules/chart.js/dist/Chart.min.js' id='charts-js-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/node_modules/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.min.js' id='chartjs-plugin-datalabels-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/node_modules/swiper/swiper-bundle.min.js' id='swiper-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/jquery-026381bf25.imagemapster.min.js' id='image-mapster-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/bar-chart-c6d5df5b67.js' id='bar-chart-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/pie-chart-8b89bac930.js' id='pie-chart-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/partner-chart-0c8ffb0355.js' id='partner-chart-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/document-chart-529d628e4b.js' id='document-chart-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/programme-chart-46a072627d.js' id='programme-chart-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/slider-9f41de4cdb.js' id='slider-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBSb8YJS4gBTxY3JbL4CkounrDRkk2EDfM&#038;ver=5.9.3' id='google-maps-js'></script>
+<script type='text/javascript' src='https://kit.fontawesome.com/69913d19c0.js' id='font-awesome-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js' id='recaptcha-js'></script>
+<script type='text/javascript' id='survey-script-js-extra'>
+/* <![CDATA[ */
+var survey_script_vars = {"expanded_popup":{"title":"Dear keep.eu user,","text":" In one minute, tell us how useful this website is. It\u2019s anonymous unless you tell us otherwise, and will help us serve you better. Thank you","take_survey_link":{"title":"Take the survey now!","url":"https:\/\/keep.eu\/survey\/","target":""},"maybe_later_message":"Maybe later"},"exit_intent_popup":{"title":"Dear keep.eu user,","text":"Before you leave, please tell us how useful this website was. It will help us serve you better. Thank you","take_survey_message":"Ok"},"is_active":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/js/survey.js?ver=5.9.3' id='survey-script-js'></script>
+<link rel="https://api.w.org/" href="https://keep.eu/wp-json/" /><style>.post-thumbnail img[src$='.svg'] { width: 100%; height: auto; }</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	const console_cmd = console.warn || console.log;
+	var dataLayer_content = {"pagePostType":"bloghome"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K2JP4FT');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="icon" href="https://keep.eu/wp-content/uploads/2020/04/favn.png" sizes="32x32" />
+<link rel="icon" href="https://keep.eu/wp-content/uploads/2020/04/favn.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://keep.eu/wp-content/uploads/2020/04/favn.png" />
+<meta name="msapplication-TileImage" content="https://keep.eu/wp-content/uploads/2020/04/favn.png" />
+
+
+    </head>
+
+    <body class="blog wp-embed-responsive">
+    <div class="top-menu-container">
+        <div class="top-menu-content content-wrap">
+            <nav id="top-menu">
+                <div class="menu-top-bar-left-container">
+                    <ul class="menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/about-keep-eu/">About keep.eu</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/faq/">FAQ</a></li>                        <li class="menu-item menu-item-type-post_type menu-item-object-page language-link-container">
+                            <a id="language-link">Languages</a>
+                            <div class="menu-top-bar-languages-container">
+                                <p class="info">
+                                    keep.eu has landing pages in different languages, for those Internet users who come to keep.eu using a language other than English.                                </p>
+                                <ul class="menu">
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/bulgarian-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d1%81%d0%ba%d0%b8-bg/">Bulgarian | Български (bg)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/latvian-latviesu-valoda-lv/">Latvian | Latviešu valoda (lv)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/finnish-suomi-fi/">Finnish | Suomi (fi)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/spanish-espanol-es/">Spanish | Español (es)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/lithuanian-lietuviu-kalba-lt/">Lithuanian | Lietuvių kalba (lt)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/swedish-svenska-sv/">Swedish | Svenska (sv)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/czech-cestina-cs/">Czech | Čeština (cs)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/hungarian-magyar-hu/">Hungarian | Magyar (hu)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/arabic-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-ar/">Arabic | العربية (ar)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/danish-dansk-da/">Danish | Dansk (da)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/maltese-malti-mt/">Maltese | Malti (mt)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/byelorussian-belarusian-%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%ba%d0%b0%d1%8f-%d0%bc%d0%be%d0%b2%d0%b0-be/">Byelorussian (Belarusian) | беларуская мова (be)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/german-deutsch-de/">German | Deutsch (de)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/dutch-nederlands-nl/">Dutch | Nederlands (nl)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/hebrew-%d7%a2%d7%91%d7%a8%d7%99%d7%aa-he/">Hebrew | עברית (he)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/estonian-eesti-keel-et/">Estonian | Eesti keel (et)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/norwegian-norsk-no/">Norwegian | Norsk (no)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/georgian-%e1%83%a5%e1%83%90%e1%83%a0%e1%83%97%e1%83%a3%e1%83%9a%e1%83%98-ka/">Georgian | ქართული (ka)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/greek-e%ce%bb%ce%bb%ce%b7%ce%bd%ce%b9%ce%ba%ce%ac-el/">Greek | Ελληνικά (el)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/polish-polski-pl/">Polish | Polski (pl)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/armenian-%d5%b0%d5%a1%d5%b5%d5%a5%d6%80%d5%a5%d5%b6-hy/">Armenian | Հայերեն (hy)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/french-francais-fr/">French | Français (fr)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/portuguese-portugues-pt/">Portuguese | Português (pt)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/moldavian-moldovenesc-mo/">Moldavian | Moldovenesc (mo)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/irish-gaeilge-ga/">Irish | Gaeilge (ga)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/romanian-romana-ro/">Romanian | Română (ro)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/russian-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9-ru/">Russian | Русский (ru)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/croatian-hrvatski-hr/">Croatian | Hrvatski (hr)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/slovak-slovencina-slovensky-jazyk-sk/">Slovak | Slovenčina (slovenský jazyk) (sk)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/turkish-turkce-tr/">Turkish | Türkçe (tr)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/italian-italiano-it/">Italian | Italiano (it)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/slovenian-slovenscina-slovenski-jezik-sl/">Slovenian | Slovenščina (slovenski jezik) (sl)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/ukrainian-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%81%d1%8c%d0%ba%d0%b0-uk/">Ukrainian | Українська (uk)</a></li>                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a href="/news-and-updates">News and updates</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="menu-right">
+                    <ul class="menu">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a class="contact-us" href="#">
+                                Contact                            </a>
+                        </li>
+                    </ul>
+                    <ul class="menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/login/?callback_url=https://keep.eu/projects/28811/Planning-for-autonomous-mob-EN">Login</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/register/">Register</a></li>                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div id="language-modal" class="modal-wrapper">
+        <div class="modal-element">
+            <span class="close">&times;</span>
+            <h2>Languages</h2>
+            <p class="info">
+                keep.eu has landing pages in different languages, for those Internet users who come to keep.eu using a language other than English.            </p>
+            <div class="menu-mobile-languages-container">
+                <ul class="menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/bulgarian-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d1%81%d0%ba%d0%b8-bg/">Bulgarian | Български (bg)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/latvian-latviesu-valoda-lv/">Latvian | Latviešu valoda (lv)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/finnish-suomi-fi/">Finnish | Suomi (fi)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/spanish-espanol-es/">Spanish | Español (es)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/lithuanian-lietuviu-kalba-lt/">Lithuanian | Lietuvių kalba (lt)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/swedish-svenska-sv/">Swedish | Svenska (sv)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/czech-cestina-cs/">Czech | Čeština (cs)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/hungarian-magyar-hu/">Hungarian | Magyar (hu)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/arabic-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-ar/">Arabic | العربية (ar)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/danish-dansk-da/">Danish | Dansk (da)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/maltese-malti-mt/">Maltese | Malti (mt)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/byelorussian-belarusian-%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%ba%d0%b0%d1%8f-%d0%bc%d0%be%d0%b2%d0%b0-be/">Byelorussian (Belarusian) | беларуская мова (be)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/german-deutsch-de/">German | Deutsch (de)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/dutch-nederlands-nl/">Dutch | Nederlands (nl)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/hebrew-%d7%a2%d7%91%d7%a8%d7%99%d7%aa-he/">Hebrew | עברית (he)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/estonian-eesti-keel-et/">Estonian | Eesti keel (et)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/norwegian-norsk-no/">Norwegian | Norsk (no)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/georgian-%e1%83%a5%e1%83%90%e1%83%a0%e1%83%97%e1%83%a3%e1%83%9a%e1%83%98-ka/">Georgian | ქართული (ka)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/greek-e%ce%bb%ce%bb%ce%b7%ce%bd%ce%b9%ce%ba%ce%ac-el/">Greek | Ελληνικά (el)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/polish-polski-pl/">Polish | Polski (pl)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/armenian-%d5%b0%d5%a1%d5%b5%d5%a5%d6%80%d5%a5%d5%b6-hy/">Armenian | Հայերեն (hy)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/french-francais-fr/">French | Français (fr)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/portuguese-portugues-pt/">Portuguese | Português (pt)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/moldavian-moldovenesc-mo/">Moldavian | Moldovenesc (mo)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/irish-gaeilge-ga/">Irish | Gaeilge (ga)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/romanian-romana-ro/">Romanian | Română (ro)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/russian-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9-ru/">Russian | Русский (ru)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/croatian-hrvatski-hr/">Croatian | Hrvatski (hr)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/slovak-slovencina-slovensky-jazyk-sk/">Slovak | Slovenčina (slovenský jazyk) (sk)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/turkish-turkce-tr/">Turkish | Türkçe (tr)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/italian-italiano-it/">Italian | Italiano (it)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/slovenian-slovenscina-slovenski-jezik-sl/">Slovenian | Slovenščina (slovenski jezik) (sl)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/ukrainian-%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%81%d1%8c%d0%ba%d0%b0-uk/">Ukrainian | Українська (uk)</a></li>                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="contact-modal" class="modal-wrapper">
+        <div class="modal-element">
+            <span class="close">&times;</span>
+            <h2>Contact Form</h2>
+            <form id="contact-form">
+                <label for="reply-to">Reply-to (email address)</label>
+                <input id="reply-to" name="reply-to" />
+                <label for="topic">Topic</label>
+                <select id="topic" name="topic">
+                    <option value="About keep.eu">About keep.eu</option>
+                    <option value="Build reports">Build reports</option>
+                    <option value="Countries and regions">Countries & regions</option>
+                    <option value="FAQ">FAQ</option>
+                    <option value="My account">My account</option>
+                    <option value="Partners">Partners</option>
+                    <option value="Programmes">Programmes</option>
+                    <option value="Projects and documents">Projects and documents</option>
+                    <option value="Representativeness">Representativeness</option>
+                    <option value="Statistics">Statistics</option>
+                    <option selected="selected" value="no-section">No section specified</option>
+                </select>
+                <label for="message">Message</label>
+                <textarea id="message" name="message"></textarea>
+                <label for="g-recaptcha-response">Recaptcha</label>
+                <div class="g-recaptcha" data-sitekey="6LcqOzkUAAAAAKuovUBZZgi9sGVIVlN9cJPr4CEd"></div>
+                <div class="actions">
+                    <button type="submit">Send message</button>
+                    <button id="close-modal-button">Close</button>
+                </div>
+            </form>
+            <div id="status-message" class="hidden">
+                <div class="modal-element">
+                    <p id="status"></p>
+                    <div class="actions">
+                        <button id="close-status-modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <header class="header" id="site-header">
+        <div class="overlay">&nbsp;</div>
+        <div class="head-content content-wrap">
+            <div class="site-branding" style='margin-top:-2px;margin-bottom:-24px'>
+                <a href="https://keep.eu" rel="home">
+                    <img alt="Keep logo" class="logo" src="https://keep.eu/wp-content/themes/theme/assets/img/keep-logo.png" style='height:90px;'/>
+                </a>
+                            </div>
+            <div class="container">
+                <i id="mobile-menu" class="fas fa-bars"></i>
+                <div class="main-nav-container">
+                    <nav id="site-navigation" class="main-navigation">
+                        <div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://keep.eu/projects/">Projects and documents</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://keep.eu/programmes/">Programmes</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://keep.eu/partners/">Partners</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://keep.eu/countries-and-regions/">Countries and regions</a></li>
+<li id="menu-item-4362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4362"><a href="https://keep.eu/statistics/">Statistics</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://keep.eu/representativeness/">Representativeness</a></li>
+<li id="menu-item-2764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2764"><a href="https://keep.eu/programmes/?hide-sidebar=true#search:eJx9Uc1qwzAMfhede2jDYJDX6LEM47paqmLLRpY7Rsm7z05CC22XixD6rO/HukGSOIgNATP0N9DfhNAfvjaQUCie5p6L5rlz1nvoIfIQiQcY6ySyCh2LUmTTbXcftXTbxpUTOvomZ+Lxgk7pukicMVh9GjfuO5CqspDSDEwaIVT2WDQVNcQnclajPO89CA0yrYJmjfI1Vbdr5fPfVE2JWFGuyG1l+axV2wsqmIt/4yCjFXduip6yLmGm63DxfgNif/bTk301Wk/RA4zjH9WNqIs=">Calls for projects</a></li>
+</ul></div>                        <ul class="menu mobile-only">
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/about-keep-eu/" class="">About keep.eu</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/faq/" class="">FAQ</a></li>                                        <li class="menu-item menu-item-type-post_type menu-item-object-page language-link-container">
+                                            <a id="mobile-language-link">Languages</a>
+                                        </li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/?page_id=772" class="">News and updates</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="#" class="contact-us">Contact</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/login/" class="">Login</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://keep.eu/register/" class="">Register</a></li><!--                            <li class="menu-item menu-item-type-post_type menu-item-object-page">-->
+<!--                                <a class="contact-us" href="#">-->
+<!--                                    --><?//= __('Contact', 'plugin') ?>
+<!--                                </a>-->
+<!--                            </li>-->
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+<style>
+.project-page-content .section .field-row, .project-page-content ul{
+    margin-bottom: 0;
+ }
+
+.themes p {
+    margin-bottom: 0;
+}
+
+</style>
+    <div id="content" class="content">
+        <div class="main-content">
+            <main id="main">
+                <div class="content-wrap page-content project-page-content">
+                    <div class="title-area">
+                        <div class="breadcrumb">
+                            <p>
+                                <a href="https://keep.eu">Home</a>
+                                /
+                                <a href="https://keep.eu/projects/">Projects and documents</a>
+                                / ArtMED                            </p>
+                        </div>
+			<h1 class="page-title">Planning for autonomous mobility on demand in the Euro-MED area</h1>
+                        <a class="programme-link"
+                           href="https://keep.eu/programmes/377">
+                            Programme 2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)                        </a>
+                    </div>
+                    <div class="two-columns">
+                        <div class="column">
+                        </div>
+                        <div class="column">
+			    <span style='font-style:italic;font-size:12px;'>Date of latest update:
+                                    2026-01-27			    </span>
+                        </div>
+                    </div>
+                    <div class="two-columns">
+                        <div class="column">
+                            <div class="section description">
+                                <h2>Description</h2>
+                                <div class="field-row"><span class='bolded'>Description (FR): </span><div class="collapsible-content collapsed">Dans la zone Euro-MED, 40.6M d’habitants vivent dans des territoires de faible densité avec peu ou pas de transports publics (IEMED, 2021) en raison du coût de ces services rapporté au nombre d’usagers par kilomètre parcouru. Cette absence de transports publics conduit à l’isolement des populations ou à une forte dépendance automobile (ESPON, 2020) entrainant d’importantes émissions de CO2 (156M de tonnes) et des problématiques d’accès à l’emploi et aux services publics.
+
+Les recherches et initiatives européennes ont mis en avant le potentiel des Transports autonomes à la Demande (TaD) pour offrir un service de transport public de qualité avec des couts opérationnels réduits (41% d’amélioration du rapport qualité/prix, Malmö Uni. 2022) et un moindre impact environnemental (baisse des émissions de 72% selon K2Centrum, 2022). Malheureusement, il est difficile pour les collectivités et les entreprises de transport public de mettre en place un service autonome à la demande sans connaitre au préalable l’impact que celui-ci aura à l'échelle locale.
+
+Les projets AVENUE (H2020) et MultiDEPART (EIT UM) ont développé des méthodologies pour calculer l’impact local des TaD mais ces dernières restent difficilement exploitables directement par les décideurs publics. ArtMED a pour objectif l’optimisation d’un outil d’évaluation d’impact de TaD par l’Ecole Central de Lyon (AVENUE) et CARNET (MultiDEPART) et son transfert à 4 autorités publiques, en Slovénie (PO), au Portugal (TML), en Italie (ALOT), en Grèce (PF) et au réseau d’iED. ArtMED aboutira à la production de : 4 déclarations d’intention au niveau politique, 4 plans d’investissement et 2 plans de transport pour déployer les TaD.
+
+Les TaD étant très peu développés dans la zone Euro-MED, ArtMED est le premier projet à compiler les connaissances existantes en un outil de planification à destination des décideurs publics pour offrir une solution de transport public aux populations des zones faiblement peuplées en Euro-MED.</div><a href="#" class="more">Read more</a></div><div class="field-row"><span class='bolded'>Description (EN): </span><div class="collapsible-content collapsed">In Euro-MED, 40.6 million people live in sparsely populated areas with poor or without public transport services (IEMED, 2021). These areas are expensive for Public (Transport) Authorities (PTAs) to operate due to low number of paying passengers per kilometre. This leads to high private car dependency or isolation of people (ESPON, 2020), resulting in high carbon emissions (156M tons of CO2) or inaccessibility to public services and labour market.
+
+A solution recognised by researchers and pilot projects in Europe is autonomous mobility on demand (AMOD), offering higher quality services while reducing operating costs (41% quality-cost ratio improvement, Malmö Uni, 2022) and CO2 emissions up to 72% (K2Centrum, 2022). However, it is difficult for PTAs to start planning AMOD without the ability to easily estimate its potential socio-economic and environmental impact.
+
+The AVENUE (H2020) and MultiDEPART (EIT UM) projects successfully developed methodologies to assess local impact of AMOD. Currently, these methodologies cannot easily be applied by PTAs outside of these projects. Therefore, the primary objective of ArtMED is enable PTAs to plan for AMOD by transferring methodologies from École Centrale de Lyon (AVENUE) and CARNET (MultiDEPART) to 4 PTAs in Slovenia (PO), Portugal (TML), Italy (ALOT), Greece (PF) and beyond through jointly optimising and implementing a publicly accessible AMOD impact assessment tool in a transnational approach.
+
+The tool will support PTAs in ArtMED to analyse the potential AMOD impact for local use cases and develop: 4 vision statements (for political support), 4 investment plans (for budgeting) and 2 transport model designs (for planning AMOD systems).
+
+As AMOD hardly exists yet in Euro-MED, ArtMED is the first project to make state-of-the-art insights available to PTAs through a user-friendly tool, that assesses AMOD impact to plan for more accessible, inclusive, and sustainable public transport for people in sparsely populated areas.</div><a href="#" class="more">Read more</a></div>                                <div class="field-row"><span class='bolded'>Actual Achievements (EN): </span><div class="collapsible-content collapsed">The ArtMED project is dedicated to exploring and advancing Automated Mobility on Demand (AMOD) in the Euro-MED area. The project has made significant progress, focusing on developing best practices, creating comprehensive vision statements, and crafting tools for impact assessment and implementation.
+In the 1st reporting period we reached the objectives as follows:
+
+Best Practices Collection (WP1):
+
+We produced a comprehensive document detailing the levels of flexibility and stages of AMOD development across different regions, including state-of-the-art examples of automated and on-demand mobility, with examples of successful implementations. In this document, we also analysed drivers and barriers for the implementation of AMOD in public transport.
+
+Vision Statements (WP2):
+
+We started developing detailed Vision Statements outlining the relevance, potential impact, and feasible deployment timelines for AMOD in partners specific use cases. Then, these documents were validated by an internal version of the impact assessment tool to enhance the final version of the partners' Vision Statements. 
+
+Tool Development (WP1):
+
+We defined a list of inputs and outputs for the AMOD impact assessment tool, and integrated methodologies from AVENUE and MultiDEPART projects to optimise the tool. By doing so, we are developing a flexible tool for contextualising service scenarios, assessing social relevance, and creating implementation roadmaps. The working version of the tool was sent to all the partners for testing and is currently awaiting feedback for further development.
+
+Promotional Material and Outreach (WP3):
+
+We finalized the project website and maintained an updated the to-do list with direct deliverables. We also developed a PowerPoint template, a Branding Manual, a LinkedIn page, and a Report template.
+
+Main Outputs Delivered:
+Deliverable 1.1.6 - AMOD Best Practices Collection:
+We completed a detailed document covering the stages of AMOD development, state-of-the-art examples, drivers, barriers, and executive summaries 
+
+Added-Value of the Cooperation in the 1st reporting periode:
+Interdisciplinary Collaboration:
+The project fosters interdisciplinary collaboration, bringing together experts from various fields to enrich the development of AMOD solutions. This cooperative approach ensures diverse perspectives are considered, leading to more robust and adaptable outcomes.
+
+Knowledge Sharing:
+Partners actively share feedback and experiences, leveraging each other's work to enhance the project's overall quality. This exchange of knowledge is crucial for developing well-rounded and effective AMOD strategies.
+
+Stakeholder Engagement:
+Engaging a wide range of stakeholders, from local municipalities to technology providers, ensures that the developed solutions are practical, scalable, and aligned with real-world needs. This engagement is pivotal for the successful implementation of AMOD in the Euro-MED area.
+
+In the 1st reporting period, the ArtMED project has made substantial progress towards its goal of advancing Automated Mobility on Demand in the Euro-MED area. Through the comprehensive Best Practices Collection, detailed Vision Statements, and the development of robust tools, the project is paving a strong foundation for the future implementation of AMOD solutions. The added value of interdisciplinary cooperation and stakeholder engagement has been crutial in achieving these milestones, ensuring that the project's outcomes are both innovative and practical.
+During the reporting period, the ARTMED Consortium engaged in a series of virtual and in-person meetings, including four conference calls, to ensure alignment on key project deliverables and to address any concerns related to the modification request. These calls were vital in keeping all partners up-to-date on progress, discussing the next steps, and resolving any challenges that arose. The calls also provided an opportunity to review timelines, share updates from working groups, and assess any modifications or adjustments required to meet project goals.
+In addition to the conference calls, an important milestone was two in-person meetings held in Palaio Faliro, Greece, October, and Lyon, France, in February 2025. The face-to-face interaction allowed for more dynamic exchanges on specific project components, facilitating a clearer understanding of any technical and administrative questions in response to the evolving nature of the project. It also enabled members to reinforce their commitment to the project’s objectives and ensure that all required tasks were being addressed in the most effective manner.
+A significant event during this period was the participation in the Green Living Areas (GLA) Mission 1st Institutional Policy Dialogue held on 10 January 2024. The dialogue served as an essential platform for engaging with institutional stakeholders, policymakers, and experts on the project’s goals and policy implications. Further contributing to the ongoing discourse on green living areas, the consortium also participated in the Green Living Areas Mission Thematic Working Group Online Sessions, held on 24 December 2024. These online sessions provided a space for ongoing projects  and external stakeholders to exchange ideas and best practices on key thematic areas related to green living spaces, sustainability, and urban resilience. The next major online event, that project partners attended, within GLA Online Thematic Working Groups focusing on policy, scheduled for Thursday, 27 February 2025. 
+In terms of deliverables, during this reporting period, the consortium successfully completed and submitted four investment plans. These plans are integral to the project’s ability to attract funding and investment, ensuring that the necessary resources are in place for implementation. Each investment plan was meticulously developed, incorporating both short-term and long-term financial considerations, and ensuring that the project’s goals could be met within the agreed timeline. Alongside the investment plans, four vision statements were finalized, reflecting the consortium’s aspirations for the ArtMED project and its long-term impact. These vision statements outline the project’s overarching goals, including the creation of sustainable urban spaces, the integration of green technologies, and the promotion of resilient infrastructure. They also highlight the importance of community engagement, policy alignment, and the fostering of partnerships among local, national, and international stakeholders.
+Furthermore, the consortium made significant progress in the development of the AMOD tool. A working version of the tool was produced during this period, marking a key achievement in the project’s technological component. The AMOD tool is designed to support decision-making processes and provide a robust framework for evaluating the environmental, social, and economic impacts of various interventions. This tool has been essential in the creation of the four investment plans and the four vision statements. By utilizing the AMOD tool, the consortium was able to ensure that these plans and statements were well-informed, evidence-based, and aligned with the project's goals. The tool's ability to integrate and analyze complex data played a pivotal role in shaping the strategic direction of the project, facilitating more informed decisions that will contribute to its long-term success.</div><a href="#" class="more">Read more</a></div>                                                                    <span class="disabled-last-row"><strong>Project outputs: </strong>
+                                           <span style="display:block;margin-left: 20px;">A free, web-based tool that enables Public (Transport) authorities in Euro-MED to easily assess the potential impact of Autonomous Mobility on Demand for public transport systems in their areas.(EN)<br />
+see English version(FR)<br />
+Mobility strategies for integrating autonomous mobility on demand in public transport to serve sparsely populated areas.(EN)<br />
+see English version(FR)<br />
+see English version(FR)<br />
+The Public (Transport) Authorities, knowledge partners and dissemination partner, supported by Associated partners that cooperate across borders on the planning of AMOD.(EN)<br />
+</span>
+                                    </span>
+                                
+                                                                    <span class="disabled-last-row"><strong>Website: </strong><a
+                                            href="https://artmed.interreg-euro-med.eu/"
+                                            target="_blank">https://artmed.interreg-euro-med.eu/</a>
+                                    </span>
+                                                                
+                            </div>
+                            <div class="section themes">
+                                <h2>Thematic information</h2>
+                                                                    <div class="field-row">
+                                                                                    <a href="/projects?hide-sidebar=true#theme:19" class="icon-button">
+                                                Transport and mobility                                                <i class="far fa-external-link-alt"></i>
+                                            </a>
+                                                                            </div>
+                                
+                                <br/>
+                                                                    <strong><p>Priority: </strong>
+                                           <span>(VI-B_EM_2) Greener MED</span>
+                                    </p>
+                                                                                                    <strong><p>Priority specific objective: </strong>
+                                           <span>RSO2.4. Promoting climate change adaptation and disaster risk prevention and resilience, taking into account eco-system based approaches</span>
+                                    </p>
+                                                                                                    <strong><p>Priority policy objective (Interreg specific objective): </strong>
+                                           <span>PO2 A greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility</span>
+                                    </p>
+                                                                                                        
+                                                                    <strong><p>Type of intervention: </strong>
+                                           <span>061 Risk prevention and management of non-climate related natural risks (for example earthquakes) and risks linked to human activities (for example technological accidents), including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches</span>
+                                    </p>
+                                                                                      
+
+                                          
+                                                                                                                                                                                            </div>
+                            <div class="section partners">
+                                      <h2>Partners <span style="font-weight:normal;font-size:2rem;">(8)</span></h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="lead-partner">
+                                            <p><strong>Lead Partner: </strong>
+                                                Občina Postojna</p>
+                                                                                            <p><strong>PIC (Participant Identification Code): </strong>
+                                                    917494483</p>
+                                                                                                                                        <p><strong>Partner’s ID if not PIC: </strong>
+                                                    SI13053973 | SI120000003 | - (FR), - (EN)</p>
+                                                                                                                                                                                    <p><strong>Address: </strong>
+                                                    LJUBLJANSKA CESTA, 6230 Postojna, Slovenia                                                </p>
+                                                                                                                                        <p><strong>Department address: </strong>
+                                                    LJUBLJANSKA CESTA, 6230 Postojna, Slovenia                                                </p>
+                                            
+                                                      
+
+
+                                                      
+                                                                                            <p><strong>Legal status: </strong>
+                                                    public</p>
+                                            
+                                                                                            <p><strong>Organisation type: </strong>
+                                                    Local public authority</p>
+                                                                                                       
+
+                                                            
+                                                                                                                                            <p><strong>Website: </strong><a target="_blank" href="http://www.postojna.si">
+                                                        http://www.postojna.si                                                    </a>
+                                                </p>
+                                                                                                                                        <p><strong>Total budget: </strong>
+                                                    EUR 297 200.00</p>
+                                            
+                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                    EUR 237 760.00</p>
+                                                                                                                                        <p><strong>Partner’s programme co-financing rate: </strong>
+                                                    80.00%</p>
+                                                                                                                                        <p><strong>Partner contribution: </strong>
+                                                    EUR 59 440.00</p>
+                                            
+                                            
+                                            
+                                            
+                                            
+
+
+
+                                            
+
+                                                                                            <p><strong>Contractors: </strong></p>
+                                                <ul>
+                                                                                                                                                    <li>
+                                                    Name: Deidra Jovanovic s.p.<br>
+                                                    VAT registration or tax identification number: 52909174                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: RISKO, Damjan Nusdorfer s.p.<br>
+                                                    VAT registration or tax identification number: 45131759                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: MALL, Ana Delak s.p.<br>
+                                                    VAT registration or tax identification number: 19776772                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: PLENTUS d.o.o.<br>
+                                                    VAT registration or tax identification number: 40549933                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: PeTiKa, Peter Česnik s.p.<br>
+                                                    VAT registration or tax identification number: 60525827                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: BAX INNOVATION CONSULTING s.l.<br>
+                                                    VAT registration or tax identification number: ESB62822010                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: KEK kom d.o.o.<br>
+                                                    VAT registration or tax identification number: SI18271014                                                  </li>
+                                                                                                                                                  </ul>                                                                   
+                                                                                                                                </div>
+                                                                                                    <dl class="accordion-list">
+                                                                                                                                                                <div>
+                                                <dt class="accordion-head open-item">
+                                                    Universitat Politècnica de Catalunya                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        Universitat Politècnica de Catalunya</p>
+                                                                                                                                                                <p><strong>PIC (Participant Identification Code): </strong>
+                                                            999976202</p>
+                                                                                                                                                                <p><strong>Partner’s ID if not PIC: </strong>
+                                                            ESQ0818003F | ES202000014 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            Jordi Girona, 08034 Barcelona, Spain                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            Jordi Girona, 08034 Barcelona, Spain                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            Higher education and research organisations</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="https://www.upc.edu/ca">
+                                                                https://www.upc.edu/ca                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 43 272.28</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 34 617.82</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 8 654.46</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                        <div>
+                                                <dt class="accordion-head open-item">
+                                                    Ινστιτουτο Αναπτυξης Επιχειρηματικοτητας                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        Ινστιτουτο Αναπτυξης Επιχειρηματικοτητας</p>
+                                                                                                                                                                <p><strong>PIC (Participant Identification Code): </strong>
+                                                            998069182</p>
+                                                                                                                                                                <p><strong>Partner’s ID if not PIC: </strong>
+                                                            EL999152155 | EL220000003 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            Valtetsiou & Tripoleos, 41336 Larissa, Greece                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            Valtetsiou & Tripoleos, 41336 Larissa, Greece                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            Interest groups including NGOs</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="https://ied.eu/">
+                                                                https://ied.eu/                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 73 500.00</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 58 800.00</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 14 700.00</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                            <p><strong>Contractors: </strong></p>
+                                                <ul>
+                                                                                                                                                    <li>
+                                                    Name: Open Mellon S.A.<br>
+                                                    VAT registration or tax identification number: 800540541                                                  </li>
+                                                                                                                                                  </ul>                                                                   
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                        <div>
+                                                <dt class="accordion-head open-item">
+                                                    Δήμος Παλαιού Φαλήρου                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        Δήμος Παλαιού Φαλήρου</p>
+                                                                                                                                                                <p><strong>PIC (Participant Identification Code): </strong>
+                                                            953628244</p>
+                                                                                                                                                                <p><strong>Partner’s ID if not PIC: </strong>
+                                                            090261509 | EL120000005 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            Terpsichoris, 175 62 Palaio Faliro, Greece                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            Terpsichoris, 175 62 Palaio Faliro, Greece                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            Local public authority</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="http://palaiofaliro.gr">
+                                                                http://palaiofaliro.gr                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 68 700.00</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 54 960.00</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 13 740.00</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                            <p><strong>Contractors: </strong></p>
+                                                <ul>
+                                                                                                                                                    <li>
+                                                    Name: BAX<br>
+                                                    VAT registration or tax identification number: B62822010                                                  </li>
+                                                                                                                                                  </ul>                                                                   
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                        <div>
+                                                <dt class="accordion-head open-item">
+                                                    ALOT S.r.l.                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        ALOT S.r.l.</p>
+                                                                                                                                                                                                                    <p><strong>Partner’s ID if not PIC: </strong>
+                                                            03667530988 | IT220000003 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            VIA CIPRO, 25124 Brescia, Italy                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            VIA CIPRO, 25124 Brescia, Italy                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            SME</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="https://www.alot.it/">
+                                                                https://www.alot.it/                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 109 500.00</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 87 600.00</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 21 900.00</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                        <div>
+                                                <dt class="accordion-head open-item">
+                                                    TML - Transportes Metropolitanos de Lisboa                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        TML - Transportes Metropolitanos de Lisboa</p>
+                                                                                                                                                                <p><strong>PIC (Participant Identification Code): </strong>
+                                                            891227562</p>
+                                                                                                                                                                <p><strong>Partner’s ID if not PIC: </strong>
+                                                            516150359 | PT220000096 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            Rua da Cruz de Santa Apolónia, 1100-187 Lisboa, Portugal                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            Rua da Cruz de Santa Apolónia, 1100-187 Lisboa, Portugal                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            SME</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="https://www.tmlmobilidade.pt/">
+                                                                https://www.tmlmobilidade.pt/                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 199 950.00</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 159 960.00</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 39 990.00</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                            <p><strong>Contractors: </strong></p>
+                                                <ul>
+                                                                                                                                                    <li>
+                                                    Name: Roberto, Silva, Matos & Assoc.<br>
+                                                    VAT registration or tax identification number: 516874551                                                  </li>
+                                                                                                                                                                                                      <li>
+                                                    Name: BAX Innovation Consulting S.L.<br>
+                                                    VAT registration or tax identification number: ESB62822010                                                  </li>
+                                                                                                                                                  </ul>                                                                   
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                        <div>
+                                                <dt class="accordion-head open-item">
+                                                    Centre d’Innovació I Tecnologia de la UPC                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        Centre d’Innovació I Tecnologia de la UPC</p>
+                                                                                                                                                                <p><strong>PIC (Participant Identification Code): </strong>
+                                                            934336302</p>
+                                                                                                                                                                <p><strong>Partner’s ID if not PIC: </strong>
+                                                            G65497182 | ES1G0000020 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            Jordi Girona , 08034 Barcelona, Spain                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            Jordi Girona , 08034 Barcelona, Spain                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            Higher education and research organisations</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="http://www.carnetbarcelona.com">
+                                                                http://www.carnetbarcelona.com                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 36 427.70</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 29 142.16</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 7 285.54</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                            <p><strong>Contractors: </strong></p>
+                                                <ul>
+                                                                                                                                                    <li>
+                                                    Name: GESTION 5 S COOP AND<br>
+                                                    VAT registration or tax identification number: F-41620873                                                  </li>
+                                                                                                                                                  </ul>                                                                   
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                        <div>
+                                                <dt class="accordion-head open-item">
+                                                    Ecole Centrale de Lyon                                                </dt>
+                                                <dd class="accordion-item">
+                                                    <p><strong>Name: </strong>
+                                                        Ecole Centrale de Lyon</p>
+                                                                                                                                                                <p><strong>PIC (Participant Identification Code): </strong>
+                                                            999510311</p>
+                                                                                                                                                                <p><strong>Partner’s ID if not PIC: </strong>
+                                                            FR66196901870 | FR120000003 | - (FR), - (EN)</p>
+                                                                                                                        
+                                                                                                            <p><strong>Address: </strong>
+                                                            Avenue Guy de Collongue, 69134 Ecully, France                                                        </p>
+                                                                                                                                                                <p><strong>Department address: </strong>
+                                                            Avenue Guy de Collongue, 69134 Ecully, France                                                        </p>
+                                                                                                        
+                                                                                                            <p><strong>Legal status: </strong>
+                                                            public</p>
+                                                                                                                                                                <p><strong>Organisation type: </strong>
+                                                            Higher education and research organisations</p>
+                                                                                                                        
+                                                                                                                                                                    <p><strong>Website:</strong> <a target="_blank" href="http://www.ec-lyon.fr">
+                                                                http://www.ec-lyon.fr                                                            </a>
+                                                        </p>
+                                                                                                                                                                <p><strong>Total budget: </strong>
+                                                            EUR 154 500.00</p>
+                                                    
+                                                                                                            <p><strong>Partner’s programme co-financing: </strong>
+                                                            EUR 123 600.00</p>
+                                                                                                                                                                <p><strong>Partner’s programme co-financing rate: </strong>
+                                                            80.00%</p>
+                                                                                                                                                                <p><strong>Partner contribution: </strong>
+                                                            EUR 30 900.00</p>
+                                                    
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+
+
+                                                                                            <p><strong>Contractors: </strong></p>
+                                                <ul>
+                                                                                                                                                    <li>
+                                                    Name: BDL Valenciennes<br>
+                                                    VAT registration or tax identification number: FR66316359504                                                  </li>
+                                                                                                                                                  </ul>                                                                   
+                                                                                        
+                                                </dd>
+                                            </div>
+                                                                                                                                                                                                                                </dl>
+                            </div>
+                            <div class="section partners-map-container">
+                                <h2>Partners map</h2>
+                                <div class="partners-map">
+                                                                            <div class="marker"
+                                             data-lat="41.3881175"
+                                             data-lng="2.1154135"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        Universitat Politècnica de Catalunya - BarcelonaTech                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="39.6327161"
+                                             data-lng="22.4342187"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        Institute of Entrepreneurship Development - iED                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="37.9269726"
+                                             data-lng="23.6984952"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        Municipality of Palaio Faliro                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="45.524509"
+                                             data-lng="10.2108024"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        ALOT S.r.l.                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="38.7174393"
+                                             data-lng="-9.1201122"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        TML - Metropolitan Transport for Lisbon                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="41.3881175"
+                                             data-lng="2.1154135"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        CIT-UPC Centre of Innovation and Technology                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="45.7863924"
+                                             data-lng="4.7648756"
+                                             data-lead="false"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name partner">
+                                                                                                                                                                        Ecole Centrale de Lyon                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="marker"
+                                             data-lat="45.7810569"
+                                             data-lng="14.2181165"
+                                             data-lead="true"
+                                        >
+                                            <div class="iw-title">Partners and Projects info</div>
+                                            <div class="iw-content">
+                                                <div class="iw-partner-container">
+                                                    <div
+                                                        class="iw-partner-name lead">
+                                                                                                                                                                        Municipality of Postojna                                                    </div>
+                                                    <p>
+                                                        <a href="/projects/28811"
+                                                           target="_blank">
+                                                            Planning for autonomous mobility on demand in the Euro-MED area                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="info">
+                                    <div class="pin-description">
+                                        <img
+                                            src="https://keep.eu/wp-content/themes/theme/assets/img/markers/marker-orange.png" alt="Lead partner marker">
+                                        <p>Lead partner</p>
+                                    </div>
+                                    <div class="pin-description">
+                                        <img src="https://keep.eu/wp-content/themes/theme/assets/img/markers/marker.png" alt="Project partner marker">
+                                        <p>Project partner</p>
+                                    </div>
+                                </div>
+                            </div>                                  
+                        </div>
+                        <div class="column">
+                            <div class="section summary">
+                                <h2>Summary</h2>
+                                                                                                                                        <div class="field-row"><span class='bolded'>Project name (FR): </span>Planification des services de transport autonomes à la demande dans l'espace Interreg Euro-MED</div><div class="field-row"><span class='bolded'>Project name (EN): </span>Planning for autonomous mobility on demand in the Euro-MED area</div>                                                                    <p class="disabled-last-row"><strong>Project acronym: </strong>
+                                        ArtMED</p>
+                                
+                                                                    <p class="disabled-last-row"><strong>Project ID: </strong>
+                                        Euro-MED0200882</p>
+                                                                                
+                                                                    <p><strong>Project start date: </strong>2024-01-01</p>
+                                                                                                    <p><strong>Project end date: </strong>2026-03-31</p>
+                                                                                                    <strong><p class="disable-last-row">Project status: </strong>
+                                        closed</p>
+                                
+												                                                                                                                                    <strong><p class="disable-last-row">Relevant linked projects: </strong>
+                                        <div class='collapsible-content collapsed'><ul>
+<li>AVENUE (H2020)  (EN), see English version (FR) | see English version (FR), AVENUE aims to design and carry out full-scale demonstrations of urban transport automation by deploying, for the first time worldwide, fleets of autonomous minibuses in low to medium demand areas.</li>
+<li>ArtMED will transfer its methodology and tools for assessing the impact of autonomous transport with on-demand features and has already its knowledge partner ECL participate in the project to ensure efficient transfer and support. Besides, another knowledge partner of AVENUE, CEESAR, has confirmed to give support by participating as an associated partner.   (EN), PAV (Interreg NSR)  (EN), see English version (FR) | PAV is an Interreg NSR-funded project that will help cities develop sustainable spatial planning strategies that include AVs. Beyond working directly with the partner cities, PAV can help other local authorities integrate autonomous mobility by making the necessary knowledge and methodology freely and easily accessible.</li>
+<li>In PAV project, Robert Gordon University developed a stakeholder mapping methodology in order to identify all relevant stakeholders and to depict their relationship with AV innovation. This methodology should be made better use of as it has potential to be used by other projects outside PAV and/or for project technologies.</li>
+<li>ArtMED will use its stakeholder mapping methodology and has already obtained “letter of support” from Robert Gordon University.   (EN), see English version (FR), FABULOS (H2020)  (EN), see English version (FR) | The FABULOS (Future Automated Bus Urban Level Operation Systems) project focuses on how cities can use automated buses in a systematic way. The goal is to procure the operations of an autonomous bus line.</li>
+<li>ArtMED will take advantage of its results, especially one of its key deliverables, a Policy Paper presenting policy-related recommendations for the future development of automated mobility, for the policy making discussions in the 2 planned round-table events.  (EN), see English version (FR), R2A (H2020)  (EN), see English version (FR) | R2A (Ride-to-Autonomy) is an EU-funded project that demonstrates autonomous shuttles’ integration into the transport system in ten EU cities.</li>
+<li>ArtMED will leverage on its extensive deployment experience and rich source of lessons learnt and has gained valuable insights from some of its deployment managers, including Pendel Mobility, who managed a pilot at Barcelona this year; and has gained a “letter of support” from them.  (EN), see English version (FR), Art-Forum (Interreg NSR)  (EN), see English version (FR) | ART-Forum (Automated Road Transport Forum) is an Interreg North Sea Region Project. ART-Forum creates a debating ground for local/regional authorities, address risks and opportunities and help guide policy development about the impact that automated transport could have on the entire road transport system and life in cities and regions.</li>
+<li>Its discussion papers and situational analysis builds a solid foundation for ArtMED’s consortium to exchange insights and develop their vision statements.   (EN), see English version (FR), MultiDEPART (EIT UM)  (EN), see English version (FR) | MultiDEPART (Demand rEsPonsive trAnspoRT) project developed a multi-operator tool to plan, manage and monitor DRT solutions. Applied in Lisbon, the Barcelona Metropolitan Area and Thessaloniki,  MultiDEPART is targeting PTAs and facilitating the harmonisation and scalability of DRT services across European cities.</li>
+<li>The tool will be transferred to the Euro-MED area with the support from MultiDEPART research partner, Carnet, which is also the knowledge partner of ArtMED.  (EN), see English version (FR), RESPONSE (Interreg BSR)  (EN), see English version (FR) | see English version (FR), RESPONSE project tests how demand-response transport can ensure accessibility, availability and reliability of rural public transport.</li>
+<li>It has done study on DRT experiences in 12 countries and benchmarks these to service models operating within the Baltic Sea Region. This approach will benefit ArtMED especially for Activity 2.3 when transport model design will be developed.   (EN)</li>
+</div><a href='#' class='more'>Read more</a></ul>
+</p>
+                                                                
+				<br>
+                                                                    <p><strong>Total budget/expenditure: </strong>
+                                        EUR 983 049.98</p>
+                                                                                                    <p><strong>Total EU funding (amount): </strong>
+                                        EUR 786 439.98</p>
+                                                                                                    <p><strong>Total EU funding (co-financing rate): </strong>
+                                        80.00%</p>
+                                                                                                                                        <p><strong>Co-financing sources: </strong>
+                                        <ul></ul></p>
+                                                                                                                
+                                <br/>
+                                <h2 style='margin-bottom:0px'>Investments, deliverables, policy contributions</h2>
+                                <p style='margin-bottom:1.2rem;font-size:12px;font-style:italic;'>(bullets are inserted automatically and may be incorrectly placed)</p>
+                                
+                                
+
+                                
+                                                                    <p class="row" style="margin-top: 1.8rem" ><strong>Deliverables: </strong>
+                                           <span style="display:block;margin-left: 20px;"><div class='collapsible-content collapsed'><ul>
+<li>AMOD best-practices collection</li>
+<li>AMOD best-practices collection</li>
+<li>see English version</li>
+<li>AMOD impact assessment tool instructions</li>
+<li>4 vision statements from the 4 PTAs of ArtMED with input from the AMOD impact assessment tool.</li>
+<li>see English version</li>
+<li>see English version</li>
+<li>4 AMOD investment plans from the 4 PTAs of ArtMED with input from the AMOD impact assessment tool.</li>
+<li>see English version</li>
+<li>2 AMOD Transport Model designs from 2 PTAs of ArtMED with input from the AMOD impact assessment tool</li>
+<li>2 Roundtable insight reports</li>
+<li>see English version</li>
+</div><a href='#' class='more'>Read more</a></ul>
+</span>
+                                    </p>
+                                                                                                    <p class="row" style="margin-top: 1.8rem"><strong>Contribution to wider strategies and policies: </strong>
+                                           <span style="display:block;margin-left: 20px;"><ul>
+<li>EUStrategyAdriaticIonianRegion see English version</li>
+<li>EUStrategyAlpineRegion see English version</li>
+<li>EuropeanGreenDeal see English version</li>
+<li>Other see English version</li>
+<li>Other see English version</li>
+<li>Other see English version</li>
+</ul></span>
+                                    </p>
+                                
+                                
+                                
+                                                                                                    <p class="disabled-last-row"><strong>Programme Common Output Indicator: </strong></p>
+                                    <ul>
+                                                                                 <li>
+                                               RCO 116 - Jointly developed solutions, Measurement unit: <br>
+                                                                                        </li>
+                                                                                 <li>
+                                               RCO 083 - Strategies and action plans jointly developed, Measurement unit: <br>
+                                                                                        </li>
+                                                                                 <li>
+                                               RCO 087 - Organisations cooperating across borders, Measurement unit: <br>
+                                                                                        </li>
+                                                                            </ul>
+                                                                                                                                    <p class="disabled-last-row"><strong>Delivered output indicator(s): </strong>
+                                           <span style="display:block;margin-left: 20px;"><ul>
+<li>(RCO116) Jointly developed solutions: 1.0</li>
+<li>(RCO83) Strategies and action plans jointly developed: 4.0</li>
+</ul></span>
+                                    </p>
+                                                                                                    <p class="disabled-last-row"><strong>Programme Common Result Indicator: </strong></p>
+                                    <ul>
+                                                                                 <li>
+                                               RCR 104 - Solutions taken up or up-scaled by organisations, Measurement unit: <br>
+                                                                                        </li>
+                                                                                 <li>
+                                               RCR 079 - Joint strategies and action plans taken up by organisations, Measurement unit: <br>
+                                                                                        </li>
+                                                                            </ul>
+                                                                                                    <p class="disabled-last-row"><strong>Programme Result Indicator: </strong></p>
+                                    <ul>
+                                                                                 <li>
+                                               PSI1 - Organisations with increased institutional capacity due to their participation in cooperation activities across borders, Measurement unit: organisations<br>
+                                                                                        </li>
+                                                                            </ul>
+                                
+                                                                    <p class="disabled-last-row"><strong>Delivered result indicator(s): </strong>
+                                           <span style="display:block;margin-left: 20px;"><ul>
+<li>(RCR104) Solutions taken up or up-scaled by organisations: 1.0</li>
+<li>(RCR79) Joint strategies and action plans taken up by organisations: 4.0</li>
+</ul></span>
+                                    </p>
+                                                                          
+                                                                                                                                                                                                
+                                
+                                          
+                                                                                                                                    <p><strong>Project part of European Union Macro-Regional or Sea Basin Strategy: </strong>
+                                        EUSALP</p>
+                                    <p><strong>EUSALP Priority (Policy) area / Horizontal action: </strong>
+                                        </p>
+                                    <p class="disabled-last-row"><strong>EUSALP Degree of compliance: </strong>
+                                        </p>
+                                                                                                                                    <p><strong>Project part of European Union Macro-Regional or Sea Basin Strategy: </strong>
+                                        EUSAIR</p>
+                                    <p><strong>EUSAIR Priority (Policy) area / Horizontal action: </strong>
+                                        </p>
+                                    <p class="disabled-last-row"><strong>EUSAIR Degree of compliance: </strong>
+                                        </p>
+                                 
+
+
+                            </div>
+                                                        
+                        </div>
+                    </div>
+                    <div class="description-container">
+                        <h2>Information regarding the data in keep.eu on the programme financing this project</h2>
+                        <div class="data-container info-container">
+                            <div class="row">
+                                <div class="title">
+                                    <p>Financing programme</p>
+                                </div>
+                                <div class="content">
+                                    <p>2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)</p>
+                                </div>
+                            </div>
+<!-- fields added in summary - delete this after check                                  
+                                                      <div class="row">
+                                <div class="title">
+                                    <p>Priority</p>
+                                </div>
+                                <div class="content">
+                                    <p>(VI-B_EM_2) Greener MED</p>
+                                </div>
+                            </div>
+                                                                                <div class="row">
+                                <div class="title">
+                                    <p>Priority specific objective</p>
+                                </div>
+                                <div class="content">
+                                    <p>RSO2.4. Promoting climate change adaptation and disaster risk prevention and resilience, taking into account eco-system based approaches</p>
+                                </div>
+                            </div>
+                                                                                <div class="row">
+                                <div class="title">
+                                    <p>Priority policy objective</p>
+                                </div>
+                                <div class="content">
+                                    <p>PO2 A greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility</p>
+                                </div>
+                            </div>
+                                                                                <div class="row">
+                                <div class="title">
+                                    <p>Type of intervention</p>
+                                </div>
+                                <div class="content">
+                                    <p>061 Risk prevention and management of non-climate related natural risks (for example earthquakes) and risks linked to human activities (for example technological accidents), including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches</p>
+                                </div>
+                            </div>
+                          -->
+                            <div class="row">
+                                <div class="title">
+				    <p>Latest month of project-partner-call data publication</p>
+                                    <!-- <p>Last month that data in keep.eu was retrieved from the Programme's website or received from the Programme</p> -->
+                                </div>
+                                <div class="content">
+                                    <!-- <p>2026-01-27</p> -->
+	                            <p>2026-01</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="title">
+                                    <p>No. of projects in keep.eu / Total no. of projects (% of projects in keep.eu)</p>
+                                </div>
+                                <div class="content">
+                                    <p> 89                                        / 89                                        (100%)                                    </p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="title">
+                                    <p>No. of project partnerships in keep.eu / Total no. of project partnerships (% of project partnerships in keep.eu)</p>
+                                </div>
+                                <div class="content">
+                                    <p> 855                                        / 855                                        (100%)                                    </p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="title">
+                                    <p>Notes on the data</p>
+                                </div>
+                                <div class="content">
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+
+<footer style='background-color: #fff/*#039*/; color:white;'>
+			        <div class="content-wrap" style="padding-top:32px;padding-bottom:32px;">
+                               <hr class="mx-3" style="border-top: 1px solid #354B70; margin: 5px 0 30px 0; border-left:none;">
+                  <!--
+            <div class="footer-text">
+                Powered by <a
+href="http://www.interact-eu.net/"
+target="_blank"
+style="color: transparent; display: inline-block; vertical-align: middle; width: 308px; height: 68px;  background-image: url('/wp-content/uploads/2023/04/interactcofund_rgb_pos.png'); background-size: contain;"
+>Interact-EU logo</a>            </div>
+            <div class="footer-links">
+                                    <p>
+                                                                                                                                    <a href="https://keep.eu/about-keep-eu/" target="">About keep.eu</a>
+                                                                                                             |                             <a href="https://keep.eu/faq/" target="">FAQ</a>
+                                                                                                             |                             <a href="https://keep.eu/languages/" target="">Languages</a>
+                                                                                                             |                             <a href="https://keep.eu/news-and-updates/" target=""> News and updates</a>
+                                                                                                             |                             <a href="https://keep.eu/projects/" target="">Projects and documents</a>
+                                                                                                             |                             <a href="https://keep.eu/programmes/" target="">Programmes</a>
+                                                                                                             |                             <a href="https://keep.eu/partners/" target="">Partners</a>
+                                                                                                             |                             <a href="https://keep.eu/countries-and-regions/" target="">Countries and regions</a>
+                                                                                                             |                             <a href="https://keep.eu/statistics/" target="">Statistics</a>
+                                                                                                             |                             <a href="https://keep.eu/representativeness/" target="">Representativeness</a>
+                                                                                                             |                             <a href="https://keep.eu/reports/" target="">Build reports</a>
+                                                                                                             |                             <a href="https://keep.eu/privacy-policy/" target="">Privacy policy</a>
+                                                                                                             |                             <a href="https://keep.eu/terms-of-use/" target="">Terms of use</a>
+                                                                        </p>
+                            </div>
+                                    -->
+<p style="color:#4a4a4a;">
+<a  href="/about-keep-eu/" target="" style='color:#4a4a4a;font-size:22px;font-weight:800;'>About keep.eu</a>
+</p>
+<p style="font-size:15px;color:#4a4a4a;">
+<a class='contact-us' href="/#" target="" style='color:#4a4a4a;'>Contact</a>
+| <a href="/privacy-policy/" target="" style='color:#4a4a4a;'>Privacy policy</a>
+| <a href="/terms-of-use/" target="" style='color:#4a4a4a;'>Terms of use</a>
+</p>
+                  
+        </div>
+    </footer>
+          <style>
+               footer {
+                   margin-top: 0;
+                   -webkit-box-shadow: none;
+                   box-shadow: none;                   
+               }
+          </style>
+    <footer style='background:#EDECEC; padding-bottom:30px;'>
+
+<div class="content-wrap" style="padding-top:50px;">
+<div class="container wp-block-columns">
+    <div class="row pt-4 wp-block-columns" style="flex-basis:100%">
+        <div class="col-6" style="flex-basis:50%">
+            <h4 style="font-size:22px;color:#123d67">Interact</h4>
+            <p style="font-size:15px;color:#0e6eb6">
+                Cooperation can be complex;
+                <br>
+                our job is to make it easier.
+            </p>
+        </div>
+        <div class="col-2" style="flex-basis:16.6%">
+            <a target='_blank'  href="https://www.interact.eu/" class="text-decoration-none">
+                <h4 style="font-size:17px;color:#384569">Interact.eu</h4>
+            </a>
+            <p style="font-size:15px;color:#0e6eb6;margin-right:20px;">Find the latest events, resources and tools to make cooperation easier.</p>
+        </div>
+        <div class="col-2" style="flex-basis:16.6%">
+            <a target='_blank' href="https://academy.interact.eu/" class="text-decoration-none">
+                <h4 style="font-size:17px;color:#384569">Academy</h4>
+            </a>
+            <p style="font-size:15px;color:#0e6eb6; margin-right:20px;">Interreg specific trainings to enhance knowledge, skills and confidence.</p>
+        </div>
+        <div class="col-2" style="flex-basis:16.6%">
+            <a target='_blank' href="https://interreg.eu/" class="text-decoration-none">
+                <h4 style="font-size:17px;color:#384569">Interreg.eu</h4>
+            </a>
+            <p style="font-size:15px;color:#0e6eb6;margin-right:20px;">Your one-stop-shop to see the collective achievements of Interreg.</p>
+        </div>
+    </div>
+    </div>
+    <hr class="mx-3" style='border-top: 1px solid #354B70; margin: 50px 0 30px 0; border-left:none;'>
+<div class="container wp-block-columns" style='margin-bottom:0;'>
+        <div class="col d-flex" style="flex-basis:50%">
+            <div class="text-start align-items-center">
+                <p class="text-white mb-0">
+                    <a target='_blank' style ='color:#0e6eb6;font-size:16px;font-weight:800;text-decoration:underline;' href="https://www.interact-eu.net/about-interact/interact-programme/what-interact-does">
+                        About Interact
+                    </a>
+                </p>
+            </div>
+        </div>
+        <div class="col" style="flex-basis:50%">
+            <div class="text-end" style='text-align: right !important;'>
+                <a href="https://www.interact-eu.net/">
+                    <img class="logo" src="/wp-content/themes/theme/assets/img/interact-logo.png" alt="Interact Logo">
+                </a>
+            </div>
+        </div>
+</div>
+</div>
+</div>
+
+              
+    </footer>
+
+    <div class="best-cookies small_btn" style="bottom:0;left:0;width:100%;height:auto;transform:translate(0,100%);">
+    <span class="best-cookies__close"></span>
+    <div class="best-cookies__bg" style="background-color:#003399"></div>
+    <div class="best-cookies__left">
+                    <h5>Disclaimer</h5>
+                <p>We use our own cookies and also allow third parties to use cookies, web beacons, and other technologies in order to better reach any web users that can benefit from using keep.eu and to better manage this website. Do you agree? Click the button or continue using the website. <a href="/privacy-policy/">No, give me more information.</a></p>
+    </div>
+    <a class="best-cookies__button small_btn" href="javascript:void(0);" style="color:#003399">
+        I agree    </a>
+</div><script type='text/javascript' src='https://keep.eu/wp-content/plugins/cookie-disclaimer//js/best-cookies.js?ver=1.0' id='cookie-js-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.15' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/accordion-bdd0ec473e.js' id='theme-accordion-js'></script>
+<script type='text/javascript' id='rep-table-js-extra'>
+/* <![CDATA[ */
+var SHOW_MORE = "Show base figures";
+var HIDE = "Hide";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/rep-table-2c1ca64bb5.js' id='rep-table-js'></script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/markerclusterer-aa4facb61a.js' id='marker-clusterer-js'></script>
+<script type='text/javascript' id='partners-map-js-extra'>
+/* <![CDATA[ */
+var paths = {"theme_path":"https:\/\/keep.eu\/wp-content\/themes\/theme"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/partners-map-b0cdb3c643.js' id='partners-map-js'></script>
+<script type='text/javascript' id='programme-map-js-extra'>
+/* <![CDATA[ */
+var BACKEND_URL = "https:\/\/keep.eu";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/programme-map-3ddd60e1d1.js' id='programme-map-js'></script>
+<script type='text/javascript' id='front-map-js-extra'>
+/* <![CDATA[ */
+var euColor = "#2652a5";
+var partnerColor = "#b0bbdc";
+var preaccessionColor = "#878787";
+var neighbourColor = "#519d5d";
+var BACKEND_URL = "https:\/\/keep.eu";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/front-map-9ba8cc2452.js' id='front-map-js'></script>
+<script type='text/javascript' id='theme-global-js-extra'>
+/* <![CDATA[ */
+var authToken = null;
+var passwordChangeMsg = "Password changed successfully.";
+var createPartnerProfileText = "Create partner profile";
+var updateartnerProfileText = "Update partner profile";
+var partnerProfileUpdatePrompt = "Partner profile updated successfully";
+var partnerContactSendMsg = "Sending...";
+var partnerContactSendSuccess = "Message sent.";
+var partnerContactSendFail = "Failed to send.";
+var unsavedPrompt = "Exit without saving?";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keep.eu/wp-content/themes/theme/assets/build/js/global-db992967c8.js' id='theme-global-js'></script>
+
+    </body>
+
+</html>

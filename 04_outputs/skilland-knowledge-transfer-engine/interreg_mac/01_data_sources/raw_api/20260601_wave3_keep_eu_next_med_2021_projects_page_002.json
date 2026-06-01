@@ -1,0 +1,298 @@
+{
+  "current": 2,
+  "next": "https://keep.eu/api/search/projects/?page=3",
+  "previous": "https://keep.eu/api/search/projects/",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33265,
+      "acronym": "HorizonCraft~A_Y_3.1_0242",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "HorizonCraft: Sailing towards Mediterranean expertise building",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: \n\n152. Measures to promote equal opportunities and active participation in society\n~\nSUMMARY: HorizonCraft is a 24 months project planned by a partnership composed by 6 partners based in 3 countries; Italy, Lebanon and Egypt. \nThe action tackles the joint challenges of the EU-MED region, particularly the growing number of young people who lack access to job opportunities. The primary issue identified is the mismatch between the skills of young people and the needs of the labor market, highlighting the need for both improved and new mechanisms to bridge this gap.\nThe project specifically targets young people with fewer opportunities and micro, small, and medium-sized enterprises (MSMEs). It aims to answer two critical questions:\nWhat do youth want? Opportunities to learn, grow, and be integrated into the labor market.\nWhat do companies want? Prepared talent ready to join them and contribute to sustainable growth.\nWe believe that a partnership between youth organizations and MSMEs is crucial to instill resilience in young people, equipping them with the competencies and skills needed for employment and self-employment.\nThe main outputs can be summed up in 5 blocks:\nEffective outreach to the target group, leading to a good take-up rate: plans and guidelines to ensure continuity, stability and participation of participants in the project, especially youth coming from disadvantaged backgrounds.\nCapacity building pilots in the 3 involved territories: 1) by providing learning models and environments enabling participants to develop skills relevant for the labour market for youth and 2) Strengthening the capacity of MSMEs to mentor and support youth in their growth and development process.\nMatching platform: to facilitate the match of youngsters and companies based on the principle of demand/supply.\nInternship placement: arrangements for skills development and activation in the labour market.\nPolicy recommendations and sustainability plans: To advocate on policy reforms and territorial cooperation across borders in the EU-MED region.\n~\nKEEP KEYWORDS: Education and training",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To equip participants with skills relevant to emerging labour market needs fostering both personal development and professional readiness.\n~\nEXPECTED RESULT: Improved young participants employability and readiness for the labour market through the completion of a joint transnational training scheme.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To equip participants with skills relevant to emerging labour market needs fostering both personal development and professional readiness.\n~\nEXPECTED RESULT: Improved young participants employability and readiness for the labour market through the completion of a joint transnational training scheme.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To strengthen transnational cooperation between organisations and SMEs to improve access to high-quality learning and mobility opportunities for young people facing socio-economic, cultural, or geographical barriers to participation.\n~\nEXPECTED RESULT:   A sustainable cooperation model among the organisations involved in the action leading to joint initiatives to support disadvantaged youth even after project completion.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To strengthen transnational cooperation between organisations and SMEs to improve access to high-quality learning and mobility opportunities for young people facing socio-economic, cultural, or geographical barriers to participation.\n~\nEXPECTED RESULT:   A sustainable cooperation model among the organisations involved in the action leading to joint initiatives to support disadvantaged youth even after project completion.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33264,
+      "acronym": "SHAREN~A_T_2.1_0513",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Energy-SHARing solutions and communities for enhanced ENergy efficiency in Mediterranean historic centres",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n041. Energy efficiency renovation of existing housing stock, demonstration projects and supporting measures\n~\nSUMMARY: SHAREN, “Energy-SHARing solutions and communities for enhanced ENergy efficiency in Mediterranean historic centres”, addresses, through transnational cooperation, the Mediterranean challenge of the Energy Transition in Heritage urban contexts: while most of historic city centres’ buildings are highly energy inefficient, the installation of renewable energy is struggling due to their architectural and historical significance requiring a balance between modern energy transition and preservation. \n\nSHAREN introduces 6 Energy Sharing Solutions (ESS), including Energy Communities (EC), to enhance green energy’s efficiency, secure its supply, empower citizens & reduce energy poverty across Spain, Lebanon, Türkiye, Italy & Jordan, preserving the historical beauty and value of heritage buildings and piloted centres according to the New European Bauhaus principles- .\n\n4 of these Energy Sharing Solutions will be tested by SHAREN’s frontrunners: 2 RE cooperatives connected to the grid with peer-to-peer energy exchange (P2P) in Lebanon, 1 ESS with P2P project in Jordan, and a fully operational EC connected to the grid in Spain. In LB & JO, the pilots include battery storage to secure energy supply. These pilots serve as practical models for the SHAREN followers (Italy & Türkiye) developing their own solutions while learning from them. \n\nSHAREN benefits the diversity of groups of actors -owners of public and private buildings, residents, employees & tourists- by improving energy costs and comfort through reliable energy provision. These efforts are guided by the SHAREN Protocol, which outlines steps for adapting and replicating ESS/ECs in other Med historic centres. An integral learning experience for uptakers -SHAREN Guide, Academy & Twinning- & a Long-term impact strategy culminating in a SHAREN Memorandum of Understanding will consolidate SHAREN’s reach and create a transnational network committed to advancing energy transition in Med historic centres.\n\n~\nKEEP KEYWORDS: Cultural heritage and arts, Energy efficiency, Renewable energy",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Demonstrate, through Pilot actions, in 5 Euromediterranean countries, the technical, financial, and environmental benefits of energy-sharing solutions such as Energy Communities (ESS/EC), to increase energy efficiency and the use of RE in historic centres of Mediterranean cities\n~\nEXPECTED RESULT: 6 Pilots actions  demonstrating the technical, financial, and environmental benefits of energy-sharing solutions such as Energy Communities in historic centres of 5 Mediterranean countries: Spain, Lebanon, Jordan, Türkiye and Italy.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Demonstrate, through Pilot actions, in 5 Euromediterranean countries, the technical, financial, and environmental benefits of energy-sharing solutions such as Energy Communities (ESS/EC), to increase energy efficiency and the use of RE in historic centres of Mediterranean cities\n~\nEXPECTED RESULT: 6 Pilots actions  demonstrating the technical, financial, and environmental benefits of energy-sharing solutions such as Energy Communities in historic centres of 5 Mediterranean countries: Spain, Lebanon, Jordan, Türkiye and Italy.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Integrate, adapt and mainstream energy-sharing solutions, such as Energy Communities (ESS/EC), in historic city centres, in policy formulation and decision-making of regional and local authorities in the Mediterranean, as means to increase energy efficiency and the use of renewable energy\n~\nEXPECTED RESULT: - 1 SHAREN Transfer programme implemented by 8 \"uptakers\" organisations\n-23 organisations adhering to SHAREN Long-term impact strategy (MoU).",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33263,
+      "acronym": "SALAM~A_T_3.2_0496",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Social, sustAinable and incLusive heAlth care systems in Med area",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n160. Measures to improve the accessibility, effectiveness and resilience of healthcare systems (excluding infrastructure)\n~\nSUMMARY: SALAM project, led by Polyclinic of Bari, brings together technological universities from Italy (POLIBA), Spain (University of Barcelona), Jordan (JUST), and Lebanon (University of Balamand), and the two Caritas from Lebanon and Jordan, intertwining scientific-technological and humanistic-social demands. It addresses the crisis of public health systems in the countries involved in the project, expressed differently but with common aspects such as shortage of healthcare providers and resources,impacting on equity of access to health.\nHuman complexity requires a more holistic approach to healthcare, including highly specialised, competent, flexible, resilient, and cooperative healthcare professionalism.\nWithin Open Innovation methodological framework, which underlies synergies between different, complementary disciplines, SALAM will develop a comprehensive solution that will bring mutual benefits to involved countries, envisaging:\nTwo hospital hubs in Lebanon and Jordan, integrated with telecardiology service, Helis Infarct.NET platform and related equipment, in use at the Polyclinic of Bari, which will be scaled up and uptaken with the support of academic partners. The hubs will include Medical Mobile Units and will contribute to making right to health concrete.\nInnovative sanitaire protocols for medical staff training and for raising awareness among caregivers and local populations, to ensure the functioning of the HUBs, promote knowledge exchange and empower communities on new medical practices. \nTransnational Research Center among partner universities on both sides of Mediterranean, which, moving from health needs of territories, will work together to develop accessible medical bio-devices, benefiting everyone - especially those affected by CVDs - so that \"no one is left behind\" and the value of inclusion can find substance across different nations, in a relationship of mutual enrichment where peace will be direct consequence of well-being for all.\n~\nKEEP KEYWORDS: Health and social services, ICT and digital society, Innovation capacity and awareness-raising",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implement a TN solution to strengthen healthcare systems' resilience, ensuring equal, timely, and affordable access, particularly for vulnerable populations. Utilize telemedicine, enhance human capital, and foster Open Innovation research, engaging communities and universities to maximize impact.\n~\nEXPECTED RESULT: Adoption of the co-defined SALAM solution as a whole, including the telecardiology service, with strengthened cooperation and increased skills and readiness of medical personnel and local communities, with a positive impact on equity of access to healthcare in all involved territories\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implement a TN solution to strengthen healthcare systems' resilience, ensuring equal, timely, and affordable access, particularly for vulnerable populations. Utilize telemedicine, enhance human capital, and foster Open Innovation research, engaging communities and universities to maximize impact.\n~\nEXPECTED RESULT: Adoption of the co-defined SALAM solution as a whole, including the telecardiology service, with strengthened cooperation and increased skills and readiness of medical personnel and local communities, with a positive impact on equity of access to healthcare in all involved territories\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implement a TN solution to strengthen healthcare systems' resilience, ensuring equal, timely, and affordable access, particularly for vulnerable populations. Utilize telemedicine, enhance human capital, and foster Open Innovation research, engaging communities and universities to maximize impact.\n~\nEXPECTED RESULT: Adoption of the co-defined SALAM solution as a whole, including the telecardiology service, with strengthened cooperation and increased skills and readiness of medical personnel and local communities, with a positive impact on equity of access to healthcare in all involved territories",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33262,
+      "acronym": "ORIENTATE~A_T_2.4_0443",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "tOwaRds cIrcular Economy iN The AgriculTural sEctor",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n067. Household waste management: prevention, minimisation, sorting, reuse, recycling measures\n~\nSUMMARY: In the Mediterranean, ORIENTATE tackles the challenges caused by climate change. It focusses on the agricultural sector, a vital artery of the region's livelihoods. In this region agriculture is vulnerable and sustainability is always under threat. ORIENTATE develops targeted solutions to waste streams generated by olive oil extraction and citrus fruit processing. Drawing inspiration from the innovative practices of pioneering Italian and Spanish partners, cutting-edge circular economy models are used to revolutionise waste management. ORIENTATE unfolds across Turkey, Jordan, and Lebanon. It mitigates environmental harm and aims to spark ripple effects of socio-economic empowerment. By harnessing agricultural waste, ORIENTATE opens the door to economic opportunities, job creation, and environmental stewardship, while enriching the lives of farmers, entrepreneurs, and communities alike. ORIENTATE also forges strategic alliances and fosters supportive regulatory frameworks, laying the groundwork for sustainable development and aligning seamlessly with the vision of a resilient, eco-conscious Europe and its neighbouring regions. \nThe project establishes three pilot labs in Jordan, Turkey, and Lebanon, each focussing on converting agricultural by-products like Citrus Pulp Depectinized (CPD) and Olive pomace into animal feed and cosmetics ingredients, promoting a circular economy. These labs will develop bioproducts from olive pomace for animal nutrition and cosmetics in Jordan and Lebanon, and transform CPD into animal feed in Turkey. Training materials and joint activities across these countries will educate at least 90 professionals in the citrus and olive supply chains on sustainable waste management practices. Additionally, six Memoranda of Understanding will be signed with stakeholders such as farmers, food industries, and public authorities to adopt these sustainable models and promote regional agricultural innovation, thus tackling unemployment.\n~\nKEEP KEYWORDS: Agriculture and fisheries and forestry, Knowledge and technology transfer, Waste and pollution",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: SO1:  to apply circular economy models (technologies) to the citrus and olive supply chains of 3 MPCs (TR, JO, LB) by utilising research outcomes and existing initiatives of EU PPs and by implementing 3 Pilots in LB, JO & TR designed to address specific aspects of agricultural waste valorisation\n~\nEXPECTED RESULT: 3 implemented Pilots: 2 innovative solutions (ISs) developed by the Laboratory (Lab) in LB and JO linked to Olive pomace bioproduct & bioactive compounds for feed mills & active ingredients for cosmetic industries;\n\n1 IS developed by the Lab in TR linked to Citrus Pulp Depectinized for feed mills\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: SO1:  to apply circular economy models (technologies) to the citrus and olive supply chains of 3 MPCs (TR, JO, LB) by utilising research outcomes and existing initiatives of EU PPs and by implementing 3 Pilots in LB, JO & TR designed to address specific aspects of agricultural waste valorisation\n~\nEXPECTED RESULT: 3 implemented Pilots: 2 innovative solutions (ISs) developed by the Laboratory (Lab) in LB and JO linked to Olive pomace bioproduct & bioactive compounds for feed mills & active ingredients for cosmetic industries;\n\n1 IS developed by the Lab in TR linked to Citrus Pulp Depectinized for feed mills\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: SO2:  to encourage the active participation of Citizens, CSOs, Farms and Public authorities in the transition to a circular and resource-efficient economy by raising awareness of agricultural bio-based products, through Project events, 5 Workshops, 2 Job-shadowings, 3 Pilots, 3 Trainings; 6 MoUs\n~\nEXPECTED RESULT: At least 550 participants in the project activities will be more aware and willing to contribute to the development of agricultural bio-based products as follows: Project events: 300; 5 local Workshops: 50;1 Capitalisation event: 50; 2 Job-shadowings: 36; 3 Pilots: 18; 3 Trainings: 90; 6 MoUs: 12.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: SO2:  to encourage the active participation of Citizens, CSOs, Farms and Public authorities in the transition to a circular and resource-efficient economy by raising awareness of agricultural bio-based products, through Project events, 5 Workshops, 2 Job-shadowings, 3 Pilots, 3 Trainings; 6 MoUs\n~\nEXPECTED RESULT: At least 550 participants in the project activities will be more aware and willing to contribute to the development of agricultural bio-based products as follows: Project events: 300; 5 local Workshops: 50;1 Capitalisation event: 50; 2 Job-shadowings: 36; 3 Pilots: 18; 3 Trainings: 90; 6 MoUs: 12.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33261,
+      "acronym": "ReTour~A_T_1.2_0485",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Building Resilient SMEs in the Tourism Industry (ReTour)",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n023. Skills development for smart specialisation, industrial transition, entrepreneurship and adaptability of enterprises to change\n~\nSUMMARY: Med region, renowned for its cultural heritage & natural beauty, attracts millions of tourists annually, making tourism a critical sector for economic stability & growth. However, the vulnerability of tourist SMEs to crises, ranging from natural disasters & pandemics to economic fluctuations & political instability, poses significant challenges.\nReTour-Med is a forward-thinking project to revolutionize Mediterranean tourism sector by enhancing the resilience & competitiveness of tourist SMEs through technological innovation & sustainable practices. \nExpected Change: By integrating advanced technologies like AI, IoT & blockchain, ReTour-Med transforms current reactive approach into a proactive, resilient framework. This shift improves crisis management & enhances overall tourist experience, ensuring that Med remains a top destination amidst evolving global challenges.\nMain Outputs of ReTour-MED:\n\n\n1.Innovation Hub: Fosters collaboration across sectors, boosting MSMEs' access to cutting-edge solutions & expertise\n\n\n2.Tailored Technology Implementation Plans: Customized strategies for MSMEs to adopt & integrate new technologies\n\n\n3.Case Studies & Evaluations: Assessments of pilot projects showcasing successful technology integrations\n\n\n4.Training & Learning Platform: Elevates skills in digital tools & sustainable practices\n\n\n5.Policy Recommendation Reports: Guides regional strategies for a robust tourism ecosystem\nPrimary beneficiaries are Med MSMEs in tourism, technology providers, policymakers, local communities& tourists, unemployed individuals, low-skilled employees & tourism staff.\nReTour-Med secures the future of Med tourism, making it more sustainable efficient & attractive. It offers a comprehensive response to region's shared vulnerabilities, promising significant ROI for stakeholders & contributing to global effort to sustain tourism as a force for economic & social good. ReTour-Med is an investment in the future prosperity & resilience of entire Med region.\n~\nKEEP KEYWORDS: Education and training, SME and entrepreneurship, Tourism",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Empowering MSMEs in the Mediterranean tourism sector with innovative strategies and technologies to enhance their operational efficiency and crisis resilience.\n~\nEXPECTED RESULT: MSMEs equipped with advanced technologies and innovative strategies to improve their operational efficiency and resilience in times of crisis, leading to increased competitiveness and sustainability in the tourism industry.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Empowering MSMEs in the Mediterranean tourism sector with innovative strategies and technologies to enhance their operational efficiency and crisis resilience.\n~\nEXPECTED RESULT: MSMEs equipped with advanced technologies and innovative strategies to improve their operational efficiency and resilience in times of crisis, leading to increased competitiveness and sustainability in the tourism industry.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Equipping MSMEs with necessary competencies to innovate & thrive amidst a rapidly changing business landscape, while also increasing adaptability among enterprises, workers & entrepreneurs through skill development initiatives & proactive measures to anticipate future skill needs\n~\nEXPECTED RESULT: Foster a more innovative & resilient Mediterranean tourism sector comprised of MSMEs equipped with enhanced operational efficiency, innovative strategies & crisis resilience measures to thrive in rapidly changing  environment, contributing to sustainable growth, competitiveness & job creation in Med",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33260,
+      "acronym": "CReSInMed~A_T_1.2_0102",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Competitiveness and Internationalisation of Rural Tourism SMEs in the Mediterranean",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n021. SME business development and internationalisation, including productive investments\n~\nSUMMARY: CReSInMed focuses on strengthening and improving the internationalisation capacities of tourism (M)SMEs in the Mediterranean rural areas which face unique challenges: they are small, uncompetitive and their remoteness from large urban centres reduces access to markets, limiting opportunities for growth. Human resources have limited access to training opportunities. CReSInMed actions contribute to increase the potential of these (M)SMEs and focuses on improving skills and entrepreneurship, while also contributing to networking and strengthening transnational cooperation in the Mediterranean. The changes expected from the project compared to the existing situation is to increase competitiveness in regional, national and international markets of (M)SMEs, improve the related skills, and strengthen networking capacities of operators. 50 (M)SMEs enhance their knowledge with specific training programmes supported by a task force of experts. Topics related to productivity, innovation, considering the importance of digital transition and sustainability are addressed. Networking among operators is the basis for exchanging experiences, developing joint activities to make internationalisation sustainable.\n(M)SMEs can count on technological support to facilitate their work through the use of a digital toolbox that complements capacity building initiatives by providing tools to support (M)SMEs' growth and internationalisation efforts. \nThe actions taken generate multiplier effects that extend to the sector concerned and the community. The solutions implemented by CReSInMed, in particular cluster, MoU and the platform, can continue to produce benefits after the end of the project. (M)SMEs, local communities, public authorities, stakeholders receive long-term benefits from project implementation, with improved socio-economic conditions. CReSInMed positively contributes to the transformation of the tourism and economic landscape of the rural regions involved.\n~\nKEEP KEYWORDS: Rural and peripheral development, SME and entrepreneurship, Tourism",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and improve internationalisation tools and strategy for tourism (M)SMEs in Mediterranean rural areas.\n~\nEXPECTED RESULT: Improved managerial and technical skills and competences of tourism (M)SMEs in rural areas involved to operate in international markets.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and improve internationalisation tools and strategy for tourism (M)SMEs in Mediterranean rural areas.\n~\nEXPECTED RESULT: Improved managerial and technical skills and competences of tourism (M)SMEs in rural areas involved to operate in international markets.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and improve internationalisation tools and strategy for tourism (M)SMEs in Mediterranean rural areas.\n~\nEXPECTED RESULT: Improved managerial and technical skills and competences of tourism (M)SMEs in rural areas involved to operate in international markets.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop and improve internationalisation tools and strategy for tourism (M)SMEs in Mediterranean rural areas.\n~\nEXPECTED RESULT: Improved managerial and technical skills and competences of tourism (M)SMEs in rural areas involved to operate in international markets.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

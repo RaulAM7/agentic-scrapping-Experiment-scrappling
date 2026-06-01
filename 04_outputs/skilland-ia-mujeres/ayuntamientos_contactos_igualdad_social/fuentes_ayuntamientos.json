@@ -1,0 +1,1632 @@
+{
+  "El Hierro::El Pinar de El Hierro": {
+    "isla": "El Hierro",
+    "municipio": "El Pinar de El Hierro",
+    "ayuntamiento": "Ayuntamiento de El Pinar de El Hierro",
+    "fuentes": [
+      {
+        "url": "https://elpinardeelhierro.com/ayuntamiento/grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad y Sostenibilidad Ambiental y Economica",
+        "cargo": "Primera Teniente de Alcalde; concejala delegada de Igualdad y Sostenibilidad Ambiental y Economica"
+      }
+    ]
+  },
+  "El Hierro::Frontera": {
+    "isla": "El Hierro",
+    "municipio": "Frontera",
+    "ayuntamiento": "Ayuntamiento de La Frontera",
+    "fuentes": [
+      {
+        "url": "http://www.aytofrontera.org/ayuntamiento/corporacion-local.html",
+        "tipo": "corporacion municipal",
+        "area": "Juventud, Igualdad, Servicios Sociales y Medio Ambiente",
+        "cargo": "Concejala delegada de Juventud, Igualdad, Servicios Sociales y Medio Ambiente"
+      },
+      {
+        "url": "http://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html",
+        "tipo": "corporacion municipal",
+        "area": "Juventud, Igualdad, Servicios Sociales y Medio Ambiente",
+        "cargo": "Concejala delegada de Juventud, Igualdad, Servicios Sociales y Medio Ambiente"
+      }
+    ]
+  },
+  "El Hierro::Valverde": {
+    "isla": "El Hierro",
+    "municipio": "Valverde",
+    "ayuntamiento": "Ayuntamiento de Valverde",
+    "fuentes": [
+      {
+        "url": "https://aytovalverde.org/ayuntamiento/miembros-de-la-corporacion/",
+        "tipo": "corporacion municipal",
+        "area": "Educacion y Servicios Sociales",
+        "cargo": "Concejala de Educacion y Servicios Sociales"
+      },
+      {
+        "url": "https://aytovalverde.org/servicios/servicios-sociales/",
+        "tipo": "corporacion municipal",
+        "area": "Educacion y Servicios Sociales",
+        "cargo": "Concejala de Educacion y Servicios Sociales"
+      }
+    ]
+  },
+  "Fuerteventura::Antigua": {
+    "isla": "Fuerteventura",
+    "municipio": "Antigua",
+    "ayuntamiento": "Ayuntamiento de Antigua",
+    "fuentes": [
+      {
+        "url": "https://www.ayto-antigua.es/America-Soto-Betancor.6036.0.html",
+        "tipo": "corporacion municipal",
+        "area": "Educacion y Servicios Sociales",
+        "cargo": "Concejala de Educacion y Servicios Sociales"
+      },
+      {
+        "url": "https://www.ayto-antigua.es/servicios-municipales.2524.0.html",
+        "tipo": "corporacion municipal",
+        "area": "Educacion y Servicios Sociales",
+        "cargo": "Concejala de Educacion y Servicios Sociales"
+      }
+    ]
+  },
+  "Fuerteventura::Betancuria": {
+    "isla": "Fuerteventura",
+    "municipio": "Betancuria",
+    "ayuntamiento": "Ayuntamiento de Betancuria",
+    "fuentes": [
+      {
+        "url": "https://aytobetancuria.org/atencionciudadana/concejalia/37864/",
+        "tipo": "concejalia",
+        "area": "Asuntos Sociales",
+        "cargo": "Concejal con delegacion en Asuntos Sociales"
+      },
+      {
+        "url": "https://www.aytobetancuria.org/atencionciudadana/servicio/37892/",
+        "tipo": "concejalia",
+        "area": "Asuntos Sociales",
+        "cargo": "Concejal con delegacion en Asuntos Sociales"
+      }
+    ]
+  },
+  "Fuerteventura::La Oliva": {
+    "isla": "Fuerteventura",
+    "municipio": "La Oliva",
+    "ayuntamiento": "Ayuntamiento de La Oliva",
+    "fuentes": [
+      {
+        "url": "https://www.laoliva.es/directorio/joana-perez-carreno/",
+        "tipo": "directorio municipal",
+        "area": "Servicios Sociales y Participacion Ciudadana",
+        "cargo": "Concejala de Servicios Sociales y Participacion Ciudadana"
+      },
+      {
+        "url": "https://www.laoliva.es/servicios-municipales/servicios-sociales/",
+        "tipo": "directorio municipal",
+        "area": "Servicios Sociales y Participacion Ciudadana",
+        "cargo": "Concejala de Servicios Sociales y Participacion Ciudadana"
+      }
+    ]
+  },
+  "Fuerteventura::Pajara": {
+    "isla": "Fuerteventura",
+    "municipio": "Pajara",
+    "ayuntamiento": "Ayuntamiento de Pajara",
+    "fuentes": [
+      {
+        "url": "https://www.pajara.es/es/ayuntamiento/equipo-gobierno/",
+        "tipo": "equipo de gobierno",
+        "area": "Economia, Hacienda y Servicios Sociales",
+        "cargo": "Concejala de Economia, Hacienda y Servicios Sociales"
+      },
+      {
+        "url": "https://www.pajara.es/es/areas-tematicas/servicios-sociales/",
+        "tipo": "equipo de gobierno",
+        "area": "Economia, Hacienda y Servicios Sociales",
+        "cargo": "Concejala de Economia, Hacienda y Servicios Sociales"
+      }
+    ]
+  },
+  "Fuerteventura::Puerto del Rosario": {
+    "isla": "Fuerteventura",
+    "municipio": "Puerto del Rosario",
+    "ayuntamiento": "Ayuntamiento de Puerto del Rosario",
+    "fuentes": [
+      {
+        "url": "https://www.puertodelrosario.org/ayuntamiento/organizacion-politica/tacoremi-gutierrez-gutierrez/",
+        "tipo": "organizacion politica",
+        "area": "Igualdad, Diversidad, LGTBI, Participacion Ciudadana y Barrios",
+        "cargo": "Concejala de Igualdad, Diversidad, LGTBI, Participacion Ciudadana y Barrios"
+      },
+      {
+        "url": "https://www.puertodelrosario.org/servicios-municipales/igualdad-diversidad-lgtbi-y-participacion-ciudadana/",
+        "tipo": "organizacion politica",
+        "area": "Igualdad, Diversidad, LGTBI, Participacion Ciudadana y Barrios",
+        "cargo": "Concejala de Igualdad, Diversidad, LGTBI, Participacion Ciudadana y Barrios"
+      }
+    ]
+  },
+  "Fuerteventura::Tuineje": {
+    "isla": "Fuerteventura",
+    "municipio": "Tuineje",
+    "ayuntamiento": "Ayuntamiento de Tuineje",
+    "fuentes": [
+      {
+        "url": "https://www.ayuntamientotuineje.com/ayuntamiento/organizacion-politica/lucia-belen-cubas-gil/",
+        "tipo": "organizacion politica",
+        "area": "Servicios Sociales, Mayores y Vivienda",
+        "cargo": "Concejala de Servicios Sociales, Mayores y Vivienda"
+      },
+      {
+        "url": "https://www.ayuntamientotuineje.com/servicios-municipales/servicios-sociales/",
+        "tipo": "organizacion politica",
+        "area": "Servicios Sociales, Mayores y Vivienda",
+        "cargo": "Concejala de Servicios Sociales, Mayores y Vivienda"
+      }
+    ]
+  },
+  "Gran Canaria::Agaete": {
+    "isla": "Gran Canaria",
+    "municipio": "Agaete",
+    "ayuntamiento": "Ayuntamiento de Agaete",
+    "fuentes": [
+      {
+        "url": "https://agaete.es/concejal/dona-maria-del-carmen-rosario-godoy",
+        "tipo": "ficha de cargo",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Alcaldesa"
+      },
+      {
+        "url": "https://agaete.es/noticias/nueva-formacion",
+        "tipo": "ficha de cargo",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Alcaldesa"
+      }
+    ]
+  },
+  "Gran Canaria::Aguimes": {
+    "isla": "Gran Canaria",
+    "municipio": "Aguimes",
+    "ayuntamiento": "Ayuntamiento de Aguimes",
+    "fuentes": [
+      {
+        "url": "https://aguimes.es/eva-lopez/",
+        "tipo": "concejalia",
+        "area": "Bienestar Social e Igualdad",
+        "cargo": "Concejala de Bienestar Social e Igualdad"
+      },
+      {
+        "url": "https://aguimes.es/mujer-igualdad/",
+        "tipo": "concejalia",
+        "area": "Bienestar Social e Igualdad",
+        "cargo": "Concejala de Bienestar Social e Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Artenara": {
+    "isla": "Gran Canaria",
+    "municipio": "Artenara",
+    "ayuntamiento": "Ayuntamiento de Artenara",
+    "fuentes": [
+      {
+        "url": "https://www.artenara.es/portal-ciudadano/grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Servicios Sociales, Mujer e Igualdad",
+        "cargo": "Concejala delegada de Servicios Sociales, Sanidad, Mujer, Tercera Edad e Igualdad"
+      },
+      {
+        "url": "https://www.artenara.es/portal-ciudadano/contacto/",
+        "tipo": "grupo de gobierno",
+        "area": "Servicios Sociales, Mujer e Igualdad",
+        "cargo": "Concejala delegada de Servicios Sociales, Sanidad, Mujer, Tercera Edad e Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Arucas": {
+    "isla": "Gran Canaria",
+    "municipio": "Arucas",
+    "ayuntamiento": "Ayuntamiento de Arucas",
+    "fuentes": [
+      {
+        "url": "https://www.arucas.org/modules.php?file=ver_gen&id=TkRrek1RPT0%3D&mod=portal&t=3",
+        "tipo": "area municipal",
+        "area": "Servicios Sociocomunitarios, Asistencia a las Personas, Calidad de Vida y Promocion Economica",
+        "cargo": "Concejal delegado del area de Servicios Sociocomunitarios, Asistencia a las Personas, Calidad de Vida y Promocion Economica"
+      },
+      {
+        "url": "https://www.arucas.org/modules.php?file=ver_gen&id=TkRnek13PT0%3D&mod=portal",
+        "tipo": "area municipal",
+        "area": "Servicios Sociocomunitarios, Asistencia a las Personas, Calidad de Vida y Promocion Economica",
+        "cargo": "Concejal delegado del area de Servicios Sociocomunitarios, Asistencia a las Personas, Calidad de Vida y Promocion Economica"
+      }
+    ]
+  },
+  "Gran Canaria::Firgas": {
+    "isla": "Gran Canaria",
+    "municipio": "Firgas",
+    "ayuntamiento": "Ayuntamiento de la Villa de Firgas",
+    "fuentes": [
+      {
+        "url": "https://www.villadefirgas.es/team/raquel-martel-guerra/",
+        "tipo": "ficha de cargo / area municipal",
+        "area": "Politicas de Igualdad",
+        "cargo": "Concejala delegada de Turismo, Servicios Sociales e Igualdad"
+      },
+      {
+        "url": "https://www.villadefirgas.es/politicas-de-igualdad/",
+        "tipo": "ficha de cargo / area municipal",
+        "area": "Politicas de Igualdad",
+        "cargo": "Concejala delegada de Turismo, Servicios Sociales e Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Galdar": {
+    "isla": "Gran Canaria",
+    "municipio": "Galdar",
+    "ayuntamiento": "Ayuntamiento de Galdar",
+    "fuentes": [
+      {
+        "url": "https://www.galdar.es/igualdad/",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "Concejala delegada de Igualdad; Cuarta Teniente de Alcalde"
+      },
+      {
+        "url": "https://transparencia.galdar.es/p/374-servicios-que-presta-la-entidad",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "Concejala delegada de Igualdad; Cuarta Teniente de Alcalde"
+      }
+    ]
+  },
+  "Gran Canaria::Ingenio": {
+    "isla": "Gran Canaria",
+    "municipio": "Ingenio",
+    "ayuntamiento": "Ayuntamiento de Ingenio",
+    "fuentes": [
+      {
+        "url": "https://ingenio.es/igualdad/",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "Concejal delegado de Igualdad y Diversidad"
+      },
+      {
+        "url": "https://ingenio.es/servicios-sociales-2/",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "Concejal delegado de Igualdad y Diversidad"
+      }
+    ]
+  },
+  "Gran Canaria::La Aldea de San Nicolas": {
+    "isla": "Gran Canaria",
+    "municipio": "La Aldea de San Nicolas",
+    "ayuntamiento": "Ayuntamiento de La Aldea de San Nicolas",
+    "fuentes": [
+      {
+        "url": "https://laaldeasanicolas.es/ayuntamiento/",
+        "tipo": "organigrama municipal",
+        "area": "Politica Social, del Mayor e Igualdad",
+        "cargo": "4a Teniente de Alcalde; concejala delegada de Politica Social, del Mayor e Igualdad"
+      },
+      {
+        "url": "https://laaldeasanicolas.es/ayuntamiento/direccionesytelefonos/",
+        "tipo": "organigrama municipal",
+        "area": "Politica Social, del Mayor e Igualdad",
+        "cargo": "4a Teniente de Alcalde; concejala delegada de Politica Social, del Mayor e Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Las Palmas de Gran Canaria": {
+    "isla": "Gran Canaria",
+    "municipio": "Las Palmas de Gran Canaria",
+    "ayuntamiento": "Ayuntamiento de Las Palmas de Gran Canaria",
+    "fuentes": [
+      {
+        "url": "https://transparencia.laspalmasgc.es/informacion-institucional/miembros-electos-altos-cargos-directivos/legislatura/1/detalle/1354",
+        "tipo": "transparencia / organismo municipal",
+        "area": "Igualdad, Diversidad y Participacion Ciudadana",
+        "cargo": "Concejala delegada del area"
+      },
+      {
+        "url": "https://www.laspalmasgc.es/es/ayuntamiento/organismos-y-empresas/consejo-sectorial-de-la-mujer/",
+        "tipo": "transparencia / organismo municipal",
+        "area": "Igualdad, Diversidad y Participacion Ciudadana",
+        "cargo": "Concejala delegada del area"
+      }
+    ]
+  },
+  "Gran Canaria::Mogan": {
+    "isla": "Gran Canaria",
+    "municipio": "Mogan",
+    "ayuntamiento": "Ayuntamiento de Mogan",
+    "fuentes": [
+      {
+        "url": "https://transparencia.mogan.es/wp-content/uploads/2025/06/2025_33306_4934750_Identificacion__perfil__meritos_academicos_y_trayectoria_profesional_Corporacion.pdf",
+        "tipo": "miembros electos / transparencia",
+        "area": "Igualdad y Escuelas Infantiles",
+        "cargo": "Concejala delegada"
+      },
+      {
+        "url": "https://transparencia.mogan.es/transparencia-institucional-organ-oldizativa-y-personal/informacion-general-del-municipio/",
+        "tipo": "miembros electos / transparencia",
+        "area": "Igualdad y Escuelas Infantiles",
+        "cargo": "Concejala delegada"
+      }
+    ]
+  },
+  "Gran Canaria::Moya": {
+    "isla": "Gran Canaria",
+    "municipio": "Moya",
+    "ayuntamiento": "Ayuntamiento de la Villa de Moya",
+    "fuentes": [
+      {
+        "url": "https://transparencia.villademoya.es/t/representantes/880",
+        "tipo": "representante / transparencia",
+        "area": "Politica Social",
+        "cargo": "3a Teniente de Alcalde; concejala delegada de Educacion y Politica Social"
+      },
+      {
+        "url": "https://transparencia.villademoya.es/p/1607-unidades-administrativas",
+        "tipo": "representante / transparencia",
+        "area": "Politica Social",
+        "cargo": "3a Teniente de Alcalde; concejala delegada de Educacion y Politica Social"
+      }
+    ]
+  },
+  "Gran Canaria::San Bartolome de Tirajana": {
+    "isla": "Gran Canaria",
+    "municipio": "San Bartolome de Tirajana",
+    "ayuntamiento": "Ayuntamiento de San Bartolome de Tirajana",
+    "fuentes": [
+      {
+        "url": "https://www.maspalomas.com/mnuayto-grupogobierno",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad",
+        "cargo": "2a Teniente de Alcalde; responsable politica del area de Igualdad"
+      },
+      {
+        "url": "https://www.maspalomas.com/cultura-y-accion-social/igualdad",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad",
+        "cargo": "2a Teniente de Alcalde; responsable politica del area de Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Santa Brigida": {
+    "isla": "Gran Canaria",
+    "municipio": "Santa Brigida",
+    "ayuntamiento": "Ayuntamiento de la Villa de Santa Brigida",
+    "fuentes": [
+      {
+        "url": "https://www.santabrigida.es/juventud-educacion-comercio-turismo-y-parques-y-jardines/",
+        "tipo": "concejalia / agenda oficial",
+        "area": "Igualdad",
+        "cargo": "Concejal delegado de Igualdad"
+      },
+      {
+        "url": "https://eventos.santabrigida.es/eventos/santa-brigida-facilita-guagua-para-asistir-a-la-manifestacion-del-8m/",
+        "tipo": "concejalia / agenda oficial",
+        "area": "Igualdad",
+        "cargo": "Concejal delegado de Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Santa Lucia de Tirajana": {
+    "isla": "Gran Canaria",
+    "municipio": "Santa Lucia de Tirajana",
+    "ayuntamiento": "Ayuntamiento de Santa Lucia de Tirajana",
+    "fuentes": [
+      {
+        "url": "https://www.santaluciagc.com/areas/bienestar-social/igualdad/",
+        "tipo": "area municipal",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Concejala delegada de Igualdad, Diversidad, Estadistica y Padron Municipal"
+      },
+      {
+        "url": "https://transparencia.santaluciagc.com/consistorio/olga-caceres-penate/",
+        "tipo": "area municipal",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Concejala delegada de Igualdad, Diversidad, Estadistica y Padron Municipal"
+      }
+    ]
+  },
+  "Gran Canaria::Santa Maria de Guia": {
+    "isla": "Gran Canaria",
+    "municipio": "Santa Maria de Guia",
+    "ayuntamiento": "Ayuntamiento de Santa Maria de Guia de Gran Canaria",
+    "fuentes": [
+      {
+        "url": "https://santamariadeguia.es/servicios-sociales-2/",
+        "tipo": "servicio municipal",
+        "area": "Servicio de Prevencion y Atencion Integral a Mujeres y Menores Victimas de Violencia de Genero",
+        "cargo": "Puerta de entrada operativa del servicio municipal de Igualdad"
+      },
+      {
+        "url": "https://santamariadeguia.es/la-concejala-socialista-isabel-rodriguez-renuncia-a-su-acta-en-el-ayuntamiento-de-guia-por-motivos-laborales/",
+        "tipo": "servicio municipal",
+        "area": "Servicio de Prevencion y Atencion Integral a Mujeres y Menores Victimas de Violencia de Genero",
+        "cargo": "Puerta de entrada operativa del servicio municipal de Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Tejeda": {
+    "isla": "Gran Canaria",
+    "municipio": "Tejeda",
+    "ayuntamiento": "Ayuntamiento de Tejeda",
+    "fuentes": [
+      {
+        "url": "https://tejeda.eu/corporacion-municipal/",
+        "tipo": "corporacion municipal",
+        "area": "Servicios Sociales, Mujer e Igualdad",
+        "cargo": "Concejal"
+      },
+      {
+        "url": "https://tejeda.eu/servicios-sociales/",
+        "tipo": "corporacion municipal",
+        "area": "Servicios Sociales, Mujer e Igualdad",
+        "cargo": "Concejal"
+      }
+    ]
+  },
+  "Gran Canaria::Telde": {
+    "isla": "Gran Canaria",
+    "municipio": "Telde",
+    "ayuntamiento": "Ayuntamiento de Telde",
+    "fuentes": [
+      {
+        "url": "https://www.telde.es/transparencia/transparencia-institucional-organizativa-y-perso/unidades-administrativas-a-nivel-de-servicio/",
+        "tipo": "transparencia / concejalia",
+        "area": "Igualdad",
+        "cargo": "Concejala delegada de Igualdad"
+      },
+      {
+        "url": "https://www.telde.es/ayuntamiento/concejales/maria-eugenia-melian-santana/",
+        "tipo": "transparencia / concejalia",
+        "area": "Igualdad",
+        "cargo": "Concejala delegada de Igualdad"
+      }
+    ]
+  },
+  "Gran Canaria::Teror": {
+    "isla": "Gran Canaria",
+    "municipio": "Teror",
+    "ayuntamiento": "Ayuntamiento de Teror",
+    "fuentes": [
+      {
+        "url": "https://teror.es/organizacion/grupo-de-gobierno-2023-2027/",
+        "tipo": "grupo de gobierno / area municipal",
+        "area": "Servicios Sociales, Solidaridad, Igualdad y Diversidad",
+        "cargo": "Concejala de Servicios Sociales, Solidaridad, Igualdad y Diversidad"
+      },
+      {
+        "url": "https://teror.es/somos-igualdad/",
+        "tipo": "grupo de gobierno / area municipal",
+        "area": "Servicios Sociales, Solidaridad, Igualdad y Diversidad",
+        "cargo": "Concejala de Servicios Sociales, Solidaridad, Igualdad y Diversidad"
+      }
+    ]
+  },
+  "Gran Canaria::Valleseco": {
+    "isla": "Gran Canaria",
+    "municipio": "Valleseco",
+    "ayuntamiento": "Ayuntamiento de Valleseco",
+    "fuentes": [
+      {
+        "url": "https://valleseco.es/valleseco/mujer-e-igualdad/",
+        "tipo": "area municipal",
+        "area": "Mujer e Igualdad",
+        "cargo": "Concejala de Igualdad y Violencia de Genero"
+      },
+      {
+        "url": "https://valleseco.es/valleseco/grupo-gobierno/",
+        "tipo": "area municipal",
+        "area": "Mujer e Igualdad",
+        "cargo": "Concejala de Igualdad y Violencia de Genero"
+      }
+    ]
+  },
+  "Gran Canaria::Valsequillo": {
+    "isla": "Gran Canaria",
+    "municipio": "Valsequillo",
+    "ayuntamiento": "Ayuntamiento de Valsequillo de Gran Canaria",
+    "fuentes": [
+      {
+        "url": "https://www.valsequillogc.es/ayto3/corporacion-2023-2027-2/",
+        "tipo": "corporacion municipal",
+        "area": "Bienestar Social, Igualdad y Ciudadania",
+        "cargo": "3a Teniente de Alcalde; concejala delegada de Bienestar Social, Igualdad y Ciudadania"
+      },
+      {
+        "url": "https://www.valsequillogc.es/ayto3/accion-social-y-salud/",
+        "tipo": "corporacion municipal",
+        "area": "Bienestar Social, Igualdad y Ciudadania",
+        "cargo": "3a Teniente de Alcalde; concejala delegada de Bienestar Social, Igualdad y Ciudadania"
+      }
+    ]
+  },
+  "Gran Canaria::Vega de San Mateo": {
+    "isla": "Gran Canaria",
+    "municipio": "Vega de San Mateo",
+    "ayuntamiento": "Ayuntamiento de Vega de San Mateo",
+    "fuentes": [
+      {
+        "url": "https://www.vegadesanmateo.es/areas/igualdad",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "2a Teniente de Alcalde; concejala delegada de Igualdad"
+      },
+      {
+        "url": "https://www.vegadesanmateo.es/noticia/informacion-publica-del-ii-plan-de-igualdad-2021-2024",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "2a Teniente de Alcalde; concejala delegada de Igualdad"
+      }
+    ]
+  },
+  "La Gomera::Agulo": {
+    "isla": "La Gomera",
+    "municipio": "Agulo",
+    "ayuntamiento": "Ayuntamiento de Agulo",
+    "fuentes": [
+      {
+        "url": "https://agulo.org/para-la-gente/asuntos-sociales/",
+        "tipo": "area municipal",
+        "area": "Asuntos Sociales",
+        "cargo": "Servicio municipal de Asuntos Sociales"
+      }
+    ]
+  },
+  "La Gomera::Alajero": {
+    "isla": "La Gomera",
+    "municipio": "Alajero",
+    "ayuntamiento": "Ayuntamiento de Alajero",
+    "fuentes": [
+      {
+        "url": "http://www.ayuntamientoalajero.es/index.php/el-ayto/servicios-sociales",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales, Vivienda, Tercera Edad y Mujer",
+        "cargo": "Responsable del Area de Servicios Sociales"
+      }
+    ]
+  },
+  "La Gomera::Hermigua": {
+    "isla": "La Gomera",
+    "municipio": "Hermigua",
+    "ayuntamiento": "Ayuntamiento de Hermigua",
+    "fuentes": [
+      {
+        "url": "http://www.hermigua.es/ayuntamiento/grupo-de-gobierno.html",
+        "tipo": "grupo de gobierno",
+        "area": "Servicios Sociales, Educacion, Juventud y Participacion Ciudadana",
+        "cargo": "Concejal de Servicios Sociales, Educacion, Juventud y Participacion Ciudadana"
+      },
+      {
+        "url": "http://www.hermigua.es/ayuntamiento/dependencias-y-contacto.html",
+        "tipo": "grupo de gobierno",
+        "area": "Servicios Sociales, Educacion, Juventud y Participacion Ciudadana",
+        "cargo": "Concejal de Servicios Sociales, Educacion, Juventud y Participacion Ciudadana"
+      }
+    ]
+  },
+  "La Gomera::San Sebastian de La Gomera": {
+    "isla": "La Gomera",
+    "municipio": "San Sebastian de La Gomera",
+    "ayuntamiento": "Ayuntamiento de San Sebastian de La Gomera",
+    "fuentes": [
+      {
+        "url": "https://sansebastiangomera.org/grupo-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Politicas Sociales e Igualdad",
+        "cargo": "Concejala de Politicas Sociales e Igualdad"
+      },
+      {
+        "url": "https://sansebastiangomera.org/programas-sociales-igualdad/",
+        "tipo": "grupo de gobierno",
+        "area": "Politicas Sociales e Igualdad",
+        "cargo": "Concejala de Politicas Sociales e Igualdad"
+      }
+    ]
+  },
+  "La Gomera::Valle Gran Rey": {
+    "isla": "La Gomera",
+    "municipio": "Valle Gran Rey",
+    "ayuntamiento": "Ayuntamiento de Valle Gran Rey",
+    "fuentes": [
+      {
+        "url": "https://transparencia.vallegranrey.es/publicidad-activa/organizacion-municipal/miembros-electos/",
+        "tipo": "miembros electos / transparencia",
+        "area": "Igualdad, Juventud y Mayores",
+        "cargo": "Concejala delegada de Igualdad, Juventud y Mayores"
+      },
+      {
+        "url": "https://www.vallegranrey.es/contacta/",
+        "tipo": "miembros electos / transparencia",
+        "area": "Igualdad, Juventud y Mayores",
+        "cargo": "Concejala delegada de Igualdad, Juventud y Mayores"
+      }
+    ]
+  },
+  "La Gomera::Vallehermoso": {
+    "isla": "La Gomera",
+    "municipio": "Vallehermoso",
+    "ayuntamiento": "Ayuntamiento de Vallehermoso",
+    "fuentes": [
+      {
+        "url": "https://aytovallehermoso.net/gobierno-municipal/vanessa-hernandez-correa/",
+        "tipo": "gobierno municipal",
+        "area": "Servicios Sociales, Igualdad, Sanidad y Juventud",
+        "cargo": "Concejala delegada de Servicios Sociales, Igualdad, Sanidad y Juventud"
+      },
+      {
+        "url": "https://eadmin.vallehermosoweb.es/publico/directorio",
+        "tipo": "gobierno municipal",
+        "area": "Servicios Sociales, Igualdad, Sanidad y Juventud",
+        "cargo": "Concejala delegada de Servicios Sociales, Igualdad, Sanidad y Juventud"
+      }
+    ]
+  },
+  "La Palma::Barlovento": {
+    "isla": "La Palma",
+    "municipio": "Barlovento",
+    "ayuntamiento": "Ayuntamiento de Barlovento",
+    "fuentes": [
+      {
+        "url": "https://barlovento.es/departamentos/servicios-sociales/",
+        "tipo": "servicio municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Concejala de Servicios Sociales"
+      },
+      {
+        "url": "https://barlovento.es/noticias-barlovento/pasos-hacia-la-salud/",
+        "tipo": "servicio municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Concejala de Servicios Sociales"
+      }
+    ]
+  },
+  "La Palma::Brena Alta": {
+    "isla": "La Palma",
+    "municipio": "Brena Alta",
+    "ayuntamiento": "Ayuntamiento de la Villa de Breña Alta",
+    "fuentes": [
+      {
+        "url": "https://brenaalta.es/corporacion-local/",
+        "tipo": "corporación municipal",
+        "area": "Bienestar Social, Centros Especiales y Sanitarios, Igualdad, Solidaridad, Educación, Accesibilidad, Concienciación Social y Cuidado Animal",
+        "cargo": "1º Teniente Alcalde; responsable de la gestión de los asuntos relativos a bienestar social, igualdad y áreas afines"
+      },
+      {
+        "url": "https://brenaalta.es/directorio-municipal/",
+        "tipo": "corporación municipal",
+        "area": "Bienestar Social, Centros Especiales y Sanitarios, Igualdad, Solidaridad, Educación, Accesibilidad, Concienciación Social y Cuidado Animal",
+        "cargo": "1º Teniente Alcalde; responsable de la gestión de los asuntos relativos a bienestar social, igualdad y áreas afines"
+      }
+    ]
+  },
+  "La Palma::Brena Baja": {
+    "isla": "La Palma",
+    "municipio": "Brena Baja",
+    "ayuntamiento": "Ayuntamiento de Breña Baja",
+    "fuentes": [
+      {
+        "url": "https://www.bbaja.es/es/index.php/ayuntamiento/grupo-de-gobierno",
+        "tipo": "equipo de gobierno",
+        "area": "Servicios Sociales, Igualdad, Infancia, Mayores y Vivienda, Salud y Bienestar Animal",
+        "cargo": "Concejal del área de Servicios Sociales, Igualdad, Infancia, Mayores y Vivienda, Salud y Bienestar Animal"
+      },
+      {
+        "url": "https://www.bbaja.es/es/index.php/ayuntamiento/contacto",
+        "tipo": "equipo de gobierno",
+        "area": "Servicios Sociales, Igualdad, Infancia, Mayores y Vivienda, Salud y Bienestar Animal",
+        "cargo": "Concejal del área de Servicios Sociales, Igualdad, Infancia, Mayores y Vivienda, Salud y Bienestar Animal"
+      }
+    ]
+  },
+  "La Palma::El Paso": {
+    "isla": "La Palma",
+    "municipio": "El Paso",
+    "ayuntamiento": "Ayuntamiento de El Paso",
+    "fuentes": [
+      {
+        "url": "https://elpaso.es/concejalias/",
+        "tipo": "concejalía",
+        "area": "Servicios Sociales, Sanidad, Igualdad, Menores y Vivienda",
+        "cargo": "Concejalía delegada"
+      }
+    ]
+  },
+  "La Palma::Fuencaliente": {
+    "isla": "La Palma",
+    "municipio": "Fuencaliente",
+    "ayuntamiento": "Ayuntamiento de Fuencaliente de La Palma",
+    "fuentes": [
+      {
+        "url": "https://fuencalientedelapalma.es/2023/06/23/el-ayuntamiento-de-fuencaliente-formaliza-el-reparto-de-areas-entre-sus-concejales/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales, Sanidad, Desarrollo Local y Comercio, Formación y Empleo, Patrimonio Local y Bienestar Animal",
+        "cargo": "Primera Teniente de Alcaldía; responsable de las áreas de Servicios Sociales, Sanidad, Desarrollo Local y Comercio, Formación y Empleo y áreas afines"
+      },
+      {
+        "url": "https://fuencalientedelapalma.es/ayuntamiento/directorio-contactos/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales, Sanidad, Desarrollo Local y Comercio, Formación y Empleo, Patrimonio Local y Bienestar Animal",
+        "cargo": "Primera Teniente de Alcaldía; responsable de las áreas de Servicios Sociales, Sanidad, Desarrollo Local y Comercio, Formación y Empleo y áreas afines"
+      }
+    ]
+  },
+  "La Palma::Garafia": {
+    "isla": "La Palma",
+    "municipio": "Garafia",
+    "ayuntamiento": "Ayuntamiento de la Villa de Garafía",
+    "fuentes": [
+      {
+        "url": "https://www.garafia.es/corporacion-municipal/",
+        "tipo": "corporación municipal",
+        "area": "Servicios Sociales, Turismo, Cultura y Medio Ambiente",
+        "cargo": "Concejala de Área de Servicios Sociales, Turismo, Cultura y Medio Ambiente"
+      },
+      {
+        "url": "https://www.garafia.es/servicios-sociales/",
+        "tipo": "corporación municipal",
+        "area": "Servicios Sociales, Turismo, Cultura y Medio Ambiente",
+        "cargo": "Concejala de Área de Servicios Sociales, Turismo, Cultura y Medio Ambiente"
+      }
+    ]
+  },
+  "La Palma::Los Llanos de Aridane": {
+    "isla": "La Palma",
+    "municipio": "Los Llanos de Aridane",
+    "ayuntamiento": "Ayuntamiento de Los Llanos de Aridane",
+    "fuentes": [
+      {
+        "url": "https://www.aridane.org/city/concejalia-de-igualdad/",
+        "tipo": "concejalía",
+        "area": "Concejalía de Igualdad",
+        "cargo": "Concejalía de Igualdad y Atención a la Diversidad"
+      },
+      {
+        "url": "https://www.aridane.org/city/equipo-gobierno/",
+        "tipo": "concejalía",
+        "area": "Concejalía de Igualdad",
+        "cargo": "Concejalía de Igualdad y Atención a la Diversidad"
+      }
+    ]
+  },
+  "La Palma::Puntagorda": {
+    "isla": "La Palma",
+    "municipio": "Puntagorda",
+    "ayuntamiento": "Ayuntamiento de Puntagorda",
+    "fuentes": [
+      {
+        "url": "https://www.puntagorda.es/ayuntamiento/concejalias/",
+        "tipo": "concejalías",
+        "area": "Servicios Sociales, Sanidad e Igualdad",
+        "cargo": "Concejala delegada"
+      },
+      {
+        "url": "https://www.puntagorda.es/servicios/servicios-sociales/",
+        "tipo": "concejalías",
+        "area": "Servicios Sociales, Sanidad e Igualdad",
+        "cargo": "Concejala delegada"
+      }
+    ]
+  },
+  "La Palma::Puntallana": {
+    "isla": "La Palma",
+    "municipio": "Puntallana",
+    "ayuntamiento": "Ayuntamiento de Puntallana",
+    "fuentes": [
+      {
+        "url": "https://puntallana.es/2025/11/i-encuentro-de-networking-con-motivo-del-dia-mundial-de-la-construccion/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales, Igualdad y Participación Ciudadana",
+        "cargo": "Concejala de Servicios Sociales, Igualdad y Participación Ciudadana"
+      },
+      {
+        "url": "https://puntallana.es/2020/04/el-equipo-de-servicios-sociales-recuerda-a-los-vecinos-que-esta-a-su-total-disposicion-en-estos-momentos/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales, Igualdad y Participación Ciudadana",
+        "cargo": "Concejala de Servicios Sociales, Igualdad y Participación Ciudadana"
+      }
+    ]
+  },
+  "La Palma::San Andres y Sauces": {
+    "isla": "La Palma",
+    "municipio": "San Andres y Sauces",
+    "ayuntamiento": "Ayuntamiento de la Villa y Ciudad de San Andrés y Sauces",
+    "fuentes": [
+      {
+        "url": "https://sanandresysauces.es/ayuntamiento/departamentos/",
+        "tipo": "directorio / dependencias",
+        "area": "Servicios Sociales",
+        "cargo": "Servicio de Servicios Sociales"
+      },
+      {
+        "url": "https://sanandresysauces.es/servicios-sociales/",
+        "tipo": "directorio / dependencias",
+        "area": "Servicios Sociales",
+        "cargo": "Servicio de Servicios Sociales"
+      }
+    ]
+  },
+  "La Palma::Santa Cruz de La Palma": {
+    "isla": "La Palma",
+    "municipio": "Santa Cruz de La Palma",
+    "ayuntamiento": "Ayuntamiento de Santa Cruz de La Palma",
+    "fuentes": [
+      {
+        "url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama",
+        "tipo": "organigrama",
+        "area": "Bienestar Social e Igualdad de Oportunidades; Sanidad y Consumo",
+        "cargo": "Tercera Tenencia de Alcaldía"
+      }
+    ]
+  },
+  "La Palma::Tazacorte": {
+    "isla": "La Palma",
+    "municipio": "Tazacorte",
+    "ayuntamiento": "Ayuntamiento de Tazacorte",
+    "fuentes": [
+      {
+        "url": "https://tazacorte.es/site/ayuntamiento/organos-de-gobierno/",
+        "tipo": "órganos de gobierno",
+        "area": "Asuntos Sociales, Bienestar Social y Mujer",
+        "cargo": "Concejala con Delegaciones Específicas de Asuntos Sociales, Bienestar Social y Mujer"
+      },
+      {
+        "url": "https://tazacorte.es/site/areas-municipales/servicios-sociales/",
+        "tipo": "órganos de gobierno",
+        "area": "Asuntos Sociales, Bienestar Social y Mujer",
+        "cargo": "Concejala con Delegaciones Específicas de Asuntos Sociales, Bienestar Social y Mujer"
+      }
+    ]
+  },
+  "La Palma::Tijarafe": {
+    "isla": "La Palma",
+    "municipio": "Tijarafe",
+    "ayuntamiento": "Ayuntamiento de Tijarafe",
+    "fuentes": [
+      {
+        "url": "https://www.tijarafe.net/index.php/concejalias",
+        "tipo": "concejalías",
+        "area": "Infancia y Familia, Educación, Igualdad, Sanidad y Fiestas",
+        "cargo": "Concejala Delegada de Infancia y Familia, Educación, Igualdad, Sanidad y Fiestas"
+      }
+    ]
+  },
+  "La Palma::Villa de Mazo": {
+    "isla": "La Palma",
+    "municipio": "Villa de Mazo",
+    "ayuntamiento": "Ayuntamiento de Villa de Mazo",
+    "fuentes": [
+      {
+        "url": "https://villademazo.com/idafe-hernandez-designa-las-areas-de-gobierno-del-ayuntamiento-de-villa-de-mazo/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales, Mayores, Menores, Igualdad, LGTBIQ+, Sanidad y Accesibilidad",
+        "cargo": "Concejal de Servicios Sociales, Mayores, Menores, Igualdad, LGTBIQ+, Sanidad y Accesibilidad"
+      },
+      {
+        "url": "https://villademazo.com/el-ayuntamiento/servicios-sociales/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales, Mayores, Menores, Igualdad, LGTBIQ+, Sanidad y Accesibilidad",
+        "cargo": "Concejal de Servicios Sociales, Mayores, Menores, Igualdad, LGTBIQ+, Sanidad y Accesibilidad"
+      }
+    ]
+  },
+  "Lanzarote::Arrecife": {
+    "isla": "Lanzarote",
+    "municipio": "Arrecife",
+    "ayuntamiento": "Ayuntamiento de Arrecife",
+    "fuentes": [
+      {
+        "url": "https://www.arrecife.es/node/2346",
+        "tipo": "concejalia / servicio",
+        "area": "Bienestar Social, Igualdad e Inmigracion",
+        "cargo": "Concejala de Bienestar Social, Igualdad e Inmigracion"
+      },
+      {
+        "url": "https://www.arrecife.es/node/3184",
+        "tipo": "concejalia / servicio",
+        "area": "Bienestar Social, Igualdad e Inmigracion",
+        "cargo": "Concejala de Bienestar Social, Igualdad e Inmigracion"
+      }
+    ]
+  },
+  "Lanzarote::Haria": {
+    "isla": "Lanzarote",
+    "municipio": "Haria",
+    "ayuntamiento": "Ayuntamiento de Haria",
+    "fuentes": [
+      {
+        "url": "https://www.ayuntamientodeharia.com/haria/bienestar-social-organiza-actividades-municipales-inclusivas-2/",
+        "tipo": "noticia institucional",
+        "area": "Bienestar Social, Mayores, Igualdad, Vivienda, Sanidad y Participacion Ciudadana",
+        "cargo": "Alcaldesa y responsable del area de Bienestar Social"
+      },
+      {
+        "url": "https://www.ayuntamientodeharia.com/haria/ayuntamiento/telefonos/",
+        "tipo": "noticia institucional",
+        "area": "Bienestar Social, Mayores, Igualdad, Vivienda, Sanidad y Participacion Ciudadana",
+        "cargo": "Alcaldesa y responsable del area de Bienestar Social"
+      }
+    ]
+  },
+  "Lanzarote::San Bartolome": {
+    "isla": "Lanzarote",
+    "municipio": "San Bartolome",
+    "ayuntamiento": "Ayuntamiento de San Bartolome",
+    "fuentes": [
+      {
+        "url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-organiza-mas-de-un-centenar-de-actividades-para-el-primer-trimestre-de-2025/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales / Igualdad",
+        "cargo": "Concejala de Servicios Sociales, Mayores, Cultura y Servicio de Emergencia Social Humanitaria"
+      },
+      {
+        "url": "https://www.sanbartolome.es/telefonos-de-interes/",
+        "tipo": "noticia institucional",
+        "area": "Servicios Sociales / Igualdad",
+        "cargo": "Concejala de Servicios Sociales, Mayores, Cultura y Servicio de Emergencia Social Humanitaria"
+      }
+    ]
+  },
+  "Lanzarote::Teguise": {
+    "isla": "Lanzarote",
+    "municipio": "Teguise",
+    "ayuntamiento": "Ayuntamiento de Teguise",
+    "fuentes": [
+      {
+        "url": "https://teguise.es/ayuntamiento/concejales-del-grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Bienestar Social, Area del Mayor, Vivienda, Salud Publica, Igualdad e Infancia",
+        "cargo": "Concejala del area"
+      },
+      {
+        "url": "https://teguise.es/servicios/bienestar-social/",
+        "tipo": "grupo de gobierno",
+        "area": "Bienestar Social, Area del Mayor, Vivienda, Salud Publica, Igualdad e Infancia",
+        "cargo": "Concejala del area"
+      }
+    ]
+  },
+  "Lanzarote::Tias": {
+    "isla": "Lanzarote",
+    "municipio": "Tias",
+    "ayuntamiento": "Ayuntamiento de Tias",
+    "fuentes": [
+      {
+        "url": "https://www.ayuntamientodetias.es/portfolio-item/concejalia-de-servicios-sociales-y-participacion-ciudadana/",
+        "tipo": "concejalia",
+        "area": "Servicios Sociales, Participacion Ciudadana, Igualdad y Violencia de Genero, Proteccion de los Animales, Pesca y Proteccion Civil",
+        "cargo": "Segundo Teniente de Alcalde; concejal delegado del area"
+      },
+      {
+        "url": "https://www.ayuntamientodetias.es/servicios/contacto/",
+        "tipo": "concejalia",
+        "area": "Servicios Sociales, Participacion Ciudadana, Igualdad y Violencia de Genero, Proteccion de los Animales, Pesca y Proteccion Civil",
+        "cargo": "Segundo Teniente de Alcalde; concejal delegado del area"
+      }
+    ]
+  },
+  "Lanzarote::Tinajo": {
+    "isla": "Lanzarote",
+    "municipio": "Tinajo",
+    "ayuntamiento": "Ayuntamiento de Tinajo",
+    "fuentes": [
+      {
+        "url": "https://www.tinajo.es/noticias/si-duele-no-es-amor",
+        "tipo": "noticia institucional",
+        "area": "Igualdad",
+        "cargo": "Concejala de Igualdad"
+      },
+      {
+        "url": "https://www.tinajo.es/telefonos-y-correos-electronicos-de-interes-municipal",
+        "tipo": "noticia institucional",
+        "area": "Igualdad",
+        "cargo": "Concejala de Igualdad"
+      }
+    ]
+  },
+  "Lanzarote::Yaiza": {
+    "isla": "Lanzarote",
+    "municipio": "Yaiza",
+    "ayuntamiento": "Ayuntamiento de Yaiza",
+    "fuentes": [
+      {
+        "url": "https://yaiza.es/concejalias/",
+        "tipo": "concejalias",
+        "area": "Cultura, Servicios Sociales, Inmigracion y Sanidad",
+        "cargo": "Quinto Teniente de Alcalde"
+      },
+      {
+        "url": "https://yaiza.es/servicios-sociales/",
+        "tipo": "concejalias",
+        "area": "Cultura, Servicios Sociales, Inmigracion y Sanidad",
+        "cargo": "Quinto Teniente de Alcalde"
+      }
+    ]
+  },
+  "Tenerife::Adeje": {
+    "isla": "Tenerife",
+    "municipio": "Adeje",
+    "ayuntamiento": "Ayuntamiento de Adeje",
+    "fuentes": [
+      {
+        "url": "https://www.adeje.es/igualdad/servicios",
+        "tipo": "concejalia",
+        "area": "Concejalia de Politicas de Igualdad",
+        "cargo": "Responsable del servicio / concejalia de Politicas de Igualdad"
+      },
+      {
+        "url": "https://www.adeje.es/igualdad/179-area-de-politicas-de-igualdad",
+        "tipo": "concejalia",
+        "area": "Concejalia de Politicas de Igualdad",
+        "cargo": "Responsable del servicio / concejalia de Politicas de Igualdad"
+      }
+    ]
+  },
+  "Tenerife::Arafo": {
+    "isla": "Tenerife",
+    "municipio": "Arafo",
+    "ayuntamiento": "Ayuntamiento de la Villa de Arafo",
+    "fuentes": [
+      {
+        "url": "https://www.arafo.es/equipo-de-gobierno.html",
+        "tipo": "equipo de gobierno",
+        "area": "Bienestar Social e Igualdad",
+        "cargo": "Primera Teniente de Alcalde; Concejala de Bienestar Social e Igualdad, Empleo y Desarrollo Local y Gestion y Coordinacion del equipamiento de mayores, RSS Maria Auxiliadora"
+      },
+      {
+        "url": "https://www.arafo.es/files/Formulario-de-Solicitud-de-participacion-convocatoria-estabilizacion-de-personal-laboral-sistema-concurso-Ayto-de-Arafo.pdf",
+        "tipo": "equipo de gobierno",
+        "area": "Bienestar Social e Igualdad",
+        "cargo": "Primera Teniente de Alcalde; Concejala de Bienestar Social e Igualdad, Empleo y Desarrollo Local y Gestion y Coordinacion del equipamiento de mayores, RSS Maria Auxiliadora"
+      }
+    ]
+  },
+  "Tenerife::Arico": {
+    "isla": "Tenerife",
+    "municipio": "Arico",
+    "ayuntamiento": "Ayuntamiento de Villa de Arico",
+    "fuentes": [
+      {
+        "url": "https://www.ayuntamientodearico.com/bienestar-social/",
+        "tipo": "area municipal",
+        "area": "Bienestar Social",
+        "cargo": "Responsable del area de Bienestar Social"
+      }
+    ]
+  },
+  "Tenerife::Arona": {
+    "isla": "Tenerife",
+    "municipio": "Arona",
+    "ayuntamiento": "Ayuntamiento de Arona",
+    "fuentes": [
+      {
+        "url": "https://sede.arona.org/Areas-Municipales/Servicios-Sociales",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Concejala del Area de Servicios Sociales"
+      },
+      {
+        "url": "https://sede.arona.org/Directorio",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Concejala del Area de Servicios Sociales"
+      }
+    ]
+  },
+  "Tenerife::Buenavista del Norte": {
+    "isla": "Tenerife",
+    "municipio": "Buenavista del Norte",
+    "ayuntamiento": "Ayuntamiento de Buenavista del Norte",
+    "fuentes": [
+      {
+        "url": "https://www.buenavistadelnorte.es/ayuntamiento/areas-municipales/igualdad/",
+        "tipo": "concejalia",
+        "area": "Igualdad",
+        "cargo": "Concejala de Igualdad"
+      },
+      {
+        "url": "https://www.buenavistadelnorte.es/ayuntamiento/organos-de-gobierno/corporacion-municipal/",
+        "tipo": "concejalia",
+        "area": "Igualdad",
+        "cargo": "Concejala de Igualdad"
+      }
+    ]
+  },
+  "Tenerife::Candelaria": {
+    "isla": "Tenerife",
+    "municipio": "Candelaria",
+    "ayuntamiento": "Ayuntamiento de Candelaria",
+    "fuentes": [
+      {
+        "url": "https://www.candelaria.es/igualdad/",
+        "tipo": "concejalia",
+        "area": "Servicios Sociales, Igualdad y Sanidad",
+        "cargo": "Concejala de Servicios Sociales, Igualdad y Sanidad"
+      },
+      {
+        "url": "https://www.candelaria.es/organos-de-gobierno/",
+        "tipo": "concejalia",
+        "area": "Servicios Sociales, Igualdad y Sanidad",
+        "cargo": "Concejala de Servicios Sociales, Igualdad y Sanidad"
+      }
+    ]
+  },
+  "Tenerife::El Rosario": {
+    "isla": "Tenerife",
+    "municipio": "El Rosario",
+    "ayuntamiento": "Ilustre Ayuntamiento de El Rosario",
+    "fuentes": [
+      {
+        "url": "https://www.ayuntamientoelrosario.org/index.php/2020/03/19/el-rosario-pone-en-marcha-una-serie-de-medidas-para-facilitar-alimentos-y-medicinas-a-personas-mayores-solas/",
+        "tipo": "noticia institucional",
+        "area": "Accion Social e Igualdad",
+        "cargo": "Responsable del area de Accion Social e Igualdad"
+      },
+      {
+        "url": "https://www.ayuntamientoelrosario.org/index.php/accion-social-e-igualdad/",
+        "tipo": "noticia institucional",
+        "area": "Accion Social e Igualdad",
+        "cargo": "Responsable del area de Accion Social e Igualdad"
+      }
+    ]
+  },
+  "Tenerife::El Sauzal": {
+    "isla": "Tenerife",
+    "municipio": "El Sauzal",
+    "ayuntamiento": "Ilustre Ayuntamiento de El Sauzal",
+    "fuentes": [
+      {
+        "url": "https://www.elsauzal.es/ayuntamiento/corporacion-municipal-del-mandato-2023-2027/",
+        "tipo": "corporacion municipal",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Concejala de Igualdad y Diversidad, Sanidad y Consumo, Bienestar Animal"
+      },
+      {
+        "url": "https://www.elsauzal.es/actividad/programacion-relacionada-con-la-mujer-sauzalera-2026/",
+        "tipo": "corporacion municipal",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Concejala de Igualdad y Diversidad, Sanidad y Consumo, Bienestar Animal"
+      }
+    ]
+  },
+  "Tenerife::El Tanque": {
+    "isla": "Tenerife",
+    "municipio": "El Tanque",
+    "ayuntamiento": "Ayuntamiento de El Tanque",
+    "fuentes": [
+      {
+        "url": "https://www.eltanque.es/area-administrativa/servicios-sociales/",
+        "tipo": "area municipal",
+        "area": "Bienestar Social",
+        "cargo": "Concejala Delegada de las Areas de Educacion, Bienestar social, Comercio y Fiestas"
+      },
+      {
+        "url": "https://www.eltanque.es/ayuntamiento/grupo-gobierno/",
+        "tipo": "area municipal",
+        "area": "Bienestar Social",
+        "cargo": "Concejala Delegada de las Areas de Educacion, Bienestar social, Comercio y Fiestas"
+      }
+    ]
+  },
+  "Tenerife::Fasnia": {
+    "isla": "Tenerife",
+    "municipio": "Fasnia",
+    "ayuntamiento": "Ayuntamiento de Fasnia",
+    "fuentes": [
+      {
+        "url": "https://www.fasnia.com/215-2/",
+        "tipo": "servicio municipal",
+        "area": "Servicios Sociales, Igualdad y Mayores",
+        "cargo": "Tercera Teniente de Alcalde; Areas de Servicios Sociales, Igualdad y Mayores"
+      },
+      {
+        "url": "https://www.fasnia.com/equipo-de-gobierno-mandato-2023-2027/",
+        "tipo": "servicio municipal",
+        "area": "Servicios Sociales, Igualdad y Mayores",
+        "cargo": "Tercera Teniente de Alcalde; Areas de Servicios Sociales, Igualdad y Mayores"
+      }
+    ]
+  },
+  "Tenerife::Garachico": {
+    "isla": "Tenerife",
+    "municipio": "Garachico",
+    "ayuntamiento": "Ayuntamiento de Garachico",
+    "fuentes": [
+      {
+        "url": "https://www.garachico.es/?team=maria-candelaria-perez-gonzalez-2",
+        "tipo": "equipo de gobierno",
+        "area": "Bienestar Social, Educacion, Igualdad, Diversidad, Infancia y Mayores",
+        "cargo": "Segunda Teniente de Alcalde"
+      },
+      {
+        "url": "https://www.garachico.es/",
+        "tipo": "equipo de gobierno",
+        "area": "Bienestar Social, Educacion, Igualdad, Diversidad, Infancia y Mayores",
+        "cargo": "Segunda Teniente de Alcalde"
+      }
+    ]
+  },
+  "Tenerife::Granadilla de Abona": {
+    "isla": "Tenerife",
+    "municipio": "Granadilla de Abona",
+    "ayuntamiento": "Ayuntamiento de Granadilla de Abona",
+    "fuentes": [
+      {
+        "url": "https://www.granadilladeabona.org/grupo-de-gobierno-actual/",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Quinta teniente de alcalde y concejala de Turismo, Tercera Edad, Igualdad y Diversidad"
+      },
+      {
+        "url": "https://www.granadilladeabona.org/granadilla-de-abona-rinde-homenaje-a-la-trayectoria-vital-de-sus-mujeres-en-la-programacion-del-8m/",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad y Diversidad",
+        "cargo": "Quinta teniente de alcalde y concejala de Turismo, Tercera Edad, Igualdad y Diversidad"
+      }
+    ]
+  },
+  "Tenerife::Guia de Isora": {
+    "isla": "Tenerife",
+    "municipio": "Guia de Isora",
+    "ayuntamiento": "Ayuntamiento de Guia de Isora",
+    "fuentes": [
+      {
+        "url": "https://www.guiadeisora.org/corp/areas-municipales/servicios-sociales/",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales, Formacion, Vivienda e Igualdad",
+        "cargo": "Septima Teniente de Alcaldia; Area de Servicios Sociales, Formacion, Vivienda e Igualdad"
+      },
+      {
+        "url": "https://www.guiadeisora.org/corp/alcalde-y-concejales-2/",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales, Formacion, Vivienda e Igualdad",
+        "cargo": "Septima Teniente de Alcaldia; Area de Servicios Sociales, Formacion, Vivienda e Igualdad"
+      }
+    ]
+  },
+  "Tenerife::Guimar": {
+    "isla": "Tenerife",
+    "municipio": "Guimar",
+    "ayuntamiento": "Ayuntamiento de Guimar",
+    "fuentes": [
+      {
+        "url": "https://guimar.es/pedro-daniel-perez-rodriguez",
+        "tipo": "ficha de concejal",
+        "area": "Servicios Sociales e Igualdad",
+        "cargo": "Concejal de Servicios Sociales e Igualdad; concejal de distrito de San Pedro Abajo, Calvario, Los Majuelos y Zona Centro"
+      },
+      {
+        "url": "https://guimar.es/areas_de_gobierno",
+        "tipo": "ficha de concejal",
+        "area": "Servicios Sociales e Igualdad",
+        "cargo": "Concejal de Servicios Sociales e Igualdad; concejal de distrito de San Pedro Abajo, Calvario, Los Majuelos y Zona Centro"
+      }
+    ]
+  },
+  "Tenerife::Icod de los Vinos": {
+    "isla": "Tenerife",
+    "municipio": "Icod de los Vinos",
+    "ayuntamiento": "Ayuntamiento de Icod de los Vinos",
+    "fuentes": [
+      {
+        "url": "https://icoddelosvinos.es/ayuntamiento/grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Fiestas, Accion Social y Sanidad",
+        "cargo": "Concejala delegada"
+      },
+      {
+        "url": "https://icoddelosvinos.es/",
+        "tipo": "grupo de gobierno",
+        "area": "Fiestas, Accion Social y Sanidad",
+        "cargo": "Concejala delegada"
+      }
+    ]
+  },
+  "Tenerife::La Guancha": {
+    "isla": "Tenerife",
+    "municipio": "La Guancha",
+    "ayuntamiento": "Ilustre Ayuntamiento de La Guancha",
+    "fuentes": [
+      {
+        "url": "https://www.laguancha.es/corporacion-municipal/",
+        "tipo": "corporacion municipal",
+        "area": "Bienestar Social, Politicas de Igualdad y Violencia de Genero, Diversidad y LGTBIQA+, Mayores, Menor y Familia, Juventud, Educacion, Empleo y Desarrollo Local, Comercio y Consumo",
+        "cargo": "Tercera Teniente de Alcalde"
+      },
+      {
+        "url": "https://www.laguancha.es/telefonos-emails/",
+        "tipo": "corporacion municipal",
+        "area": "Bienestar Social, Politicas de Igualdad y Violencia de Genero, Diversidad y LGTBIQA+, Mayores, Menor y Familia, Juventud, Educacion, Empleo y Desarrollo Local, Comercio y Consumo",
+        "cargo": "Tercera Teniente de Alcalde"
+      }
+    ]
+  },
+  "Tenerife::La Laguna": {
+    "isla": "Tenerife",
+    "municipio": "La Laguna",
+    "ayuntamiento": "Ayuntamiento de San Cristobal de La Laguna",
+    "fuentes": [
+      {
+        "url": "https://www.aytolalaguna.es/ayuntamiento/corporacion-municipal-y-grupos-politicos/grupos-politicos/psoe/",
+        "tipo": "grupo politico municipal",
+        "area": "Mujer, Igualdad y LGTBI",
+        "cargo": "Concejal Delegado de Fiestas, Mujer, Igualdad y LGTBI"
+      },
+      {
+        "url": "https://www.aytolalaguna.es/",
+        "tipo": "grupo politico municipal",
+        "area": "Mujer, Igualdad y LGTBI",
+        "cargo": "Concejal Delegado de Fiestas, Mujer, Igualdad y LGTBI"
+      }
+    ]
+  },
+  "Tenerife::La Matanza de Acentejo": {
+    "isla": "Tenerife",
+    "municipio": "La Matanza de Acentejo",
+    "ayuntamiento": "Ayuntamiento de La Matanza de Acentejo",
+    "fuentes": [
+      {
+        "url": "https://www.matanceros.es/bienestar-social/",
+        "tipo": "area municipal",
+        "area": "Bienestar Social",
+        "cargo": "Servicio municipal de Bienestar Social"
+      },
+      {
+        "url": "https://www.matanceros.es/igualdad/",
+        "tipo": "area municipal",
+        "area": "Bienestar Social",
+        "cargo": "Servicio municipal de Bienestar Social"
+      }
+    ]
+  },
+  "Tenerife::La Orotava": {
+    "isla": "Tenerife",
+    "municipio": "La Orotava",
+    "ayuntamiento": "Ayuntamiento de La Orotava",
+    "fuentes": [
+      {
+        "url": "https://www.laorotava.es/es/areas-municipales/area-de-igualdad",
+        "tipo": "area municipal",
+        "area": "Politicas de Igualdad",
+        "cargo": "Concejala responsable de Bienestar Social, Sanidad, Consumo, Drogodependencias, Formacion y Politicas de Empleo, Politicas de Igualdad y Vivienda"
+      },
+      {
+        "url": "https://www.laorotava.es/es/informacion-general",
+        "tipo": "area municipal",
+        "area": "Politicas de Igualdad",
+        "cargo": "Concejala responsable de Bienestar Social, Sanidad, Consumo, Drogodependencias, Formacion y Politicas de Empleo, Politicas de Igualdad y Vivienda"
+      }
+    ]
+  },
+  "Tenerife::La Victoria de Acentejo": {
+    "isla": "Tenerife",
+    "municipio": "La Victoria de Acentejo",
+    "ayuntamiento": "Ayuntamiento de La Victoria de Acentejo",
+    "fuentes": [
+      {
+        "url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias/",
+        "tipo": "corporacion municipal",
+        "area": "Bienestar Social, Unidad de Violencia de Genero e Igualdad",
+        "cargo": "Tercera Teniente de Alcalde; area de Bienestar Social, Coordinacion del Centro de Dia de Mayores, Centro de Rehabilitacion Psicosocial, Unidad de Violencia de Genero, Igualdad y Drogodependencia"
+      },
+      {
+        "url": "https://www.lavictoriadeacentejo.es/servicios-municipales/bienestar-social/area-de-bienestar-social/",
+        "tipo": "corporacion municipal",
+        "area": "Bienestar Social, Unidad de Violencia de Genero e Igualdad",
+        "cargo": "Tercera Teniente de Alcalde; area de Bienestar Social, Coordinacion del Centro de Dia de Mayores, Centro de Rehabilitacion Psicosocial, Unidad de Violencia de Genero, Igualdad y Drogodependencia"
+      }
+    ]
+  },
+  "Tenerife::Los Realejos": {
+    "isla": "Tenerife",
+    "municipio": "Los Realejos",
+    "ayuntamiento": "Ayuntamiento de Los Realejos",
+    "fuentes": [
+      {
+        "url": "https://losrealejos.es/nueva-integradora-social-entre-el-personal-municipal/",
+        "tipo": "noticia oficial municipal",
+        "area": "Mayores, Igualdad, Discapacidad y Participacion Ciudadana",
+        "cargo": "Concejala de Mayores, Igualdad, Discapacidad y Participacion Ciudadana"
+      },
+      {
+        "url": "https://losrealejos.es/bienestar-social/servicios-sociales/",
+        "tipo": "noticia oficial municipal",
+        "area": "Mayores, Igualdad, Discapacidad y Participacion Ciudadana",
+        "cargo": "Concejala de Mayores, Igualdad, Discapacidad y Participacion Ciudadana"
+      }
+    ]
+  },
+  "Tenerife::Los Silos": {
+    "isla": "Tenerife",
+    "municipio": "Los Silos",
+    "ayuntamiento": "Ayuntamiento de Los Silos",
+    "fuentes": [
+      {
+        "url": "https://www.lossilos.es/grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Bienestar Social, Sanidad y Bienestar Animal",
+        "cargo": "Concejala de Bienestar Social, Sanidad y Bienestar Animal"
+      },
+      {
+        "url": "https://www.lossilos.es/inicio/",
+        "tipo": "grupo de gobierno",
+        "area": "Bienestar Social, Sanidad y Bienestar Animal",
+        "cargo": "Concejala de Bienestar Social, Sanidad y Bienestar Animal"
+      }
+    ]
+  },
+  "Tenerife::Puerto de la Cruz": {
+    "isla": "Tenerife",
+    "municipio": "Puerto de la Cruz",
+    "ayuntamiento": "Excelentisimo Ayuntamiento de Puerto de la Cruz",
+    "fuentes": [
+      {
+        "url": "https://www.puertodelacruz.es/derecho-social/",
+        "tipo": "area municipal",
+        "area": "Area de Accion Social, Educacion, Infancia, Juventud y Politicas Inclusivas / UTS Ayuntamiento",
+        "cargo": "Responsable del area / UTS Ayuntamiento"
+      },
+      {
+        "url": "https://www.puertodelacruz.es/derecho-social/servicios-sociales/",
+        "tipo": "area municipal",
+        "area": "Area de Accion Social, Educacion, Infancia, Juventud y Politicas Inclusivas / UTS Ayuntamiento",
+        "cargo": "Responsable del area / UTS Ayuntamiento"
+      }
+    ]
+  },
+  "Tenerife::San Juan de la Rambla": {
+    "isla": "Tenerife",
+    "municipio": "San Juan de la Rambla",
+    "ayuntamiento": "Ayuntamiento de la Villa de San Juan de la Rambla",
+    "fuentes": [
+      {
+        "url": "https://www.sanjuandelarambla.es/ayuntamiento/grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Bienestar social",
+        "cargo": "Concejala"
+      },
+      {
+        "url": "https://www.sanjuandelarambla.es/areas-municipales/servicios-sociales/",
+        "tipo": "grupo de gobierno",
+        "area": "Bienestar social",
+        "cargo": "Concejala"
+      }
+    ]
+  },
+  "Tenerife::San Miguel de Abona": {
+    "isla": "Tenerife",
+    "municipio": "San Miguel de Abona",
+    "ayuntamiento": "Ayuntamiento de San Miguel de Abona",
+    "fuentes": [
+      {
+        "url": "https://www.sanmigueldeabona.es/areas-municipales-y-concejalias/",
+        "tipo": "directorio municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Concejala de Servicios Sociales"
+      },
+      {
+        "url": "https://www.sanmigueldeabona.es/2026/01/28/san-miguel-ya-cuenta-con-un-equipo-de-valoracion-descentralizado-que-agilizara-los-tramites-del-certificado-de-discapacidad/",
+        "tipo": "directorio municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Concejala de Servicios Sociales"
+      }
+    ]
+  },
+  "Tenerife::Santa Cruz de Tenerife": {
+    "isla": "Tenerife",
+    "municipio": "Santa Cruz de Tenerife",
+    "ayuntamiento": "Ayuntamiento de Santa Cruz de Tenerife",
+    "fuentes": [
+      {
+        "url": "https://www.santacruzdetenerife.es/web/servicios-municipales/atencion-social",
+        "tipo": "servicio municipal",
+        "area": "Atencion Social / Politicas Sociales",
+        "cargo": "Servicio municipal de Atencion Social"
+      },
+      {
+        "url": "https://www.santacruzdetenerife.es/web/contacto",
+        "tipo": "servicio municipal",
+        "area": "Atencion Social / Politicas Sociales",
+        "cargo": "Servicio municipal de Atencion Social"
+      }
+    ]
+  },
+  "Tenerife::Santa Ursula": {
+    "isla": "Tenerife",
+    "municipio": "Santa Ursula",
+    "ayuntamiento": "Ayuntamiento de Santa Ursula",
+    "fuentes": [
+      {
+        "url": "https://www.santaursula.es/ayuntamiento/equipo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad",
+        "cargo": "Segunda Tenencia de Alcaldia. Igualdad, Ludotecas, Bibliotecas y Educacion"
+      },
+      {
+        "url": "https://www.santaursula.es/areas/igualdad/",
+        "tipo": "grupo de gobierno",
+        "area": "Igualdad",
+        "cargo": "Segunda Tenencia de Alcaldia. Igualdad, Ludotecas, Bibliotecas y Educacion"
+      }
+    ]
+  },
+  "Tenerife::Santiago del Teide": {
+    "isla": "Tenerife",
+    "municipio": "Santiago del Teide",
+    "ayuntamiento": "Ayuntamiento de Santiago del Teide",
+    "fuentes": [
+      {
+        "url": "https://www.santiagodelteide.es/area-de-igualdad/",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "Concejal delegada con competencias genericas en Educacion, Mujer, Drogodependencias, Igualdad y Familia"
+      },
+      {
+        "url": "https://www.santiagodelteide.es/grupo-de-gobierno/",
+        "tipo": "area municipal",
+        "area": "Igualdad",
+        "cargo": "Concejal delegada con competencias genericas en Educacion, Mujer, Drogodependencias, Igualdad y Familia"
+      }
+    ]
+  },
+  "Tenerife::Tacoronte": {
+    "isla": "Tenerife",
+    "municipio": "Tacoronte",
+    "ayuntamiento": "Ayuntamiento de Tacoronte",
+    "fuentes": [
+      {
+        "url": "https://www.tacoronte.es/ayuntamiento/grupo-de-gobierno/",
+        "tipo": "grupo de gobierno",
+        "area": "Servicios Sociales",
+        "cargo": "Segundo teniente de alcalde; concejal de Servicios Sociales, Obras y Servicios y Personal de oficio"
+      },
+      {
+        "url": "https://www.tacoronte.es/servicios/servicios-sociales/",
+        "tipo": "grupo de gobierno",
+        "area": "Servicios Sociales",
+        "cargo": "Segundo teniente de alcalde; concejal de Servicios Sociales, Obras y Servicios y Personal de oficio"
+      }
+    ]
+  },
+  "Tenerife::Tegueste": {
+    "isla": "Tenerife",
+    "municipio": "Tegueste",
+    "ayuntamiento": "Ayuntamiento de la Villa de Tegueste",
+    "fuentes": [
+      {
+        "url": "https://www.tegueste.es/igualdad/",
+        "tipo": "concejalia",
+        "area": "Igualdad",
+        "cargo": "Concejala de Igualdad"
+      },
+      {
+        "url": "https://www.tegueste.es/servicios-sociales/",
+        "tipo": "concejalia",
+        "area": "Igualdad",
+        "cargo": "Concejala de Igualdad"
+      }
+    ]
+  },
+  "Tenerife::Vilaflor de Chasna": {
+    "isla": "Tenerife",
+    "municipio": "Vilaflor de Chasna",
+    "ayuntamiento": "Ayuntamiento de Vilaflor de Chasna",
+    "fuentes": [
+      {
+        "url": "https://vilaflordechasna.es/servicios-sociales",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Primera Teniente de Alcaldesa; concejala delegada de Servicios Sociales"
+      },
+      {
+        "url": "https://vilaflordechasna.es/corporacion-municipal-2023-2027",
+        "tipo": "area municipal",
+        "area": "Servicios Sociales",
+        "cargo": "Primera Teniente de Alcaldesa; concejala delegada de Servicios Sociales"
+      }
+    ]
+  }
+}

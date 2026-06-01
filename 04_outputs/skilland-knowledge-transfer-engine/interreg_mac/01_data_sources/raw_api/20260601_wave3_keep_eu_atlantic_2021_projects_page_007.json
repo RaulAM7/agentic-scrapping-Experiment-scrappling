@@ -1,0 +1,279 @@
+{
+  "current": 7,
+  "next": "https://keep.eu/api/search/projects/?page=8",
+  "previous": "https://keep.eu/api/search/projects/?page=6",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31261,
+      "acronym": "Hub4Food",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic Food Innovation Hub",
+          "description": "Hub4Food is creating a network where agriculture and food groups, along with research organizations, can work together more closely. The goal is to improve connections and abilities of the food industry, especially when it comes to making new and better food products, with a focus on those from the sea.\nBesides testing and approving new technologies that can be used in the food industry, the project will include everyone involved in the process - researchers, policymakers, and the public - to make sure their approach is well-rounded.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31260,
+      "acronym": "Free-LitterAT",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Advancing towards litter-free Atlantic coastal communities by preventing and reducing macro and micro litter",
+          "description": "Free-LitterAT is on a mission to make coastal communities free from litter by using their knowledge, tools, and technology, and getting everyone involved. They're focusing on a big problem called marine litter. To tackle this issue, they're taking a comprehensive approach that includes preventing litter, keeping an eye on it, and cleaning it up when possible.\nThe main goal is to protect the variety of life in the ocean by coming up with new and creative ways to stop and reduce marine litter, especially things like lost fishing gear and tiny bits of plastic. Free-LitterAT plans to help by reducing the amount of litter going into the sea, finding out where it's coming from, improving how we watch for it, and making sure people know about the issue.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31259,
+      "acronym": "FISHINN",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "INNOVATION ROADMAP FOR LOCAL FISHERIES ECOSYSTEMS RECOVERY",
+          "description": "FISHINN wants to make local fisheries more competitive and stronger. They plan to do this by bringing local people and groups together sharing knowledge and using new technology. The aim is to create smart, circular, and more efficient solutions to turn things around for the fisheries.\nThe project includes the creation of roadmaps to the entire fisheries ecosystem, facilitating the adoption of innovative solutions and diversification of activities within ports and along the fishing value chain. Four local fisheries ecosystems will be pilots and will serve as demonstrators of these innovation processes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31258,
+      "acronym": "ENEPORTS",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Decarbonization and Digitalization of Atlantic ports",
+          "description": "ENPORTS is a project where different partners from various places have noticed that these ports face similar challenges and can use similar solutions and tools to become more sustainable. The project plans to try out three examples, or pilots, to see how digital technology and artificial intelligence can help manage energy more efficiently. They want to explore new ways to reduce carbon emissions, such as using hydrogen, and test devices that can use different sources of energy.\nENPORTS also wants to make sure that as these changes happen, they follow the rules, consider the economic, social, and environmental effects, and deal with the technical challenges of using different kinds of energy sources. The goal is to create a plan that helps these ports use green energy wisely and benefit everyone involved.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31257,
+      "acronym": "DIBEST",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Digital Innovation for Blue Enterprises & Social Tourism",
+          "description": "DIBEST is a collaboration that helps small businesses in the Blue Economy (like fisheries or marine-related activities) and Social Tourism across Atlantic regions. They do this by bringing together different kinds of partners: businesses, schools, and tourism organizations.\nThis project is about giving these small businesses the tools they need to use digital technology and make tourism more sustainable and eco-friendly. Based on an open call, businesses are picked to be part of the project to have training sessions and business support. \nThe project also creates a collection of knowledge that will be shared on different platforms. This way, not only the businesses in the project but all tourism businesses in Europe, and even schools, can benefit from it.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31256,
+      "acronym": "DiadSea",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Transnational cooperation to improve the management and conservation of diadromous fish at sea",
+          "description": "DiadSea is working on creating plans for taking care of certain types of fish, called diadromous fish, in the Atlantic Area. These fish live in both fresh and saltwater, which makes it challenging to manage and protect them. They are found in the Atlantic Area, but there aren't many shared solutions to deal with the problems they face, especially with the added issues of climate change.\nDiadSea is building on the work of another project, DiadES, which focused on these fish in freshwater habitats. Now, DiadSea is concentrating on the part of the ocean where these fish live, which is not well understood, and there are fewer plans to protect them. They plan to map where these fish are in the ocean, figure out important areas for them, use the latest models to predict how they will be affected by the changing climate, create a big observatory for these fish, and share what they learn with others.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

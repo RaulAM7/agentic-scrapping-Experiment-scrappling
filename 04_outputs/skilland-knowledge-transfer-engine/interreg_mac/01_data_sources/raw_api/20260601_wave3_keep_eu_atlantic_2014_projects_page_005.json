@@ -1,0 +1,454 @@
+{
+  "current": 5,
+  "next": "https://keep.eu/api/search/projects/?page=6",
+  "previous": "https://keep.eu/api/search/projects/?page=4",
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 22092,
+      "acronym": "AT-VIRTUAL",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Open innovation to improve maritime safety and security in the Atlantic Area",
+          "description": "At-VIRTUAL will improve the operation of Maritime Safety Training Centres (CFSMs) in the Atlantic Area by encouraging companies to develop solutions based on emerging technologies that respond to the needs of CFSMs, in the area of simulation-based learning for maritime safety operations. This will improve the resilience and responsiveness of the Atlantic Area to maritime incidents and emergencies, while fostering innovation and sustainable growth.",
+          "expected_results": "AT-VIRTUAL main results will be: \n- The increased digitalization status of the MSTCs in the Atlantic Area through the adoption of state-of-the-art I4.0 technologies; \n- The increased number of technological solutions validated to resolve MSTCs challenges and problems in the Atlantic Area, ready to be on the market. Baselines for both results will be determined in detail at the beginning of the project through the diagnosis phase.",
+          "achievements": "The Maritime Security Training Centers (MSTCs) in the  Atlantic Area have not yet widely adopted digitisation processes and solutions offered by the new potential of cutting-edge technologies to respond to their needs of maritime security and safety. AT-VIRTUAL aims to improve the operability and performance of MSTCs by enabling businesses to develop emerging technology-based solutions to answer these centres’ needs to improve their maritime security simulations and operations.\nThe project created an advanced platform to speed-up digitalisation processes through open innovation and hybridisation, carried out in three phases (diagnosis of digital status and needs, selection of the most appropriate solutions and prototyping of the solutions).\nUp to now, two calls were launched addressed to innovative companies that have technological solutions to answer the challenges proposed by the MSTC, in the fields of BigData/Analytics (BDA) and the Internet of Things (IOT). In the call related to the BDA, 3 challenges were included, 10 proposals were presented by 6 startups and finally 2 startups (UPintellingence and Stat & More) were selected to collaborate with the 3 MSTCs to design and implement the proposed solutions.\nIn the IOT-related contest, 7 startups submitted 8 proposals. Of these, 2 startups were selected (PibiCo and Casualmaneuver). The solution proposed by PibiCo, in collaboration with Centro Jovellanos, has been implemented and is now operational. AT-VIRTUAL thus contributed to the introduction of new emerging technologies related to Industry 4.0 in training systems, based on simulation, capacity, preparedness, resilience and response to maritime incidents and emergencies in Atlantic waters.\n\"Participation in AT-Virtual project represented a new challenge in pibiCo’s activity. It was an opportunity to meet and collaborate with the Maritime Safety Training Centers. Meeting the challenge boosted us to evolve our tools and gain new knowledge in areas not available with our experience. It opened up new horizons for possible future collaborations and a greater field of development for the pibiCo business.” Emilio Seoane CEO of PibiCo Inteligencia de Negocio (Winner of the Centro Jovallenos IOT challenge).",
+          "expected_outputs": "- The new solutions piloted and implemented in the MSTCs, contributing to the resolution of the challenges tackled by these centres within the Atlantic Area and resulting in an increased digitalization status;\n- The advanced platform created within the project for the speed-up of digitalization processes through open innovation and hybridization, on which its three phases will be carried on (diagnosis of digital status and needs, selection of the most appropriate solutions and prototyping of the solutions);\n- A Report and Action Plan on the Digitalization in MSTCs of the Atlantic Area, including their main needs and potentials as well as actions to promote the adoption of I\n\n4.0 solutions.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Innovation ouverte pour améliorer la sûreté et la sécurité maritimes dans l'Espace Atlantique",
+          "description": "AT-VIRTUAL améliorera le fonctionnement des Centres de Formation à la Sécurité Maritime (CFSM) dans l'Espace Atlantique en encourageant les entreprises à développer des solutions basées sur des technologies émergentes répondant aux besoins des CFSM dans le domaine de l'apprentissage par simulation pour les opérations de sécurité maritime. Cela améliorera la résilience et la réactivité de l'Espace Atlantique face aux incidents et aux urgences maritimes, tout en favorisant l'innovation et la croissance durable.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Innovación abierta para mejorar la seguridad y protección marítima en el Espacio Atlántico",
+          "description": "AT-VIRTUAL mejorará la operatividad de los Centros de Formación en Seguridad Marítima (CFSM) en el Espacio Atlántico alentando a las empresas para desarrollar soluciones basadas en tecnologías emergentes que den respuesta a las necesidades de los CFSM, en el área del aprendizaje basado en simulación para operaciones de seguridad marítima. Así, se mejorará la resiliencia y la capacidad de respuesta del Espacio Atlántico ante incidentes marítimos y situaciones de emergencia, a la vez que se fomenta la innovación y el crecimiento sostenible.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Inovação aberta para melhorar a segurança e protecção marítima no Espaço Atlântico",
+          "description": "AT-VIRTUAL visa melhorar o funcionamento dos Centros de Formação em Segurança Marítima (CFSM) no Espaço Atlântico, incentivando as empresas a desenvolver soluções baseadas em tecnologias emergentes que dêem resposta às necessidades dos CFSM, ao nível da aprendizagem através da simulação de operações de segurança marítima. A resiliência e capacidade de resposta do Espaço Atlântico aos incidentes marítimos e situações de emergência será assim mais eficiente, fomentando em simultâneo a inovação e o crescimento sustentável.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 26,
+          "title": "Safety"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22088,
+      "acronym": "AA-FLOODS",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Enhanced prevention, warning, coordination and emergency management tools for floods at local scales",
+          "description": "Floods are climate change phenomena that affect most people in the Atlantic Area, through increasingly intense rains that overflow rivers and create runoffs in urban areas.\nAA-FLOODS aims to reduce human and material damages due to flooding by improving the tools of prevention, alert and crisis management, transfering the regional tools and capabilities to the local scale.\nGreater proximity to the potential affected ones and more precise and detailed analysis will make more effective the prevention, preparation and protection against floods which are more frequent and damaging the Atlantic Area due to climate change, increasing torrential rains and extreme tidal phenomena.",
+          "expected_results": "• Contribute to Directive 2007/60/EC so that Flood Risk Management Planning, currently for Hydrographic Basins, will reach the local scale.  Plans will a) include more detailed analyzes and consequently more effective prevention, protection and preparation measures; b) address the evaluation of flood risks generated by urban developments themselves or by the management of reservoirs’ water discharges; c) boost a better inter-administrative coordination to avoid these and other unwanted effects.\n• Address the Prevention, Alert, Crisis Management and Attention to affected people from the Local Scale means involving new stakeholders, in particular Water Companies that manage the sanitation networks that evacuate torrential rains in flash floods and that manage reservoirs (and their water discharges during floods).",
+          "achievements": null,
+          "expected_outputs": "• Guidelines to achieve coordination between Territorial, Urban and Risks Management Planning. Target groups: National, Regional and Local Authorities.\n• Pilot regulations and tools for enhanced design of sanitation networks based on modelling torrential rains runoff and networks evacuation.\n• Models for Local Emergency Plans against Floods. \n• Guide to implement a rivers overflow. \n• Protocol for Reservoirs' management Enhanced Coordination Protocols.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Novas ferramentas de prevenção, alerta, coordenação e gestão de emergência por cheias ao nível local",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Nuevas herramientas de ámbito local en prevención, alerta y gestión de emergencias por inundaciones",
+          "description": "Las inundaciones son los fenómenos del cambio climático que afectan a más personas en el Espacio Atlántico. En la UE, los costes superaron las 1.500 vidas y 52.000 M€ en los últimos 20 años. Es una cuestión de Gobiernos nacionales y regionales, pero también de Ayuntamientos, Comunidades Locales, empresas del agua, científicos y ONGs.\nEl objetivo de AA-FLOODS es unir a estos actores para crear y probar nuevas herramientas, planes y regulaciones que mejoren la gestión y la respuesta a las inundaciones.\n\nAs cheias são o fenómeno climático que afeta mais pessoas no Espaço Atlântico. Na UE, o seu impacto nos últimos 20 anos excedeu 1.500 vidas humanas e 52.000 M€. Esta é uma matéria de gestão e responsabilidade dos governos nacionais e regionais, mas também dos municípios, comunidades locais, entidades gestoras de água, meio científico e ONGs. \nO objetivo do AA-FLOODS é unir esses atores para criar e testar novas ferramentas, planos e regulamentos que melhorem a gestão e a resposta a situações de inundações.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Amélioration des outils de prévention, d'alerte et de gestion des inondations à l'échelle locale",
+          "description": "Les inondations sont les phénomènes climatiques qui affectent plus de personnes dans l'Espace Atlantique. Dans l'UE, les coûts ont dépassé 1 500 vies et 52 000 M€ au cours des 20 dernières années. C'est une question de gouvernements nationaux et régionaux, mais aussi de municipalités, de communautés locales, de compagnies des eaux, de scientifiques. \nAA-FLOODS rejoindra ces acteurs pour créer et tester de nouveaux outils, plans et réglementations qui améliorent la gestion et la réponse aux inondations.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22084,
+      "acronym": "AGEO",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Ageo — Atlantic Platform for Geological Risk Management",
+          "description": "The Atlantic region is exposed to a range of low-probability / high-impact events and various hazard risk scenarios, which, due to the low likelihood of occurrence and/or the high cost of mitigating action, lack the level of preparedness for effective monitoring and response. \r\nAGEO aims to demonstrate a new form of engagement between civil society and local authorities for geohazards-related local capacity building, and encourage the local use of innovative Earth observation products and services provided by European data infrastructures, in particular Copernicus. \r\nAGEO will launch several Citizens’ Observatory pilots on geohazards according to regional priorities to demonstrate how citizens’ involvement in geohazard risks prevention can strengthen regional and national risk management systems.",
+          "expected_results": "The Citizens’ Observatories that will be delivered, also constituting the basis of a long term result i.e. direct involvement of citizens in natural hazards monitoring and risk preparedness along the Atlantic region. Experiences gained during the implementation of these Observatories will be used to formulate recommendations for the creation of future observatories in response to the widest range of hazards (both natural and human-induced) in the Atlantic region.",
+          "achievements": "The Atlantic region is exposed to a range of high-impact events and various hazard risk scenarios which, due to the high cost of mitigating action, lack the level of preparedness for effective monitoring and response. The AGEO project aims to engage with local communities to actively participate in risk preparedness and monitoring, and incorporate local capacities into risk management systems. The project launched several Citizens Observatory pilots on geohazards according to regional policies, to demonstrate how citizens involvement in geohazard risk prevention can strengthen regional and national risk management systems.\r\nIt encouraged the use of services provided by European Spatial Data Infrastructures, such as Copernicus or European Geological Data Infrastructure at regional level.\r\nAGEO also created a cooperation and resource platform on Atlantic geohazards risk assessment, preparedness, mitigation and prevention. The delivery of concrete case studies confirms the capacities of Citizens Observatories in improving risk management systems. Five pilots were organised in several Atlantic regions, in order to test the capacities of Citizen Observatories in geohazard management.\r\nAGEO also promoted the interlinking of coastal and ocean observation, maritime safety, coastal structures and their forecasting models, through the development of methodologies, technologies, procedures, evaluation and compensation of damages linked to risks, with practical ‘on-the-ground’ demonstrations. The experience gained during the implementation of the Citizens Observatory pilots will be used to formulate recommendations for the creation of future observatories in response to the widest range of hazards (both natural and human-induced) in the Atlantic region.\r\n\"The AGEO project allows to raise awareness and inform participants of the Local Civil Protection Unit, as well as the rest of the community, about hydrogeomorphological and geological risks, using tools such as the community seismograph, involving citizens in monitoring the geological phenomenon, promoting  uriosity about these risks. This results in participatory citizenship in which the citizen seeks a greater risk literacy, avoiding situations of alarmism, recognising the existence of these risks and the safe behaviors to adopt.” Ana Peixoto Núcleo de Proteção Civil do Funchal.",
+          "expected_outputs": "- Five Citizens’ Observatories covering geohazards of regional importance: landslides, rockfalls, floods, seismic risks.\r\n- A comprehensive toolbox that facilitates the deployment of the Citizens’ Observatories to be also used in follow-up projects.\r\n- A project website and social media channels for direct engagement with citizens and the professional community.\r\n- Several high-impact conferences and workshops organized on a national and international level with the aim of stakeholder engagement and the mobilization of external expertise.\r\n- A Platform dedicated to long-term cooperation and information sharing on geohazards.\r\n- An evaluation of the PAGEO Citizens’ Observatories and recommendations for the future.\r\n- An evaluation of the status of regional use of Copernicus products and recommendations for the future.\r\n- Overarching recommendations for the development of new policies and measures in view of improving the resilience of land and maritime areas to climate and nature changes.",
+          "delivered_outputs": "",
+          "expected_achievements": "",
+          "actual_achievements": ""
+        },
+        "es": {
+          "name": "AGEO - Plataforma Atlántica para la gestión de riesgos geológicos",
+          "description": "AGEO lanzará varios proyectos piloto de Observatorios de los Ciudadanos sobre riesgos geológicos. El objetivo es demostrar que la participación ciudadana en la prevención de riesgos geológicos puede fortalecer los sistemas de gestión regionales y nacionales. Paralelamente, AGEO fomentará una utilización más eficiente de los datos, productos y servicios de Copernicus a nivel regional. Ambas acciones mejorarán la prevención de riesgos geológicos y la resiliencia frente a los desastres naturales en el Atlántico.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "AGEO - Plataforma Atlântica para a Gestão do Risco Geológico",
+          "description": "AGEO visa criar vários projetos piloto de Observatório dos Cidadãos sobre riscos geológicos. O objetivo é demonstrar como o envolvimento dos cidadãos na prevenção de riscos geológicos fortalece os sistemas de gestão de riscos regionais e nacionais. Em paralelo, a AGEO irá promover a utilização mais eficiente dos dados, produtos e serviços Copernicus a nível regional. A combinação destas duas ações permitirá melhorar a prevenção de riscos e a resiliência desastres naturais nas regiões Atlânticas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "AGEO - Plateforme atlantique pour la gestion des risques naturels",
+          "description": "AGEO lancera plusieurs projets pilotes de l'observatoire des citoyens sur les risques géographiques. L'objectif est de démontrer comment la participation des citoyens à la prévention des risques GEOHAZARDS peut renforcer les systèmes régionaux et nationaux de gestion des risques. En parallèle, AGEO favorisera une utilisation plus efficace des données, produits et services Copernicus au niveau régional. Une combinaison de ces deux actions permettra d'améliorer la prévention des risques géo-aléatoires et la résilience aux catastrophes naturelles dans la région de l'Atlantique.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19380,
+      "acronym": "SEAFUEL",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Integração sustentável de combustíveis renováveis nos transportes locais",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Integración sostenible de combustibles renovables en sistemas de transporte locales",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Integration durable de combustibles renouvelables dans les transports locaux",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Sustainable integration of renewable fuels in local transportation",
+          "description": "The natural resources found in the Atlantic Area differ from north to south and a collaborative approach to study them as a whole is fundamental to adapt new technologies to the available resources.\r\nSEAFUEL aims to demonstrate the feasibility to power local transportation networks in isolated regions using fuels produced by the renewable energies available, such as solar, wind and marine.\r\nIsolated areas such as islands face the specific challenge of the high cost of electricity and fuel and their dependency on mainland infrastructures. SEAFUEL will target these regions where 30% of fuel consumption comes from local transportation. An alternative fuels model for islands will be developed to fulfil the requirements of the partners’ Regional Innovation Strategies (RIS3) aimed at low carbon economy and efficient use of marine resources.\r\nThe project will drastically reduce greenhouse emissions, particulate matter and NO2 in line with the Clean Air Programme 2008/50/EC, and provide a pathway for isolated regions to become energetically independent, leading to future installations in the other Atlantic regions.\r\nSEAFUEL will focus on enhancing the green growth and blue economy and paving the grounds for common renewable energy policies to promote clean and sustainable transport systems.",
+          "expected_results": "SEAFUEL will target regions where 30% of fuel consumption comes from local transportation. The project expects to drastically reduce greenhouse emissions, particulatte matter and NO2 (nitrogen dioxide) and provide a pathway for isolated regions to become energetically independent, leading to future installations in the other Atlantic regions. An alternative fuels model for islands will be developed to fulfil the requirements of the partners’ Regional Innovation Strategies (RIS3) aimed at low carbon economy and efficient use of marine resources.",
+          "achievements": "One of the main objectives of the European Green Deal is to increase the use of clean vehicles and alternative fuels, in order to reduce greenhouse gas emissions in 90% by 2050. According to the European Hydrogen Strategy, fuel cells can play a significant role in the decarbonisation of the transport sector by the implementation of hydrogen. SEAFUEL supports the production of green hydrogen using renewable energy available, such as solar, wind and marine, as an alternative fuel in remote Atlantic regions. In these regions there’s the challenge of the high cost of electricity and fuel and their dependency on mainland infrastructures. The goal is to demonstrate the feasibility to power local transportation networks and hence support the transition towards a low-carbon economy. SEAFUEL is demonstrating for the first time the production of hydrogen using solar energy and seawater, used to power a fleet of fuel cell vehicles in Tenerife. These SEAFUEL fleets are supplied in a fuelling station settled on the Institute of Technology and of Renewable Energies in Tenerife. The station and vehicles prove the technological, social and economic viability of using green hydrogen in transport. The next step is to scale-up both the green hydrogen production and the amount of fuel cell vehicles on the roads in Tenerife, and ensure the transfer of this pilot to other Atlantic regions.\nSEAFUEL enhances the green growth and blue economy and paves the grounds for common renewable energy policies to promote clean and sustainable transport systems.  \n\"A project like SEAFUEL stands in a prominent place in our agenda and in our vision of Tenerife’s future, from which the population as a whole will benefit”. Enrique Arriaga First Vice-President and Councillor at the Innovation Area from Cabildo de Tenerife.",
+          "expected_outputs": "• Development of a toolkit, which will be a guide to usability and practical application, available to download and to be widely disseminated through the seminars, the workshops, social media and the publications. The toolkit will incorporate the business model as a means of demonstrating the practicality of hydrogen and public transport. \r\n• Organisation of a series of seminars and cluster workshops, designed to discuss about hydrogen and public transport to be held with transport operators, fuel suppliers and authorities to share the conclusions of SEAFUEL and other hydrogen-based projects in Europe. \r\n• To attract the stakeholders in the first place, it will be produced 3 brochures, a virtual ‘online’ tour of the pilot project, hold regional events, 15 technical and scientific publications, 2 case studies, 5 renewable energy roadmaps and a website.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19379,
+      "acronym": "3DPARE",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Impressão tridimensional de recifes artificiais para o Espaço Atlântico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Impresión 3D de arrecife artificial para el Espacio Atlántico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Impression 3D de Récifs artificiels pour l’Espace Atlantic",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Artificial reef 3D printing for Atlantic Area",
+          "description": "Artificial reefs (AR) consist of ecological tools to protect or recover marine habitats. However, AR technology has not been optimized for the European framework. This common habitat requires measures to protect or recover natural resources. \nThe 3DPARE project will develop innovative artificial reefs for the sustainable management of the marine ecosystems of the Atlantic Area. The success of AR deployment depends on three main parameters: the location, the design and the materials. Biodiversity-oriented reefs will be shaped by large-scale 3D printing with focus on innovative designs, low-impact, resistant and bio-receptive materials and their behaviour in marine environment.\nThis project will assess the impact of the immersion of AR in the Atlantic coast to identify required specifications for the design and the choice of materials. The recent technology, 3D printing, brings new horizons to AR construction. Their design has a high impact on the ecological effects: affinity of marine organisms and promotion of biodiversity is increased with complex and multi-scale void systems. Optimized and ecological AR designs will be shaped through large-scale 3D printing and low-impact and bio-receptive materials. These materials will be developed from natural and renewable raw materials to stimulate the colonization. Compared to existing immersed AR of the Atlantic countries, whose design and structure are created from conventional materials of concrete and steel, the solutions proposed will be ecological, sustainable and tailored for enhancing biodiversity and ecosystem services in the marine environment.",
+          "expected_results": "• A joint application to public and/or private call to continue monitoring the artificial reefs after the end of the project and strategic reports and guidance to influence public authorities, environmental bodies and policy makers to adopt 3DPARE technology; \n• Review of the characteristics of natural reefs in the Atlantic Coast in Europe associated with a high biodiversity, as well as an identification of the best practices used so far in the development of the artificial reefs; \n• Sustainable materials for artificial reefs: results will be technical reports of the materials developed, their mechanical properties, their durability to the sea water and their life-cycle assessment study; \n• Pilot artificial reefs: comprising 4 actions whose main result is the selection of the artificial reefs design 3D printable more suitable for the Atlantic Area from a biodiversity, durability and economic point of view.",
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19378,
+      "acronym": "MONITOOL",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "New tools for monitoring the chemical status of transitional and coastal waters in the WFD",
+          "description": "The protection of waters in Europe is regulated by the Water Framework Directive (WFD), which is mandatory for all European Union members. Significant progress has been made in the use of passive sampling devices for routine monitoring, but some barriers remain that prevent regulatory acceptance of passive sampling devices for checking compliance under the WFD. Adaptation of environmental quality standards suitable for passive sampling devices will allow their use to evaluate the chemical status of waters under the WFD.\nThe main driver of the MONITOOL project is to respond to European Directive demands for the assessment of chemical status of transitional and coastal waters. The quantification of WFD priority substances and emerging contaminants is of capital importance to implement the European policies for the protection of the marine environment. However, in many cases it is very difficult or even impossible, by traditional techniques and there is an urgent need to find accurate, reliable, easy and cost-efficient alternatives.\nThis project is deemed to be very pragmatic by adapting suitable environmental quality standards for priority and specific metals, to allow the use of passive sampling devices in a regulatory context, enhancing the implementation of the WFD and demonstrating the cross-regional (Canaries – Highlands and Islands) applicability of passive sampling devices in water monitoring and assessment by co-deployment of these devices and spot samples.",
+          "expected_results": "- Suitable Environmental Quality Standards (EQSs) for metals to allow use of diffusive gradients in thin-films (DGTs) in Water Framework Directive (WFD) compliance monitoring and water chemical status classifications. WFD classifications will feed into assessments of good environmental status at the (sub-) regional scale under Descriptor 8 of the Marine Strategy Framework Directive (MSFD) and consequently application of MSFD may improve with DGT use;\n- Framework for further development of EQSs for other priority substances and emerging contaminants that cannot be included within MONITOOL scope;\n- Robust comparison of real-world data measured in DGTs and in spot samples from across Atlantic Area with proposed EQSs and existing EQSs to show the approach utility over the whole region. Data from North Sea and Mediterranean Sea will be used to show applicability of approach beyond Atlantic region;\n- Improved status assessments for metals that have greater scientific validity and will better withstand public scrutiny in event of failures occurring and expensive measures being required.",
+          "achievements": "The protection of waters in Europe is regulated by the Water Framework Directive, mandatory for all European Union members. Detecting and monitoring the level of contaminants in seawater and inland waterways is a key element of this Directive. In many cases it is very difficult by traditional techniques (spot sampling) to determine metal concentrations, particularly for estuarine and coastal waters, and so there is an urgent need to find accurate, reliable, easy and costefficient alternatives. Passive  sampling devices have several advantages compared to conventional monitoring methods, since this methodology can provide time weighted average concentrations integrated over a period of time.\nThe aim of the MONITOOL project is to adapt existing metal water Environmental Quality Standards for passive sampling devices (Diffusive Graddient in Thin-films: DGTtype), thus allowing their use to evaluate the chemical status of waters under the Water Directive. In MONITOOL common guidelines were produced and followed by all partners to ensure the comparability and reproducibility of data obtained in different partner regions. Two successful campaigns for sampling and analysis were conducted. In fact, this has been the first broad geographical scale study using this methodology, covering a variety of environmental conditions across the  Atlantic and Mediterranean marine regions.\nLaboratory analysis results have provided a robust MONITOOL dataset. After a statistical process, MONITOOL has successfully adapted the existing metal water Environmental Quality Standards for the passive sampling devices for cadmium, nickel and lead, as well as for the other metal ions that were studied. These results may improve the quality of the overall assessment in dynamic marine waters to comply with the European Water Framework Directive, allowing a better assessment of the sampling sites, in terms of spatial comparison and their evolution over time.  \n\"I am very impressed with the amount and quality of data obtained in the project. The extensive data set of 6500 concentrations of metals by DGT and spot sampling provides a solid foundation and a big step towards adopting DGT as an accepted routine monitoring tool in the Water Framework Directive” Professor Hao Zhang, Lancaster University, UK, and member of the MONITOOL scientific advisory board.",
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Nuevas herramientas de monitoreo del estado químico de las aguas de transición y costeras en la DMA",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Novas ferramentas para a monitorização do estado químico das águas de transição e costeiras na DQA",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Nouveaux outils pour surveiller l’état chimique des eaux côtières et de transition de la DCE",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

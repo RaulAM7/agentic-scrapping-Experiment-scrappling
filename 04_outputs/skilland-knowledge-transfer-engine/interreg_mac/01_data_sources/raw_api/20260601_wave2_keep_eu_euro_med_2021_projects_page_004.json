@@ -1,0 +1,384 @@
+{
+  "current": 4,
+  "next": "https://keep.eu/api/search/projects/?page=5",
+  "previous": "https://keep.eu/api/search/projects/?page=3",
+  "total_pages": 15,
+  "count": 89,
+  "results": [
+    {
+      "id": 31591,
+      "acronym": "CirBioWaste",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Fostering innovative and sustainable bio-waste management and circular bio-economy in the Mediterranean area",
+          "description": "CirBioWaste aide les régions méditerranéennes à améliorer la gestion des biodéchets en promouvant des pratiques durables et circulaires. Malgré les réglementations de l'UE, seulement 16 % des déchets alimentaires sont correctement collectés et recyclés, de nombreuses zones dépendant encore des décharges. Le projet soutient les gouvernements locaux et les universités dans six pays en adaptant des solutions éprouvées, en améliorant les systèmes de collecte, en renforçant le compostage et en encourageant l’utilisation d’engrais organiques. Il combine des efforts locaux et internationaux, offrant des formations, des outils et des stratégies partagées pour réduire l’impact environnemental et soutenir une bioéconomie circulaire dans toute la région MED de l’UE+B20.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To support the design and implementation of strategies and action plans to improve bio-waste management by transferring innovative sustainable and circular solutions validated in “givers” area to “takers” entities. To establish the current context by mapping relevant stakeholders, assessing the current baseline scenario and barriers to implement circular bioeconomy and defining the alternative scenario for the adaptation and implementation of the validated solutions from “givers” to the “takers” areas.\nTo embed the change towards innovative sustainable bio-waste management solutions to close the loop and promote circular bioeconomy by providing supporting tools, building capacity and assistance support, gathering and sharing know-how and capitalising information from past and on-going European projects, key expert stakeholders and initiatives\nTo ensure a widest and lasting impact of the project during and beyond its lifetime, via the dissemination and capitalisation of its outputs and results.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Fostering innovative and sustainable bio-waste management and circular bio-economy in the Mediterranean area",
+          "description": "CirBioWaste helps Mediterranean regions improve bio-waste management by promoting sustainable, circular practices. Despite EU rules, only 16% of food waste is properly collected and recycled, with many areas still relying on landfills. The project supports local governments and universities in six countries by adapting proven solutions, improving collection systems, boosting composting, and encouraging use of organic fertilizers. It combines local and international efforts, offering training, tools, and shared strategies to reduce environmental impact and support a circular bioeconomy across the EU MED region+B20.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To support the design and implementation of strategies and action plans to improve bio-waste management by transferring innovative sustainable and circular solutions validated in “givers” area to “takers” entities. To establish the current context by mapping relevant stakeholders, assessing the current baseline scenario and barriers to implement circular bioeconomy and defining the alternative scenario for the adaptation and implementation of the validated solutions from “givers” to the “takers” areas.\nTo embed the change towards innovative sustainable bio-waste management solutions to close the loop and promote circular bioeconomy by providing supporting tools, building capacity and assistance support, gathering and sharing know-how and capitalising information from past and on-going European projects, key expert stakeholders and initiatives\nTo ensure a widest and lasting impact of the project during and beyond its lifetime, via the dissemination and capitalisation of its outputs and results.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31590,
+      "acronym": "Green B-LEAF",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Green Participatory Budgeting for Local Environmental Action and sustainable Future",
+          "description": "The Green B-LEAF project addresses the urgent challenge of climate resilience and sustainability in rural Mediterranean communities. These areas, facing the dual pressures of environmental degradation and limited resources, require innovative solutions to adapt to climate change and enhance their sustainability. The project's overall objective is to empower these communities through participatory budgeting, providing them with the tools and knowledge to drive climate-resilient and sustainable transformations. By equipping local authorities with hyper-local climate data and fostering community-driven green projects, Green B-LEAF aims to create lasting, impactful change.\n\nThe expected change involves transforming rural communities into proactive agents of climate resilience. This will be achieved through the development and implementation of Green Participatory Budgeting (Green PB) models tailored to local needs. The main outputs include comprehensive data mapping reports, identified climate vulnerabilities, Green PB methodologies, and a toolkit for climate-focused budget analysis. These outputs will benefit local authorities, community members, and stakeholders, providing them with the necessary resources to plan, finance, and execute effective climate adaptation strategies.\n\nOur approach leverages a cross-border, transnational, and inter-regional collaboration to maximize impact. By fostering knowledge exchange and collaborative design among Mediterranean communities, the project ensures that best practices and innovative solutions are shared and adapted across the region. This approach not only enhances the effectiveness of local interventions but also builds a resilient network of communities capable of supporting each other in the face of climate challenges. The participatory nature of the project ensures that solutions are community-driven, fostering a sense of ownership and commitment.\n\nThe Green B-LEAF project will build synergy with other initiatives such as the Cities of Tomorrow and the NEBA project, which support integrating New European Bauhaus values into regional planning. By aligning with these projects, \n\nThe overall objective of the Green B-LEAF project is to enhance climate resilience and sustainability in rural Mediterranean communities. By equipping local authorities and residents with the necessary tools and knowledge, the project seeks to foster data-driven planning and budgeting decisions that are responsive to hyper-local climate data. This participatory approach will enable residents to propose and implement green projects, thereby actively contributing to their community's climate adaptation and sustainability efforts. The expected change from this project is a significant improvement in the capacity of these communities to address climate vulnerabilities, resulting in more sustainable and resilient local economies.\n\nThe main outputs of the Green B-LEAF project include:\n\n- Green B-LEAF Participatory Budgeting Methodology and Policy Tool: A comprehensive methodology tailored for rural municipalities to integrate participatory budgeting with climate adaptation strategies.\n- Green Budget Tagging (GBT) Toolkit: A tool designed to help communities assess and manage the environmental impact of their budgetary decisions.\n- Online Manual and Toolkit for Green PB Replication: Resources to guide other communities in adopting and implementing the Green PB model.\n- Training and Capacity-Building Workshops: Programs aimed at enhancing the skills and knowledge of local authorities, decision-makers, and stakeholders in participatory budgeting and climate resilience.\n- Establishment of a Transnational Network and Community of Practice: Platforms for continuous knowledge exchange and collaboration among project partners and external stakeholders.\n- Real-World Pilot Projects: Implementation and validation of Green PB models in participating communities to refine and demonstrate their effectiveness.\n\nThe beneficiaries of these outputs include local authorities, community leaders, policymakers, and residents of the participating rural communities. By engaging these stakeholders in the project's activities, the Green B-LEAF project ensures that the tools and methodologies developed are practical, effective, and widely adopted.\n\nWhat sets Green B-LEAF apart is its focus on rural areas, where participatory budgeting is less common, and its integration of NEB (New European Bauhaus) principles, emphasizing beauty, sustainability, and togetherness. The project's innovative use of Green Budget Tagging (GBT) and simulation of climate scenarios ensures that interventions are both effective and future-proof. By involving residents in every step, from data collection to project implementation, Green B-LEAF not only addresses immediate climate challenges but also builds long-term resilience and sustainability through community empowerment and engagement.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Equip rural communities and local authorities with comprehensive, hyper-local climate data and participatory budgeting tools to foster data-driven planning and budgeting decisions that align with the specific needs of rural communities. This objective aims to enhance their capacity for effective planning and financing for climate change adaptation and energy transition, while complying with the New European Bauhaus (NEB) principles of sustainability, inclusiveness, and aesthetic quality.\nEnhance the capacity of public authorities in rural communities for effective planning and financing of climate change adaptation and energy transition initiatives. This will be achieved through a holistic and transdisciplinary approach to addressing green living areas issues, integrating sustainability, resilience, and aesthetic principles. Furthermore, developing a framework to enable residents of rural communities to propose and implement green projects that address their specific climate challenges, fostering more more sustainable living areas by developing, piloting, and validating Green Participatory Budgeting (PB) models that incorporate community-driven decision-making processes. \nTo enhance the skills and knowledge of local authorities, decision-makers, policy experts, and community stakeholders in rural communities. The focus is on providing practical training and resources that enable these groups to effectively implement Green Participatory Budgeting (Green PB) and climate adaptation strategies. By the end of the project, these participants will be equipped to integrate green budgeting practices into their local governance, fostering sustainable development and climate resilience.\nTo foster transnational collaboration and knowledge exchange among rural communities, enhancing the collective impact of Green PB initiatives and promoting sustainable development across the Mediterranean region. This will be achieved by establishing robust networks and communities of practice, integrating with thematic communities, and monitoring the project’s carbon footprint to ensure environmentally responsible implementation.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Green Participatory Budgeting for Local Environmental Action and sustainable Future",
+          "description": "Green B-LEAF helps rural Mediterranean communities adapt to climate change by combining participatory budgeting with detailed climate data. It gives residents and local governments the tools to plan and fund green projects, strengthening resilience and sustainability. By connecting communities across the region and promoting values like beauty, sustainability, and togetherness, Green B-LEAF builds lasting local capacity to face climate challenges",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Equip rural communities and local authorities with comprehensive, hyper-local climate data and participatory budgeting tools to foster data-driven planning and budgeting decisions that align with the specific needs of rural communities. This objective aims to enhance their capacity for effective planning and financing for climate change adaptation and energy transition, while complying with the New European Bauhaus (NEB) principles of sustainability, inclusiveness, and aesthetic quality.\nThis WP will be coordinated by PP2 Municipality of Faro.\nEnhance the capacity of public authorities in rural communities for effective planning and financing of climate change adaptation and energy transition initiatives. This will be achieved through a holistic and transdisciplinary approach to addressing green living areas issues, integrating sustainability, resilience, and aesthetic principles. Furthermore, developing a framework to enable residents of rural communities to propose and implement green projects that address their specific climate challenges, fostering more more sustainable living areas by developing, piloting, and validating Green Participatory Budgeting (PB) models that incorporate community-driven decision-making processes. This WP will be coordinated by PP6.\nTo enhance the skills and knowledge of local authorities, decision-makers, policy experts, and community stakeholders in rural communities. The focus is on providing practical training and resources that enable these groups to effectively implement Green Participatory Budgeting (Green PB) and climate adaptation strategies. By the end of the project, these participants will be equipped to integrate green budgeting practices into their local governance, fostering sustainable development and climate resilience. This WP will be coordinated by PP8.\nTo foster transnational collaboration and knowledge exchange among rural communities, enhancing the collective impact of Green PB initiatives and promoting sustainable development across the Mediterranean region. This will be achieved by establishing robust networks and communities of practice, integrating with thematic communities, and monitoring the project’s carbon footprint to ensure environmentally responsible implementation. LP1 coordinate this WP.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31589,
+      "acronym": "PortCREW",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Régions Portuaires Pour Faire des Destinations de Croisière Méditerranéennes des Systèmes d'Écotourisme Intelligents, Durables et Remarquables",
+          "description": "Les touristes de croisière recherchent de plus en plus des excursions terrestres sur mesure. Ils souhaitent découvrir des lieux plus authentiques de manière durable, à travers des circuits adaptés à leur curiosité ainsi qu'à leurs capacités physiques.\nLa plateforme d'écotourisme PortCREW sera testée dans cinq ports de croisière méditerranéens situés en Espagne, en France, en Italie, en Slovénie et en Grèce.\nDe quoi s'agit-il ? Il s'agit de proposer aux responsables de croisières, aux autorités portuaires ou touristiques de nouveaux forfaits touristiques terrestres.\nComment cela contribuera-t-il à la gestion du tourisme ? En évitant le surtourisme dans les mêmes zones littorales, en valorisant de nouveaux atouts naturels et culturels, et en renforçant l’acceptabilité sociale du secteur des croisières dans les villes méditerranéennes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "-\n-\n-",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Port-City Regions To Wave Med Cruise Destinations As Smart, Sustainable And Striking Eco-Tourism Systems",
+          "description": "Cruise tourists are increasingly seeking tailor-made inland tours. They want to discover more authentic places in a sustainable way, in tours that suit their curiosity as well as their physical abilities.\nThe eco-tourism platform PortCREW will be tested in 5 Mediterranean cruise ports located in Spain, France, Italy, Slovenia, and Greece. What is it about? Providing cruise managers, port or tourism authorities with new inland tourism packages. How will it help tourism management? By avoiding overtourism in the same seaside areas, valorising new natural and cultural assets and increasing the social acceptance of the cruise sector in MED cities.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Development of an “Eco-tour as a service” platform for sustainable cruise tourism destinations’ management. The platform will be based on the capitalization of previous projects and experiences and on local surveys and studies aimed to know cruise tourists' needs and existing eco-touristic offers. \nTo validate and test the PortCrew platform in real conditions responding to specific and common territorial needs, ready for take-up, upscale and transfer in PortCrew cruise destinations and beyond. The pilot partners develop and implement new eco-tourist offers integrating existing or planned services within the PortCrew platform. \nTo transfer the PortCrew solution and enlarge the transnational community of public and private stakeholders using the platform and the solutions developed in the project. Moreover, it intends to increase the transnational cooperation and synergies on jointly taking the negative effects of cruise over-tourism through a valorisation of natural and cultural assets in the cruise regions. ",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31588,
+      "acronym": "UrbanGreenLeap",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Faire progresser les infrastructures vertes dans les villes petites et moyennes",
+          "description": "Le projet répond aux défis territoriaux communs des\n \n1) La croissance des zones urbanisées au détriment des espaces verts, associée aux fréquentes vagues de chaleur et aux événements météorologiques extrêmes, entraîne des conséquences indésirables, telles qu'une surmortalité pendant les mois d'été, une moindre qualité de l'air, des effets d'îlot de chaleur urbain, des inondations urbaines et une fragmentation de l'habitat.\n2) Les espaces verts et d'activités communautaires se raréfient en quantité et/ou en qualité\n3) L'inventaire des plantes subit un stress dû aux changements de température et aux régimes de précipitations, ce qui affaiblit le système immunitaire de la plante et augmente par conséquent la sensibilité aux ravageurs et aux agents pathogènes.\n4) Les espaces verts dégradés ne peuvent plus remplir leur rôle de régulation du (micro)climat urbain, d’atténuation de l’effet d’îlot de chaleur urbain et de captation de quantités excessives d’eau de pluie.\n5) Les autorités locales des petites et moyennes villes ne disposent pas des compétences et des outils nécessaires pour faire face à l’urgence climatique et verdir les espaces de vie\n \nObjectif : L'objectif global du projet UrbanGreenLeap est de permettre au secteur public et aux entités associées d'impliquer efficacement les citoyens et d'accroître leur engagement à résoudre conjointement les problèmes du changement climatique. Les zones urbaines fonctionnelles encourageront les changements et déclencheront des changements vers des formes durables de planification et de conception d'espaces verts urbains, point crucial pour l'adaptation de l'environnement urbain aux défis actuels du changement climatique et pour minimiser les risques de catastrophes.\n \nPour atteindre ses objectifs, le projet utilise les connaissances existantes pour concevoir une stratégie de sensibilisation (O1.1) qui sera utilisée par les partenaires pour élaborer des plans naturels urbains. (O2.1), qui décrira les plans à long terme et les actions de démonstration. Cela fait partie de la stratégie pour la biodiversité - afin de ramener la nature dans les villes et de récompenser l'action communautaire - la Commission a appelé les villes Européennes d'au moins 20 000 habitants à «...élaborer des plans urbains ambitieux pour la nature comprenant « des mesures visant à créer une biodiversité et forêts, parcs et jardins urbains accessibles ; fermes urbaines ; toits et murs verts ; rues bordées d’arbres ; prairies urbaines ; et les haies urbaines. Ce sera une nouveauté pour les petites villes non Européennes de préparer ce type de plan.\nEn utilisant les leçons des projets pilotes, le partenariat développe et diffuse des solutions (O4.1) adaptées au groupe cible. Pour intensifier les résultats du projet, les partenaires élaborent et recommandent des interventions spécifiques ainsi que des propositions politiques accompagnées d'une lettre d'engagement signée (O4.2).\nApproche : UrbanGreenLeap a été conçu pour fournir des solutions intégrées, innovantes et pratiques à ces défis. Premièrement, le projet contribue à repenser les espaces verts pour les gens en améliorant les connaissances et les capacités du personnel concerné des autorités locales et en mettant à disposition une gamme d'outils et de méthodes (à développer, tester et valider dans le cadre du projet). . Deuxièmement, il aide les praticiens de la ville à changer le comportement des citoyens en leur proposant des solutions spécifiques qu'ils peuvent utiliser. Enfin, le projet s'attaque également au troisième obstacle – l'engagement limité des décideurs – en aidant les villes à sensibiliser leurs décideurs locaux.\n \nAspects innovants : Nous appliquons une approche véritablement intégrée en abordant simultanément plusieurs défis entravant la transition vers une adaptation durable de l’environnement urbain aux défis actuels du changement climatique. UrbanGreenLEap entend développer des solutions spécifiquement destinées aux villes petites et moyennes des pays Non-EU.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "/\n/\n/\n/",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Advancing Green Infrastructure in Small and Medium Cities",
+          "description": "UrbanGreenLeap helps cities, especially small and medium ones, address climate change by protecting and expanding green spaces. The project supports local governments in creating Urban Nature Plans that include parks, green roofs, and urban forests, promoting nature-based solutions. It also empowers citizens to take part in improving their environments and raises awareness among decision-makers about the importance of green spaces for climate resilience.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Craft a strategy (1) with clear goals and targets aimed at building new knowledge and skills, raising increasing awareness and improving the capacities of public sector actors to improve resistance to climate changes, preserve biodiversity and empower the transformation of urban environments in small and medium cities using innovative concepts of nature-based solutions (NBS), green (and blue) infrastructure (GI, GBI) and following values of the Biodiversity Strategy -  in order to bring nature back to cities and reward community action.\nIncrease the level of cooperation between public sector actors (municipal officials and professional service) and the citizens to implement innovative concepts  Urban Natural plans (6)   and  with this improve the outcomes of overall urban green space management.\nExperiment with innovative approaches (3) capable of tackling and improving the situation in green living areas and developing the cities' green transition to mitigate climate changes.\nElaboration of innovative solutions  (mechanisms for planning, managing and greening living areas)  with specific attention to support local entities ( focus on small and medium cities) and citizens to operate more effectively within the cities in which mitigation and adaptation actions are taken and improve policy instruments that address local governance challenges in greening the cities and more sustainable design of urban environments.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 7,
+          "title": "Urban development"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31587,
+      "acronym": "AQUAMAN",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "AQUAtic systems’ evaluation for the Mitigation of wAter scarcity in mediterranean islaNds and coastal tourist destinations under severe pressure",
+          "description": "La région Méditerranéenne est l'une des zones climatiques \"chaudes\" qui connaît déjà des sécheresses, des incendies de forêt et une élévation significative des températures, ce qui a sévèrement affecté de nombreuses régions et impacte la disponibilité de l'eau. Les ressources annuelles en eau de surface et souterraine dans les pays méditerranéens sont d'environ 1080 km³, irrégulièrement réparties, avec des pays ayant des réserves d'eau inférieures à 500 m³/habitant/an (pénurie « structurelle ») et de nombreuses régions ayant moins de 1000 m³/habitant/an (niveau de stress hydrique de l'ONU). Les réserves d'eau dans ces zones sont rares, tandis que l'activité touristique élevée pendant les mois d'été exerce une pression importante sur les réserves d'eau limitées, tant en termes de quantité que de qualité.\nDeux faits : l'agriculture représente 80 % de la consommation d'eau dans la région Euro-MED. La consommation quotidienne d'eau d'un touriste est de 2 à 4 fois plus élevée que celle d'un ménage.\nAQUAMAN vise à réduire la pénurie d'eau en agissant à trois niveaux : 1) Augmenter l'utilisation des sources d'eau non conventionnelles telles que l'eau de pluie ou les eaux usées ; 2) Réduire la demande en eau dans les secteurs les plus consommateurs ; 3) Optimiser les systèmes de distribution d'eau locaux.\nAQUAMAN ne résoudra pas le problème à lui seul, mais il peut mobiliser de nombreux acteurs pour y parvenir grâce à son expertise acquise dans le cadre de projets européens réussis. Ses Laboratoires Vivants de Réduction de la Pénurie d'Eau, basés dans 6 pays, les promouvoiront, ainsi que les programmes de formation associés.\n\nAQUAMAN est un effort transnational d'un consortium composé de partenaires ayant une vaste expérience des projets européens, provenant de six pays, comprenant des partenaires institutionnels (un ministère du Tourisme, une agence nationale de l'eau, une autorité nationale du tourisme), des membres du milieu académique et de la recherche – tous experts en réduction de la pénurie d'eau –, une municipalité insulaire, un réseau de petites îles et une organisation internationale, formant une équipe multidisciplinaire d'entités.\nAQUAMAN renforcera la capacité des autorités publiques impliquées dans la gestion de l'eau dans les îles et les destinations touristiques côtières afin de lutter contre la pénurie d'eau. Il transférera des connaissances précieuses tirées de projets réussis (financés par H2020, PRIMA, etc.) pour la valorisation des sources d'eau non conventionnelles (eau de pluie, eaux pluviales, eaux usées), la réduction de la demande en eau dans les secteurs ciblés et l'optimisation des systèmes de distribution d'eau.\nUn « Catalogue AQUAMAN d'outils transférables », provenant de projets européens réussis (par exemple, HYDROUSA, REMEDIES, NEXUS-NESS, FIT4REUSE, GENERaGUA, etc.), sera développé pour prioriser et affiner les « interventions basées sur la nature et hybrides transférables », les « plans de gestion intégrée des ressources » et les recommandations politiques dès le début du projet.\nLes Laboratoires Vivants de Réduction de la Pénurie d'Eau, qui se dérouleront dans 6 pays, promouvoiront ces solutions pour qu'elles soient adoptées par les récepteurs ciblés. De plus, dans le cadre des Laboratoires Vivants, un programme de formation dédié (« Programme d'engagement équitable et juste ») des autorités publiques (AP), comprenant :\n-\tLe label « SMILO Sustainability Accreditation », qui sera amélioré pour inclure des éléments d'AQUAMAN pour la réduction de la pénurie d'eau, sera appliqué dans cinq petites îles du réseau des partenaires et associés (Ponza-IT, Halki-GR, Gozo-MT, Canaries-ES et une île en France du réseau SMILO-PP).\n-\tUne formation unique des femmes comme « Mitigatrices de la durabilité et de la pénurie d'eau ».\nDeux autres Laboratoires Vivants auront lieu : l'un au Portugal et l'un en Andalousie (zones côtières) pour lutter contre la pénurie d'eau dans les régions touristiques côtières (2 Laboratoires Vivants se dérouleront en Espagne : Canaries, Andalousie).\nL'« Alliance de Réduction de la Pénurie d'Eau MED », une alliance formellement établie d'entités multidisciplinaires engagées via un MoU, constituera une communauté d'échanges entre les parties prenantes des pays du consortium, qui travailleront, pendant et après AQUAMAN, pour aborder la pénurie d'eau dans ces régions.\nUne collaboration constante avec les projets TCP/IDP (ELA-FP étant le partenaire principal du projet D4T) et la Mission ST sera cruciale : les résultats d'AQUAMAN pourront être considérés comme un prélude de connaissances pour la réduction de la pénurie d'eau dans les zones touristiques, sur lesquelles les projets territoriaux stratégiques (à approuver dans le 5e appel) pourront être fondés.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "n/a\nn/a\nn/a",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "AQUAtic systems’ evaluation for the Mitigation of wAter scarcity in mediterranean islaNds and coastal tourist destinations under severe pressure",
+          "description": "Two facts. Agriculture accounts for 80% of water consumption in the Euro-MED region. The daily water consumption of a tourist is 2 to 4 times higher than that of a household.\nAQUAMAN aims to reduce water scarcity by taking action on three levels: 1) Increasing the use of non-conventional water sources such as rainwater or wastewater; 2) Reducing water demand in the most consuming sectors; 3) Optimising local water distribution systems.\nAQUAMAN will not solve the problem on its own. But it can engage many actors to do so with its knowledge of transferable successful EU projects. Its Water Scarcity Mitigation Living Labs based in 6 countries will promote them, along with training programmes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "The objective of WP1 is to synthesize the knowledge gleaned from a range of esteemed projects, thereby creating a cohesive portfolio of interventions, plans, and policy recommendations for transfer. \nAQUAMAN’s valuable elements from previous projects clustered:\n- Nature-based and hybrid interventions,\n- Holistic resource management plans,\n- policy recommendations,\n- the training programme of SMILO Label (which will be upgraded).\nWP1 will identify and map the relevant stakeholders to enhance the effectiveness of stakeholder engagement. \nIt aspires to foster consensus among stakeholders at the selected destinations, aiming to mitigate water scarcity through collaborative efforts with AQUAMAN project partners and affiliated parties to achieve concrete outcomes. Additionally, WP1 aims at developing a Transfer feasibility study to ensure the project proceeds with optimal effectiveness.\nWP2 aims to build a network of collaborations and to organise exchanges fostering a multi-disciplinary dialogue. It aims to demonstrate to the transfer ecosystem valuable adoptable “Nature-based and hybrid interventions” (technical solutions, methodologies, technical guidelines etc.), \"Holistic resource management plans\" (water scarcity mitigation plans, WEFE MGT Plans) and replicable policy recommendations.\nIn WP2 a unique Training programme (in small islands) will be launched aiming at the capacity building of PAs and citizens so as to work on \"Sustainability schemes'.\nWP2 aims on the creation of public awareness and the acceptance of AQUAMAN proposals. Towards this end a dedicated campaign will be organized, for the involvement of schools in all the islands involved on AQUAMAN, using valuable material and capitalize on the experience of GHAJN: National Water Conservation Awareness Centre (EWA's initiative).\nWP3 aims at the internationalization of the project, forming the Water Scarcity Mitigation MED Alliance;\nIt will work on the production of results that can be mature for transfer & mainstreamed in more territories even outside the Euro-MED area.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31586,
+      "acronym": "RE-ACT Schools",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Transformation des cours d'école pour lutter contre les effets du changement climatique et promouvoir des environnements sains et actifs",
+          "description": "Les effets croissants du changement climatique représentent des menaces importantes pour les villes, en particulier les fortes pluies, les inondations, la hausse des températures extrêmes et les effets des îlots de chaleur urbains ont un impact significatif sur l’environnement urbain, la qualité de vie et la santé en Méditerranée. Le projet Re-Act Schools aborde ces défis en mettant l’accent sur l’adaptation au changement climatique et la prévention des risques dans les espaces extérieurs des écoles. Les cours d’école, en particulier dans les villes où les espaces verts publics sont limités, sont des atouts précieux qui offrent des opportunités uniques pour tester et promouvoir des solutions technologiques innovantes et basées sur la nature pour l’atténuation et l’adaptation au changement climatique. \nPour atteindre cet objectif, le projet rassemble un partenariat diversifié et complémentaire qui comprend 2 institutions de recherche, 5 organismes publics et une agence de développement territorial de 6 pays méditerranéens (Italie, Espagne, France, Croatie, Bulgarie et Chypre), qui travailleront ensemble pour transformer 6 cours d’école grâce à des actions pilotes en espaces verts, résilients au changement climatique et innovants qui favorisent des modes de vie sains et actifs parmi les élèves et la communauté au sens large, selon les objectifs du nouveau programme européen Bahuahus et Green Deal. \nL’activité de test sera accompagnée d’une phase de capacity building finalisée à définir une méthodologie de conception innovante pour atténuer le stress thermique, gérer efficacement les ressources en eau, améliorer la biodiversité, et offrir des abris climatiques aux citoyens dans le contexte urbain méditerranéen sur la base de l’utilisation des simulations microclimatiques ENVI-met et des modèles Digital Urban Climate Twin pour tester des méthodes avancées d’analyse, de conception et de surveillance pour des cours d’école résilientes au climat. \nLes connaissances développées au cours du projet seront recueillies dans un plan d’action innovant et un outil multimédia pour aider l’administration publique de la région Med à gérer la transformation régénératrice des cours d’école et des espaces publics.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "N.A.\nN.A.\nN.A.\nN.A.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Transformation of Schoolyards to Combat Climate Change Effects and Promote Healthy and Active Environments",
+          "description": "The escalating effects of climate change pose significant threats to cities; in particular, heavy rainfall, flooding, rising extreme temperatures, and urban heat island effects significantly impact the urban environment, life quality, and health in the Mediterranean. The Re-Act Schools project addresses these challenges by focusing on climate change adaptation and risk prevention in school outdoor spaces. Schoolyards, especially in cities where public green living areas are limited, are valuable assets that offer unique opportunities to test and promote Nature-based and innovative technological solutions for climate change mitigation and adaptation capable to reduce the climate hazard. \n\nTo achieve this goal, the project brings together a diverse and complementary partnership that comprises 2 research institutions, 5 public bodies, and a territorial development agency from 6 Mediterranean countries (Italy, Spain, France, Croatia, Bulgaria, and Cyprus), that will work together to transform 6 schoolyards through Pilot Actions into green, climate-resilient and innovative spaces that promote healthy and active lifestyles among students and the wider community, according to the goals of the New European Bauhaus and Green Deal Program. \n\nThe testing activity will be accompanied by a capacity-building phase finalised to define an innovative design methodology to mitigate heat stress, manage water resources efficiently, enhance biodiversity, and offer climate shelters to the citizens in the Mediterranean urban context based on the use of ENVI-met microclimatic simulations and Digital Urban Climate Twin models to test advanced methods for analysing, designing, and monitoring climate-resilient schoolyards. \n\nThe knowledge developed during the project will be collected in an innovative Action Plan and a multimedia tool to support the Public Administration of the Med Area in managing the regenerative transformation of schoolyards and public spaces.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "WP1, coordinated by the Province of Lucca, enhances the capabilities of PA and local governments across the MED area in effective planning for climate change adaptation and climate change risk management of school outdoor spaces, improving the occupants' outdoor comfort and health, through the exchange of knowledge at interregional level (interregional workshops), the definition of local guidelines and action plans, and the production of a digital tool kit\nWP2, coordinated by Department du VAR, aims at transforming the existing schoolyards located in different Mediterranean territories into climate- resilient spaces by designing and implementing six Pilot Actions applying innovative Nature-based and technological solutions. \nWP3 coordinated by UNIFI DIDA, aims to improve the schoolyards' thermal comfort and the user's health conditions by increasing the level of schoolyards climate resilience through the identification of climate-related risks and the development of targeted interventions.\n\nWP4, coordinated by CYI, will develop a model for data-driven management and optimization of school outdoor spaces by comparing the environmental quality of the schoolyards before and after the transformation due to the Pilot Actions.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 855,
+    "partners": 647,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    32769,
+    32768,
+    32767,
+    32766,
+    32765,
+    32764,
+    32763,
+    32762,
+    32761,
+    32760,
+    32759,
+    31598,
+    31597,
+    31596,
+    31595,
+    31594,
+    31593,
+    31592,
+    31591,
+    31590,
+    31589,
+    31588,
+    31587,
+    31586,
+    31585,
+    30105,
+    30104,
+    30103,
+    30102,
+    30101,
+    29256,
+    29255,
+    29254,
+    29253,
+    29252,
+    29251,
+    29250,
+    29249,
+    29248,
+    29247,
+    29246,
+    29245,
+    29244,
+    29243,
+    29242,
+    29241,
+    29240,
+    29239,
+    29238,
+    29237,
+    29236,
+    29235,
+    29234,
+    29233,
+    29232,
+    29231,
+    29230,
+    29229,
+    29228,
+    29227,
+    29226,
+    29225,
+    29224,
+    29223,
+    29222,
+    29221,
+    29220,
+    29219,
+    29218,
+    29217,
+    29216,
+    29215,
+    29214,
+    29213,
+    29212,
+    29211,
+    29210,
+    29209,
+    28812,
+    28811,
+    28810,
+    27712,
+    27711,
+    27710,
+    27709,
+    27708,
+    27707,
+    27706,
+    27705
+  ]
+}

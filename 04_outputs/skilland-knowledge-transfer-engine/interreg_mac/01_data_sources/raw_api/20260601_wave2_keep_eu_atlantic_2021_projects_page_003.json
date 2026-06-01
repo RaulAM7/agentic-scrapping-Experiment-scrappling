@@ -1,0 +1,291 @@
+{
+  "current": 3,
+  "next": "https://keep.eu/api/search/projects/?page=4",
+  "previous": "https://keep.eu/api/search/projects/?page=2",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31285,
+      "acronym": "CLIRAQUA",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Climate Resilience and Adaptation in Aquaculture. Testing innovative technologies and ecosystem-based solutions for the resilience of Atlantic aquaculture to climate change.",
+          "description": "The project strengthens the resilience of Atlantic aquaculture to climate change through ecosystem-based, technologically proven or in-development solutions (IMTA, FBNM, halophytes and others). It evaluates the vulnerability of aquaculture species and environments to changes in temperature, salinity and water quality, ensuring the sustainability of the sector, and promotes climate adaptation and risk prevention through innovative methodologies and restoration of key ecosystems, strengthening climate governance and participation. \nThe results include a data lake with climate projections, interactive vulnerability maps, adaptive management protocols and an early warning system for diseases. Transnational cooperation will facilitate the exchange of knowledge and the development of scalable solutions that boost the environmental and economic sustainability of the aquaculture sector.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31284,
+      "acronym": "ResilCrops",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Harnessing Circular Economy to Improve Crop Resilience in the Atlantic Area",
+          "description": "Climate change is intensifying, threatening global food security with rising temperatures, emerging pests, and water scarcity. To tackle these challenges, it is essential to create strategies that assist in adapting agriculture and local crops to the changing climate conditions, thereby ensuring economic activity and food security. \nRESILCROPS proposes a more sustainable crop protection model by utilising biostimulants from natural sources, such as algae biomass and diverse microorganisms, which can protect crops from biotic and abiotic stresses, contributing to a circular economy. These sustainable solutions will not only safeguard agricultural productivity in Atlantic countries but also contribute to a more circular and environmentally friendly agricultural system. \nBy addressing these challenges faced by each region, RESILCROPS will empower the Atlantic Region to adapt to the changing climate and ensure a secure and sustainable food supply for the future.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31283,
+      "acronym": "HiPoTeSis",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "High Power Test Sites to consolidate industrialisation of FOW in Europe",
+          "description": "The development of floating offshore wind technologies is accelerating significantly but different technical, environmental, and industrial challenges remain to be addressed. With less than 0.25GW installed worldwide in 2024 and the commissioning of the first commercial projects starting from 2030, the sector is still emerging. Currently, there is no test site in Europe capable of hosting floating wind turbines with a unit capacity greater than 10 MW. \nHiPoTeSis aims to provide Europe with a coherent vision for testing high-power floating wind technologies, with the Atlantic region as the logical spearhead. \nThe objectives are to: - Create a consolidated European partnership in the Atlantic region focused on innovation in the floating wind sector; - Set the grounds for a transnational testing infrastructure with shared governance; - Provide common and operational responses to challenges faced by test sites to maximize future benefits for the territories involved.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 38,
+          "title": "Infrastructure"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31282,
+      "acronym": "AWESDI",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic Wave Energy Sustainable Deployment Initiative",
+          "description": "AWESDI is a transnational initiative introducing an innovative approach to accelerate the deployment of wave energy systems in the Atlantic Area. Coastal regions in Portugal, Spain, France and Ireland share vast wave energy potential but face common WE deployment barriers, including fragmented regulatory frameworks, infrastructure limitations, and public acceptance challenges. \nUnlike previous initiatives, AWESDI will adopt a systemic design approach to ensure that wave energy solutions are not only technically feasible but also commercially viable, socially inclusive and environmentally friendly, according to the unique characteristics of the most promising Atlantic sites. The project will deliver advanced sustainable design and holistic assessment tools, wave energy technology-/site-specific exploitation strategies, comprehensive and coordinated policy recommendations, and a joint Wave Energy Deployment Roadmap to accelerate the buildup of a cohesive and scalable market across the Atlantic regions.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31281,
+      "acronym": "UPWELLING",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Unlocking Potential for Workforce Excellence, Leadership, and Innovation in the Next-Gen Blue Economy",
+          "description": "The UPWELLING project addresses critical challenges facing the Atlantic blue economy, including the skills gap, limited access to marine infrastructure, and weak collaboration among stakeholders. To bridge these gaps, UPWELLING establishes a transnational network and the UPWELLING Academy. This academy will offer specialised training in emerging marine technologies and facilitate prototyping activities, empowering SMEs and startups while nurturing a new generation of skilled professionals. Key outputs include a digital platform integrating marine infrastructure services and job offers, an Academy offering specialized training programs, collaborative hackathons, proof-of-concept activities, and a wealth of educational resources.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31280,
+      "acronym": "iSURFATLANTIC",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "iSURFATLANTIC - An Inclusive and Sustainable Surfing Route for the Atlantic Area",
+          "description": "iSURFATLANTIC will create the first Sustainable and Inclusive Transnational Surf Tourism route across Portugal (Oeste), Spain (Cantabria), France (Gironde) and Ireland (Northwest). Addressing common challenges as environmental pressures, seasonal instability, and unequal accessibility, it will position the Atlantic Area as a leading destination for sustainable and universally accessible surf tourism. \nThe project will install eco-friendly equipment, develop digital accessibility tools, foster adaptive surfing, and create capacity-building programs. This will contribute to the Blueprint for Sustainable and Inclusive Surf Tourism, consolidating best practices, policy recommendations, and governance models for replication across the Atlantic Region. \nBy harmonizing sustainability and accessibility standards, preventing fragmented policies, and creating a high-quality visitor experience, transnational cooperation will ensure a unified and resilient surf tourism sector benefiting all coastal stakeholders.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

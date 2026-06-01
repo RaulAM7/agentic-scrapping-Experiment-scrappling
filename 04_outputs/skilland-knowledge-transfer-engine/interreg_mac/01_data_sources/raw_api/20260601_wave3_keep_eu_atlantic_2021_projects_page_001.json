@@ -1,0 +1,279 @@
+{
+  "current": 1,
+  "next": "https://keep.eu/api/search/projects/?page=2",
+  "previous": null,
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31297,
+      "acronym": "Smart4Sea",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Boosting the environmental traceability of the Atlantic seafood sector: sea to fork transparency and consumer engagement",
+          "description": "SMART4SEA introduces an innovative environmental traceability system to enhance transparency and consumer trust in the Atlantic seafood sector. This initiative addresses major issues such as seafood fraud, ecological damage, marine debris, and resource inefficiency.\nBy integrating advanced digital tools, circular economy strategies, and collaborative efforts, SMART4SEA seeks to enhance sustainability and transparency throughout the seafood supply chain.\nThe project will deliver a comprehensive tracking system, tools for real-time data gathering, platforms for engaging consumers, and pilot projects to showcase its effectiveness. Beneficiaries include fishermen, processors, consumers, and authorities, who will all gain access to innovative tools and reliable information to support sustainable practices.\nTransnational cooperation is crucial, as it brings together diverse expertise to develop effective solutions and ensure the project's scalability across the Atlantic Area and beyond.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31296,
+      "acronym": "SMACC+",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Sustainable Microalgae and Cyanobacteria-Based Bioactive Compounds for Cosmeceuticals and Nutraceuticals",
+          "description": "A pioneering initiative set to transform the cosmeceutical and nutraceutical industries by utilizing bioactives and biopolymers from microalgae. This project introduces innovative, low-impact methods to produce high-value ingredients, replacing synthetic additives while reducing water use and minimizing waste.\nBy optimizing microalgae cultivation and recovering valuable by-products, the project demonstrates scalable solutions that support a shift toward renewable, eco-friendly alternatives. Key outputs include pilot actions, innovative biotechnological solutions, and high-value bio-based products for industrial adoption, benefiting SMEs, researchers, and blue biotechnology industries.\nWith a transnational approach, the initiative integrates regional expertise, fosters knowledge transfer, and drives sustainable growth in the Atlantic’s blue economy. By accelerating innovation and competitiveness in the bioeconomy sector,it paves the way for a more sustainable future.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31295,
+      "acronym": "Impact4Mar",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Social Ecological Impact Assessment for the Maritime Sector in the Atlantic Area",
+          "description": "Impact4Mar aims to accelerate the transition of SMEs in the maritime sector of the Atlantic area by facilitating an innovative access to tools and methodologies for assessing Impact, Risks and Opportunities (IRO) in Corporate Social Responsibility (CSR) dimensions.\nThrough transnational knowledge exchange, Impact4Mar proposes an integrated approach based on a common methodology across the regional maritime ecosystems involved to: - Conduct an analysis of sustainability IROs assessment practices in the maritime sector - Prototype and validate a Toolkit through pilots in maritime SMEs -Capitalize and disseminate the results through a digital platform and bootcamps. \nBy offering maritime SME-focused solutions, the project empowers businesses to comply with EU sustainability regulations, align with the EU Green Deal and UN 2030 Agenda and enhance resilience, competitiveness and innovation as a catalyst for the Blue Economy’s sustainable development in Europe.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31294,
+      "acronym": "BIOCHAINS Atlantic",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Optimizing the Algal Biomass Value Chains for Sustainable Economic Growth in the Atlantic Area",
+          "description": "The project focuses on achieving an efficient and sustainable utilization of micro and macroalgae in the Atlantic Area by organizing and optimizing the entire algal biomass value chains.\nIt involves stakeholders mapping and cooperation, challenges analysis, models development powered with intelligent digital tools, and the generation of market-oriented prototypes for the cosmetics and food sectors, while fostering collaboration across Spain, Portugal, France and Ireland.\nThe approach of the project integrates sustainable practices, innovative technologies, and stakeholder insights to optimize harvesting, valorisation, production and consumer involvement. By aligning industry needs with environmental and market demands, the project promotes a sustainable and economic growth in the algae-based biomass industry.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31293,
+      "acronym": "AGREE",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Routes of the Great Atlantic Explorations",
+          "description": "Setting up the Atlantic network for the valorization of the great nautical expeditions is the overall project objective. This is totally innovative to date. This objective represents the transnational challenge jointly tackled by the partnership. \nAdded value brought by the figure of the Council of Europe Cultural Route will be applied to the valorization of the Great Atlantic Expeditions legacy. Transnational strategies and action plans will drive 6 project activities embedded in 3 work packages. Activities address the set-up of a scientific committee, of an Atlantic Association governance body, of a new Council of Europe Cultural Route, of the implementation of 4 Pilot actions and of enhancing visibility and innovation to the new Cultural Route. All of this could only be achievable on the basis of transnational cooperation of the project partnership and other territorial partners not involved in the project. The durability of the project outputs is ensured.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31292,
+      "acronym": "REVALGAE",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Restoration of Damaged Ecosystems and Valorisation of Invasive Algae and Salt-Tolerant Plants",
+          "description": "REVALGAE challenges the multilevel problems caused by the spread of invasive algae and salt-tolerant plants in the Atlantic Area. To transform this problem into an opportunity, the partnership will develop harvesting procedures and biomass valorisation routes that preserve biodiversity and marine ecosystems and foster economic growth in Atlantic regions.\nThe REVALGAE Pilots will identify areas requiring urgent action, and scalable and replicable biomass harvesting and ecosystem restoration procedures will be tested. The collected biomass will be valorised to obtain new bioactive compounds, helping to turn the invasive species problem into new opportunities to strengthen the Atlantic Area’s value chains. To achieve this, REVALGAE brings together a multidisciplinary team, working in collaboration with Quadruple Helix actors, that combines expertise in environmental preservation, chemical compound development, industry, and policy engagement to transform invasive species into high-value resources.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

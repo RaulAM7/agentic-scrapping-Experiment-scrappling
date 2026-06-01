@@ -1,0 +1,388 @@
+{
+  "current": 2,
+  "next": "https://keep.eu/api/search/projects/?page=3",
+  "previous": "https://keep.eu/api/search/projects/",
+  "total_pages": 15,
+  "count": 89,
+  "results": [
+    {
+      "id": 32763,
+      "acronym": "LooP Zone",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Promouvoir une économie circulaire avec des zones à faible teneur en plastique sur les îles méditerranéennes",
+          "description": "LooP Zone s’attaque à l’un des défis les plus visibles de la Méditerranée : la crise des déchets plastiques sur les îles touristiques. Avec plus de 200 millions de visiteurs chaque année, et les produits en plastique à usage unique représentant plus de 60 % des déchets marins, les territoires insulaires comme Formentera, Salina, Skiathos, Vis et Gozo sont soumis à une pression croissante — d’autant plus que la plupart des systèmes locaux de gestion des déchets ne peuvent pas suivre.\n\nLooP Zone crée des « zones à faible utilisation de plastique » où les municipalités, les entreprises touristiques et les innovateurs locaux agissent ensemble pour prévenir et éliminer progressivement les plastiques à usage unique. Les hôtels, bars de plage et restaurants reçoivent des outils pour évaluer leur empreinte plastique et adopter des alternatives durables et réutilisables ; de nouvelles chaînes de valeur pour les produits sans plastique à usage unique sont soutenues par des laboratoires d’innovation ; et les politiques locales sont renforcées pour s’aligner sur les interdictions nationales.\n\nLe modèle, basé sur une approche à trois piliers — politique, soutien aux entreprises et innovation — est testé localement, transféré et accessible via une plateforme numérique, et étendu à travers un réseau régional d’îles. L’objectif : transformer le secteur du tourisme, en passant d’un modèle « produire-utiliser-jeter » à une économie circulaire qui fonctionne à la fois pour les populations et pour la mer.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Réaliser une recherche approfondie sur les politiques locales, l'utilisation des PUU dans le secteur HORECA, les alternatives et les synergies avec les projets existants, pour concevoir 5 pilotes LooPZone adaptés à chaque île.\nTester et évaluer des solutions sur 5 îles pour réduire l’utilisation des PUU par les entreprises touristiques : actions publiques, soutien à la réduction des PUU dans le secteur HORECA et accompagnement au développement d’alternatives locales.\nÉlaborer et diffuser les lignes directrices techniques de LooPZone au niveau national et régional, et transférer le modèle LooPZone à 3 piliers aux îles confrontées à des défis similaires en matière de SUP.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Promoting a Circular Economy with Low Plastic Zones on Mediterranean Islands",
+          "description": "LooP Zone takes on one of the Mediterranean’s most visible challenges: the plastic waste crisis on tourist islands. With over 200 million visitors each year, and single-use plastics (SUPs) products, making up more than 60% of marine litter, island territories like Formentera, Salina, Skiathos, Vis, and Gozo face growing pressure—especially as most local waste management systems can’t keep up.\n\nLooP Zone creates “low plastic zones” where municipalities, tourism businesses, and local innovators act together to prevent and phase out SUPs. Hotels, beach bars and restaurants receive tools to assess their plastic footprint and adopt sustainable and reusable alternatives; new value chains for SUP-free products are supported through innovation labs; and local policies are strengthened to align with national bans.\n\nThe model, built on a 3-pillar approach—policy, business support, and innovation—is tested locally, transferred and accessible via a digital platform, and scaled through a regional island network. The goal: transform the tourism sector from a take-make-waste model to a circular economy that works for both people and the sea.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To use in-depth research of each island’s policy landscape, HORECA sector SUP use, SUP-alternative business landscape, and synergies with existing projects, to design 5 context-specific LooPZone pilots.  \nTo test and evaluate a range of solutions across 5 islands to reduce SUP use by tourist businesses including: public policy/action, direct SUP reduction support for the HORECA sector, and business development support for local SUP alternatives.\nTo create and amplify the LooPZone technical guidelines to the national and regional governance level, and to transfer the 3-pillar LooPZone model to islands facing similar SUP challenges.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32762,
+      "acronym": "MedSkyTour",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Développement d'un astrotourisme durable dans les régions Euro-MED",
+          "description": "Le tourisme astronomique, ou Dark Sky Tourism, est un nouveau type de tourisme dans les zones naturelles qui se concentre sur l’observation des objets célestes. Il comprend notamment des randonnées et des circuits d’astronomie, l’observation de la faune nocturne, des hébergements autonomes, ainsi que des services touristiques proposés par des observatoires astronomiques.\n\nLe projet DarkSkyTour poursuit deux objectifs principaux : développer ce type de tourisme et mettre en œuvre des actions visant à réduire la pollution lumineuse. Ainsi, les huit régions impliquées ne créent pas seulement de nouvelles opportunités de croissance pour un tourisme durable, mais elles génèrent également de véritables bénéfices pour la biodiversité nocturne.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Development of Sustainable Astrotourism in Euro-MED Regions",
+          "description": "Astrotourism is a new type of tourism in nature areas that focuses on the observation of celestial objects. Specifically, it consists of hiking and astronomy tours, observation of the nocturnal fauna, off-grid hotels, tourist services offered by astronomical observatories...\n\nThe MedSkyTour project has two main objectives: to develop this type of tourism and to implement actions aimed at reducing light pollution. In this way, the eight regions involved are not only creating new growth opportunities for sustainable tourism but are also generating real benefits for nocturnal biodiversity.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To develop and pilot 7 diversified Astrotourism services in cooperation with local providers across participating regions, resulting in a transferable framework for sustainable astrotourism that enhances eco-tourism offerings and contributes to the reduction of light pollution and the protection of nocturnal habitats.\nTo build the capacities of 70 tourism stakeholders and public authorities across partner regions for Astrotourism by developing 7 regional and transnational itineraries, enhancing service quality, informing public policy, and facilitating the transfer of sustainable astrotourism practices beyond the partnership area.\nTo establish a strategic foundation for sustainable Astrotourism by developing a transnational strategy and action plan that defines concrete measures to reduce light pollution, enhance biodiversity, and support the integration of Astrotourism policies into regional development.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32761,
+      "acronym": "ECO-SEAROUTES",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Eco-nautical sea routes",
+          "description": "En tant que première destination touristique mondiale, les ports méditerranéens subissent une forte pression touristique. Cela rend leurs zones protégées plus vulnérables au surtourisme.\nLe projet ECO-SEAROUTES vise à créer un itinéraire éco-nautique reliant les ports qui s'engagent à : 1) respecter une norme commune de durabilité dans une approche transnationale ; 2) redistribuer les flux touristiques vers les zones côtières et intérieures voisines. \nPour y parvenir, le projet encourage les décideurs locaux à créer et à développer de nouveaux itinéraires touristiques locaux vers des zones moins fréquentées et leur patrimoine culturel. Il utilisera une approche ascendante et participative, prête à être partagée et reproduite.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To develop a strategic approach aimed at creating a sustainable european nautical route, based on community engagement to build smaller-scale, more environmentally conscious and sustainable inbound nautical tourism in seasonally overcrowded Mediterranean ports.\nTo reduce the human pressure on natural areas located along the costs of popular Mediterranean ports and islands (including Natura 2000 sites) by improving the quality and sustainability of the surrounding touristic offer with pilot itineraries. \nTo consolidate the attractiveness and reputation of peripheral and inland destinations connected to Mediterranean ports with the piloting of Community Heritage Hubs in each itinerary. \nTo keep track of GHG emissions due to the project, establish liaisons with and capitalise from other thematic and governance projects, transfer and disseminate project outputs outside the partnership. ",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Eco-nautical sea routes",
+          "description": "As the world's largest tourist destination, Mediterranean ports are under intense tourist pressure. This makes their protected areas more vulnerable to overtourism.\nThe ECO-SEAROUTES project aims to create an eco-nautical route linking ports committed to: 1) respect a common sustainability standard in a transnational approach; 2) redistribute tourism flows to neighbouring coastal and inland areas. \nTo achieve this, the project encourages local decision-makers to create and develop new local tourist routes to less crowded areas and their cultural heritage. It will use a bottom-up and participatory approach, ready to be shared and replicated.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To develop a strategic approach aimed at creating a sustainable european nautical route, based on community engagement to build smaller-scale, more environmentally conscious and sustainable inbound nautical tourism in seasonally overcrowded Mediterranean ports.\nTo reduce the human pressure on natural areas located along the costs of popular Mediterranean ports and islands (including Natura 2000 sites) by improving the quality and sustainability of the surrounding touristic offer with pilot itineraries. \nTo consolidate the attractiveness and reputation of peripheral and inland destinations connected to Mediterranean ports with the piloting of Community Heritage Hubs in each itinerary. \nTo keep track of GHG emissions due to the project, establish liaisons with and capitalise from other thematic and governance projects, transfer and disseminate project outputs outside the partnership. ",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32760,
+      "acronym": "HEATSAFE ",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Holistic EnvironmenTAl and Social Adaptation Framework for Extreme heat",
+          "description": "Les villes deviennent souvent beaucoup plus chaudes pendant les vagues de chaleur en raison des surfaces en béton, du manque d'espaces verts et de la conception urbaine. Certaines communautés sont particulièrement à risque, notamment dans les quartiers défavorisés où les habitants font déjà face à des défis sanitaires et sociaux.\n\nPour y faire face, le projet HEATSAFE agit en Espagne, en Italie, en Albanie, en Bulgarie et en Grèce. Il aide les villes à élaborer des plans clairs pour se préparer aux vagues de chaleur et y répondre efficacement. Le projet soutient les autorités locales dans la prise de décisions éclairées grâce à des outils pratiques, tout en impliquant les habitants afin que les solutions soient adaptées aux besoins spécifiques de chaque territoire.\n\nDans chaque zone d’intervention, HEATSAFE teste des actions concrètes telles que la création de zones fraîches accessibles au public, l’amélioration des réponses d’urgence et des campagnes de sensibilisation. Les résultats seront largement diffusés pour que d’autres villes de la Méditerranée puissent reproduire ces méthodes.\n\nEn combinant science, urbanisme, santé publique et participation citoyenne, HEATSAFE vise à construire des villes plus sûres, plus saines et mieux préparées au changement climatique, pour tous.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Developing an evidence-based understanding for the elaboration of specific planning to act in the face of extreme heat and mitigate its negative impacts.\nTesting pilot actions in European municipalities to prevent and mitigate the effects of extreme heat.\nMonitoring and validation of the community-based methodology for the development and implementation of Action Plans against extreme heat\nTo increase institutional capacity of local entities to improve the prevention and management of risks arising from increased frequency and intensity of heatwaves in the Mediterranean",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Holistic EnvironmenTAl and Social Adaptation Framework for Extreme heat",
+          "description": "Cities often become much hotter during heatwaves because of concrete surfaces, lack of green spaces, and city design. Some communities are especially at risk, particularly in poorer neighborhoods where people may already face health and social challenges.\n\nTo tackle this, HEATSAFE is taking action in Spain, Italy, Albania, Bulgaria, and Greece. The project is helping cities create clear plans to prepare for and respond to heatwaves. It supports local governments in making smart decisions using practical tools, while also involving local people to make sure solutions match the needs of each area.\n\nIn each location, HEATSAFE is testing real-life improvements like cool areas for public use, better emergency responses, and education campaigns to raise awareness. The results will be shared widely so that other cities across the Mediterranean can use the same methods.\n\nBy combining science, urban planning, public health, and community input, HEATSAFE aims to build safer, healthier, and more climate-ready cities for everyone.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Developing an evidence-based understanding for the elaboration of specific planning to act in the face of extreme heat and mitigate its negative impacts.\nTesting pilot actions in European municipalities to prevent and mitigate the effects of extreme heat.\nMonitoring and validation of the community-based methodology for the development and implementation of Action Plans against extreme heat\nTo increase institutional capacity of local entities to improve the prevention and management of risks arising from increased frequency and intensity of heatwaves in the Mediterranean",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32759,
+      "acronym": "INCORE-MED",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Résilience côtière inclusive en Méditerranée",
+          "description": "INCORE-MED replace les citoyens au cœur de la planification côtière. En Italie, en Espagne, au Portugal et en Croatie, le projet teste deux outils de participation avancés visant à améliorer les politiques côtières et maritimes : SWAP et Democracy Labs.\nL'outil SWAP (Ateliers de scénarios + Pistes d'adaptation) aide les acteurs locaux à co-concevoir des plans d'adaptation au changement climatique réalistes en combinant les visions de la communauté avec les projections climatiques des experts, à l'aide de la cartographie de scénarios et de l'analyse multicritères. Quant aux laboratoires de démocratie, ils créent des espaces de discussion où les citoyens et les autorités élaborent conjointement de nouvelles règles et de nouveaux formats pour l'engagement public dans la planification marine. Ces outils sont déployés pour : 1) créer et mettre à jour des cartographies participatives et des cartes de perception des risques climatiques ; 2) intégrer des solutions basées sur la nature dans les plans d'action locaux ; 3) diffuser la méthodologie à de nouveaux territoires grâce à des réflexions méthodologiques et des cours en ligne.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Led by NKUA It aims to create the conditions and guidelines  for all partners to be able to implement the project with maximum quality, efficiency and ethical responsibility to guarantee a high impact.\nLed by eco-union, it aims to Increase the capacity of governments and CSOs to implement participatory methods in an inclusive and deliberative way  to design adaptation pathways and NBS.\nLed by Plan Bleu, it aims to integrate the outcomes of the participatory engagement processes in the ICZM and MSP plans and governance structures of the project pilot areas  through action.\nLed by PAP/RAC, it aims to increase the capacity of ICZM/MSP authorities and CSOs beyond the project regions to design participatory processes to integrate climate adaptation within coastal and maritime plans and governance.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Inclusive Coastal Resilience in the Euro-Med",
+          "description": "INCORE-MED brings citizens back into the heart of coastal planning. In Italy, Spain, Portugal, and Croatia, the project tests two advanced participation tools to improve coastal and marine policies: SWAP and Democracy Labs.\nThe SWAP tool (Scenario Workshops + Adaptation Pathways) helps local actors co-design realistic climate adaptation plans by blending community visions with expert climate projections, using scenario mapping and multicriteria analysis. As for Democracy Labs, it creates discussion spaces where citizens and authorities co-develop new rules and formats for public engagement in marine planning.\nThese tools are deployed to: 1) create and update participatory cartographies and climate risk perception maps; 2) integrate nature-based solutions in local action plans; 3) disseminate the methodology to new territories through methodological insights and online courses.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Led by NKUA It aims to create the conditions and guidelines  for all partners to be able to implement the project with maximum quality, efficiency and ethical responsibility to guarantee a high impact.\nLed by eco-union, it aims to Increase the capacity of governments and CSOs to implement participatory methods in an inclusive and deliberative way  to design adaptation pathways and NBS.\nLed by Plan Bleu, it aims to integrate the outcomes of the participatory engagement processes in the ICZM and MSP plans and governance structures of the project pilot areas  through action.\nLed by PAP/RAC, it aims to increase the capacity of ICZM/MSP authorities and CSOs beyond the project regions to design participatory processes to integrate climate adaptation within coastal and maritime plans and governance.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31598,
+      "acronym": "RECIRCLE MED",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Supporting the implementation of blue and circular tourism in the Mediterranean",
+          "description": "Le projet RECIRCLE MED pour un tourisme côtier durable se distingue par deux caractéristiques principales.\nPremièrement, il intègre deux approches souvent considérées séparément : l’économie circulaire, c’est-à-dire la réutilisation des ressources, et l’économie bleue, c’est-à-dire la protection des zones côtières. Comment ? En s’appuyant sur les outils et les résultats de deux projets précédents ayant connu du succès : INCIRCLE et REBOOT MED.\nDeuxièmement, en apportant ces approches à de plus petites destinations touristiques qui n’ont ni les capacités ni les resources financières pour les mettre en œuvre. Comment ? Grâce à un processus de transfert progressif qui facilite leur adoption et garantit l’élaboration de plans locaux adaptés à leurs besoins.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To integrate the knowledge and solutions of past projects into one single product and facilitate its transferring to other coastal destinations of the Mediterranean region.\nTo transfer available tools, which foster sustainability in coastal tourism destinations, to other territories and facilitate their incorporation into their activities, policies and strategies at different levels.\nTo upscale the transferred knowledge and results with the aim to promote their incorporation at a political, national and European, level, covering different spatial scales, and ensure sound and long term replicability.\n",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Supporting the implementation of blue and circular tourism in the Mediterranean",
+          "description": "The RECIRCLE MED project for sustainable coastal tourism has two characteristics that make it stand out.\nFirst, it integrates two approaches that are often considered separately: the circular economy, i.e. the reuse of resources, and the blue economy, i.e. the protection of coastal areas. How? By building on the tools and results of two previous successful projects: INCIRCLE and REBOOT MED.\nThen, by bringing these approaches to smaller tourist destinations that do not have the capacity or funding to implement them. How? Through a step-by-step transfer process that facilitates their adoption and ensures the development of local plans tailored to their needs.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To integrate the knowledge and solutions of past projects into one single product and facilitate its transferring to other coastal destinations of the Mediterranean region.\nTo transfer available tools, which foster sustainability in coastal tourism destinations, to other territories and facilitate their incorporation into their activities, policies and strategies at different levels.\nTo upscale the transferred knowledge and results with the aim to promote their incorporation at a political, national and European, level, covering different spatial scales, and ensure sound and long term replicability.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 855,
+    "partners": 647,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    32769,
+    32768,
+    32767,
+    32766,
+    32765,
+    32764,
+    32763,
+    32762,
+    32761,
+    32760,
+    32759,
+    31598,
+    31597,
+    31596,
+    31595,
+    31594,
+    31593,
+    31592,
+    31591,
+    31590,
+    31589,
+    31588,
+    31587,
+    31586,
+    31585,
+    30105,
+    30104,
+    30103,
+    30102,
+    30101,
+    29256,
+    29255,
+    29254,
+    29253,
+    29252,
+    29251,
+    29250,
+    29249,
+    29248,
+    29247,
+    29246,
+    29245,
+    29244,
+    29243,
+    29242,
+    29241,
+    29240,
+    29239,
+    29238,
+    29237,
+    29236,
+    29235,
+    29234,
+    29233,
+    29232,
+    29231,
+    29230,
+    29229,
+    29228,
+    29227,
+    29226,
+    29225,
+    29224,
+    29223,
+    29222,
+    29221,
+    29220,
+    29219,
+    29218,
+    29217,
+    29216,
+    29215,
+    29214,
+    29213,
+    29212,
+    29211,
+    29210,
+    29209,
+    28812,
+    28811,
+    28810,
+    27712,
+    27711,
+    27710,
+    27709,
+    27708,
+    27707,
+    27706,
+    27705
+  ]
+}

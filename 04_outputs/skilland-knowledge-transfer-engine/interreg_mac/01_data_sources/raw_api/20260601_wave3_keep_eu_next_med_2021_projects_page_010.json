@@ -1,0 +1,261 @@
+{
+  "current": 10,
+  "next": null,
+  "previous": "https://keep.eu/api/search/projects/?page=9",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33217,
+      "acronym": "WISEMED (ex)~A_T_2.3_0390",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "MEDiterranean joint Water management and conservatIon SustainablE solutions",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 064. Water management and water resource conservation (including river basin management, specific climate change adaptation measures, reuse, leakage reduction)\n~\nSUMMARY: MEDWISE addresses the challenge of improving SWM in agriculture, the main water-withdrawing sector and a major water polluter. The project starts from:\n- a multi-stakeholders participatory water planning methodology based on PPs experience and developed within Horizon-Prima project Gotham;\n- a range of field solutions for improving irrigation at different innovation maturity stages, coming from other projects and broader experiences of PPs.\nMEDWISE capitalizes on this basis to run an improved SWM cycle: WP3-planning, WP4-field piloting, WP5-evaluation, followed by: WP6-policy-making and enabling environment actions, impacting on:\n- further uptake of irrigation solutions at water-user level, consistently with sustainable water plans at basin level, overcoming a misalignment between water conservation and water productivity that is a major concern today (e.g. “improved” irrigation solutions overexploiting vanishing waters);\n- more effective policy-making, based on structured ex-post evaluation of field experiences and bottom-up feedbacks from the field;\n- a more conducive broader enabling ecosystem, engaging product/service providers, (micro)finance players, extension services and institutions in alliances that support effective SWM practices beyond project conclusion (legacy).\n\nMEDWISE PPs from 5 countries (JOR, TUN, LBN, ESP, ITA) and APs from further 3 (EGY, TUR, GRC), as a group of cooperating entities, ensure relevance at Med basin level, attracting others to replicate. Transnational cooperation is at the core of project methodology, where PPs/APs with relevant experience provide support to other PPs/APs needing it, in a mutual exchange of practices going until the guidance in fieldwork within a structured cooperation framework. Final Beneficiaries: 1288 farmers (5.145ha), 1200 WM stakeholders, 600 extension agents/technicians, population in target areas (616.772 people), 20 additional PPs&APs peer entities from 7 additional Med basin countries.\n~\nKEEP KEYWORDS: Climate change and biodiversity, Knowledge and technology transfer, Water management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the adoption of integrated sustainable water management measures in irrigated agriculture at Mediterranean basin level\n~\nEXPECTED RESULT: Enhanced access to tested and up-scaled sustainable irrigation solutions ensuring water-efficiency and NCW use\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the adoption of integrated sustainable water management measures in irrigated agriculture at Mediterranean basin level\n~\nEXPECTED RESULT: Enhanced access to tested and up-scaled sustainable irrigation solutions ensuring water-efficiency and NCW use\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the adoption of integrated sustainable water management measures in irrigated agriculture at Mediterranean basin level\n~\nEXPECTED RESULT: Enhanced access to tested and up-scaled sustainable irrigation solutions ensuring water-efficiency and NCW use\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the adoption of integrated sustainable water management measures in irrigated agriculture at Mediterranean basin level\n~\nEXPECTED RESULT: Enhanced access to tested and up-scaled sustainable irrigation solutions ensuring water-efficiency and NCW use",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33216,
+      "acronym": "RESWATER(ex)~A_T_2.3_0417",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Non Conventional Water Resources for Resilient Urban Water Management",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 064. Water management and water resource conservation (including river basin management, specific climate change adaptation measures, reuse, leakage reduction)\n~\nSUMMARY: The cumulative impacts of climate change and demographic shifts in the Mediterranean will increase both the stress on freshwater resources and the difficulties in all countries to sustain water supply security (WSS). This joint challenge will be particularly felt in urban coastal catchments (UCC) who suffer water deficits due to high population densities and limited inland natural freshwater resources, which resources are further threatened by anthropogenic pollution and sea-water intrusion. In UCCs municipal water demand becomes the predominant demand factor in the catchment water balance, and hence a water management priority.\n \nNCWR RUWM focuses on urban water demand hotspots and will identify trends in water resources availability and water demand development to assess inherent future risks to WSS. The assessment will identify future alternative opportunities and develop resilient Urban Water Management Plans (UWMPs) for sustaining WSS which complement current solutions, namely centralized supply augmentation measures such as (basin-scale) sea-water desalination, the construction of dams for surface water reservoirs and/or end-of pipe wastewater treatment.\n\nNCWR RUWM will therefore explore the potential application of alternative water demand management solutions based on the application of small scale decentralized NCWR technologies, providing opportunities for addressing urban water demand at the point of use without increasing the dependence on freshwater resources. Decentralized NCWR technologies, if integrated in UWMPs can ensure a sustainable and reliable water management framework for UCCs.\n\nOutcomes are beneficial for national and municipal authorities in enabling future climate-proof UWMPs (adaptation), and to all water consumers in ensuring long-term WSS as well as lower consumption and associated water bills. NCWR RUWM solutions will also lead to lower GHG emissions entailing a broad climate change mitigation benefit to the region.\n~\nKEEP KEYWORDS: Knowledge and technology transfer, Urban development, Water management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Specific Objective 2.3 - Urban Water Management Plans: Integration and adaptation of water management plans and policy formulation promoting water efficiency and water-related climate change adaptation water saving frameworks.\n~\nEXPECTED RESULT: Urban Water Management Plans which increase the resilience of urban water management through the mainstreaming of decentralized non conventional water resources solutions.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Specific Objective 2.3 - Capacity Building Platform: Transnational initiative on technology transfer and utilization of research outcomes adapted to local needs intended to build local and regional capacity related to the application of NCWR solutions to increase water efficiency in the urban sector\n~\nEXPECTED RESULT: Establishment of la comprehensive capacity building platform based on:\n(i) Local Living Labs\n(ii) Regional Community of Practice (to be  continued beyond project timeline)\n(iii) Regional Training Course\n(iv) MOOC (to be continued beyond project timeline\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Specific Objective 2.3 - Urban Water Management Plans: Integration and adaptation of water management plans and policy formulation promoting water efficiency and water-related climate change adaptation water saving frameworks.\n~\nEXPECTED RESULT: Urban Water Management Plans which increase the resilience of urban water management through the mainstreaming of decentralized non conventional water resources solutions.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Specific Objective 2.3 - Capacity Building Platform: Transnational initiative on technology transfer and utilization of research outcomes adapted to local needs intended to build local and regional capacity related to the application of NCWR solutions to increase water efficiency in the urban sector\n~\nEXPECTED RESULT: Establishment of la comprehensive capacity building platform based on:\n(i) Local Living Labs\n(ii) Regional Community of Practice (to be  continued beyond project timeline)\n(iii) Regional Training Course\n(iv) MOOC (to be continued beyond project timeline",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 7,
+          "title": "Urban development"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33215,
+      "acronym": "MEDAIGENCY()~A_T_3.2_0018",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Health in Crisis: Harnessing AI for Resilience",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 160. Measures to improve the accessibility, effectiveness and resilience of healthcare systems (excluding infrastructure)\n~\nSUMMARY: Advancements in Artificial Intelligence (AI) bring about opportunities to not only transform health risks governance but also healthcare access, equity, and system resilience in the face of emergencies and crises. Emergency management, with its five stages (prevention, mitigation, preparedness, response, recovery), has had an integral role in reducing the vulnerability of communities to the impact of predictable and unpredictable disasters. The Med region is fraught with increasing frequency and severity of transnational compounded shocks, ranging from natural disasters (earthquakes, floods, forest fires, etc.), human-made crises such as conflicts and wars to pandemics, causing mass injuries, loss of lives, destruction, and displacement, leaving a heavy toll on the most developed healthcare systems. The experience of the past few years, highlighted the need for multi-stakeholder transnational efforts to develop innovative solutions to enhance resilience in the face of those complex and protracted challenges. The Sendai Framework for Disaster Risk Reduction, established four priorities of action, two of which are at the heart of this proposal: “Strengthening disaster risk governance to manage disaster risk” and “Investing in disaster risk reduction for resilience”. \n\n\nAIGENCY will match needs to AI opportunities (WP3), adapt the technologies to the context and pilot the resulting transnational AI-powered solutions with regional and local actors (WP3), enhance the “agency” of stakeholders (WP4), and scale-up the adoption of the solutions to improve health resilience before, during and after “shocks” (WP5). For such a transnational endeavor to succeed it has to engage beneficiaries throughout the life of the project and beyond (WP3, 4, 5) (community-based groups, decision-makers, emergency first responders, medical & health professionals, academic institutions and technology developers & innovators), and must be designed with ethics and privacy front and center (WP5).\n~\nKEEP KEYWORDS: Health and social services, Knowledge and technology transfer, Managing natural and man-made threats, risk management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop transnational AI-powered solutions aiming to improve emergency management and subsequently, the capacity of policymakers, service providers, and community groups, to efficiently and effectively prepare, respond, and recover from crises affecting health.\n~\nEXPECTED RESULT: Jointly developed, piloted, and adopted AI-powered transnational solutions supporting health systems resilience; and demonstrated capacity of emergency actors to govern health crises and enhance equitable access to quality services during and after crisis\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop transnational AI-powered solutions aiming to improve emergency management and subsequently, the capacity of policymakers, service providers, and community groups, to efficiently and effectively prepare, respond, and recover from crises affecting health.\n~\nEXPECTED RESULT: Jointly developed, piloted, and adopted AI-powered transnational solutions supporting health systems resilience; and demonstrated capacity of emergency actors to govern health crises and enhance equitable access to quality services during and after crisis\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop transnational AI-powered solutions aiming to improve emergency management and subsequently, the capacity of policymakers, service providers, and community groups, to efficiently and effectively prepare, respond, and recover from crises affecting health.\n~\nEXPECTED RESULT: Jointly developed, piloted, and adopted AI-powered transnational solutions supporting health systems resilience; and demonstrated capacity of emergency actors to govern health crises and enhance equitable access to quality services during and after crisis",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33214,
+      "acronym": "GREENMEDPORTS~A_T_2.1_...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Green Ports Cluster for a Sustainable Mediterranean Maritime and Transport Ecosystem",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 044. Energy efficiency renovation or energy efficiency measures regarding public infrastructure, demonstration projects and supporting measures\n~\nSUMMARY: Maritime transport, responsible for 90% of international trade goods and 12% of the world's GDP, faces substantial environmental challenges, particularly in the Mediterranean Sea. This strategic transit lane, linking Europe with other continents, experiences heavy traffic, leading to significant environmental impacts.The European Commission aims to make Europe carbon-neutral by 2050, targeting a 55% reduction in greenhouse gas emissions by 2030.Transport accounts for nearly a quarter of Europe's emissions, with maritime transport contributing 13.5% of these emissions and significant sulphur dioxide (SO2) pollution. Despite improvements, maritime transport still needs to address decarbonization and pollution reduction comprehensively at a transnational level. Against this background the GREENMEDPORTS project aims to establish a sustainable Mediterranean maritime and transport ecosystem,a GREENMEDPORTS Cluster, supporting the development of pilot actions centered on a Carbon Footprint Platform (CFP), and establishing a Green Label Port certification system. Through these initiatives, the project seeks to promote collaboration among port authorities, freight forwarders, and other stakeholders, digitize port processes, and define common standards and strategies for emission reduction and sustainable transport practices, enhancing resilience and economic development. By fostering cooperation among port authorities and freight operators from Italy, Algerie, Egypt, Malta, Jordan, and Tunisia, the Project will set up a Transnational Cooperation Network, driving the set up of a Strategy to transiting the Mediterranean maritime sector from fossil-based to carbon-neutral operations. The proposed Green Label, tested in six port areas, aims to attract interest from several port authorities and organisations. Through transnational collaboration and knowledge sharing, the project seeks to pave the way for a greener and more sustainable maritime future in the Mediterranean region.\n~\nKEEP KEYWORDS: Energy efficiency, Institutional cooperation and cooperation networks, Logistics and freight transport",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Establish a resilient Transnational Cooperation Community (TCC) at the Mediterranean level, comprising port community actors, as a collaborative environment where best practices, technical knowledge, and innovations are shared among stakeholders to reduce emissions from maritime transport\n~\nEXPECTED RESULT: Set up 6 Local Green Port Hubs in Italy, Egypt, Algeria, Jordan, Malta, and Tunisia, along with one TCC. This initiative aims to encourage the adoption of the CFP and the Green Label Port certification system, which will help to decrease the environmental impact of ports and logistics operations\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Design, implement, and test the Carbon Footprint Platform (CFP), fed by site-specific pilot activities, to monitor the movements of ships in real-time to track emissions and make operational decisions for sustainable and energy-efficient sea and land-side operations\n~\nEXPECTED RESULT: Development of a digital platform (i.e., the CFP) as a common tool to be transnationally shared by all different stakeholders involved in the project and implemented in five pilot areas, complemented by pilot actions aiming to decarbonise the sector\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Establish a resilient Transnational Cooperation Community (TCC) at the Mediterranean level, comprising port community actors, as a collaborative environment where best practices, technical knowledge, and innovations are shared among stakeholders to reduce emissions from maritime transport\n~\nEXPECTED RESULT: Set up 6 Local Green Port Hubs in Italy, Egypt, Algeria, Jordan, Malta, and Tunisia, along with one TCC. This initiative aims to encourage the adoption of the CFP and the Green Label Port certification system, which will help to decrease the environmental impact of ports and logistics operations",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 19,
+          "title": "Transport and mobility"
+        },
+        {
+          "id": 27,
+          "title": "Logistics and freight transport"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33213,
+      "acronym": "RESt4GREEN~A_T_2.1_0483",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Energy efficiency, Renewable Energy Sources and smarT energy conservation for improved quality of life and a GREENer Mediterranean",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 044. Energy efficiency renovation or energy efficiency measures regarding public infrastructure, demonstration projects and supporting measures\n~\nSUMMARY: The primary energy consumption in the Mediterranean (MED) Basin from 1980 to 2016 has steadily increased by approximate 1.7% annually, whilst the energy demand in the south-east MED countries is expected to rise nearly 118% by 2040 (MedECC, 1st Assessment Report). In the MENA region, the energy consumption in the building sector is about 17% of overall energy consumption and 40-45% of total electricity consumption. In EU, based on the Energy Performance of Buildings Directive, 85% of the buildings were built before 2000 and amongst those, 75% have a poor energy performance, around 40% of energy is used in buildings and over 1/3 of the energy related GHG emissions come from buildings. RESt4GREEN includes experienced partners with complementary skills working together to develop sustainable transnational transferable solutions, i.e. roadmap for Energy Efficiency (EE) & RESt outdoor areas (a combination of solar trees and smart solar benches), to be adopted to improve the energy performance of public buildings and enhance the aesthetic and utility of outdoor areas, thus benefitting PPs and their local environment, SMEs, local/regional/national authorities. Pilots include 6 energy renovation projects and 6 innovative RESt areas in 7 countries. Within the Mediterranean Quadruple Helix Cross-Border Community, RESt4GREEN will succeed: building capacity, readiness and effectiveness of citizen/stakeholder/institutional change of mindset to drive behavioral and cultural change towards the sustainability in the MED basin. The community will communicate through the RESt4GREEN platform which will serve as a hub for EE, including: academy for EE, training material and energy games, forum for communication, energy monitoring of the pilots. The empirical and evidence-based analysis will ultimately result in a policy document for the reform of institutional and policy instruments that will seal the results of the project and allow the transition to a greener Mediterranean for all.\n~\nKEEP KEYWORDS: Energy efficiency, Green technologies, Renewable energy",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: The objective is to demonstrate the benefits of measures related to energy efficiency, solar energy, and energy management through the jointly implemented pilots; and support users in improving their quality of life by achieving an impact at multiple levels: technical, societal, and regulatory.\n~\nEXPECTED RESULT: The development of a joint roadmap for energy efficiency & for the solar self-illuminated outdoor areas with the smart benches for the pilot demonstration, a platform to strengthen energy efficiency in the MED area and a policy paper on the reform of institutional and policy instruments.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: The objective is to demonstrate the benefits of measures related to energy efficiency, solar energy, and energy management through the jointly implemented pilots; and support users in improving their quality of life by achieving an impact at multiple levels: technical, societal, and regulatory.\n~\nEXPECTED RESULT: The development of a joint roadmap for energy efficiency & for the solar self-illuminated outdoor areas with the smart benches for the pilot demonstration, a platform to strengthen energy efficiency in the MED area and a policy paper on the reform of institutional and policy instruments.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: The objective is to demonstrate the benefits of measures related to energy efficiency, solar energy, and energy management through the jointly implemented pilots; and support users in improving their quality of life by achieving an impact at multiple levels: technical, societal, and regulatory.\n~\nEXPECTED RESULT: The development of a joint roadmap for energy efficiency & for the solar self-illuminated outdoor areas with the smart benches for the pilot demonstration, a platform to strengthen energy efficiency in the MED area and a policy paper on the reform of institutional and policy instruments.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

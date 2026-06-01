@@ -1,0 +1,409 @@
+{
+  "current": 1,
+  "next": "https://keep.eu/api/search/projects/?page=2",
+  "previous": null,
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 27366,
+      "acronym": "ZeroCO2MED",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Transition vers des projets Interreg MED climatiquement neutres",
+          "description": "Il est de plus en plus nécessaire d'évaluer la performance des projets financés par des fonds publics, non seulement en termes de résultats scientifiques, mais aussi dans une perspective de durabilité. Les principaux résultats du projet ZeroCO2MED seront: (i) le développement d'une méthodologie de comptabilité / atténuation / compensation de l'empreinte carbone couvrant QUI, COMMENT, QUAND et QUOI mesurer lors de l'évaluation de l'empreinte carbone des projets et (ii) un logiciel convivial qui comprend la méthodologie comptable et des outils pour faciliter le processus de prise de décision pour la mise en œuvre de stratégies rentables d'atténuation de l'empreinte carbone et d'options de haute qualité pour compenser les émissions restantes. Les résultats obtenus permettront de comprendre les émissions de carbone du projet et leur contribution actuelle et future à la neutralité climatique. ZeroCO2MED constituera un bond en avant sur la manière dont la durabilité est intégrée au cœur des projets INTERREG MED et sur la manière dont leurs résultats peuvent soutenir les territoires ainsi que les politiques nationales et régionales pour atteindre les objectifs fixés dans le pacte vert de l'UE.ZeroCO2MED est formé d'un partenariat hautement qualifié et transdisciplinaire couvrant tous les domaines d'expertise requis (ex: émissions de gaz à effet de serre, optimisation de la performance environnementale, programmation ainsi que compétences en communication et formation).",
+          "expected_results": "1 Méthodologie, outil et mesures de compensation de l'empreinte carbone : NA1 Méthodologie, outil et mesures de compensation de l'empreinte carbone : NA",
+          "achievements": null,
+          "expected_outputs": "Méthodologie et outil incluant méthode de calcul des émissions de carbone, outil d'aide à la décision pour limiter les émissions du projet, actions de compensation et plan de coûts; :1,Lignes directrices pour la mise en œuvre de la méthodologie :1",
+          "delivered_outputs": "Nombre d'outils de planification visant à développer des plans énergétiques comprenant des sources locales d'énergies renouvelables, Population des îles couverte par des plans, Population des zones rurales couvertes par des plans, Nombre de modèles pour développer des plans d'action comprenant des sources locales d'énergies renouvelables dans l'ensemble du mix énergétique, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à augmenter la part des sources locales d'énergies renouvelables dans l'ensemble du mix énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Transition towards climate-neutral Interreg MED projects",
+          "description": "There is a growing need to evaluate the performance of public funded projects, not only in terms of scientific outputs but also from a sustainability perspective. The main outputs of ZeroCO2MED project will be: (i) the development of a carbon footprint accounting/mitigation/compensation methodology covering WHO, HOW, WHEN and WHAT to measure when assessing the carbon Footprint of projects and (ii) a user-friendly software that includes the accounting methodology and tools to facilitate the decision-making process for the implementation of cost-effective carbon footprint mitigation strategies and high-quality options to offset the remaining emissions. The results obtained will help to understand the project’s carbon emissions and their current and future contribution to achieve climate neutrality. ZeroCO2MED will be a leap forward on how sustainability is integrated at the heart of INTERREG MED projects and how their outputs can support territories as well as national and regional policies to achieve the targets set in the EU Green DealZeroCO2MED is formed by highly qualified and transdisciplinary partnership covering all required fields of expertise (e.g., greenhouse gases emissions, methodology development, optimization of environmental performance, programming and modelling as well as skills in communication and training). UVIC, the project leader, has strong and demonstrated leadership capacities as demonstrated in several Interreg (and other) projects.",
+          "expected_results": "1 Carbon footprint methodology, tool and compensation measures : An ad-hoc methodology taking into consideration the specificities of the Interreg MED Programme will be developed and it will cover WHO, HOW, WHEN and WHAT to measure (e.g., what activities and flows, timeframe, exclusions, etc.) when assessing the carbon footprint of projects. Based on the methodology, a tool will be developed which will include the emission models, greenhouse gas emissions calculations, optimization for decision making and a database to store, retrieve and analyse the data.Moreover, a detailed inventory of compliant compensation actions adapted to the Programme specificities will be collected and categorized to be matched with the GHG emissions from projects, in order to promote the implementation of GHG offsetting actions for the share of emissions that cannot be avoided through reduction strategies.1 Carbon footprint methodology, tool and compensation measures : An ad-hoc methodology taking into consideration the specificities of the Interreg MED Programme will be developed and it will cover WHO, HOW, WHEN and WHAT to measure (e.g., what activities and flows, timeframe, exclusions, etc.) when assessing the carbon footprint of projects. Based on the methodology, a tool will be developed which will include the emission models, greenhouse gas emissions calculations, optimization for decision making and a database to store, retrieve and analyse the data.Moreover, a detailed inventory of compliant compensation actions adapted to the Programme specificities will be collected and categorized to be matched with the GHG emissions from projects, in order to promote the implementation of GHG offsetting actions for the share of emissions that cannot be avoided through reduction strategies.",
+          "achievements": null,
+          "expected_outputs": "Methodology and tool including method of carbon emissions calculation, decision-support tool to limit the project emissions, compensation actions and plan of costs :1,Guidelines for implementation of the methodology :1",
+          "delivered_outputs": "Number of planning tools to develop energy plans including local RES, Population of islands covered by plans, Population of rural areas covered by plans, Number of models to develop action plans including local RES in energy mix, Number of regions and sub-regions engaged (through charters, protocols, MoU) in increasing share of local RES in energy mix, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27365,
+      "acronym": "STEPPING PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": "Des mécanismes financiers innovants, tels que les contrats de performance énergétique (EPC) peuvent être un outil précieux pour encourager les investissements dans la rénovation énergétique des bâtiments publics. Grâce à STEPPING, les 3 partenaires GIVER ont acquis une bonne expérience dans le domaine et peuvent désormais transférer les principaux résultats obtenus, les lignes directrices MED EPC et l'outil de simulation à 6 RÉCEPTEURS. Cela se fera grâce à la valeur ajoutée d'une approche transnationale qui permet de mutualiser différentes solutions. La mise en œuvre de l'EPC est une entreprise complexe qui nécessite des compétences spécifiques à acquérir grâce à une expérience pratique. Compte tenu de cela, les donateurs sont ceux qui ont obtenu les résultats les plus importants en STEPPING, tandis que les récepteurs sélectionnés seront divisés en 2 groupes différents. Le premier comprend 3 institutions placées dans les territoires des donateurs: elles seront soutenues par une approche de transfert individuel et travailleront avec une approche d'apprentissage par la pratique qui fournira la rédaction d'un plan d'investissement EPC. Les 3 autres destinataires ne sont pas des nouveaux venus dans l'EPC, car l'efficacité du transfert est maximisée si une solide connaissance du concept EPC est déjà en place, et seront impliqués dans des programmes d'apprentissage mutuel et d'échange. Ils développeront un plan d'action pour le déploiement futur de l'EPC dans leur région.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Programme d'investissement dans un contrat de performance énergétique :14,Plans d'action EPC :3",
+          "delivered_outputs": "Nombre d'outils de planification disponibles pour le suivi et la gestion de la consommation énergétique dans les bâtiments publics, Nombre de stratégies en faveur des plans de gestion de la consommation énergétique dans les bâtiments publics, Nombre de groupes cibles participant aux activités de sensibilisation sur l'efficacité énergétique pour les bâtiments publics, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à développer des plans/stratégies d'efficacité énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "STEPPING PLUS",
+          "description": "Innovative financial mechanism, such as Energy Performance Contracting (EPC) can be a valuable tool to foster investments in energy refurbishment of public buildings. Due to the former STEPPING project, the 3 GIVER Partners, coming from Italy and France, have acquired good experience in the specific field and can now transfer their knowledge and the main outputs achieved, the MED EPC guidelines and the Simulation Tool to 6 RECEIVERS. This will be done thanks to the added value of a transnational approach that allows to mutualize different solutions. The implementation of EPC is a complex undertaking which requires specific skills to be gained through practical experience. Given this, the Givers are those that obtained the most important results in STEPPING, while the selected Receivers will be divided into 2 different groups. The first one includes 3 institutions placed in the Givers territories: they will be supported with a one-to-one transferring approach and will work together with a learning by doing approach that will provide the drafting of one EPC Investment Plan in each region. The other 3 Receivers, placed in Slovenia and Spain, are not new comer in EPC, since the effectiveness of the transferring is maximized if a solid EPC concept knowledge is already in place, and will be involved in mutual learning and exchange programs. By consequence, they will develop an Action Plan for the roll out of EPC in the future in their region.",
+          "expected_results": "1 EPC MED Guideline and related simulation tool transfeered : The Receivers partners will be supported In Piemonte, the Region will support FCSP in the knowledge transfer with a learning by doing process that will lead to the preparation of an EPC Investment Plan, based on the bundling approach. A target of about 20 buildings is planned belonging to several Local Authorities. This will trigger about 2 M€ of energy efficiency investments.In Emilia, the AESS will support CMBO in the knowledge transfer with a learning by doing process that will lead to the preparation of an EPC Investment Plan, based on the bundling approach. A target of about 28 buildings is planned belonging to 4 Municipalities. This will trigger about 3,5 M€ of energy efficiency investments.In Occitane, the AURA-EE will support AREC OCCITANIE in the knowledge transfer with a learning by doing process that will lead to the preparation of an EPC Investment Plan, based on the bundling approach. A target of about 8 buildings is planned belonging to 4 Municipalities. This will trigger about 4 M€ of energy efficiency investments.In Slovenia and Spain, LEAP (SI), KSSENA (SI) and DGI (ES) will participate in the transferring program activities as described in the Work Plan and will draft and Action Plan on how they can integrate the transfered STEPPING outputs in their territory, paving the way to an EPC implementation in the future. This Plan will require regional stakeholders consultation and preliminary investigation of future investment program in the public building sector.1 EPC MED Guideline and related simulation tool transfeered : The Receivers partners will be supported In Piemonte, the Region will support FCSP in the knowledge transfer with a learning by doing process that will lead to the preparation of an EPC Investment Plan, based on the bundling approach. A target of about 20 buildings is planned belonging to several Local Authorities. This will trigger about 2 M€ of energy efficiency investments.In Emilia, the AESS will support CMBO in the knowledge transfer with a learning by doing process that will lead to the preparation of an EPC Investment Plan, based on the bundling approach. A target of about 28 buildings is planned belonging to 4 Municipalities. This will trigger about 3,5 M€ of energy efficiency investments.In Occitane, the AURA-EE will support AREC OCCITANIE in the knowledge transfer with a learning by doing process that will lead to the preparation of an EPC Investment Plan, based on the bundling approach. A target of about 8 buildings is planned belonging to 4 Municipalities. This will trigger about 4 M€ of energy efficiency investments.In Slovenia and Spain, LEAP (SI), KSSENA (SI) and DGI (ES) will participate in the transferring program activities as described in the Work Plan and will draft and Action Plan on how they can integrate the transfered STEPPING outputs in their territory, paving the way to an EPC implementation in the future. This Plan will require regional stakeholders consultation and preliminary investigation of future investment program in the public building sector.2 The EPC Simulation tool upgraded : Thanks to the further experience developed in STEPPING EXPANDED, the EPC Simulation Tool will be upgraded with some additional functionalities that will increase the userability of it. This is done to let the tool being more disseminated even after the project end to the whole MED area. The upgrading will make the use of the tool feasible with less efforts and with a more guided procedure.",
+          "achievements": "Although the project timescales were tight and bottlenecks insidious, the project successfully achieved all the objectives and outputs set, also laying the foundations for future concrete developments. The partnership has consistently worked on the project in a constructive way. The 2nd project meeting was organised online on February the 10th 2022. Within December 2021 the interactive training program set up by Giver partners was completed including video, workshops and Q&A sessions. The feedback from Receivers partners was very positive, as they could focus the discussion on concrete doubts, clarifications and needs. All the training material was also disseminated through the project website. The Givers succeeded in the transferring process by supporting step by step the Receivers thanks to a \"learning by doing\" model. Three of them, coming from the Piedmont, Emilia Romagna (IT) and Occitanie (FR) regions, developed an EPC Investment Plan, which led to the formal engagement of 15 administrations, with a stock of 38 buildings and almost 14M€ of investments triggered in addition to the preparation of documents for EPC calls launch. The other Receivers, 2 from Slovenia and 1 from the Province of Girona, were able to draft their EPC Action Plan, which meant to carry out an in-depth territorial analysis, providing the involvement of about 220 municipalities with estimated investments of 66M€. The results achieved and the methodologies used were spread in the Receiver’s regions thanks to 5 dissemination events organised in May and June 2022 and participated by stakeholders and decision makers. The final conference was held in Girona on May 24, 2022 and attended by 40 participants, in person and online. Moreover the project was presented at 8 international events organised by other institutions, in particular during the final conferences of the Interreg Central Europe PROSPECT2030 and of the C-Track50 HORIZON2020 project. A database including all the stakeholders contacted during the project was set up. The development of the EPC simulation tool from a simple excel file to a web app was fine tuned. It is now freely available online for the institutions aiming to perform financial analysis of an EPC investment project bundling buildings belonging to different municipalities. It defines the conditions under which an ESCO can consider the investment sustainable from an economic and financial point of view, thus easing the EPC implementation in the MED Area.",
+          "expected_outputs": "EPC Investment Programs :14,EPC Action Plans :3",
+          "delivered_outputs": "Number of available planning tools to monitor and manage energy consumption in public buildings, Number of strategies supporting plans on energy consumption management for public buildings, Number of target groups participating in capacity raising activities on energy efficiency for public buildings, Number of regions and sub-regions engaged (through charters, protocols, MoU) in developing energy efficiency plans/strategies, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 10,
+          "title": "Construction and renovation"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27364,
+      "acronym": "ALTER ECO PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Soutenir les processus d'intégration de l'outil de calcul de limite de capacité de charge pour améliorer les politiques et stratégies touristiques dans les territoires MED",
+          "description": "Les pressions du tourisme en MED sont un défi majeur pour son avenir durable en raison de sa saisonnalité et de son impact sur des zones géographiques limitées, qui entraînent une augmentation du besoin en ressources en eau et une augmentation de la production de déchets qui dépasse les limites de capacité de charge des destinations touristiques. De plus, Covid-19 impose d'autres restrictions. Si le tourisme peut contribuer à l'amélioration des conditions sociales et économiques locales, il peut également accroître les pressions environnementales et compromettre la préservation de l'identité et du patrimoine locaux. Therefore, improving tourism management is essential as well as improving understanding of the pressures in order to build concrete strategies towards a more sustainable and responsible tourism model for the MED area. ALTER ECO PLUS soutiendra des «processus d'intégration» pour améliorer les politiques publiques liées à la gestion du tourisme. Le point de départ est l'outil de calcul «Carrying Capacity Limit», outil / méthodologie pleinement opérationnel et fonctionnel, qui soutiendra le processus de décision et les mécanismes relatifs aux politiques de facilitation de l'absorption territoriale. L'objectif est d'intégrer l'outil en équilibrant les effets du développement touristique en termes de CCL, même au-delà du niveau de la destination locale.L'outil CCL fournira également des valeurs seuils sur le risque d'infection touristique à Covid 19.",
+          "expected_results": "1 MoU par les territoires récepteurs sur l'utilisation de l'outil CCL pour la planification et la gestion du tourisme : L'OMT définit le tourisme durable comme celui qui prend en compte les répercussions économiques, sociales et environnementales pour satisfaire les besoins des visiteurs, de l'industrie, de l'environnement et des communautés locales. Pour 2022, on s'attend à une forte croissance du tourisme qui nécessitera un gros effort pour offrir une réponse durable compte tenu d'une plus grande demande de moins de surpeuplement, ce qui implique la nécessité de contrôler la capacité de charge touristique (CC).La question du CC a jusqu'à présent été abordée principalement au niveau de la ressource touristique et plus récemment au niveau de la destination touristique, mais travailler à l'échelle régionale / nationale est l'un des besoins identifiés dans ALTER ECO afin de pouvoir adopter des mesures efficaces trouver un équilibre au niveau régional favorisant le transfert des touristes des destinations les plus stressées vers celles en dessous de leur CC optimal.4 MoU entre le projet et les entités publiques responsables de la gestion et de la planification du tourisme dans les régions / pays ciblés seront signés. Les MoU comprendront d'une part l'évaluation CCL des destinations représentatives sélectionnées par les territoires, ainsi que les mesures les plus appropriées à appliquer au niveau de la destination, obtenues automatiquement grâce à l'outil. D'autre part, les MoU incluront le résultat de l'analyse territoriale avec la proposition de modification des politiques publiques locales, régionales ou nationales et des plans de tourisme durable concernés. Enfin, un protocole pour surveiller le CCL dans le futur sera également inclus1 MoU par les territoires récepteurs sur l'utilisation de l'outil CCL pour la planification et la gestion du tourisme : L'OMT définit le tourisme durable comme celui qui prend en compte les répercussions économiques, sociales et environnementales pour satisfaire les besoins des visiteurs, de l'industrie, de l'environnement et des communautés locales. Pour 2022, on s'attend à une forte croissance du tourisme qui nécessitera un gros effort pour offrir une réponse durable compte tenu d'une plus grande demande de moins de surpeuplement, ce qui implique la nécessité de contrôler la capacité de charge touristique (CC).La question du CC a jusqu'à présent été abordée principalement au niveau de la ressource touristique et plus récemment au niveau de la destination touristique, mais travailler à l'échelle régionale / nationale est l'un des besoins identifiés dans ALTER ECO afin de pouvoir adopter des mesures efficaces trouver un équilibre au niveau régional favorisant le transfert des touristes des destinations les plus stressées vers celles en dessous de leur CC optimal.4 MoU entre le projet et les entités publiques responsables de la gestion et de la planification du tourisme dans les régions / pays ciblés seront signés. Les MoU comprendront d'une part l'évaluation CCL des destinations représentatives sélectionnées par les territoires, ainsi que les mesures les plus appropriées à appliquer au niveau de la destination, obtenues automatiquement grâce à l'outil. D'autre part, les MoU incluront le résultat de l'analyse territoriale avec la proposition de modification des politiques publiques locales, régionales ou nationales et des plans de tourisme durable concernés. Enfin, un protocole pour surveiller le CCL dans le futur sera également inclus",
+          "achievements": null,
+          "expected_outputs": "4 PdA par les territoires récepteurs sur l'utilisation de l'outil CCL pour la planification et la gestion du tourisme :4,Calcul de la limite de capacité de charge de 12 destinations touristiques :12",
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Underpinning mainstreaming processes of the Carrying Capacity Limit calculation tool to improve tourism policies and strategies in MED territories",
+          "description": "The pressures of tourism in MED are a major challenge for its sustainable future due to its seasonality and impact on limited geographic areas, which lead to an increase in the need for water resources and an increase in waste generation that exceeds carrying capacity limits (CCL) of tourist destinations. While tourism can contribute to the improvement of local social and economic conditions, it can also increase environmental pressures and jeopardize the preservation of local identity and heritage. Moreover, due to the Covid-19, social distancing imposes further limits on the CCL.Therefore, improving tourism management is essential as well as improving understanding of the pressures in order to build concrete strategies towards a more sustainable and responsible tourism model for the MED area. ALTER ECO PLUS will support \"mainstreaming processes\" to improve public policies related to tourism management. The starting point is the “Carrying Capacity Limit” calculation tool, a fully operational and functional tool/methodology, which will support the decision-making process and the mechanisms relating to policies to facilitate territorial absorption. The aim is to facilitate the integration of the tool which aims to balance the effects of tourism development taking into account the CCL and expanding the focus of tourism development beyond the local destination level. Our CCL tool will also provide threshold values on the risk of tourism Covid 19 pandemic contagion.",
+          "expected_results": "1 MoU by receiver territories on the use of the CCL tool for the tourism planning and management to improve tourism sustainability : The UNWTO defines sustainable tourism as that which considers the economic, social and environmental repercussions to satisfy the needs of visitors, industry, environment and local communities. For 2022, a great growth in tourism is expected that will require a great effort to offer a sustainable response considering a greater demand for less overcrowding and more social distance, which entails the need for controlling tourism carrying capacity (CC).The issue of CC has so far been addressed mainly at a tourist resource level and more recently at destination level, however to work on a regional/national scale is one of the needs identified in ALTER ECO in order to be able to adopt effective measures to find a balance at regional level favouring the transfer of tourists from the most stressed destinations to those below their optimal CC.4 MoUs among the project and the public entities responsible for the tourism management and planning of the targeted regions/country will be signed. They will include the CCL evaluation of the representative destinations selected by the territories, as well as the most appropriate measures to apply at destination level, obtained automatically through the tool. On the other hand, the MoUs will include the result of the territorial analysis with the proposal for modification of the public local, regional or national policies and sustainable tourism plans affected. Finally, a protocol to monitor the CCL in the future will also be included1 MoU by receiver territories on the use of the CCL tool for the tourism planning and management to improve tourism sustainability : The UNWTO defines sustainable tourism as that which considers the economic, social and environmental repercussions to satisfy the needs of visitors, industry, environment and local communities. For 2022, a great growth in tourism is expected that will require a great effort to offer a sustainable response considering a greater demand for less overcrowding and more social distance, which entails the need for controlling tourism carrying capacity (CC).The issue of CC has so far been addressed mainly at a tourist resource level and more recently at destination level, however to work on a regional/national scale is one of the needs identified in ALTER ECO in order to be able to adopt effective measures to find a balance at regional level favouring the transfer of tourists from the most stressed destinations to those below their optimal CC.4 MoUs among the project and the public entities responsible for the tourism management and planning of the targeted regions/country will be signed. They will include the CCL evaluation of the representative destinations selected by the territories, as well as the most appropriate measures to apply at destination level, obtained automatically through the tool. On the other hand, the MoUs will include the result of the territorial analysis with the proposal for modification of the public local, regional or national policies and sustainable tourism plans affected. Finally, a protocol to monitor the CCL in the future will also be included",
+          "achievements": "The activities of the period January-June 2022 aimed, particularly at calibrating and using the tool for calculating the tourism carrying capacity of the Alter Eco project in the destinations involved in the project as partner receivers (RPs); at the same time we operationally implemented the final mainstreaming process necessary to facilitate the use and integration of the tool in daily management of tourist flows in the MED area. The objectives, main steps and contents of mainstreaming were defined by each RPs in accordance with a realistic and feasible plan given their specific preparation and needs and that of the additional local territories that were involved in the application of the Tool during the second part of the project. Each RPs of the AlterEco project has in fact identified and involved 3 local destinations in the process, allowing to extend the mainstreaming process to a network of 12 destinations in the MED area. Each of them was trained in the use of the Tool through multilingual online courses held between Giver-Receiver partners, local workshops between RPs and stakeholders of the 12 destinations. For each destination it has trained a local contact person who guarantees dissemination and application of the Tool even after the end of the project. The training was followed by the development of a set of necessary supporting documents, including technical descriptions and tailored or customized methodologies, assisting the RPs and the other stakeholders of the 12 destinations to develop policy modifications and programming acts in the field of tourism flows management and TCC in accordance with the general objective of the project. The transnational approach and cooperation adopted has facilitated access and sharing of data, information, and practices otherwise difficult to obtainCooperation allowed us to implement recommendations and responses to flow management problems according to a broader vision of MED space. Cooperation has been materialized in 4 Memorandums of Understanding with which 3 MED coastal regions and 1 IPA country signed the proposals for a commitment to modify regional and local plans and policies on the basis of the analyzes and recommendations of the AlterEco project. These MoUs represents one of the two main outputs of the ALterECOPLus project together with the Tool for calculating the TCC.Outputs are available and usable by MED community in the official website of the project",
+          "expected_outputs": "4MoU by receiver territories on the use of the CCL tool for the tourism planning and management :4,Calculation of the carrying capacity limit of 12 tourism destinations :12",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27363,
+      "acronym": "WECAREMED",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "VERS LES OFFS CARBONE IN MED",
+          "description": "La région MED est l'une des zones les plus sensibles au changement climatique en Europe. Tout effort pour réduire l'empreinte carbone contribue à atténuer les impacts du changement climatique sur l'environnement méditerranéen, ses ressources et ses citoyens.WECAREMED propose un outil intégré permettant d'estimer les émissions de gaz à effet de serre générées par les activités des projets de coopération territoriale européenne (CTE), de guider la réduction des émissions de carbone \" à la source \", d'identifier des actions et des solutions spécifiques au sein du territoire MED à l'échelle internationale et locale des mesures de compensation carbone et leur plan de coûts.L'outil WECAREMED n'est pas seulement engagé dans l'objectif d'action climatique, mais, avec sa sous-section spécifique pour guider la recherche de solutions à court terme, il améliore également les avantages sociaux et environnementaux pour les communautés locales du territoire MED.Les partenaires viennent d'Italie, de Grèce et d'Espagne et ont une expérience et un profil complémentaires pour répondre pleinement aux objectifs de l'appel.L'outil sera testé sur différents projets CTE couvrant différents Objectifs Prioritaires du Programme MED 2021-27 ainsi que différentes tailles, typologies d'activités et profils de partenaires.",
+          "expected_results": "1 WECAREMED méthodologie et outil : N/A1 WECAREMED méthodologie et outil : N/A",
+          "achievements": null,
+          "expected_outputs": "Méthodologie et outil de compensation de l'empreinte carbone (WECAREMED tool) :1,Des lignes directrices de compensation de l'empreinte carbone :1",
+          "delivered_outputs": "Nombre d'outils de planification visant à développer des plans énergétiques comprenant des sources locales d'énergies renouvelables, Population des îles couverte par des plans, Population des zones rurales couvertes par des plans, Nombre de modèles pour développer des plans d'action comprenant des sources locales d'énergies renouvelables dans l'ensemble du mix énergétique, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à augmenter la part des sources locales d'énergies renouvelables dans l'ensemble du mix énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "ToWards thE CARbon offsEtting in MED",
+          "description": "The MED area is one of the most susceptible areas in Europe due to climate change. Any effort to reduce carbon footprint is an effort against climate change impacts on the Mediterranean environment, resources and citizens.WECAREMED will develop an integrated tool for MED projects that combines:\n\n1.\tthe estimation of GHG emissions generated by ETC project activities (the Carbon Footprint)\n\n2.\tguidelines to reduce carbon emissions 'at source'\n\n3.\tthe identification of offset measures to compensate carbon emissions\n\n4.\tthe evaluation of costs of mitigation measures (costs plan)WECAREMED tool is not only committed to the Climate Action Goal but, with its specific subsection for guiding in finding solutions within a short scale, it also enhances social and environmental benefits for the local communities of the MED territory.The partners come from Italy, Greece, and Spain and have complementary experience and profile to meet the call's objectives fully.The tool will be tested on different ETC projects covering different Priority Objectives of the MED Programme 2021-27 and different size, typologies of activities and partners profiles.",
+          "expected_results": "1 WECAREMED methodology and tool : WECAREMED proposes an integrated tool for estimating greenhouse gas emissions generated by European Territorial Cooperation (ETC) project activities, guiding in alternative scenario analysis for reducing carbon emissions 'at source' as much as possible, identifying concrete actions and solutions within the MED territory at international and local scales and finally planning financial investments for the adoption of carbon offsetting measures.1 WECAREMED methodology and tool : WECAREMED proposes an integrated tool for estimating greenhouse gas emissions generated by European Territorial Cooperation (ETC) project activities, guiding in alternative scenario analysis for reducing carbon emissions 'at source' as much as possible, identifying concrete actions and solutions within the MED territory at international and local scales and finally planning financial investments for the adoption of carbon offsetting measures.",
+          "achievements": "In the second part of the project (extended to Sept 2022 for an overall duration of 9 months), the partnership finalised all the deliverables and outputs agreed in the Application Form. The relation with the JS has been assured by the lead partners through period correspondance and online meetings, involving also the partnership accordin to the needs. From the technical point of view the methodology has been updated by AUTH, profiling the CF impacts of the new Memeber States and IPA of the EUROMED area 2021-27. Moreover a revision of some CF parameters enlarge the boundaries of the analysis, integrating Scope3 emissions in some key categories (transport, materials, electricity, water, equipment, prinatable deliverables). Those updates have been integrated in the tool by USE, with some additional functionalities: a) features to support the monitoring activity of the Managing Authority (codification of project step, direct calculation on the webapp of the call performances); b) higher degree of parameter variability to allow the scenario analysis; c) improvement of the performance analysis and monitoring. The compensation guidelines introduce additional offsetting projects in the list (including ENPI area) by CRIEP. The analysis of compensation opportunities highlighted a gap for local and sustainble projects. Therefore, imaging a new certification scheme that could better respond to sustainable principles, ARPAV and CRIEP, with the support of external expertise provided by UNI (Italian Standard Entity), produce a short briefing document describing the framework of the carbon compensation standards and new opportunities.The website of the project has been constantly updated by AUTH with the conferences participated by the partnership (ICOS Italy) and online articles and inforgraphics. Finally, AUTH did a special focus on data management in relation to carbon emissions, providing the state of the art of the estimation methods and some advices on how to reduce those carbon impacts.",
+          "expected_outputs": "Carbon footprint compensation methodology and tool (WECAREMED tool) :1,Carbon footprint compensation guidelines :1",
+          "delivered_outputs": "Number of planning tools to develop energy plans including local RES, Population of islands covered by plans, Population of rural areas covered by plans, Number of models to develop action plans including local RES in energy mix, Number of regions and sub-regions engaged (through charters, protocols, MoU) in increasing share of local RES in energy mix, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27362,
+      "acronym": "COASTING PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Transférer la gouvernance intégrée côtière pour un tourisme durable",
+          "description": "Afin de promouvoir le tourisme côtier durable conformément aux politiques de l'UE, COASTING PLUS s'appuie sur les efforts de COASTING pour introduire un outil de gouvernance intégrée du tourisme côtier durable dans le Méditerranéen. COASTING a abordé la fragmentation des responsabilités et politiques dans la gestion du tourisme côtier, en capitalisant un outil de gouvernance multi-niveaux (Contrat de baie) et en produisant une méthodologie commune pour mettre en place un processus participatif multisectoriel et multi-parties prenantes, conduisant à la signature d'un accord qui engage les acteurs publics/privés à mettre en œuvre une stratégie partagée.COASTING PLUS transférera ce produit dans 5 nouveaux territoires à travers la combinaison de sessions de formation et applications pratiques spécifiques au site, conduisant les partenaires destinataires et leurs associés et parties prenantes (supportés par les partenaires donateurs) à lancer processus de contrat côtier dans leurs régions.Le projet vise à 2 résultats:-au niveau local: signature de 5 protocoles (par les partenaires destinataires avec leurs associés et parties prenantes) comprenant des feuilles de route pour établir un contrat côtier pour le tourisme durable dans chaque nouvelle zone cible;-au niveau Med: signature d'un MoU pour l'adoption de la Méthodologie (par les PP destinataires), pour renouveler l'engagement à l’appliquer (par les PP donneurs), et pour promouvoir son transfert et adoption institutionnelle.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Protocoles locaux :5,Med MoU :6",
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Transferring Coastal Integrated governance for sustainable tourism",
+          "description": "In order to concretely promote sustainable coastal tourism in line with EU policies, COASTING PLUS builds upon COASTING efforts to introduce a tool for integrated governance of sustainable and responsible coastal tourism in Med area. COASTING tackled the fragmentation of responsibilities and policies in coastal tourism management, by capitalizing the experience of a multilevel governance tool (Coast Contract) and producing a common Methodology for establishing a multi-sectorial and multi-stakeholder participatory process, leading to the signature of an agreement through which public/private actors commit to implement a shared strategy. COASTING PLUS will transfer this output in 5 new territories through a transferring process combining training sessions and site-specific practical applications, which will lead the receiver partners (and their Associated partners and key stakeholders) in launching Coast Contract processes in target regions, with the technical support of giver partners.The project will achieve 2 main results: - at local level: signature of 5 protocols (by receivers with key stakeholders and APs) including site-specific roadmaps for the establishment of a Coast Contract for sustainable tourism in each new target area;- at Med level: signature of a MoU for the adoption the Methodology (by receiver PPs), for renewing the commitment for its application (by giver PPs), and to advocate for transferring and institutional uptake (by both givers and receivers).",
+          "expected_results": "1 Shared roadmap for the establishment of integrated governance for sustainable tourism development in receivers’ regions. : The main result of COASTING PLUS will be the effective transferring of the COASTING Methodology in receivers’ regions, increasing accordingly the level of sustainability of tourism development: 5 participatory processes will be launched in as many receivers’ target areas, engaging and strengthening the capacities of key stakeholders to become active actors in the implementation of local sustainable tourism integrated policies. These processes will lead to the signature of Local Protocols (by receiver PPs, APs and key stakeholders) detailing a shared site-specific roadmap for the establishment of a Coast Contract, increasing coordination and coherence of existing national/regional/local plans, strategies and regulations towards tourism sustainability.The 5 new target areas are:1) Herzegovina-Neretva County coastal area, Bosnia and Herzegovina (Responsible receiver PP: HNCG);2) Island of Ammouliani, Chalkidiki, Greece (Responsible receiver PP: ANATOLIKI);3) Sentina Reserve and Tronto river coastal area, Marche region, Italy (Responsible receiver PP: UNICAM);4) Coast of the Valencian province, Valencia, Spain (Responsible receiver PP: FVMP);5) Torremolinos, Malaga, Spain (Responsible: FAMP in coordination with the associated partner Municipality of Torremolinos with the role of receiver).1 Shared roadmap for the establishment of integrated governance for sustainable tourism development in receivers’ regions. : The main result of COASTING PLUS will be the effective transferring of the COASTING Methodology in receivers’ regions, increasing accordingly the level of sustainability of tourism development: 5 participatory processes will be launched in as many receivers’ target areas, engaging and strengthening the capacities of key stakeholders to become active actors in the implementation of local sustainable tourism integrated policies. These processes will lead to the signature of Local Protocols (by receiver PPs, APs and key stakeholders) detailing a shared site-specific roadmap for the establishment of a Coast Contract, increasing coordination and coherence of existing national/regional/local plans, strategies and regulations towards tourism sustainability.The 5 new target areas are:1) Herzegovina-Neretva County coastal area, Bosnia and Herzegovina (Responsible receiver PP: HNCG);2) Island of Ammouliani, Chalkidiki, Greece (Responsible receiver PP: ANATOLIKI);3) Sentina Reserve and Tronto river coastal area, Marche region, Italy (Responsible receiver PP: UNICAM);4) Coast of the Valencian province, Valencia, Spain (Responsible receiver PP: FVMP);5) Torremolinos, Malaga, Spain (Responsible: FAMP in coordination with the associated partner Municipality of Torremolinos with the role of receiver).",
+          "achievements": "During this period,all partners have been actively working in the activities of the project with a permanent communication. COASTING PLUS main achievements in this period are:Activity 3.1 (Management): Three steering committee meetings in January (Midterm), March and June. FAMP has drafted two evaluation reports in March and June with cotributions of partnersActiviy 3.2 (Communication): During this period the COASTING website has been updated, the COASTING Facebook have been dynamised and two newsletters have been produced. This activity was coordinated by PP4, the partner responsible for communication, with contributions of all partnersActivity 3.3 (Horizontal Project): COASTING PLUS project participated in II MED Sustainable Tourism Convention, event organised by the Horizontal Project in Barcelona and also have been in contact with the Horizontal Angel through e-mails and online meetings. LB drafted a contribution document to the 3rd Community Building workshop organised by the horizontal project.Activity 3.4 (Dissemination): Final Conference was organized by PP1 with attendance of all partners with local stakeholders. All PPs organised a local conference in May/June in their respectives pilot areas. All PPs produced a video to show the COASTING PLUS experience in their pilot areas. Also a overall project video as produced by PP4 with contributions of all PPs.Activity 3.6 (Tailoring): LB coordinated this activity by sending the partners materials with which to develop the activity, All PPs contributed by writing their diagnosis on the pilot area in a diagnosis matrix. Based on this, a final document with recommendations for COASTING methodology aplication was drafted by LB. All partners identified good practices in sustainable tourism which were uploaded to the COASTINGWiki platform.Activity 3.7 (Training): LB and PP1 organised the training in March. LB drafted the training materials English which was after translated into five languages by PPs. Training materials in all languages were uploaded on a specific section of the COASTING PLUS website.Activity 3.8 (Roadshows): LB and PP1, as giver partners organised online tutoring meetings with receiver partners. All PPs also organised local participatory workshops in each pilot area, as a result of which each PP drafted a local protocol signed by local stakeholders. Actvity 3.9 (Take Up): LB drafted the MoU which was signed by all partners at the final conference",
+          "expected_outputs": "Local Protocols :5,Med MoU :6",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 27361,
+      "acronym": "ChIMERA PLUS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "ChIMERA pour le developpement urbain soutenable",
+          "description": "Les industries culturelles et créatives (ICC) représentent des PME hautement innovantes. Pour les régions participantes, les ICC sont un secteur stratégique qui peut jouer un rôle important dans la transition vers le pacte vert pour l'Europe et la durabilité urbaine. ChIMERA+ vise à transférer la méthodologie de ChIMERA pour la croissance des sous-secteurs régionaux des ICC favorisant le développement urbain durable.Le processus se concentre sur l'analyse sectorielle des ICC régionales, impliquant les principaux acteurs et l'analyse des pionniers. L'approche du transfert est basé sur un processus de mentorat et de renforcement des capacités, dans lequel les partenaires donneurs adaptent la méthodologie ChIMERA aux besoins des récepteurs et aident les récepteurs à mettre en œuvre le processus ChIMERA dans leurs contextes spécifiques, jusqu' a développer des plans d'action stratégiques. Les actions sont élaborées par des groupes de travail locaux composés de parties prenantes, d'utilisateurs finaux et de responsables politiques compétents des territoires récepteurs : cette approche garantit l'appropriation de la méthodologie et l'adoption de plans d'action stratégiques par les services compétents du récepteur. A' la fin du processus, les partenaires donneurs ont défini des lignes directrices pour les décideurs politiques de la zone MED afin de soutenir le secteur des ICC et son rôle dans la réalisation des objectifs du pacte vert pour l'Europe et de la durabilité urbaine.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "ChIMERA for Urban Sustainability",
+          "description": "Cultural and creative industries (CCIs) represent highly innovative SMEs. For participating regions CCIs is a strategic sector and can play an important role in the transition towards the EU green deal and urban sustainability. Indeed, ChIMERA + aims at transferring the ChIMERA process and methodology for the growth of regional CCI subsectors promoting the sustainable urban development. In particular, the process focuses on regional CCI sector analysis, regional working groups involving main stakeholders and frontrunners analysis. The approach to transfer ChIMERA methodology is based on a mentoring and capacity building process, where giver partners adapt ChIMERA methodology to receivers’ needs and support receiver partners in implementing ChIMERA process till the development of strategic action plans for their specific contexts.Such actions are developed by local working groups composed by stakeholders, end-users and competent policy making levels of receiver territories: that approach ensures the ownership of the methodology and the adoption of strategic action plans by the receiver competent services. Last, at the end of transferring process giver partners outline guidelines for policy makers of MED area to support CCI sector and its role in achieving EU green deal objectives and urban sustainability.",
+          "expected_results": "1 Increased number of territories where CCIs are a leverage for innovation and sustainable urban development. : ChIMERA+ will transfer ChIMERA results to other regions: thus, it will increase innovation capacities of key public and private actors in CCI sector in these territories. ChIMERA process and methodological tools (activation of local working groups, analysis of local CCI sector and of European frontrunners) will be adapted to other territories and to promote the development of CCI subsectors that can support sustainable urban development. Representatives of the quadruple helix of each receiver region will be the target of activities and they will identify the strategy to support the CCIs as engine of the urban sustainability. Giver partners, giver associated partners and key players of “giver territories” will cooperate with receivers in this process as mentors. In that way, ChIMERA+ will consolidate and expand a transnational network of CCIs innovation systems, that will actively cooperate based on complementarities of competencies and specializations.1 Increased number of territories where CCIs are a leverage for innovation and sustainable urban development. : ChIMERA+ will transfer ChIMERA results to other regions: thus, it will increase innovation capacities of key public and private actors in CCI sector in these territories. ChIMERA process and methodological tools (activation of local working groups, analysis of local CCI sector and of European frontrunners) will be adapted to other territories and to promote the development of CCI subsectors that can support sustainable urban development. Representatives of the quadruple helix of each receiver region will be the target of activities and they will identify the strategy to support the CCIs as engine of the urban sustainability. Giver partners, giver associated partners and key players of “giver territories” will cooperate with receivers in this process as mentors. In that way, ChIMERA+ will consolidate and expand a transnational network of CCIs innovation systems, that will actively cooperate based on complementarities of competencies and specializations.",
+          "achievements": "CCIs is a strategic sector in participating regions and can play an important role in the transition towards the EU green deal and urban sustainability. ChIMERA + transferred ChIMERA process and tools for the growth of CCIs promoting the sustainable urban development in Zaragoza, Nova Gorica and Sarajevo areas. In particular, the transferring process was focused on the following steps:\n\n1.\tAnalysis of the CCI sector in Zaragoza, Nova Gorica and Sarajevo carried out by receiver partners (SARGA, SERDA, MoNG) under mentoring of giver partners (RAFVG and Creative Apulia Cluster) in cooperation with local stakeholders of CCI sector;\n\n2.\tAnalysis of 3 frontrunners, following the methodology tested in ChIMERA: giver partners transferred the methodology and supported the other partners in both the selection of the frontrunners and the analysis, while SARGA, SERDA and MoNG carried out the analysis. This activity allowed the exchange of good practices and lessons learnt, providing useful hints for the receiver areas; \n\n3.\tImplementation of a Capacity building action through 4 workshops on best practices, innovation and visions related to the role of CCIs in urban and sustainable transition. Creative Apulia Cluster organised the workshops with the support of RAFVG; SARGA,SERDA,MoNG and their main stakeholders were the direct beneficiaries. All the actors involved acquired know how based on the experiences and good practices presented and discussed during the capacity building seminars. To better know how other countries and stakeholders deals with CCIs and urban sustainability was an added value for all participating regions;\n\n4.\tOutlining action plans of the receiver areas by SARGA,SERDA,MoNG with the support RAFVG that set the methodology based on ChIMERA experience and supervised the activity. Moreover, the activity involved the main stakeholders of Zaragoza, Nova Gorica and Sarajevo. Developed action plans are strategic documents to foster the role of CCIs in the transition process towards a urban sustainability and to support the development of local CCI sector and can be adopted by the competent institutions; \n\n5.\tDevelopment of guidelines for the policy makers to support CCIs and its role in the urban sustainability: the document was produced by RAFVG capitalizing ChIMERA and ChIMERA plus experiences and shared among the partnershipLast, another important result of CHIMERA+ was the establishment of transnational networks among project partners and stakeholders.",
+          "expected_outputs": "Process for the development of regional CCI sectors as lever for EU green deal :1",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

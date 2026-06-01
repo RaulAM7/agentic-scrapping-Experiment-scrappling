@@ -1,0 +1,290 @@
+{
+  "current": 1,
+  "next": "https://keep.eu/api/search/projects/?page=2",
+  "previous": null,
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33271,
+      "acronym": "HERACLES~A_T_1.1_0235",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Healthcare Enterprises and Research Alliance for Collaboration, Learning, and Exploitation of AI-driven business Solutions",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n028. Technology transfer and cooperation between enterprises, research centres and higher education sector\n~\nSUMMARY: The HERACLES Project aims to establish and strengthen a multi-actor research network between companies and universities, focusing on the application of AI to enhance predictive medicine and health crisis preparedness, addressing significant common challenges in the Mediterranean region and transforming healthcare, making it more efficient. The project promotes Open Innovation and Open Research paradigms, exploring AI's potential alongside legal and regulatory frameworks to ensure proper valorisation of research through intellectual property and technology transfer mechanisms. Key activities of the HERACLES Project include implementing a Pilot Project that develops collaboration schemes between stakeholders at a transnational level, facilitating the exchange of researchers and entrepreneurs. These schemes aim to foster interaction between the scientific research community and the health technology business sector, integrating various stakeholders to develop AI-based tools specialised in predictive medicine and crisis management. Additionally, the project will explore and develop innovative business models to transform scientific research results into tangible commercial opportunities. By addressing common healthcare challenges through a collaborative and innovative approach, the HERACLES Project promises substantial benefits. It aims to drive forward a new era of AI-enhanced medical care, ultimately improving healthcare systems across the Mediterranean region and ensuring a more robust response to health crises. The expected changes include improved patient outcomes, more efficient allocation of healthcare resources, and the integration of advanced AI technologies into everyday clinical practice, benefiting patients, healthcare providers, and the broader medical community.\n~\nKEEP KEYWORDS: Health and social services, ICT and digital society, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: SO1. To support innovation-driven growth in the field of  predictive medicine and digital healthcare combined with AI by creating a TN research-business Network aimed at fostering collaboration and cross-cutting knowledge exchange\n~\nEXPECTED RESULT: 1. Strengthening innovation capacity through the establishment of TN academia and business Network to develop AI-driven tools aimed at improving the quality of healthcare services\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: SO1. To support innovation-driven growth in the field of  predictive medicine and digital healthcare combined with AI by creating a TN research-business Network aimed at fostering collaboration and cross-cutting knowledge exchange\n~\nEXPECTED RESULT: 1. Strengthening innovation capacity through the establishment of TN academia and business Network to develop AI-driven tools aimed at improving the quality of healthcare services",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33270,
+      "acronym": "MedRESOURCE~A_T_2.3_0368",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean initiative to REgenerate wastewater Sludges for Optimal Use towaRd a Circular Economy",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n066. Waste water collection and treatment compliant with energy efficiency criteria\n~\nSUMMARY: MedRESOURCE tackles the pressing transnational challenges of water scarcity, land degradation, and waste management in the Mediterranean region. Currently, despite existing standards, WW sludge is still inadequately managed, leading to environmental harm and missed opportunities for resource recovery. MedRESOURCE will develop and demonstrate four innovative solutions to reuse wastewater sludge to enhance soil fertility, reduce environmental pollution, and foster sustainable agricultural practices. \nThe solutions will be jointly developed by a partnership of 6 organizations from 4 countries: Palestine, Italy, Tunisia and Jordan, supported by institutional and local associated partners. In each country a Living Lab will be set up to further develop existing solutions and to demonstrate their value to local communities, farmers, authorities and policy makers.\nThe expected change from MedRESOURCE is profound: converting waste into valuable resources, the project will significantly improve soil quality, reduce the need for chemical fertilizers, and mitigate pollution. This will enhance agricultural productivity and resilience to climate change, benefiting local farmers, communities, and the environment.\nKey outputs are: \n-\t4 Living Labs (LL), each demonstrating a specific reuse of WW sludge in agriculture\n-\tA capacity building programme carried out in each LL, reaching about 200 beneficiaries\n-\t4 international study visist to the LL, promoting replicability and best practice exchange and reaching from 60 to 120 beneficiaries\n-\tGuidelines for policies development, providing references and standards at EU and MED level to integrate and better adapt regulatory frameworks to the innovative potential of WW sludge reuse.\nMedRESOURCE offers a compelling solution to critical environmental issues, providing tangible benefits and fostering sustainable development across the Mediterranean. Supporting this project means investing in a greener, more resilient future for the region.\n~\nKEEP KEYWORDS: Soil and air quality, Sustainable management of natural resources, Water management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implementation of pilots to demonstrate technical, financial and environmental benefits of measures related to reuse of treated waste water sludges\n~\nEXPECTED RESULT: 4 Living Labs on WW Sludge: Solutions for reuse of waste water sludges taken up or up-scaled in 4 Mediterranean countries\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To increase awareness, capacities and encourage active participation of citizens, civil society organizations and private sector and cooperation with public authorities on activities regarding reuse of waste water sludges\n~\nEXPECTED RESULT: Increased awareness and capacities of farmers on sustainable and safe reuse of WW sludges in agriculture\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To increase awareness, capacities and encourage active participation of citizens, civil society organizations and private sector and cooperation with public authorities on activities regarding reuse of waste water sludges\n~\nEXPECTED RESULT: Increased awareness and capacities of farmers on sustainable and safe reuse of WW sludges in agriculture",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33269,
+      "acronym": "MEDSHIFTGREEN~A_Y_3.1_...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Cultivating Green Innovators: A Dynamic Approach to Smart, Sustainable, and Socially Inclusive Education for Mediterranean Youth",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: \n\n151. Support for adult education (excluding infrastructure)\n~\nSUMMARY: MEDSHIFTGREEN directly addresses the pressing transnational challenges of environmental degradation and resource depletion in the Mediterranean by revolutionizing education through the integration of nature-based solutions and green technologies into traditional curricula. This initiative seeks to transform the educational landscape, fostering a generation of youth who are well-equipped to tackle and mitigate ecological issues across borders. MEDSHIFTGREEN approach shifts from conventional learning paradigms to a holistic, sustainability-focused education model that provides young people with the critical skills necessary to innovate within the green economy. The expected change is profound as we aim to fill the current gap in specialized training in sustainable practices and increase environmental awareness among regional youth. Key outputs of the project include the establishment of Interactive Green Labs across Greek, Lebanese, Turkish & Cyprus educational institutions and beyond, integration of sustainability into academic programs via the NBS Curriculum, and the implementation of Green Skills Bootcamps that offer practical, economy-driven environmental education. These elements are designed to empower students with new competencies, provide educators with necessary resources and methodologies for teaching sustainability, and ultimately benefit local communities and industries through innovative, applicable environmental solutions developed by students. MEDSHIFTGREEN not only promises significant educational evolution but also ensures that Mediterranean youth are prepared to lead sustainable & inclusive growth in their communities, turning ecological challenges into opportunities for innovation and collaboration. This project will cultivate a generation that thrives on solving problems together, enhancing both their employability and their proactive engagement in preserving our planet.\n~\nKEEP KEYWORDS: Green technologies, Innovation capacity and awareness-raising, Sustainable management of natural resources",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Improving equal access to inclusive and quality services in education, training and lifelong learning through developing accessible infrastructure, including by fostering resilience for distance and on-line education and training\n~\nEXPECTED RESULT: Enhanced capacity for remote learning via digital labs and interactive online modules.\nEmpowerment of educators with digital tools to improve sustainability education.\nIntegration of AI and smart technologies to boost efficiency and innovation in online learning.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To establish Interactive Green Labs in Med, addressing real-world environmental challenges, providing hands-on experiences, and fostering a passion for environmental stewardship among youth.\n~\nEXPECTED RESULT: Hands-on experience: Students will gain practical experience in addressing environmental challenges through interactive and engaging activities within the labs. Enhanced environmental awareness, Skill development, Passion for sustainability, Networking opportunities & Infrastructure development.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To establish Interactive Green Labs in Med, addressing real-world environmental challenges, providing hands-on experiences, and fostering a passion for environmental stewardship among youth.\n~\nEXPECTED RESULT: Hands-on experience: Students will gain practical experience in addressing environmental challenges through interactive and engaging activities within the labs. Enhanced environmental awareness, Skill development, Passion for sustainability, Networking opportunities & Infrastructure development.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Improving equal access to inclusive and quality services in education, training and lifelong learning through developing accessible infrastructure, including by fostering resilience for distance and on-line education and training\n~\nEXPECTED RESULT: Enhanced capacity for remote learning via digital labs and interactive online modules.\nEmpowerment of educators with digital tools to improve sustainability education.\nIntegration of AI and smart technologies to boost efficiency and innovation in online learning.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33268,
+      "acronym": "DIEM~A_T_3.1_0118",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Developing Inclusive Education in the Mediterranean",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n151. Support for adult education (excluding infrastructure)\n~\nSUMMARY: The Mediterranean is united by some major challenges related to the development of its different areas and communities, especially regarding the gap between cultural heritage developmental potential and the social and economic precariousness prevailing around important cultural sites.\nEducation, continuous training and skills development represent a key tool both for strengthening the potential of territories and for promoting inclusion, empowerment and social cohesion.\nFurthermore, Cultural Heritage (CH) is one of the most sound, common and recognizable Mediterranean traits as well as an acknowledged driver for its development.\nAccordingly, its main objective will be reinforcing and innovating the consortium's different learning/teaching systems to make them more integrated and compatible. Besides, the focus on Cultural Heritage will allow DIEM to exploit the acknowledged multiplier effect of CH-oriented activities in terms of know-how exchanging, empowerment of people and, eventually, economic growth.\nHence, DIEM is expected to contribute to social inclusion and to skills development for the unintegrated groups (youth, women, rural inhabitants and NEETs). Capitalizing on the experience of its partners, DIEM will move along 3 concurrent lines of development: deliver a cascade model of teaching/training programs for 3 groups (A-Leaders, B-Future Managers, C-Local communities); setup a toolkit for teaching/learning capable to combine knowledge, emerging technologies (i.e. AI) and the lessons learned from the pandemic; assume DIEM as an occasion for the first beneficiaries and for broader communities, the assets and territories belonging to the 6 countries of DIEM consortium (IT, EGY, JOR, TUN, ES,PS).\nThe project entails 3 technical WPs: Standardization (Partners design systems for international cooperation), Training around pilot areas (TOT courses and inclusion-oriented trainings), Scalability (replication on youth and extension to broader communities).\n~\nKEEP KEYWORDS: Cultural heritage and arts, Education and training, Social inclusion and equal opportunities",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Test training measures to develop competencies needed in the CH field and not yet fully integrated in the standard education systems. The training measures aim at promoting on a  transnational level common standards in managing CH sites involving all the quadruple helix model stakeholders.\n~\nEXPECTED RESULT: Cooperation model that generates a reduction of mismatch in CH field on a transnational level allowing beneficiaries to build their background as future managers also in other mediterranean countries.\nThis model is based on innovative solutions to involve communities, i.e podcasts and mobile hubs\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Involve fragile categories in training actions by eliminating socio-economic, technical, digital, and linguistic barriers. Initiatives aim to provide wider education opportunities designed to be replicable and scalable by activating a multiplier effect with direct trainings and indirect activities.\n~\nEXPECTED RESULT: Reduction of social and economic disparities for fragile groups through initiatives to promote equal opportunities and social inclusion and to enhance their technical skills to enter into the job market and their managerial competences to start-up a business and enter in the business market.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Test training measures to develop competencies needed in the CH field and not yet fully integrated in the standard education systems. The training measures aim at promoting on a  transnational level common standards in managing CH sites involving all the quadruple helix model stakeholders.\n~\nEXPECTED RESULT: Cooperation model that generates a reduction of mismatch in CH field on a transnational level allowing beneficiaries to build their background as future managers also in other mediterranean countries.\nThis model is based on innovative solutions to involve communities, i.e podcasts and mobile hubs",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33267,
+      "acronym": "EmpoweerNEET~A_T_3.1_0156",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "EmpoweerNEET MED: Upskilling NEETs through Social and Solidarity Economy",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: \n\n151. Support for adult education (excluding infrastructure)\n~\nSUMMARY: EmpowerNEET is an innovative transnational initiative aimed at integrating NEETs—young people not engaged in employment, education, or training—into the Social and Solidarity Economy (SSE) across the Mediterranean. These individuals face significant challenges, including high unemployment rates, economic exclusion, and limited access to quality education and vocational training, exacerbating social inequalities. EmpowerNEET leverages the underutilised potential of the SSE to promote inclusive economic growth and social integration.\n\nBy facilitating the transnational sharing of best practices and expertise, EmpowerNEET brings together entities from Palestine, Spain, Greece, Tunisia, Lebanon, and France to effectively address NEET marginalisation. The project offers comprehensive training programs to develop entrepreneurial and employment skills, provides practical experiences through job shadowing and mentoring, and ensures sustainability via supportive policy frameworks and ethical financing models.\n\nEmpowerNEET aims to transition NEETs from economic and social marginalisation to empowerment. Key outputs include an extensive capacity-building program that equips 300 NEETs with essential theoretical and practical skills tailored for the SSE. Additionally, the project collaborates with local authorities to develop sustainable financing strategies, securing the long-term success of SSE initiatives and providing systemic support for NEETs.\n\nThe expected change includes improved employability and entrepreneurial capacity among NEETs. This project will benefit NEETs by enhancing their skills and opportunities, local governments by providing robust frameworks for NEETs and SSE support, and the broader community by stimulating economic growth and social cohesion. EmpowerNEET not only enhances the economic prospects of NEETs but also strengthens local communities by supporting SSEs, boosting economic vitality, and fostering inclusive growth.\n~\nKEEP KEYWORDS: Education and training, Labour market and employment, Social inclusion and equal opportunities",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Equip NEETs with foundational entrepreneurship skills through tailored educational programs in business planning, financial literacy, and digital marketing, enhanced by additional learning opportunities tailored to their individual aspirations and local market conditions.\n~\nEXPECTED RESULT: Within 12 months, at least 40% of NEETs will have launched their own SSE venture or secured employment in a SSE venture, measured through pre- and post-assessments, tracking employment status.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Equip NEETs with foundational entrepreneurship skills through tailored educational programs in business planning, financial literacy, and digital marketing, enhanced by additional learning opportunities tailored to their individual aspirations and local market conditions.\n~\nEXPECTED RESULT: Within 12 months, at least 40% of NEETs will have launched their own SSE venture or secured employment in a SSE venture, measured through pre- and post-assessments, tracking employment status.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Equip NEETs with foundational entrepreneurship skills through tailored educational programs in business planning, financial literacy, and digital marketing, enhanced by additional learning opportunities tailored to their individual aspirations and local market conditions.\n~\nEXPECTED RESULT: Within 12 months, at least 40% of NEETs will have launched their own SSE venture or secured employment in a SSE venture, measured through pre- and post-assessments, tracking employment status.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33266,
+      "acronym": "HEEFTA~A_Y_3.1_0232",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Holistic Environmental Education from Training to Action",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: \n~\nSUMMARY: The educational landscape lacks comprehensive coverage of the socio-political, economic & technical dimensions of the ecosystem, hindering the root causes & ramifications of the eco-crisis. Our project aims to develop a holistic environmental training program for higher education students & an advocacy initiative through network building. We strive to transform individuals' perceptions of social & environmental ecosystems & confront nature preservation challenges through interdisciplinary training driven by the collaborative efforts of academics, researchers, & experts from diverse disciplines.\nThe environmental crisis is complex & part of a global polycrisis. Despite local variations, its systematic nature shares common traits. National actors often focus on local symptoms without addressing underlying causes. The systematic structure of the environmental crisis calls for collective solutions based on contemporary approaches & evidence-based knowledge.\nWithin this scope our goal is to\n-Strengthen interdisciplinary collaboration to develop & promote consensus-based approaches & solutions for green transition\n-Foster knowledge sharing through training programs highlighting the interconnected nature of environmental & social ecosystems \n-Enhance blue & green upskilling among higher education students\n-Build capacity for long-term network & advocacy\n\nBy enhancing blue & green upskilling, we anticipate a significant shift in how young adults perceive & address environmental challenges. The training programs will nurture solution-oriented mindsets among university students entering the workforce. By fostering interdisciplinary collaboration & empowering young adults with skills, we envision a generation equipped to tackle environmental issues in their everyday lives. Beneficiaries extend beyond higher education students to society as a whole. In the long term, we aim to create a ripple effect impacting sectors, & actors, with broader adult education through our network.\n~\nKEEP KEYWORDS: Education and training, Innovation capacity and awareness-raising, Scientific cooperation",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Fostering interdisciplinary collaboration and knowledge sharing through a network and the development of a holistic training program, enhancing the blue and green upskilling of higher education students\n~\nEXPECTED RESULT: Enhanced interdisciplinary collaboration via an established network that fosters eco-solutions through green & blue upskilling\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Fostering interdisciplinary collaboration and knowledge sharing through a network and the development of a holistic training program, enhancing the blue and green upskilling of higher education students\n~\nEXPECTED RESULT: Enhanced interdisciplinary collaboration via an established network that fosters eco-solutions through green & blue upskilling\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Fostering interdisciplinary collaboration and knowledge sharing through a network and the development of a holistic training program, enhancing the blue and green upskilling of higher education students\n~\nEXPECTED RESULT: Enhanced interdisciplinary collaboration via an established network that fosters eco-solutions through green & blue upskilling",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 11,
+          "title": "Scientific cooperation"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

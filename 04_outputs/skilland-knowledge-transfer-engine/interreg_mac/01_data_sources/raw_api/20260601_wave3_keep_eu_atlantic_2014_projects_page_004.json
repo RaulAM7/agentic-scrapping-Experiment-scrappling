@@ -1,0 +1,470 @@
+{
+  "current": 4,
+  "next": "https://keep.eu/api/search/projects/?page=5",
+  "previous": "https://keep.eu/api/search/projects/?page=3",
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 22109,
+      "acronym": "PORTOS",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Ports towards energy self-sufficiency",
+          "description": "Sea ports need high-energy supplies and are a source of air pollution, two environmental problems that can be minimized by using renewable energy. Considering the convergence of resources, infrastructures and facilities in ports, marine renewable energy arises as a promising alternative. PORTOS aims to assess, develop and promote the integrated use of renewable energy resources in Atlantic Area ports and increase their energy efficiency, establishing a roadmap to a more competitive and sustainable sector.\nThe main objective is to develop and promote the implementation of renewable energy, especially marine renewable energies such as wave, tidal and wind energy, at Atlantic Area ports, as to impact two environmental priorities for ports: reduction of greenhouse gases emissions and air pollution by providing renewable energy-based solutions to harvest the renewable energy potential of Atlantic Area coastal areas. Moreover, PORTOS aims to increase the ports energy efficiency, establishing a roadmap to a more competitive and sustainable sector, mitigating climate change.",
+          "expected_results": "PORTOS establishes the following instruments:\n1. The open platform BLUE-PORTS established to promote energy self-sufficiency in ports of the Atlantic Area through Marine Renewable Energies (MRE). A stable network of cooperation is created to share information regarding emerging MRE technologies, relevant news in the sector and technical suppliers at the different links in the value chain of MRE;\n3. The OpenPorts and OpenLabs days will maintain the link with society and its involvement on the development of offshore renewable energies and the adoption of self-sufficiency practices;\n5. Engagement and commitment of Port Associations to promote development of environmental policies in Atlantic Area ports, encouraging RE/MRE implementation to allow set environmental goals to be met;\n6. A specific social perception plan created to show the opportunities that MRE brings to the Atlantic Area regions and to involve the main actors (staff from enterprises, public bodies and independent developers) in the development projects.",
+          "achievements": "Seaports need high-energy supplies and are a source of air pollution. Considering the convergence of resources, infrastructures and facilities in ports, marine renewable energy arises as a promising alternative to minimise those environmental problems. PORTOS aims to assess, develop and promote the integrated use of renewable energy resources in the Atlantic Area ports and increase their energy efficiency, establishing a roadmap to a more competitive and sustainable sector. As each port has unique characteristics (e.g., different industrial activities, infrastructures, available resources), the possible renewable energy/ marine renewable energy solutions differ. Thus, to provide useful solutions to the general ports system, this heterogeneity needs to be considered by analysing different representative case studies ports throughout the Atlantic Area, which is one of the PORTOS’ objectives. The project thus developed exploration plans, implemented pilot actions, developed roadmaps and guidelines to achieve self-sufficiency in the ports’ systems, and tested devices and hybrid technologies to allow the exploitation of marine renewable energy resources in those ports. Based on the results obtained, case study ports will launch and implement the developed marine renewable energy exploitation plans.\nThe port and transport sectors will have a detailed knowledge of the current scenario to improve and/ or develop their environmental policies. There is a firm compromise from the port authorities to include the energy self-sufficiency principles in their strategic plans for the next decade, and to take advantage of the renewable energy resources locally available. Organisations operating in the marine renewable energy sector, such as energy suppliers, the industrial sector and energy agencies, as well as the scientific community, will benefit from the results of PORTOS. Last but not least, all of the society will benefit from the improvements made to the sustainable energy ecosystem.\n\"The PORTOS project has empowered the Port of Vigo to develop a holistic strategy for an impending energy transition to a renewable energy supply of the port’s electricity demand, based on detailed and precise information regarding our port and the available marine renewable resources in our jurisdiction areas. This is considered an important contribution to advance in our commitment to be a zero emissions port”. Carlos Botana Lagarón Head of Sustainability Department, Port of Vigo.",
+          "expected_outputs": "• Detailed energy efficiency audit of three case-study ports;\n• MRE exploitation plans and pilot actions for each case-study, including the most adequate MRE mix and conversion technologies;\n• Roadmap and guidelines to reach energy self-sufficiency in the AA port system;\n• Demonstrators of three hybrid technologies to enable exploitation of RE/MRE resources in case-study ports;\n• Decision Support System for implementing RE/MRE technologies in AA ports;\n• Proofs of concept of cutting edge technologies;\n• Actions (Open days/Open Labs) to involve society in the development of marine renewable energies;\n• Training and know-how transference to key-stakeholders, end users and society.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Autossuficiência energética em portos",
+          "description": "Os portos consomem muita energia e são uma fonte de poluição, dois problemas ambientais mitigáveis através da utilização de energias renováveis. Considerando a convergência de recursos, infraestruturas e instalações nos portos, a Energia Renovável Marítima constitui-se como uma alternativa promissora. O projeto PORTOS pretende avaliar, desenvolver e promover o uso de energias renováveis e a eficiência energética nos portos do Espaço Atlântico, estabelecendo uma rota para um sector mais sustentável e competitivo.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Puertos hacia la autosuficiencia energética",
+          "description": "Los puertos necesitan un elevado suministro de energía y son fuente de polución, dos problemas ambientales mitigables con el uso de energías renovables. Considerando la convergencia de recursos, infraestructuras e instalaciones en puertos, la energía renovable marina es una alternativa prometedora. PORTOS pretende evaluar, desarrollar y promocionar el uso integrado de recursos energéticos renovables en puertos del Espacio Atlántico, estableciendo una hoja de ruta hacia un sector más competitivo y sostenible.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Ports vers une autosuffisance énergétique",
+          "description": "Les ports sont de grands consommateurs d’énergie et sources de pollution de l’air, deux enjeux environnementaux qui peuvent être minimisés grâce aux énergies renouvelables. Etant donné l’existence de gisement, d’infrastructures et de capacités de production en leur sein, les énergies renouvelables marines sont une alternative prometteuse. PORTOS a pour but d’évaluer et de promouvoir un usage intégré des sources d’énergies renouvelables dans les ports de l'Espace Atlantique, au travers d’une feuille de route pour une filière durable.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 38,
+          "title": "Infrastructure"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22107,
+      "acronym": "SIRMA",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Strengthening infrastructure risk management in the Atlantic Area",
+          "description": "Much of the transport of people and goods in the Atlantic Area takes place via road and rail networks. The performance of these infrastructures is directly affected by extreme natural events and corrosion processes derived from proximity to the Atlantic Ocean. SIRMA will develop robust tools for mitigating such risks through the implementation of measures in the short, medium and long term, increasing the resilience of infrastructures.",
+          "expected_results": "The expected results are the risk reduction of extreme natural hazards on transportation infrastructure, mainly floods and fire, and to make such assets and population more prepare for such hazards. The developed framework will be tested and used by two public operators that will also disseminate it through other public and private operators in and outside the Atlantic Area. These entities, together with supporting partners (e.g. government, municipalities, etc.) will guarantee such effects. The scientific outputs from this project will be also integrated in Universities, being some of the results incorporated in existing or new lectures (e.g. asset management, risk analysis, etc.).",
+          "achievements": "Most of the transportation of people and goods in the Atlantic Area is made through rail and road. The performance of this infrastructure is directly affected by extreme natural events and the strong corrosion processes that result from its proximity to the Atlantic Ocean. SIRMA project aims to develop a robust framework for the management and mitigation of such risks, by implementing immediate, medium, and long-term measures, thus increasing the resilience of transportation modes, which consider both road and railway infrastructure networks. SIRMA is implementing an innovative infrastructure risk management system, able to anticipate the occurrence and impact of extreme events, as well as to integrate knowledge about short-term actions (management of emergencies) and medium to long-term actions (strategic measures to improve the structural response of critical assets). With this framework, it will be possible to take optimal risk mitigation measures and this way strengthen the territory’s resilience to several types of risk.\nA database of relevant climatic indicators was compiled to allow natural events forecasting. Likewise, a database of risk mitigation measures is being prepared to support the decision-making process. A tool integrating all this information is under development and it is expected that transportation managers using it would find riskbased management a feasible process to increase transportation networks’ resilience.\nIn the long term, it is expected that, for the selected test beds, the developed and implemented risk mitigation measures will reduce the consequences of extreme natural hazards, such as floods and fire, for people and the local and national economies. Such framework should then be generalised and implemented in other countries (inside and outside the Atlantic Area) and extended to other stretches of rail and road infrastructure in Ireland/UK and Portugal.",
+          "expected_outputs": "- Risk screening of the most relevant hazards and identifying the vulnerable factors and the most critical transportation infrastructure in the Atlantic Area \n- Study of the impact of climate change on those extreme events\n- Assessment of performance of the sensoring infrastructure. \n- Stablishment of a set of short, medium and long-term mitigation measures.\n- A risk-based model, supported on performance forecasting models, which will consider the consequences for the users and for environment. \n- Identification of the most suitable strategies for risk mitigation at different stages and to increase resilience.\n- Implementation in two multi-modal case studies, affected by climate change events, one in Portugal and the other in Ireland / Northern Ireland (transborder).",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Reforço da gestão de riscos associados a infraestruturas no Espaço Atlântico",
+          "description": "Grande parte do transporte de pessoas e bens no Espaço Atlântico é feito através das redes ferroviária e rodoviária. O desempenho destas infraestruturas é diretamente afetado por eventos naturais extremos e por processos de corrosão decorrentes da proximidade ao Oceano Atlântico. O projeto SIRMA visa desenvolver uma ferramenta robusta para a mitigação de tais riscos, através da implementação de medidas imediatas, de médio e longo prazo, aumentando a resiliência da infraestrutura de transporte.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Refuerzo de la gestión de riesgos asociados a Infraestructuras en el Espacio Atlántico",
+          "description": "Gran parte del transporte de personas y mercancías en el Espacio Atlántico se realiza a través de las redes de carretera y ferrocarril. El desempeño de estas infraestructuras está directamente afectado por eventos naturales extremos y procesos de corrosión derivados de la proximidad al Océano Atlántico. SIRMA desarrollará herramientas robustas para mitigación de tales riesgos a través de la implementación de medidas a corto, medio y largo plazo, aumentando la resiliencia de las infraestructuras.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Renforcement de la gestion des risques associés aux infrastructures dans l'Espace Atlantique",
+          "description": "La majorité du transport de personnes et des biens dans l’Espace Atlantique est réalisé à travers des rails et des routes. Sa performance de ces infrastructures est affectée par des événements naturels extrêmes et les processus de corrosion dus à la proximité de l'Océan Atlantique.\nLe projet SIRMA vise à élaborer un cadre solide pour la gestion et l’atténuation de ces risques, en mettant en œuvre des mesures immédiates, à moyen et à long terme, et donc à accroître la résilience des infrastructures de transport.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 19,
+          "title": "Transport and mobility"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22103,
+      "acronym": "ACCESS2SEA",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "New opportunities for more competitive and sustainable blue growth in the Atlantic Area",
+          "description": "Marine aquaculture (fish, shellfish, algaculture) is a leading sector of the Atlantic area blue economy that counts on an important tradition in many EU countries and that is relevant in many of its coasts. As only 10% of Atlantic shore seafood is aquaculture-sourced there is great opportunity for raising its production in the Atlantic Area in a sustainable way. Access2Sea aims to improve the attractiveness of the Atlantic shore for aquaculture SMEs by enabling new business opportunities and providing sustainable and easier access to it. Its objective is to enhance the exploitation and preservation of the Atlantic Area’s natural assets by unlocking the existing barriers to provide the industry with technical solutions, enabling onshore production and disseminating existing and new solutions and providing support to the aquaculture SMEs to fix them or attract them to the Atlantic Area.",
+          "expected_results": "- Enable SMEs to assess spatial opportunities to settle in the Atlantic shore new aquaculture business, supporting them in exploiting the natural assets in a sustainable way.\n- Increase awareness of the aquaculture activities needs, potential and contribution to local development.\n- Creation of specific tools to support partners and other relevant decision/policy makers in the promotion and dissemination of the existing opportunities and sites of their territories for installing aquaculture activities.\n- Increase the cooperation between the aquaculture triple helix in those territories.",
+          "achievements": "New opportunities for more competitive and sustainable blue growth in Atlantic Area Marine aquaculture (fish, shellfish, algaculture) is a leading sector of the Atlantic Area Blue Economy and is very relevant in many of its coastal areas. As only 10% of Atlantic shore seafood is aquaculture-sourced there is a great opportunity for raising aquaculture production in a sustainable way.\nACCESS2SEA improves the attractiveness of the Atlantic shore for aquaculture SMEs by enabling new business opportunities and providing sustainable and easier access to it. The objective is to enhance the exploitation and preservation of the natural assets by unlocking the existing barriers, facilitating terrestrial production, disseminating solutions, and providing support to aquaculture SMEs, to strengthen or attract them to settle on the Atlantic shore.\nACCESS2SEA integrates a market approach to the development of SMEs by supporting their generic productive investment, technology transfer and universityenterprise cooperation, business development, and support to social enterprises. The project provides SMEs access to tools to identify investment opportunities and space for the implementation of aquaculture farms in the Atlantic Area. \nIt also promotes the improvement of business models, by supporting the creation of new businesses, providing training and information about the legal and regulatory framework. It supports the development of pilots with new investments for aquaculture and new models of intelligent facilities, creating more productive aquaculture companies. \nIn the end, the project facilitates more social acceptability, as consumers are more receptive to products coming from aquaculture.\nACCESS2SEA contributes to boosting economic development and job creation in the seafood sector by the sustainable exploitation of the Atlantic Area natural assets, as creating new sustainable farms is a key element for the blue economy in the region.",
+          "expected_outputs": "-\t 1 Access2Sea methodology (and tools) to identify territorial opportunities for installing aquaculture services in the project territories and correspondent opportunities map.\n-\t 1 Access2Sea social acceptance strategy and road map for its implementation.\n-\t Access2Sea Business Models and road maps for its implementation.\n-\t 2 Acess2sea prospective missions to develop aquaculture economic activity across the Atlantic area.\n-\t 6 pilot projects (talking the project field: spatial planning, social acceptance, business development).\n- 1 project communication plan (and correspondent communication tools).\n- 1 action for change action plan and position paper to assure the capitalization of the project achievements.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Novas oportunidades para um crescimento azul mais competitivo e sustentável no Espaço Atlântico",
+          "description": "A Aquacultura pode potenciar o crescimento económico e a criação de emprego no que respeita aos produtos do mar, mediante a melhoria da exploração e preservação dos recursos naturais do Espaço Atlântico sendo a criação de novas explorações sustentáveis um fator chave para a economia azul na região (limitada pela regulamentação e a reduzida aceitação social destes negócios). \nO projeto Access2Sea visa melhorar a atratividade do Espaço Atlântico para a aquacultura facilitado um acesso mais fácil e sustentável a oportunidades de negócio.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Nuevas oportunidades para un crecimiento azul más competitivo y sostenible en el Espacio Atlántico",
+          "description": "La acuicultura puede potenciar el crecimiento económico y la creación de empleo en lo que respecta a los productos del mar mediante la mejora de la explotación y preservación de los recursos naturales del Espacio Atlántico, siendo la creación de nuevas explotaciones sostenibles un factor clave para su economía azul (limitada por la reglamentación y la reducida aceptación social). \nAccess2Sea visa mejorar el atractivo del Espacio Atlántico para la acuicultura facilitando un acceso más sostenible a la oportunidad de negocio.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Nouvelles opportunités pour une croissance bleue plus durable et competitivie dans l’Espace Atlantique",
+          "description": "L’aquaculture peut impulser le développement économique et la création d’emploi dans le domaine des productions marines grâce à l’amélioration de l’exploitation et à la préservation des ressources naturelles de l'Espace Atlantique, la création de nouvelles fermes durables étant un facteur clé pour son économie bleue (limitée par la réglementation et la faible acceptation sociale). \nAcces2Sea vise à améliorer l'attractivité de l'Espace Atlantique pour l’aquaculture en facilitant un accès plus durable à des opportunités d’affaires.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22101,
+      "acronym": "TrailGazersBid",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Trail Gazers Bid - Um programa analítico e técnico para aferir os retornos dos investimentos nos trilhos",
+          "description": "TrailGazersBid pretende medir os impactos socioeconómicos do investimento e promoção em trilhos em áreas de património natural. Este projeto visa estabelecer um conjunto comum de indicadores-chave a nível económico, social e ambiental, desenvolver tecnologias e sistemas inovadores para captar as atividades nos trilhos e desenvolver planos para a gestão sustentável dos mesmos. Os principais resultados esperados são a produção de um painel dos trilhos, ferramentas para registar os visitantes e o aumento do número de turistas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Trail Gazers Bid - Marco técnico y analítico para evaluar el retorno de la inversión en caminos",
+          "description": "TrailGazersBid pretende evaluar los impactos socioeconómicos de la inversión y la promoción en caminos en áreas de patrimonio natural. Este proyecto pretende establecer un conjunto de indicadores clave a nivel económico, social y ambiental, desarrollar tecnologías y sistemas innovadores para captar las actividades en los senderos y desarrollar planes para la gestión sostenible de los mismos. Los principales resultados esperados son la producción de un cuadro de mando, herramientas digitales para registrar a los visitantes y el aumento del número de turistas en el Atlántico.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Trail Gazers Bid - Un projet pour mesurer le retour sur investissement sur les chemins de randonnée",
+          "description": "TrailGazersBid vise à  mesurer les impacts sociaux économiques générés par la valorisation des sentiers de randonnée dans les zones de patrimoine naturel. Le projet a pour objectif d’établir un ensemble commun  d’indicateurs de performance, développer des outils innovants pour mesurer la fréquentation sur les sentiers et de mettre en œuvre des programmes pour une gestion durable. Les principaux résultats attendus sont la création d´un tableau de bord des sentiers, des outils numériques pour cibler les visiteurs et finalement une croissance du  nombre de touristes sur la façade Atlantique",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Trail Gazers Bid - An analytical & technical framework to measure returns from trail investment",
+          "description": "The Atlantic Area sparsely populated regions rely heavily on the economic spin-offs from tourism to generate employment and wealth for these communities, resulting in significant investment into the development of trails infrastructure that capitalise on the region´s rich natural and cultural heritage. However, there has been limited research into quantifying the economic and social return from such investments or policy on how to promote and sustainably manage these assets for future generations.\nTrailGazersBid will measure socio-economic impacts from investing & promoting trails in areas of rich natural heritage in the Atlantic Area. The project will establish a common set of economic, social & environmental key indicators, develop innovative technologies & systems to capture trails activity, as well as plans to sustainably manage trails, via a ‘Trails Dashboard’.\nTrailGazersBid will explore how new technologies, such as Go Procameras, drones and Talking Heads can be used to showcase trails to Atlantic tourist visitors via virtual experiences, aiming at developping Destination Management Plans to preserve natural and cultural assets for future generations.",
+          "expected_results": "TrailGazersBid will target an increase of 200 visitors per annum in each region through monitoring, sensors and survey, targeting local communities, business networks & associations, local & regional environmental & tourism agencies, transnational, regional & local development agencies, local government bodies, policy makers, Atlantic Tourist visitors.\nThe project will impact on policy makers with a framework that identifies the required levels of investment, programming and management required to assist trails to become more economically and socially driven, thus increasing and attracting more visitors to the Atlantic regions.",
+          "achievements": "The Atlantic Area sparsely populated regions rely heavily on the economic spin-offs from tourism to generate employment and wealth for their communities. This results in a significant investment in the development of  trails infrastructure that capitalises on the region’s rich natural and cultural heritage. However, there has been limited research into quantifying the economic and social return from such investments or policy on how to promote and sustainably manage these assets for future generations.\nThe TRAILGAZERSBID project measured socio-economic impacts from investing and promoting trails through Trail User Surveys and this data will be used to inform the trail multiplier. A trails dashboard will also inform policy makers with real time data in relation to future development options. The project has developed digital  marketing and virtual tourism materials to encourage both domestic and overseas walkers, cyclists and outdoor enthusiasts to these sites and surrounding catchment areas. It has also developed bottom up Community Trail Plans and Community Trail Ambassadors to ensure a better future trail management and protection of its environmental assets, and Business to Consumer Initiatives to encourage visitors to explore the surrounding towns and villages.\nSeveral events have taken place on each pilot trail to engage with the local communities and key stakeholders. A series of informative Trail Care Packs were produced and the Lost Stories of each trail were captured for future generations in an interactive consumer facing app. TRAILGAZERSBID impacted policy makers with a framework that identifies the required levels of investment, programming and management required to assist trails to become more economically and socially driven, thus increasing and attracting more visitors to the Atlantic regions.\n\"From collating and designing our Lost Stories app, Trail Care Packs, capturing vital data from Trail User Surveys, development of a trail’s dashboard giving real time data, to the development of key actions for our Community Trail Plans, a lot of work has been done to revitalise the Atlantic trail sites\". Mary McBride Donegal County Council.",
+          "expected_outputs": "• 1 pilot implemented in 4 partner regions; \n•  2 technical research publications on ‘Using technology measure the impact of investing in trails’,\n‘Developing virtual trail tourism in AA regions’, 5 case studies on economic value of trails in AA regions; \n•  1 ‘trail dashboard’ visualising real time trail metrics, 2 trail apps on enhancing virtual trail experiences & developing asset management tools, 5 bespoke destination management plans,•  5000 online audiences & visitors in the 4 regions;",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22096,
+      "acronym": "CABFishMAN",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Conservation of Atlantic biodiversity supported by co-management of small-scale fisheries",
+          "description": "CABFishMAN supports cooperation between the actors involved in small-scale fisheries (SPF), in order to address the transnational challenge in the Atlantic of strengthening the protection of marine resources by advancing the ecosystem management of EPPs. Also, based on the monetary valuation of ecosystem services derived from habitats and species of EPPs, knowledge of their spatial activity in the Atlantic and their impacts on biodiversity. \n\nCABFishMAN apoia a co-operação das parties interested in fishing on small scale (EPP), addressing transnacionais no Espaço Atlântico challenges to protect two Marinhos and avançando resources for uma approachgem ecosistemica da gestão da PPE. A conservation of biodiversity will also be alcançada through avaliação quantitativa two services two associated ecosystems às espécies e habitats da PPE, do conhecimento da spatial activity da EPP and associated impacts na Biodiversity and serviços two ecosystems.",
+          "expected_results": "- Improvement on the SSF spatial distribution activity data collection methods in the Atlantic Area.\n- Current understanding of the physical and biological effects of SSF fishing activity on the coastal and marine habitats.\n- New knowledge in the Atlantic on impact assessment-based classification of SSF gears and impacted habitats.\n- Improved knowledge on SSF and its ecosystem cultural and natural heritage.\n- Innovative assessment of economic net value of fishing grounds for SSF and the carbon footprint.\n- Recommendations to better advance management of SSF under an ecosystem approach.",
+          "achievements": "Small-scale fisheries represent an important sector of many Northeast Atlantic fleets and are receiving growing attention as part of the Common Fisheries Policy reform and Maritime Spatial Planning initiatives. Several recent studies have highlighted the need to improve available knowledge of small-scale fisheries to secure their sustainable development. CABFISHMAN aims to improve the protection of the marine environment and marine resources in the Atlantic Area by establishing an ecosystem-sensitive approach to the management of small-scale fisheries and promoting a collaborative approach between stakeholders, where fishers work confidently alongside managers, government officials and scientists.\nTo enhance knowledge of best-practice methods of data collection in small-scale fisheries, enabling their effective management, CABFISHMAN produced a comprehensive overview of the various methodologies, census and sampling approaches available for use, with an evaluation of the advantages and disadvantages of each, and recommendation of best practices.\nCABFISHMAN also developed an operational tool to assess the impact of the small-scale fishing gear on the marine environment by considering physical, biological and chemical issues. Moreover, estimations of the net economic value and the carbon footprint spatial distribution across small-scale fishing grounds have been produced.\nA multidisciplinary team gathered data on small-scale fisheries cultural heritage in France, Ireland, Portugal, the United Kingdom and Spain, registering a total of 1,233 references and documents, including printed materials, films/videos, web pages, inventories, leaflets, posters, etc. This new knowledge was updated and mapped, shared to the small-scale fisheries platform using a Geotool prototype. By proposing measures for the implementation of an ecosystem approach to small-scale fisheries, CABFISHMAN is contributing to the goals of the EU Biodiversity Strategy and the Maritime Strategy for the Atlantic Area.\n\"To ensure Small Scale Fisheries remain sustainable we need to understand how to manage their impacts on marine ecosystems”. Dr Mark James University of St Andrews.",
+          "expected_outputs": "- Operational SFF platform with functional research-use flow.\n- Mapping coastal biodiversity and SSF activity interactions in the Atlantic Area.\n- Assessment of the ecological and physical impacts of SSF fishing gears on biodiversity.\n- SSF and its cultural and heritage ecosystems impact on Atlantic coastal economies.\n- Harmonisation of common operational methodologies for assessing the SSF economic growth.\n- Mapping interactions between SSF, the ES and other users to balance conservation, protection and the economic growth in the Atlantic (Blue growth).\n- Database and extraction tool.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Conservação da biodiversidade Atlântica através do apoio à co-gestão inovadora da pequena pesca",
+          "description": "CABFishMAN apoia a cooperação das partes interessadas na pesca em pequena escala (PPE), abordando desafios transnacionais no Espaço Atlântico para melhorar a protecção dos recursos marinhos e avançando para uma abordagem ecossistémica da gestão da PPE. A preservação da biodiversidade será também alcançada através da avaliação quantitativa dos serviços dos ecossistemas associados às espécies e habitats da PPE, do conhecimento da actividade espacial da PPE e impactos associados na biodiversidade e serviços dos ecossistemas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Conservación de la biodiversidad Atlántica apoyada por la cogestion de pesquerías de pequeña escala",
+          "description": "CABFishMAN apoya la cooperación entre los agentes implicados en la pesca a pequeña escala (PPE), para hacer frente al reto, de naturaleza transnacional en el Atlántico, de reforzar la protección de los recursos marinos avanzando hacía una gestión ecosistémica de las PPE. Asimismo, a partir de la valoración monetaria de los servicios ecosistémicos derivados de los habitats y especies de las PPE, el conocimiento de su actividad espacial en el Atlántico y sus impactos en la biodiversidad.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Préserver la biodiversité de l'Atlantique en soutenant la cogestion innovante de la pêche côtière",
+          "description": "CABFishMAN soutient la coopération des parties prenantes à la pêche à petite échelle (PPE) en vue de relever les défis de l'Espace Atlantique : améliorer la protection des ressources marines en promouvant une approche écosystémique de la gestion de la PPE. La biodiversité sera aussi préservée grâce à l'évaluation quantitative des services écosystémiques liés aux habitats et espèces de PPE, à la connaissance de la spatialisation de l'activité de PPE et aux impacts associés sur la biodiversité et les services écosystémiques.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22095,
+      "acronym": "Atlantic-POSitiVE",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Conservation of Atlantic pollination services and control of the invasive species Vespa velutina",
+          "description": "Vespa velutina is a major predator of bees and other pollinators. It was accidentally introduced in Europe and it poses a threat to biodiversity. At present it can be found in the majority of Atlantic regions. This shows that the environmental conditions of the area are favourable for its biological success. \nAtlantic-Positive aims to contribute to the preservation of pollination services through the development of integrated approaches for the control of Vespa velutina and minimize the impact of this invasive species for ecosystems and for the socioeconomic development of the Atlantic Area. This will be achieved through creation of protected areas in rural and peri-urban natural environments and the establishment of a transnational cooperation network for the implementation of joint activities. The aim is to establish prevention strategies and an Atlantic Strategic Plan to protect biodiversity and ecosystem services, education and training campaigns will be carried out and, finally, the networks created and Atlantic cooperation will be maintained to improve the economy of the beekeeping sector.",
+          "expected_results": "The achievements of this project are the prevention of the spread of the invasive species, the fight against the species in highly affected areas and the consolidation of the transnational networks created. The first result of the project will be to prevent the pest from affecting the entire Atlantic Arc. The ecosystems of Spain, France and Portugal have suffered irreversible damage. For this reason, the aim is to sustain the spread of the pest so that it does not affect the ecosystems of the United Kingdom and Ireland. Likewise, the result of this phase will be to prevent the serious economic damage of this pest on a large productive sector. It is intended that the networks created in the project will be maintained after the end of the project. An observatory will be set up with the aim of maintaining the control of the pest and creating socio-economic synergies. These three sections will improve the quality of indigenous ecosystems and improve the protection of biodiversity.",
+          "achievements": "Invasive species do not understand political boundaries and spread through territories depending on their biological capacities and environmental factors. Vespa velutina is a great predator of bees and other pollinators. It was accidentally introduced into Europe, is found in most Atlantic regions and poses a threat to biodiversity. The ecosystems of Spain, France and Portugal have suffered irreversible damage and it became necessary to sustain the spread of the pest so that it does not affect the ecosystems of the United Kingdom and Ireland. The ATLANTIC-POSITIVE project aims to contribute to the preservation of pollination services through the development and test of new methods for the control of Vespa velutina, to minimise the impact of this invasive species on ecosystems and on the socioeconomic development of the Atlantic Area. The project created protected areas in rural and peri-urban natural environments to fight against the species in highly affected areas and prevent the spread of these invasive species.  \nTo achieve this goal it was created a transnational cooperation network to devise new control methods for the implementation of joint activities. The synergistic collaboration between scientists and technologists from various disciplines helped curb the spread of this pest, especially, in the natural ecosystems most sensitive to changes caused by it and the consequent reduction of pollinators.  The techniques researched and implemented in the project are expected to have a clear benefit on ecosystem protection. In addition to this research process, awareness and training campaigns were carried out throughout the project.\nA Strategic Atlantic Plan was developed to protect biodiversity and ecosystem services against this scourge. This common strategy, with its own guidelines and procedures, was created for the entire region thus improving the economic situation of a productive sector heavily affected by this pest. \n\"This is a project of great social and economic interest for the entire Atlantic area” Manuel Joaquín Reigosa Roger chancellor of the University of Vigo.",
+          "expected_outputs": "• New database of organisations with beekeeping interests at international and global scale.\n• Creation of an Atlantic Beekeeping Observatory. \n• Research report on changes of characteristics in pollination networks and the effect of V. velutina as a pollinator predator.\n• Research report on the Vespa Velutina dietary habits based on bees.\n• Research report on the annual cycle and its relation with meteorological and geoclimatic conditions.\n• Research report on the defensive behaviour of bees.\n• Radio tracking Vespa velutina to their nests.\n• Recommendations to capture, trace and monitor individuals using radio transmitters.\n• Methodology for a software to record species movement.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Preservação de serviços de polinização atlânticos e controlo de espécie invasora Vespa velutina",
+          "description": "A Vespa velutina é um importante predador de abelhas e de outros polinizadores. Foi introduzida acidentalmente na Europa e ameaça a biodiversidade. Actualmente encontra-se em praticamente todas as regiões do Espaço Atlântico, o que é revelador de que as condições ambientais do território são propícias ao seu sucesso biológico. O objetivo deste projeto é contribuir para a preservação dos serviços de polinização através do desenvolvimento de métodos conjuntos para o controle da Vespa velutina.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Preservación de servicios de polinización atlánticos y control de la especie invasora Vespa velutina",
+          "description": "Vespa velutina es un importante predador de abejas y de otros polinizadores. Fue introducida accidentalmente en Europa y amenaza la biodiversidad. Actualmente se encuentra en prácticamente todas las regiones del Espacio Atlántico, lo que demuestra que las condiciones ambientales del territorio son propicias para su éxito biológico. El objetivo de este proyecto es contribuir a la preservación de los servicios de polinización a través del desarrollo de métodos conjuntos para el control de la Vespa velutina.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Préservation de services de pollinisation atlantiques et controlê de l'espèce envahissante Vespa velutina",
+          "description": "Vespa velutina est un important prédateur des abeilles et des autres pollinisateurs. Elle fut introduit accidentellement en Europe et menace la biodiversité. Actuellement elle se trouve pratiquement dans toute l’Espace Atlantique, ce qui démontre que les conditions environnementales du territoire sont propices à son succès biologique. L’objectif de ce projet est de contribuer à la préservation des services de pollinisation par le développement de méthodes conjointes pour le contrôle de Vespa velutina.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

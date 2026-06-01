@@ -1,0 +1,73 @@
+{
+  "projects": {
+    "status": null,
+    "prizes": false,
+    "only_projects_with_documents": false,
+    "project_details": {
+      "start": [],
+      "without_start": false,
+      "end": [],
+      "without_end": false
+    },
+    "project_budget": {
+      "range": [],
+      "without_budget": false
+    },
+    "themes": {
+      "list": [],
+      "type": "or"
+    },
+    "macro_regional_strategies": [],
+    "only_infrastructure_financed": false
+  },
+  "programmes": {
+    "type": [],
+    "period": [],
+    "available": [
+      {
+        "id": 388,
+        "title": "2021 - 2027 Interreg VI-D Madeira-Azores-Canary Islands (MAC)"
+      }
+    ]
+  },
+  "partners": {
+    "status": [],
+    "type": [],
+    "nuts_lead": [],
+    "nuts_partner": [],
+    "nuts_search_type": "both",
+    "selectedAreas": {}
+  },
+  "contribution_2014_2020": {
+    "specific_objectives": {
+      "thematic_objectives": [],
+      "thematic_priorities": []
+    },
+    "thematic_objectives_eni": []
+  },
+  "contribution_2021_2027": {
+    "specific_objectives": [],
+    "intervention": [],
+    "common_output_indicators": [],
+    "common_result_indicators": []
+  },
+  "search": {
+    "list": [],
+    "type": null,
+    "fields": [],
+    "rawSearchString": ""
+  },
+  "documents": {
+    "document_lang": [],
+    "languages": [],
+    "types": [],
+    "name": "",
+    "search": ""
+  },
+  "project_lang": [],
+  "project_desc_lang": [],
+  "languages": [],
+  "translation_languages": [],
+  "thematic_objectives_eni": [],
+  "location": null
+}

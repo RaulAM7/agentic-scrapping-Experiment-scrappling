@@ -1,0 +1,466 @@
+{
+  "current": 8,
+  "next": "https://keep.eu/api/search/projects/?page=9",
+  "previous": "https://keep.eu/api/search/projects/?page=7",
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 19356,
+      "acronym": "@BluePortS",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Services Atlantic blue ports: constant discharge of water in ports, not at sea",
+          "description": "As pillar of MARPOL, the EU Port Reception Facility (PRF) directive obliges ports providing adequate PRF, ships delivering waste in the port and recommends a cost recovery system (CRS) as an incentives. IMO has also developed a PRF database, a user service. The IMO Ballast Water Management Convention (BWMC) entered into force on September \n\n2017.\nDespite regulations, discharge at sea is still practiced. Port users complain about the variability, cost and lack of adequate port discharge facilities. \nBLUEPORTS aims to provide a practical support to the ESSF/EMSA, using the Atlantic Area as a physical platform and its maritime community as a resource to design, prototype, test and demonstrate the “ideal” PRF and services for oiled and ballast water (as first concern). The overall goal is to create awareness and motivation within the maritime community to stop discharge at sea by designing in consensus the \"Blue Port Services\" for 2020 and beyond.\nThe project will create a cooperation framework and network for all parties by addressing users, providers and policy makers. The project emphasizes innovation: in techniques, to reduce operation time, in financial instruments to facilitate investment and adjust service costs and in user friendly booking services.",
+          "expected_results": "- \tA strong sensitization of the Atlantic maritime community (80 % mobilized in 3 years measured through workshops, demos, awareness actions);\n- \tAn effective reduction (target: 50%) of oil and ballast discharges at sea measured by quality indicators;\n- Easier location and access to port reception facilities (users feedbacks);\n- \tDecision of ports and public authorities to invest in advanced Port Reception Facilities (measured by a final survey, follow up projects);\n- \tAtlantic as leader \"Blue Ports\" area (adhesion to the network and brand).",
+          "achievements": "The EU Port Reception Facility directive obliges ports to provide adequate port reception facilities for ships waste. The International Maritime Organisation Ballast Water Management Convention entered into force. The Water Framework Directive engages all parties including ports\nto monitor sea water quality. Despite regulation maritime transport is still a source of marine pollution, hardly assessed in ports. What could be done beyond regulations?\nThe BLUEPORTS project concentrated the question on ports. It aimed to provide practical support to policy makers, at all levels, using the Atlantic Area as a platform and its maritime community as a resource to design, prototype, test and demonstrate attractive port services.\nThe overall goal was to raise awareness and motivation of all concerned parties to act.\nWith that purpose, the project created a cooperation framework for all parties by addressing users, providers and policy makers. The result is a “Blue Ports” Network of 270 members. It implemented a series of pilots: a mobile port facility for treatment of ballast water, an innovative oily water treatment process, digital applications for risk and quality assessment in ports, baselines of business plans for investors, a knowledge database and e-training tools.\nBLUEPORTS has managed a strong sensitization of the maritime community, through events and demonstrations organised in partner ports. The consortium delivered its recommendations during a working session organised by the European Parliament and the Conference of Peripheral Maritime Regions with representatives of the European Commission, the European Maritime Safety Agency, public, private\nand scientific actors. Further cooperation actions and programms were born from this meeting. \nThe Atlantic is now a leader area of the “Blue Ports” spirit and brand. \"Our objective is to build a reliable, efficient and sustainable service network to process ship residues, and contribute to preserving marine water quality and biodiversity” Mériadec Le Mouillour General Director of the CCIMBO, General Director of the port of Brest and General Coordinator of the BLUEPORTS project .",
+          "expected_outputs": "- A pilot innovative oil treatment process;\n- The InvaSave mobile ballast water Port Reception Facilities (PRF) demonstrated in 5 ports;\n- A pilot digital \"location, booking, reporting\" application;\n- A knowledge database, e-training tools;\n- A sustainable \"Blue Ports\" Task Force, network, web site, action plan;\n- A contribution to the PRF revision agreed with European Maritime Safety Agency/European Sustainable Shipping Forum;\n- Recommendation and best practice document for policy makers for the implementation of the International Maritime Organisation/ Ballast Water Management \nConvention;\n- Recommendation document to EU/national decision makers to motivate provision/ use of PRF.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Servicios puertos azules Atlánticos: descarga contanimada agua en puertos, no en mar",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Serviços para portos azuis Atlânticos: descarga de água poluída nos portos, não no mar",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Atlantic blue port services: déchargez les eaux polluées au port, pas en mer",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19355,
+      "acronym": "IN 4.0",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Adaptation of the Industry 4.0 model to the shipbuilding sector",
+          "description": "The naval sector occupies a central position in the growth of the economy, being deeply rooted in the Atlantic Area countries and presenting a common problem: the urgency of getting contracts in a very competitive market, mainly caused by very low labour costs in European countries such as Romania, Turkey, Poland or Croatia, or at worldwide level as Asians, competing with naval companies of the Atlantic Area countries.\r\nThe IN \n\n4.0 project aims to improve the competitiveness of naval sector companies through the adaptation of the traditional productive model towards the Industry \n\n4.0, guaranteeing the sector’s endurance in an increasingly demanding market where technological innovation is a key factor of strategic advantage. \r\nTo achieve this goal of competitiveness, the adaptation of the naval sector business model will be validated by:\r\n(i) determining the degree of maturation of existing technologies that could be implemented in naval SMEs; \r\n(ii) redefining work organization systems; \r\n(iii) qualifying naval sector workers in order to move towards \n\n4.0 model; \r\n(iv) designing innovative strategies to save costs in the implementation of technologies, detecting new marketing methods, and \r\n(v) implementing the innovations designed under IN \n\n4.0 in the selected SMEs of the participating regions in the project.",
+          "expected_results": "Validation of the the main barriers which impede the adaptation of the naval sector business model; determining the degree of maturation of existing technologies that could be implemented in naval SMEs; redefining work organization systems; qualifying naval sector workers in order to move towards 4.0 model; designing innovative strategies to save costs in the implementation of technologies, detecting new marketing methods, and implementing the innovations designed under IN_4.0 in the selected SMEs of the participating regions in the project.",
+          "achievements": "IN 4.0 aims to enhance the competitiveness of companies of the naval sector through their adaptation to the production model of Industry 4.0. In this way, the sector is granted the participation in an increasingly demanding market, where innovation is a key factor for its strategic positioning.  The project thus made a diagnosis of the main barriers that the sector faces in adapting their business to a 4.0 model and determined the level of maturity of the existing technologies likely to be implemented in SMEs of the sector of the regions involved. It also devised innovative strategies to reduce costs in the implementation of these technologies and identify new marketing methodologies for the naval sector. The activities carried out thus aimed to transform the organisation systems of work, knowledge, and commercialisation toward a 4.0 industry, being also necessary to provide training to the staff of the naval sector for new jobs and tasks towards a 4.0 model. As the main results, IN4.0 produced a catalogue with 20 existing potential technologies to be implemented, set up a web system for shipbuilding open knowledge, and developed a tool to match and map more than 100 business sectors in Europe.\n\"IN4.0 also invested in the dissemination of the pilot projects, mentoring programmes, and business plans aimed at reaching the highest number of SMEs of the sector in the Atlantic Area, and increasing their interest in planning the change process. Finally, an external evaluation allowed the identification of 50 quantitative and qualitative indicators to measure the growth of the SMEs after adopting the Industry 4.0 \"The shipbuilding sector is very traditional, but also global, so the only way for it to survive and stay competitive is to apply technologies that make the difference”. Cinthia Gómez Shipbuilding engineer at Ghenova Naval & Defensa.",
+          "expected_outputs": "- Development of joint diagnosis of validation of the state of art, compiling the sector needs; \r\n- Study about the existing technologies with potential for implementation; \r\n- Report about the degree of maturation of the technologies identified; \r\n- Protocol for redefinition of the workers tasks; \r\n- Training program and training actions; \r\n- Labour insertions for young graduates; \r\n- Report about saving costs related to the acquisition of technologies; \r\n- Study of new commercialization tools; \r\n- Inter-sectorial forums among companies from other sectors for the valuation of these experiences and strengths identification; \r\n- Advice pilots to implement the innovations identified in the project; \r\n- Sustainability and transfer plan.",
+          "delivered_outputs": "",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Adaptación del modelo Industria 4.0 al sector de la construcción naval",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Adaptation du modèle Industrie 4.0 au secteur de la construction navale",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Adaptação do modelo Industria 4.0 ao setor da construção naval",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19353,
+      "acronym": "SAFER",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Clusters do Atlântico inteligentes do frutos do mar",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Clusters atlánticos inteligentes de los productos del mar",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Clusters atlantiques intelligents des produits de la mer",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Smart Atlantic seafood clusters",
+          "description": "The Safer project aims to improve the innovation performance of the seafood sector by increasing technology adoption and transnational cooperation giving response to the challenges faced by this sector identified with high-potential for the smart growth of the Atlantic regions participating in the project. The project will drive innovation with a view of expanding the results to 21 Atlantic regions who will benefit from project’s experience in order to improve their innovation policies.\nSpecific sub-objectives of the project are:\n(i) Create an innovation platform to sustain an effective transnational network of seafood clusters by putting in place the organisation, governance, innovation, services and tools that the network will need to effectively and sustainably drive innovation in a fast-moving network of SMEs and third level and Applied Research Centres distributed across the Atlantic Area; \n(ii) Inspire technology adoption and collaboration within the seafood sector by using the innovation platform established to increase the level of collaboration and technology transfer. Living Lab pilots will be jointly implemented and evaluated in order to test the effectiveness of the platform;\n(iii) Serve as empirical input for the Regional Innovation Smart Specialization Strategies (RIS3) of the Atlantic regions by evaluating project results and providing recommendations to be considered by the decision makers responsible of the RIS3 and other innovation strategies in these Atlantic regions.",
+          "expected_results": "SAFER expects to make into the programme result indicator relates to the degree of coverage of regional policies in relation to most relevant EU recommendations for the development of regional innovation systems where 54 % of the Atlantic regions will be influenced by the project through different specific actions.",
+          "achievements": "The Atlantic countries have a strong stake in the growth of the seafood sector, both in terms of production and consumption. The growing demand for aquaculture products, while balancing with sustainability goals and the preservation of natural heritage, require innovative solutions to respond to the different challenges and opportunities. The SAFER project aims to increase the technology adoption and collaboration within the seafood sector, giving response to the challenges of a sector identified as high-potential for the smart growth of the participant regions.\nOne of the main achievements of this project is the establishment of a Transnational Smart Atlantic Seafood Network. Initially formed by 5 nodes and supported by a digital platform, this network targeted over 60 seafood related organisations, to illustrate the benefits of the innovative technology and its potential to be replicated by seafood actors across the Atlantic Area and beyond. As a result, 6 living lab pilots have been implemented and 1 additional one tested to be ready for implementation.\nThe exchange of knowledge carried out has enabled the recipient regions to import and locally provide the services to the sector. During this process, they receive the support of the exporting regions to guarantee a correct implementation.\nSAFER has also produced recommendations for the Regional Innovation Smart Specialisation Strategies, in order to help and support other businesses and local actors with great potential for blue growth in the Atlantic regions. The project plans to extend its model and services to other interested regions, helping the seafood sector to become more sustainable, resilient and competitive.\n\"SAFER, through the implementation of Industry 4.0 solutions on a transnational basis, has demonstrated the benefits that technology, innovation and cooperation can bring for a more effective and sustainable seafood industry”. Jose Manuel San Emeterio Programme Manager at ERNACT.",
+          "expected_outputs": "• A transnational network of smart seafood clusters able to drive innovation across the Atlantic Area. The network will contain a suite of innovation services; \n• 5 pilot actions to test the network in real living labs with the seafood sector. These pilots will be targeted to 64 organisations with a goal of working with 30 of them; \n• Instruments produced from the assessment of pilot results: 5 innovation policy recommendations for each region and 1 technical paper; \n• Actions for the capitalization of the project results targeted to innovation stakeholders in 21 Atlantic regions (including Atlantic Canada) where 36 organizations have already been identified: a transnational marketing campaign, 6 transnational events, local info days, 5 training sessions to the industry and 5 regional stakeholder groups established. These actions are expected to reach 660 participants.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19352,
+      "acronym": "PROTOATLANTIC",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Development and validation of a programme for the prototyping and exploitation of innovative ideas",
+          "description": "The Protoatlantic project aims to develop a model for the prototyping and exploitation of innovative ideas in the maritime sector. \nTaking into account the high costs of prototyping activities, this proposal will be narrow to three well defined sectors: Renewable Energy, Marine Robotics and Blue Biotechnologies.\nThe partnership will identify the product innovation capacity in the maritime sector, willing to address emerging markets in a co-creation paradigm with the local start-up communities, research centres and universities. The action will be based in existing co-working spaces and blue acceleration programs specialized in the marine sector and replicate success stories. \nFor that purpose, acceleration programs will be implemented, starting from ideation to market access, where a normed and structured process is used to manage product innovation. \nThe acceleration programs will attract innovative ideas, creating a unique ecosystem that will melt with a methodology that will cover from business model to market validation, including test phases. This circle will be completed with the launch to market of the most innovative and feasible ideas. \nThe Protoatlantic network will allow to find the best place to build and test the prototype, and to identify the best places for the company to establish and launch its business. Policy makers and business support agencies will be involved, to provide the ecosystem of a legal and long term support.",
+          "expected_results": "- An updated guideline with existing policies, investors and business support entities in the Atlantic Area;\n- A valid methodology to develop maritime startups in the Atlantic Region;\n- Focusing the “entrance door” to the maritime prototyping and startups development for the associated countries in the Atlantic Region;\n- Develop prototyping labs and startups labs in the Atlantic Region.",
+          "achievements": "PROTOATLANTIC has developed a model for the prototyping and exploitation of innovative ideas in the maritime sector with a focus on three well-defined sectors: renewable energy, marine robotics, and blue biotechnologies. This project aims to identify product innovation capacity in the maritime sector willing to address emerging markets in a co-creation model with start-up communities, research centres, universities, and Local Authorities. This acceleration program has allowed the  creation of a path from idea to market access where a structured process is used to manage product innovation. Based on the development of products, mentoring, and funding these programs have attracted innovative ideas, creating a unique ecosystem. At the end of the process, 12 companies were selected to pitch in front of a pool of\ninvestors from the Atlantic Area. In addition, the project provided 10 companies with the possibility to take advantage of the experience and expertise of the most important testing facilities in Europe, where they were able to test and prototype their technology.\nOn the other hand, this project has validated an international methodology to offer the scientific community a tool to develop new products, startups and spinoffs in the maritime field. It has also trained teams to high capacity to develop projects and start-ups ready to scale in a viable and sustainable business model, with a high social impact. Finally, PROTOATLANTIC has delivered an updated guideline with existing policies, investors, and business support entities in the Atlantic Area, shaping the entrance door to develop maritime prototyping and startups development in the Atlantic Area. \n\"PROTOATLANTIC is a valuable platform that has enriched our development efforts, facilitating a straightforward route for gaining access to the facilities and expertise required to grow. The whole experience was both educational and constructive, setting a solid milestone on the road towards commercialisation”. Chrysostomos Zakheos SWELL.",
+          "expected_outputs": "- Validation of an international methodology to offer to the scientific community a tool to develop startups and spinoff in the maritime field;\n- Training teams to high capacity to develop projects and start-ups ready to scale in a viable and sustainable business model, with a high social impact.\n- Place the Atlantic region as a reference in maritime entrepreneurship. Agile methodologies for the entrepreneurship will be tested, based in lean start up, teampreneurship, design thinking or learning by doing;",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Desarrollo y validación de un programa para el prototipado y la explotación de ideas innovadoras",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Desenvolvimento e validação de um programa de prototipagem e exploração de ideias inovadoras",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Développement et validation d’un programme de prototypage et d’exploitation d’idées innovatrices",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19351,
+      "acronym": "ALERTOX-NET",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic Network of Innovative Toxicity Alert Systems in Safer Marine Products",
+          "description": "Main seafood toxins are emerging toxins, non-regulated marine toxins that have proliferated in the Atlantic Area as a consequence of climate change and which are harmful towards public health. ALERTOX-NET aims to facilitate market delivery of safer seafood products by putting at disposal of affected industries a new toxicity alert system for prevention strategies/processes across the value chain. This system consists of cost-effective, easy-to-understand, detection and alert methods, which will facilitate adoption by industry. Furthermore, ALERTOX-NET will recommend a regulatory framework addressed to public agents regarding emerging toxins, including tetrodotoxins, palytoxins and cyclic imines, due to their risks. ALERTOX-NET will have a bottom-up approach: from the “on-the-ground” demonstration in affected industries, to cooperation with Administration to adapt regulations to the risk represented by emerging toxins. The change sought is to provide better and easy-to-use detection and alert systems for emerging toxins so that industries will be prepared to detect those toxins, as well as Public Administrations, which will be involved in ALERTOX-NET, to get the directly required regulatory changes to adapt legislation. Moreover, the alert system will be also developed for toxins that are currently regulated so that industries which are not adapted, e.g. they are not aware of the toxins and methods, can benefit from better protected products for their consumers.",
+          "expected_results": "Industries: A new and marketable service related to toxicity detection and prevention at disposal of marine food processing companies on the Atlantic coasts will increase their competitiveness;\nPublic authorities: A successful pilot study will contribute to the economic cohesion of involved regions;\nResearch organisations: They participate in an ambitious strategy to enhance Europe's capacity to deliver smart growth and research and to improve the existing processes for knowledge transfer in the area;\nConsumers: One of the goals of the project is to protect the health of marine food consumers.",
+          "achievements": "The main seafood toxins are emerging, unregulated toxins that have proliferated in the Atlantic Area as a consequence of climate change and are very harmful to public health. The ALERTOX-NET project aimed to facilitate the market delivery of safer seafood products. For that, the project worked to put at the disposal of the affected industries a new toxicity alert system for prevention strategies/ processes across the value chain. This system consisted of cost-effective, easy-to-understand, detection and alert methods, which will facilitate its adoption by the industry. This replicable alert system of toxicity levels in seafood producing companies ensured the involvement of all stakeholders along the value chain within the Atlantic Area and beyond. It was piloted in 10 industries located in 7 different regions to validate its usefulness and feasibility.\nALERTOX-NET also created a database with species incorporated into the food chain in high-risk products, to facilitate easier identification of toxicity by regulatory authorities, as well as further elaboration of public toxicity risk maps. This detection and alert method is proved to be effective, feasible, and easy to understand and will benefit industries providing a new and marketable service related to toxicity detection and prevention, namely the marine food processing companies on the Atlantic coasts, thus increasing their competitiveness.\nALERTOX-NET also developed guidelines for the use and adoption of Prevention and Toxicity Detection Methods in the Atlantic Area Seafood Industry. Furthermore, the project recommended a regulatory framework addressed to public agents regarding emerging toxins, including tetrodotoxins, palytoxins, and cyclic imines, due to their risks. \n\"The ALERTOX-NET project delivers scientific, technical services and provides advice to regulatory authorities, which will underpin development in the aquaculture sector. In this way, the project will help to maintain international excellence in seafood safety research in order to gain a better prediction of risk and provide scientific advice to meet the needs of stakeholders”. Luis Botana project coordinator.",
+          "expected_outputs": "- A joint and replicable alert system of toxicity levels in seafood producing companies, ensuring the involvement of all stakeholders along the value chain within the Atlantic Area and beyond;\n- Piloting the tocixity alert system in at least 7 industries located in 7 different regions in Atlantic Area to validate the usefulness and feasibility of the toxicity alert system pre-defined;\n- Database with species incorporated to the food chain in high-risk products, to facilitate easier identification of toxicity by regulatory authorities as well as the further elaboration of public toxicity risk maps;\n- Guidelines for the use and adoption of prevention and toxicity detection methods in the Atlantic Area Seafood Industry, including policy recommendations for regulatory changes (namely for emerging toxins).",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Rede Atlántica de sistemas de alerta de toxicidade inovadores para alimentos marinhos mais seguros",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Réseau Atlantique de systèmes innovants d'alerte de toxicité pour des aliments marins plus sûrs",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Red Atlántica de sistemas de alerta de toxicidad innovadores en productos marinos más seguros",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19350,
+      "acronym": "BLUEHUMAN",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Biotecnologia azul como inovação em saúde humana como crescimento inteligente no Espaço Atlântico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Biotecnología azul como innovación en la salud humana para el crecimiento inteligente en Europa",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Biotechnologie Bleue: voie innovante en santé humaine pour une croissance intelligente dans l’Espace Atlantique",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Blue biotechnology as a road for innovation on human’s health aiming smart growth in Atlantic Area",
+          "description": "The Atlantic Area (continental shelf and islands) is particularly rich in marine resources and despite the richness of these resources, both in quantity and biodiversity. Commercial exploitation is predominantly focused on fishing for food and directing by-products for feed. However, their relevance for other commercial fields has already been demonstrated with pilot examples of marine derived cosmetics, pharmaceuticals and medical device products. \nThe BlueHuman project aims to widen the commercial potential of the Atlantic Ocean on Europe by proposing innovative products for the biomedical field. These will be produced not only from a sustainable exploitation of marine resources but also valorising the huge amounts of by-products available in the region. To achieve this, the project will seek to expand the commercial and scientific potential, beyond current activities mainly limited to fishing and maritime transport, opening the avenue of blue biotechnology with new high added-value solutions.\nBlueHuman will also seek to influence other actors in the region towards the much needed sustainable and smart growth, as identified in Europe 2020 strategy, with the ultimate objective of increasing highly-skilled jobs and strengthening the economic tissue, including with new technology-based SMEs. Blue biotechnology will then be used as a tool for regional smart growth towards harmonization with EU.",
+          "expected_results": "• The collaborative efforts between research centers and private companies will facilitate the transfer of knowledge, envisaging an increase on patent applications, aiming to result in prototypes of products and solutions corresponding to society needs and with good market receptivity, believed to represent a successful investment to establish new and viable lines of business, replicable and transferable outside the Atlantic Area. \n• Impact on the definition of new policies and regulations to support the mentioned initiatives, further leading to the improvement of the competitiveness of the Atlantic Area innovation actors. \n• Impact on regional RTD policies, reflected in coming public calls.",
+          "achievements": "The BLUEHUMAN project has focused its activities on finding new ways to add value to marine resources and fisheries by-products through blue biotechnology, combining the know-how and experience of several research groups and companies from different regions in the Atlantic Area. BLUEHUMAN adopted three research lines. The first one, focused on marine biomaterials, highlighted the potential of hydrogels and aerogels based in marine origin collagen as biomaterials for the regeneration of cartilage and wound healing.\nThe second research line explored different approaches for developing marine based medical devices, with promising results in the 3D bioprinting of in situ mineralised blue shark collagen for the engineering of mineralised tissues or the use of marine biomaterials for the treatment of bone cysts. The last workpackage was focused on identifying marine bio compounds with potential interest for well-being and cosmetics markets; for example, several molecules isolated from cyanobacteria and halophytes showed interesting bone anabolic molecules for nutraceutical and/or pharmaceutical applications. The completion of prototypes of products and solutions corresponded to society’s needs and had a good market receptivity, replicable and transferable outside the Atlantic Area.\nBLUEHUMAN focused on influencing other actors in the region with the ultimate objective of increasing highlyskilled jobs and strengthening the economic tissue, including new technology-based SMEs. Through the capitalisation activities and with the cooperation of the partners with commercial activity, some key ideas were also highlighted, for example, the need to promote early collaboration between industry and academia, to develop schemes that encourage and facilitate the flow of know-how between both sides, or the vulnerability of SMEs and spin-offs to significant changes in European regulations affecting the medical devices market.\n\"BLUEHUMAN represents a good example of how, through collaboration, synergies can be generated to create new, safer and more effective health products and biomolecules that contribute to a better quality of life for the population.” Jesús Gamallo Director General of Foreign and EU Relations of the Xunta de Galicia.",
+          "expected_outputs": "• 3 prototypes of medical devices for bone therapies and wound dressing; \n• 3 matrices for RDI on regeneration of human tissues; \n• 10 new bioactive marine extracts;\n• 2 cosmetic formulations.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

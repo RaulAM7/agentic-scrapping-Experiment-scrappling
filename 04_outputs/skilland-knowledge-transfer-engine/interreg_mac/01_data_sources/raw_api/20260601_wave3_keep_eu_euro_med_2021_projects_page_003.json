@@ -1,0 +1,388 @@
+{
+  "current": 3,
+  "next": "https://keep.eu/api/search/projects/?page=4",
+  "previous": "https://keep.eu/api/search/projects/?page=2",
+  "total_pages": 15,
+  "count": 89,
+  "results": [
+    {
+      "id": 31597,
+      "acronym": "Regenera4MED",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Vers un modèle méditerranéen de tourisme régénératif comme adaptation au changement climatique et prévention des risques",
+          "description": "La région méditerranéenne est particulièrement vulnérable au changement climatique et aux externalités environnementales négatives. Il existe un besoin de promouvoir l’adaptation au changement climatique, de renforcer la résilience et de renforcer les mécanismes de prévention des risques. Néanmoins, cette vulnérabilité préexistante est renforcée par le modèle touristique actuellement utilisé : basé sur un consumérisme de masse et des pratiques non durables. Compte tenu de l'importance du secteur du tourisme pour l'économie de la région (la Méditerranée accueillant 35 % de toutes les arrivées de touristes internationaux), une solution globale à ce défi doit nécessairement créer un changement dans le domaine du tourisme sans diminuer l'activité du secteur comme protéger et renforcer l’économie régionale. C'est possible: plus de 70% des citoyens européens affirment être prêts à changer leurs habitudes de voyage, afin de s'orienter vers un modèle plus durable. Il cherche activement à restaurer et revitaliser les écosystèmes naturels, à renforcer les cultures locales et à autonomiser les communautés. Il favorise l’adaptation au changement climatique et la résilience, tout en encourageant des liens significatifs qui génèrent une valeur partagée à long terme pour les populations et la planète.\n\nPar conséquent, Regenera4MED propose de proposer un nouveau modèle de tourisme holistique basé sur le concept de tourisme régénératif: un système qui va au-delà de la durabilité et de la préservation, et cherche à inverser l'impact négatif et à créer une valeur partagée positive. Bien que l'accent soit mis sur les considérations environnementales, visant à promouvoir l'adaptation au changement climatique et à renforcer la résilience, le modèle de tourisme régénératif repose sur une approche globale qui aborde également les questions clés liées au tourisme, telles que: la communauté, le patrimoine, la culture et les sociétés locales. L’intégration de différentes perspectives sera assurée grâce à la mise en œuvre d’un modèle de gouvernance multipartite à 5 hélices, développé et appliqué tout au long du cycle de vie du projet. Ce modèle inclura notamment : 1) les autorités et agences publiques, 2) les PME, 3) la société civile, 4) le monde universitaire et la recherche, 5) les associations environnementales.\n\nLe projet créera un ensemble de résultats durables visant à définir le concept de tourisme régénératif, ainsi qu'à l'opérationnaliser et à le matérialiser à travers la création d'expériences régénératrices. Lesquels seront ensuite testés dans 6 zones pilotes, contribuant à créer des connaissances pertinentes et à identifier les meilleures pratiques (Catalogne, ES ; Ligurie, IT ; Abruzzes, IT ; Crète, GR ; Corse, FR ; Split Dalmatie, HR). En outre, des outils garantissant que les apprentissages peuvent être intégrés et utilisés par les parties prenantes concernées seront développés, tels que l'outil numérique d'auto-évaluation RISET, le Guide du financement de l'UE pour développer des pratiques de tourisme régénératif ou le Blue Print Regenera4MED.\n\nConsidérant que, même si elles sont de nature singulière, les régions méditerranéennes partagent de nombreuses caractéristiques (géographie, proximité culturelle, vulnérabilité au changement climatique) et sont confrontées aux mêmes défis, il devient impératif de développer une solution commune applicable au niveau transnational, garantissant un changement de paradigme qui peut avoir un impact significatif et efficace sur la Méditerranée. La coopération territoriale est essentielle pour développer un concept et une méthodologie communs pour un modèle de tourisme régénérateur dans la région, garantissant des politiques et des pratiques cohérentes et des impacts positifs en matière d'adaptation au climat, de résilience et de prévention des risques. Développer ce nouveau paradigme et l'appliquer au niveau régional a le potentiel de surmonter de nombreux défis clés (mentionnés ci-dessus), tout en redéfinissant la Méditerranée comme une référence mondiale en matière de tourisme durable et régénérateur, en rebaptisant la région comme une référence mondiale en matière de tourisme durable et régénérateur. destination pour le tourisme du futur : basée sur des expériences vécues de tourisme régénérateur, plutôt que sur la consommation de produits touristiques. Le soutien et l'alignement sans ambiguïté de Regenera4MED avec les organisations et initiatives transnationales suivantes sont la meilleure garantie d'une durabilité et d'une intégration à long terme:\n-NECSToR, Réseau des régions de l'UE pour un tourisme durable et compétitif\n-Initiative Ouest-MED\n-Union pour la Méditerranée\n-Mécanisme de coordination multiprogramme MED (Euro-MED, NEXTMED, transfrontalier, etc.) et futurs projets de gouvernance (et thématiques) NEXT MED.\n-Parcours de transition touristique\n-Déclaration de Glasgow sur l'action climatique dans le tourisme\n-Stratégies de spécialisation intelligente (S3)",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": ".\n.\n.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Towards a Mediterranean model of Regenerative Tourism as Climate Change adaptation and risk prevention",
+          "description": "More than 70% of European citizens say they are willing to change their travel habits to a more sustainable model. Regenera4MED wants to go further!\nIts concept of Regenerative Tourism goes beyond sustainability, it actively seeks to restore and revitalize natural ecosystems, strengthen local cultures, and empower communities. It promotes climate change adaptation and resilience while fostering meaningful connections that generate long-term, shared value for both people and the planet.\nRegenera4MED will be tested in 6 high-profile tourist destinations: Catalonia (Spain), Corsica (France), Liguria and Abruzzo (Italy), Split-Dalmatia (Croatia) and Crete (Greece). Its long-term goals? To reposition the Mediterranean as a global benchmark for Regenerative tourism and to promote the region as a destination for the tourism of the future.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To establish and consolidate a Regenerative Tourism framework tailored for the Mediterranean, encompassing research, governance models, stakeholder engagement, and practical tools, ultimately creating a comprehensive Regenera4MED Blueprint to guide and empower stakeholders in developing sustainable, inclusive, and resilient tourism experiences in six pilot destinations.\nTo demostrate the capacity of Regenerative Tourism to become an engine creating positive social and environmental value, thus contributing to climate change adaptation and risk prevention while preventing negative externalities. 6 pilot destinations from 5 EU Mediterranean countries will implement and validate the Regenera4MED Blueprint , involving comprehensive stakeholder engagement, capacity building, co-creation workshops, mentoring, promotion, evaluation, and collaborative learning to develop and enhance Regenerative Tourism experiences.\n\nTo ensure the continuous improvement, widespread adoption, and policy integration of Regenerative Tourism practices into at least 6 EU countries, and also across the Mediterranean and beyond: Addressing the long-term sustainability and amplification of Regenera4MED outcomes, the partners will seek the collaboration with governance projects, creating synergies with other initiatives,  guaranteeing the sustainability and ownership by the stakeholders,, developing a comprehensive transferability strategy to facilitate the replicability, promoting the policy impact and mainstreaming in the Euro-MED area.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31596,
+      "acronym": "GreenSET",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Green and circular transformation of services in Med tourism",
+          "description": "Défi Commun\nGreenSET aborde le manque de soutien systémique aux initiatives de transformation circulaire dans le secteur du tourisme méditerranéen. Ce secteur, principalement composé de PME, fait face à des défis pour adopter des pratiques circulaires et durables en raison d'une capacité d'innovation limitée et d'un soutien insuffisant.\n\nObjectif Global\nL'objectif global de GreenSET est de créer et tester un cadre structuré et évolutif qui soutient la transformation circulaire massive des services touristiques en méditerranée. En dotant les Organisations de Soutien aux Entreprises (BSO) d’une Méthodologie d'Innovation de Services Durables pour la Méditerranée (MEDSSIM), d’outils de soutien et de formations, GreenSET favorisera des pratiques durables et innovantes, pour plus de compétitivité et de durabilité des PME touristiques.\n\nChangement Attendu\nGreenSET développera un noyau d'infrastructure de soutien capable de transformer le secteur touristique en intégrant les principes de l'économie circulaire dans les opérations des PME. Cette transformation conduira à des modèles commerciaux plus durables, une meilleure utilisation des ressources, une réduction de l'impact environnemental et une résilience économique accrue des PME touristiques.\n\nPrincipaux Résultats et Bénéficiaires\nMéthodologie d'Innovation de Services Durables pour la Méditerranée (MEDSSIM):\n1) Une approche standardisée et évolutive pour la transformation circulaire des services touristiques. Bénéficiaires clés: BSO, PME touristiques, autorités locales et régionales.\n2) Pack de Compétences et Boîte à Outils pour la Transformation Circulaire des BSO:\nUne ressource essentielle pour renforcer la capacité de soutien des BSO. Utilisateurs clés: BSO souhaitant étendre leurs services à la transformation verte des PME touristiques. Bénéficiaires supplémentaires: autorités publiques et institutions éducatives.\n3) Bibliothèque de Bonnes Pratiques et Modèles de Services Circulaires: Un référentiel inspirant de soutien à la transformation, comprenant des études de cas et des modèles de services pour le tourisme circulaire, mis à disposition des experts des BSO, PME, décideurs politiques et institutions éducatives.\n4) Schéma de Certification pour les Experts MEDSSIM: Un cadre pour certifier les experts en méthodologie MEDSSIM afin d'assurer qualité et cohérence de leurs prestations ainsi que la disponibilité et durabilité à long terme de la méthodologie MEDSSIM. Bénéficiaires: BSO, experts individuels et PME.\n\nApproche et Besoin de Coopération Transnationale\nLa coopération transnationale du projet se concentre sur le développement d'un cadre de soutien complet basé sur quatre piliers: MEDSSIM, ressources de formation, bibliothèque de bonnes pratiques et schéma de certification. La coopération transnationale est essentielle en raison de l'interconnexion du secteur du tourisme méditerranéen, qui fait face aux mêmes défis environnementaux et offre des opportunités d'échange de connaissances. La diversité et la richesse culturelle et naturelle de la région rendent cruciale l'adoption d'une approche collaborative qui respecte et intègre ces attributs uniques. La collaboration transfrontalière permet de mutualiser ressources et expertises, conduisant à des solutions plus cohérentes et efficaces qui peuvent être adaptées et mises en œuvre dans divers contextes au sein de la région.\n\nOriginalité du Projet\nGreenSET se distingue par son approche holistique et intégrée pour soutenir la transformation circulaire des services touristiques. Au contraire d’initiatives précédentes qui abordaient des défis isolés, GreenSET offre un cadre complet incluant des méthodologies standardisées, des outils pratiques, le renforcement des capacités et un schéma de certification. Cela assure l'adoption immédiate des pratiques durables ainsi que leur durabilité et évolutivité à long terme. Le projet se concentre sur la création d'une infrastructure de soutien structurée et sur l'amélioration continue grâce aux retours d'expérience et à l'application réelle, renforçant encore son innovation et son efficacité.\n\nLes résultats de GreenSET seront créés pour permettre des actions de suivi pour l'évolutivité, la durabilité et le transfert, telles que:\n\n- Intégration des politiques: Collaboration avec les autorités publiques pour intégrer les méthodologies et bonnes pratiques du projet dans le cadre politique et les plans stratégiques.\n- Maintien du réseau des BSO: Organisation de formations pour les BSO pour maintenir l'expertise et permettre l'utilisation à long terme des livrables du projet.\n- Promotion des partenariats: Collaboration avec des associations de l'industrie touristique pour étendre la portée et l'adoption des résultats du projet.\n\nEn envisageant ces actions, GreenSET veillera à ce que ses résultats soient largement connus et accessibles, et utilisés par les groupes pertinents, garantissant un impact durable sur le secteur touristique méditerranéen et au-delà.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To create the MED Sustainable Service Innovation Methodology (MEDSSIM) with implementation toolbox & competence pack enabling capacity building of MED Business Support Organisations (BSOs) & sustainable transformation of SMEs services in MED tourism.\nTo empower BSOs to support creation of circular services in local tourism SMEs and enhance the sustainability of the regional tourism industry through pilot actions and MEDSSIM demonstrations in tourism SMEs from nine MED countries.\nTo develop a sustainability model, transfer strategy and action plan for the MEDSSIM methodology and certification scheme. This will support replicable & adaptable transfer to MED BSOs, facilitating the multiplication of circular services in tourism.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Green and circular transformation of services in Med tourism",
+          "description": "The Mediterranean tourism sector is largely made up of small and family businesses. That is why GreenSET develops a business support infrastructure to encourage as many of them as possible to innovate services they provide to reduce their environmental impact and better use resources.\nEach business will create new competitive and sustainable service, enabling new revenues from existing resources and capabilities, supported by local MED experts, trained and certified in service innovation methodology. In this way, GreenSET aims for the long-term adoption of sustainable practices by a wide range of businesses, with each successful experience having the potential to spread to other ones!",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To create the MED Sustainable Service Innovation Methodology (MEDSSIM) with implementation toolbox & competence pack enabling capacity building of MED Business Support Organisations (BSOs) & sustainable transformation of SMEs services in MED tourism.\nTo empower BSOs to support creation of circular services in local tourism SMEs and enhance the sustainability of the regional tourism industry through pilot actions and MEDSSIM demonstrations in tourism SMEs from nine MED countries.\nTo develop a sustainability model, transfer strategy and action plan for the MEDSSIM methodology and certification scheme. This will support replicable & adaptable transfer to MED BSOs, facilitating the multiplication of circular services in tourism.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31595,
+      "acronym": "MIRAMAR",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Monitoring cumulative Impact to guide mitigation and RestorAtion in the MediterrAnean Region",
+          "description": "L’homme exerce une pression croissante sur les écosystèmes,les exposant à des stress multiples et simultanés. La Méditerranée est un hotspot de biodiversité abritant près 50% des espèces végétales, environ un tiers des espèces de vertébrés de notre planète et un nombre exceptionnel d'espèces endémiques. Cette biodiversité est fortement exposée à des stress tels que les contaminants, les déchets marins, y compris les microplastiques, le bruit, la destruction de l'habitat, exacerbée par le changement climatique, impactant à long terme la stabilité des écosystèmes.\nCes facteurs de stress sont souvent abordés de manière isolée. L'urgence de faire face à ces menaces et à l'impact des multiples stress exige des efforts cohérents et transnationaux combinant des connaissances fragmentées pour développer une nouvelle approche intégrée.\nEn réponse à ces défis, le projet MIRAMAR a identifié 3 écosystèmes d'importance écologique dans la région Euro-Med: les herbiers marins, les zones humides et les habitats d'espèces menacées.\nLes herbiers marins, lieux cruciaux de reproduction, d'alimentation et d'abri pour de nombreuses espèces, sont essentiels pour la production d'oxygène et en tant que puits de carbone bleu. Les zones humides sont des écosystèmes de transition, riche en biodiversité contenant des deltas de rivière, des eaux douces et saumâtres, des lacs salés et des marais, soutenant une variété de flore et de faune, qui jouent un rôle essentiel pour l'équilibre écologique. Les habitats sains des espèces en voie de disparition, y compris ceux des oiseaux marins, des cétacés et des oiseaux des zones humides, sont vitaux pour la survie de ces populations vulnérables.\nLes 8 partenaires de MIRAMAR représentent 6 pays de la région Euro-Med (Albanie,Croatie,France,Grèce,Italie et Espagne), et proviennent du monde universitaire (UNISI), des instituts de recherche (CSIC,HCMR,SZN, RBI), des réseaux d'ONG (MIO-ECSDE), ainsi que des autorités régionales (OEC) et nationales (MTE).\nGrâce à ces collaborations, MIRAMAR vise à développer une méthodologie pour le suivi de l'impact cumulé des facteurs de stress sélectionnés dans 9 zones pilotes dans les 3 habitats identifiés.\nEn s'appuyant sur les résultats de projets antérieurs (INTERREG,ADRION,LIFE,H2020), MIRAMAR concevra, testera et validera une nouvelle méthode de surveillance holistique afin d'identifier des solutions adaptées d'atténuation et de restauration fondées sur la nature. En s'alignant sur les stratégies nationales et les plans de gestion des parcs nationaux et des zones protégées, MIRAMAR relèvera le défi commun de la prévention et de l'atténuation de la dégradation de ces écosystèmes.\nMIRAMAR s'engage à s'aligner sur des initiatives et des programmes environnementaux clés tels que le Plan d'action Zéro Pollution, la Stratégie Biodiversité 2030, la DCSMM de l’UE, l’IMAP de la Convention de Barcelone, l’UpM, le PNUE-PAM, la Convention de Ramsar sur les zones humides,entre autres. Ces cadres soulignent la nature interconnectée du changement climatique, de la perte de biodiversité, de la dégradation des terres et des mers, en soulignant l'importance de relever ces défis de manière cohérente, synergique et holistique, basée sur les meilleures connaissances scientifiques.\nEn s'engageant dans ces cadres internationaux, MIRAMAR contribuera aux efforts mondiaux visant à résoudre les problèmes environnementaux et à promouvoir les pratiques de développement durable. L'approche collaborative de MIRAMAR et l'accent mis sur l'engagement des parties prenantes, bénéficiant des Living Labs, soulignent notre engagement à exploiter l'expertise collective et à favoriser les solutions innovantes pour relever les défis complexes auxquels la région euro-méditerranéenne est confrontée.\n14 partenaires associés, représentants les parties prenantes clés de chaque zone pilote, seront activement impliqués dans le projet. Leurs connaissances scientifiques et leurs capacités opérationnelles de gestion environnementale seront améliorées. De plus, ils bénéficieront des résultats du projet grâce aux protocoles de suivi et la feuille de route.\nCe processus d'engagement prendra une forme concrète avec la signature de la Déclaration d'Intention d'adopter le protocole de surveillance harmonisé pour évaluer les impacts cumulatifs, en tant qu'engagement clé pour identifier les solutions de mitigation et de restauration \"optimales\".\nGrâce au partenariat avec les parties prenantes, un alignement avec des initiatives internationales, et un focus sur des solutions basées sur la science, MIRAMAR est positionné pour avoir un impact significatif dans la protection de la biodiversité, et des infrastructures vertes au bénéfice des générations actuelles et futures. Avec une approche globale et inclusive, MIRAMAR vise à ouvrir la voie pour relever les défis environnementaux complexes et à tracer un avenir résilient et durable pour tous.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Identify and consolidate existing knowledge and develop pre-condition criteria for adapting previous results in pilot areas\nmplementation of pilot actions related to monitoring of cumulative impact of multiple stressors in degraded and polluted ecosystems: seagrass meadows, wetlands and habitats of endangered species.\nLeverage monitoring protocols for cumulative impact to identify mitigation and restoration solutions in seagrass meadows, wetlands, and habitats of endangered species, and establish the enabling conditions to their wider dissemination and uptake",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Monitoring cumulative Impact to guide mitigation and RestorAtion in the MediterrAnean Region",
+          "description": "Humans are placing increasing strain on ecosystems exposing them to multiple, concurrent stressors. The Mediterranean region is a biodiversity hotspot hosting almost half of all the plant species, about a third of all the vertebrate species on our planet and an exceptional number of species found nowhere else in the world. This biodiversity, however, is heavily exposed to stressors like legacy and emerging contaminants, marine litter including microplastics, noise, habitat destruction from ever-increasing human activities, exacerbated by climate change, resulting in long-term impacts on ecosystem stability. These stressors are often tackled in isolation. The urgency to address these threats and the cumulative impact of multiple stressors requires cohesive, transnational efforts that combine fragmented knowledge to develop a new, integrated approach. In response to these challenges, the MIRAMAR project has identified three ecologically significant ecosystems in the Euro-Mediterranean region: seagrass meadows, wetlands, and habitats of endangered species. Seagrass meadows serve as crucial breeding, feeding, and sheltering grounds for numerous species, are vital for oxygen production and as blue carbon sinks. Wetlands are biodiverse transition ecosystems containing river deltas, brackish waters, salt lakes, and marshes, supporting a variety of flora and fauna, that play a critical role in maintaining ecological balance. Healthy endangered species habitats, including those of seabirds, cetaceans and wetland birds, are vital for the survival of these vulnerable populations. MIRAMAR’s 8 partners represent 6 countries across the Euro-Med region (Albania, Croatia, France, Greece, Italy, and Spain), and come from academia (UNISI), research institutes (CSIC, HCMR, SZN, RBI), NGO networks (MIO-ECSDE), as well as regional (OEC) and national authorities (MTE).Thanks to this transnational collaboration, MIRAMAR aims to develop an innovative harmonized methodology to monitor cumulative impact of selected stressors in 9 pilot areas in the three identified habitats. Drawing support and upscaling previous project results (INTERREG, ADRION, LIFE, H2020) MIRAMAR will design, test, and validate a new holistic monitoring method to identify suitable nature-based mitigation and restoration solutions. By aligning with national monitoring strategies and the management plans of parks and protected areas, MIRAMAR will address the common challenge of preventing, mitigating and restoring environmental degradation of these ecosystems. MIRAMAR is committed to aligning with key environmental initiatives and programs such as, Zero Pollution Action Plan of the European Green Deal, EU Biodiversity Strategy for 2030, EU Marine Strategy Framework Directive, Barcelona Convention's Integrated Monitoring and Assessment Programme, Union for the Mediterranean, UN Environment Programme/Mediterranean Action Plan, Ramsar Convention on Wetlands, among others. These frameworks emphasize the interconnected nature of climate change, biodiversity loss, land and sea degradation, stressing the importance of addressing these challenges in a coherent, synergetic, and holistic manner based on best available scientific knowledge.By engaging with these international agreements and frameworks, MIRAMAR will contribute to global efforts to tackle environmental issues and promote sustainable development practices. MIRAMAR’s collaborative approach and focus on stakeholder engagement, benefitting from Living Labs, underscores our commitment to harnessing collective expertise and fostering innovative solutions to address the complex challenges facing the Euro-Mediterranean region. Fourteen associate partners, representing key stakeholders in each targeted pilot area, will be proactively engaged in the project. They will see their scientific knowledge and capacity to implement environmental management practices and policies increase; more importantly, they will benefit from the project outcomes through the monitoring protocols and operational roadmap. This process of engagement will take concrete form with the signing of Declaration of Intent to adopt MIRAMARs harmonised monitoring protocol to assess cumulative impacts, as a key commitment to identify the \"best\" mitigation and restoration solutions. Through partnerships with diverse stakeholders, alignment with international initiatives, and a focus on science-based solutions, MIRAMAR is positioned to make a meaningful impact to protect nature, biodiversity, and green infrastructure for the benefit of current and future generations. With a comprehensive and inclusive approach, MIRAMAR aims to lead the way in addressing complex environmental challenges and charting a resilient, biodiverse, and sustainable future for all.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Identify and consolidate existing knowledge and develop pre-condition criteria for adapting previous results in pilot areas\nImplementation of pilot actions related to monitoring of cumulative impact of multiple stressors in degraded and polluted ecosystems: seagrass meadows, wetlands and habitats of endangered species.\nLeverage monitoring protocols for cumulative impact to identify mitigation and restoration solutions in seagrass meadows, wetlands, and habitats of endangered species, and establish the enabling conditions to their wider dissemination and uptake",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31594,
+      "acronym": "INSPIRE",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "INSPIRE: INtegrating biodiverSity Preservation and agrobIodiversity valorisation In touRism managEment in the MED area",
+          "description": "Le projet INSPIRE vise à transformer la conservation de l'agrobiodiversité en opportunités touristiques. L'agrobiodiversité est le terme utilisé pour décrire la façon dont les écosystèmes naturels fonctionnent dans les zones d'activités agricoles. Tout d'abord, en faisant travailler les 8 partenaires sur la conception d'un modèle de tourisme durable basé sur l'agrobiodiversité. Ce modèle sera ensuite testé dans cinq régions, où des groupes touristiques publics et privés, des agriculteurs et des communautés locales travailleront ensemble pour l'appliquer. Au final, toutes ces initiatives seraient transférables à un plus large échantillon de territoires à l'avenir !",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "WP1 specific objective is to create a common framework to fine-tune a shared project strategy for identifying a sustainable tourism destination management model based on biodiversity conservation, through the exchange of good practices, capitalization of developed tools & agrobiodiversity mapping to identify both local actors & potential agrobiodiversity heritage to be protected, and valorized. \nWP2 specific objective is to foster the design of strategies and solutions for biodiversity preservation and ecosystems rehabilitation in tourism destination management through a co-creation process involving local communities, environmental and spatial planning authorities, decision makers, and other relevant stakeholders, valorizing traditional knowledge and its impact on biodiversity conservation and maintenance of ecosystems services. The implementation of the testing in real-life condition through the multi-actors and participative co-creation process will develop a model for the sustainable tourism destination grounded on agrobiodiversity. \nTransfer and dissemination of the tested co-creation process for the development and management of a sustainable tourist destination grounded on Euro_MED agrobiodiversity integrating it both in private and public environments and in the policy framework at all governance levels.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "INSPIRE: INtegrating biodiverSity Preservation and agrobIodiversity valorisation In touRism managEment in the MED area",
+          "description": "The INSPIRE project wants to transform agrobiodiversity conservation into touristic opportunities. Agrobiodiversity is the term used to describe the way natural ecosystems work in areas of farming activities.How can this be achieved? First, by getting the 8 partners working on designing a sustainable tourism model based on agrobiodiversity. It will then be tested in five regions, where public and private tourism groups, farmers, and local communities will work together to apply it. In the end, all these initiatives would be transferable to a wider sample of territories in the future!",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To create a common framework to fine-tune a shared project strategy for identifying a sustainable tourism destination management model based on biodiversity conservation, through the exchange of good practices, capitalization of developed tools & agrobiodiversity mapping to identify both local actors & potential agrobiodiversity heritage to be protected, and valorized. WP1 is lead by LP1\nTo foster the design of strategies and solutions for biodiversity preservation and ecosystems rehabilitation in tourism destination management through a co-creation process involving local communities, environmental and spatial planning authorities, decision makers, and other relevant stakeholders, valorizing traditional knowledge and its impact on biodiversity conservation and maintenance of ecosystems services. The implementation of the testing in real-life condition through the multi-actors and participative co-creation process will develop a model for the sustainable tourism destination grounded on agrobiodiversity. WP2 is lead by PP2\nTo transfer and dissemination of the tested co-creation process for the development and management of a sustainable tourist destination grounded on Euro_MED agrobiodiversity integrating it both in private and public environments and in the policy framework at all governance levels.WP3 is lead by PP4",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31593,
+      "acronym": "MED4REGEN",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "MEDiterranean 4 REGENerative Tourism and Culture",
+          "description": "Le tourisme durable et régénérateur nécessite un changement culturel radical et un processus de transmission de nouvelles valeurs liées à la durabilité. Le changement radical dans la manière dont les institutions culturelles et l'industrie du tourisme sont liées peut avoir un impact sur les communautés d'accueil, l'environnement et les voyageurs eux-mêmes. En fait, les touristes de la région méditerranéenne ne représentent pas seulement une richesse économique pour les territoires qu'ils visitent, mais ils sont aussi des personnes qui peuvent directement et indirectement faire l'expérience des valeurs de durabilité au cours de leur voyage. Le défi est donc de mener la transition du bassin méditerranéen vers un écosystème pour des processus d'innovation sociale et culturelle concrets. \nLe projet est en ligne avec l'objectif spécifique 2.4 d'EUROMED, promouvoir la transition culturelle vers une adaptation et une résilience au changement climatique, encourager les modèles de tourisme régénérateur visant à minimiser les impacts négatifs du changement climatique et les risques environnementaux, capables de générer des impacts positifs sur le climat, l'environnement, la société et la culture.\n\nLa stratégie de l'UE pour le tourisme durable souligne clairement la nécessité d'encourager la participation et l'adoption de bonnes pratiques par le biais d'outils et d'initiatives visant à évaluer l'impact économique, social et écologique des activités liées au tourisme, à impliquer les voyageurs et à permettre aux voyageurs et aux entreprises touristiques de comprendre leur empreinte environnementale. En outre, le tourisme est considéré comme une activité transversale dans des domaines tels que l'agriculture, les transports, la culture, la mer, le développement régional, l'emploi et le climat. Suite à la nouvelle stratégie de l'UE sur l'adaptation au changement climatique, il est crucial de stimuler la coopération entre les régions afin de mieux contrôler l'adaptation à la durabilité avec des processus et des valeurs homogènes. Il est donc stratégique d'ancrer les valeurs de la durabilité et, en particulier, les objectifs de l'Agenda 2030 au niveau culturel, grâce aux synergies qui peuvent être créées dans la chaîne de valeur du tourisme.\nEn reliant les deux stratégies, la transformation culturelle impliquant la zone méditerranéenne peut être une grande opportunité pour activer des modèles de tourisme régénérateur, basés sur des processus d'harmonisation des valeurs culturelles autour de la durabilité. En impliquant directement l'ensemble de l'industrie touristique, des entreprises aux institutions culturelles et aux touristes, il est possible de créer une prise de conscience tout au long de la vie et des opportunités d'apprentissage sur la durabilité. \n\nLe projet MED4REGEN est en ligne avec les projets de gouvernance Community4Tourism et Dialogue4Tourism, qui définissent la réalisation d'outils opérationnels à partager entre les institutions et la gouvernance. Le projet envisage la création d'un mécanisme de collaboration reproductible et applicable, déjà exploré dans des projets de coopération précédents, entre le patrimoine culturel et les entreprises touristiques pour diffuser les valeurs de la durabilité. Le projet agit pour la cohésion territoriale sur ces questions en créant plusieurs programmes transnationaux de renforcement des capacités pour les différentes catégories d'acteurs impliqués, c'est-à-dire les musées et les sites patrimoniaux, les organisations de la société civile, les PME et les décideurs politiques locaux. Les musées et les sites patrimoniaux en particulier sont reconnus comme jouant un rôle crucial dans ce processus de transformation culturelle. Conformément à la dernière définition de l'ICOM formulée en 2022, les musées se voient en fait attribuer des fonctions telles que des expériences diversifiées pour l'éducation, le partage des connaissances et des concepts et valeurs tels que l'accessibilité, l'inclusion, la diversité, la participation de la communauté et la durabilité. \nLe résultat de cette vision est la création d'un écosystème dans lequel les musées et les organisations patrimoniales jouent le rôle de centres culturels et de facilitateurs de projets pilotes transdisciplinaires pour les organisations de soutien aux entreprises, les PME et les décideurs politiques afin de répandre le changement culturel nécessaire pour adopter un style de vie et une conscience de la durabilité.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "The objective that will be achieved in WP1 is to create the conditions to establish in all project areas innovative ecosystems for cultural change in tourism, with the adoption of common approaches, methodologies and strategies. This objective is achieved through a process that raises awareness about regenerative tourism in the different territories, focusing on needs and challenges with a lens that is both local and transnational. WP1 achieves a common strategy through the implementation of a series of activities and tools such as methodological frameworks, needs analysis, benchmarking of good practices, elaboration of design tools and approaches, focus groups and living labs, also through initial stakeholder engagement actions.\nThe objective of WP2 is to bring about a cultural change in the tourism sector by rethinking museums and cultural venues as catalysts for sustainable and regenerative practices. This takes place through a transfer of competences and skills to these actors, who will be guided, together with their communities, towards cross-sectoral approaches and methods to listen to and understand their territory, and to act with a hyperlocal approach (Pilot Action 1). Secondly, it takes place through a testing phase that will lead to the development and implementation in museums and cultural organisations of solutions in response to local needs and challenges. The introduction of such solutions will make museums, communities and visitors more aware of the social and environmental impact of tourism (Pilot Action 2). \nSpecific objective of the WP is to create the conditions for the experience and impact of MED4REGEN to be conceived as sustainable over time, replicable and transferable to other territories and contexts with similar challenges and needs.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "MEDiterranean 4 REGENerative Tourism and Culture",
+          "description": "Adapting to climate change is not just a set of actions, it is a state of mind. Therefore, cultural institutions such as museums or historical sites have a role to play in encouraging their visitors to adopt a lifestyle based on sustainability, accessibility and inclusiveness.\nMED4REGEN aims to engage the tourism industry in this change, from cultural institutions to businesses and local authorities, by providing them operational and collaborative tools.\nThanks to the ancient remains of its millenary history, the Mediterranean is the most popular tourist destination in the world. Let it also be the cradle of its sustainable future!",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "The objective that will be achieved in WP1 is to create the conditions to establish in all project areas innovative ecosystems for cultural change in tourism, with the adoption of common approaches, methodologies and strategies. This objective is achieved through a process that raises awareness about regenerative tourism in the different territories, focusing on needs and challenges with a lens that is both local and transnational. WP1 achieves a common strategy through the implementation of a series of activities and tools such as methodological frameworks, needs analysis, benchmarking of good practices, elaboration of design tools and approaches, focus groups and living labs, also through initial stakeholder engagement actions.\nThe objective of WP2 is to bring about a cultural change in the tourism sector by rethinking museums and cultural venues as catalysts for sustainable and regenerative practices. This takes place through a transfer of competences and skills to these actors, who will be guided, together with their communities, towards cross-sectoral approaches and methods to listen to and understand their territory, and to act with a hyperlocal approach (Pilot Action 1). Secondly, it takes place through a testing phase that will lead to the development and implementation in museums and cultural organisations of solutions in response to local needs and challenges. The introduction of such solutions will make museums, communities and visitors more aware of the social and environmental impact of tourism (Pilot Action 2). \nSpecific objective of the WP is to create the conditions for the experience and impact of MED4REGEN to be conceived as sustainable over time, replicable and transferable to other territories and contexts with similar challenges and needs. ",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31592,
+      "acronym": "RealUrbanGreen",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Testing a holistic model to co-design and co-implement healthy urban green spaces for climate resilient cities and towns",
+          "description": "Les espaces verts urbains (EVU) contribuent à la résilience des villes au changement climatique, à travers des multiples services écosystémiques aux citoyens et à l'environnement (à savoir, réduction de la pollution, compensation des émissions de GES, réduction de la chaleur urbaine, atténuation des inondations, conservation de la biodiversité, avantages sociaux et pour la santé). Néanmoins, les effets du changement climatique (augmentation des températures, vents extrêmes, sécheresses) et d'autres problèmes environnementaux (contamination et imperméabilisation des sols, etc.) menacent les EVU et les avantages qu'ils offrent aux citoyens.\nCertains défis des EVU (adaptation, absorption du CO2) ont été abordés par des initiatives dispersées tandis que d'autres enjeux (santé des sols) attendent des pratiques limitées. Les synergies des EVU, en relation avec les politiques locales (urbanisme, adaptation au changement climatique) et l’implication des utilisateurs des EVU et d’autres parties prenantes, n’ont pas été pleinement explorées pour améliorer l’aménagement des EVU.\n Par conséquent, le potentiel multifonctionnel des EVU reste largement inexploré en raison du manque d’approche transdisciplinaire pour concevoir et mettre en œuvre des EVU avec l’engagement des communautés locales.\nLe projet testera un modèle holistique innovant dans 8 EVU EuroMED permettant aux communautés locales de co-concevoir et de co-gérer des EVU résilientes au climat qui fournissent des services écosystémiques pour promouvoir des zones urbaines résilientes au climat. Toutes les étapes du modèle impliquent la participation des parties prenantes et des citoyens.\nLe modèle implique l'évaluation participative des EVU, testant une approche de science citoyenne appliquée aux espaces verts (WP1). Le projet réalisera un processus de co-conception des meilleures solutions pour maximiser les services écosystémiques des EVU, en testant une approche de création de lieux (WP2). De telles solutions seront intégrées pour tester la mise en œuvre conjointe du processus d’aménagement des EVU (WP3).\nLes partenaires et les organisations associées garantiront une expertise technique et scientifique ainsi que la capacité de mettre en œuvre des projets pilotes dans les EVU. Les 8 pilotes concernent diverses zones urbaines (grandes et moyennes villes, villages; parcs urbains et jardins urbains; EVU gérés par les collectivités locales ainsi que d'autres institutions publiques, à savoir une université) avec des climats différents (méditerranéen, continental). qui font face à différents défis (perte de biodiversité, sécheresses, lutte contre la chaleur urbaine, faible connexion des citoyens au parc urbain etc.). Une telle diversité représente la variété des EVU. Dans 4 pilotes sur 8, des investissements sont prévus pour tester des solutions spécifiques qui ont été pré-identifiées en fonction des défis spécifiques du pilote.\nEn résumé, la coopération transnationale entre des partenaires ayant des expertises différentes et une grande variété de pilotes permet de consolider un modèle holistique adapté à la diversité des espaces verts urbains qui caractérisent l'espace de coopération EuroMED.\nLes résultats sont des projets pour les EVU “co-conçus” et des accords pour leur mise en œuvre conjointe entre colelctivités locales, citoyens et parties prenantes. Cependant, le principal résultat des tests sera un modèle holistique validé apte à co-concevoir et co-mettre en œuvre et à maximiser des services écosystémiques pour la résilience climatique des villes.\nLe modèle holistique sera donc diffusé (WP4) et des ateliers locaux seront réalisés pour faciliter la mise en œuvre du projet et pour le répliquer dans d’autres régions. Les tests et la capitalisation s'appuient sur une stratégie de communication solide dans toutes les activités et sur des actions innovantes de transfert et de capitalisation, par l'implication d’autres organismes publiques, afin de développer leurs compétences pour répandre et répliquer le modèle (“mirroring” ou jumelage).\nLes collectivités locales, les citoyens et les autres parties prenantes devraient accueillir favorablement le modèle holistique en raison de son approche integrée et participative. La principale caractéristique innovante du modèle réside dans la co-conception des EVU pour les rendre résilients au climat, sains, agréables et propices à l’engagement des citoyens. Simultanément, le modèle prendra en compte et maximisera les services écosystémiques des EVU pour améliorer la résilience climatique des zones urbaines. L'approche participative va au-delà de la co-conception; le modèle facilitera également la collaboration entre tous les acteurs locaux et les citoyens. Une telle approche holistique et participative, incarnée dans un outil unique, comble une lacune actuelle et constitue la principale contribution innovante du projet.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Testing an easy and affordable methodology based on the citizen science approach to provide scientific evidence and sound alternatives for the co-designing of healthy UGS that contribute to climate-resilient cities.\nWP1 Leader: PP4 - UV\nTesting the place-making inspired approach to co-designing healthy UGS that provide ecosystem services for climate-resilient cities.\nWP2 leader: PP8 - COMMONSPACE\nTesting the co-implementation approach to leverage internal and external local stakeholders resources to improve the healthy UGS ecosystem services for climate-resilient cities.\nWP3 leader: PP3 - MUSOL\nEnsuring the adaptation, transfer and integration of the “re-greening urban spaces” holistic model into policies, taking into account the results of the pilots to draft an exploitable and reusable output.\nWP4 leader: PP2 - JS Ptuj",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Testing a holistic model to co-design and co-implement healthy urban green spaces for climate resilient cities and towns",
+          "description": "Urban green spaces are vital for fighting climate change, but they face threats from rising temperatures and pollution. RealUrbanGreen will test a new model in eight pilot sites to help communities and local authorities create greener, healthier, and more resilient spaces. The project combines community involvement with expert knowledge to develop a practical tool for improving urban green spaces and boosting climate resilience.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Testing an easy and affordable methodology based on the citizen science approach to provide scientific evidence and sound alternatives for the co-designing of healthy UGS that contribute to climate-resilient cities.\nWP1 Leader: PP4 - UV\nTesting the place-making inspired approach to co-designing healthy UGS that provide ecosystem services for climate-resilient cities.\nWP2 leader: PP8 - COMMONSPACE\nTesting the co-implementation approach to leverage internal and external local stakeholders resources to improve the healthy UGS ecosystem services for climate-resilient cities.\nWP3 leader: PP3 - MUSOL\nEnsuring the adaptation, transfer and integration of the “re-greening urban spaces” holistic model into policies, taking into account the results of the pilots to draft an exploitable and reusable output.\nWP4 leader: PP2 - JS Ptuj",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 855,
+    "partners": 647,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    32769,
+    32768,
+    32767,
+    32766,
+    32765,
+    32764,
+    32763,
+    32762,
+    32761,
+    32760,
+    32759,
+    31598,
+    31597,
+    31596,
+    31595,
+    31594,
+    31593,
+    31592,
+    31591,
+    31590,
+    31589,
+    31588,
+    31587,
+    31586,
+    31585,
+    30105,
+    30104,
+    30103,
+    30102,
+    30101,
+    29256,
+    29255,
+    29254,
+    29253,
+    29252,
+    29251,
+    29250,
+    29249,
+    29248,
+    29247,
+    29246,
+    29245,
+    29244,
+    29243,
+    29242,
+    29241,
+    29240,
+    29239,
+    29238,
+    29237,
+    29236,
+    29235,
+    29234,
+    29233,
+    29232,
+    29231,
+    29230,
+    29229,
+    29228,
+    29227,
+    29226,
+    29225,
+    29224,
+    29223,
+    29222,
+    29221,
+    29220,
+    29219,
+    29218,
+    29217,
+    29216,
+    29215,
+    29214,
+    29213,
+    29212,
+    29211,
+    29210,
+    29209,
+    28812,
+    28811,
+    28810,
+    27712,
+    27711,
+    27710,
+    27709,
+    27708,
+    27707,
+    27706,
+    27705
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "current": 5,
+  "next": "https://keep.eu/api/search/projects/?page=6",
+  "previous": "https://keep.eu/api/search/projects/?page=4",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31273,
+      "acronym": "GRAAL",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Governance and Regional Atlantic Area Lighthouse",
+          "description": "The primary aim of the GRAAL is to increase the Interreg Atlantic Area programme's impact on its key goals, such as environmental protection, prosperity, and preparedness for climate change. It focuses on improving the valorisation of the results of projects supported by the Interreg Atlantic Area. This includes developing and implementing strategies for better integration into public policies and fostering future collaboration through roadmaps, an action plan, and flagship projects. It also looks at a better coordination between European programmes supporting environmental policies in the Atlantic Region and aims at making proposals for the future. The approach focuses on 5 thematic areas: energy, ocean pollution, climate and risks, nature, and sustainable tourism, as well as 3 cross-cutting topics: digitisation and innovation, circular economy, and governance.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31272,
+      "acronym": "SMARTDEC",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Smart Clusters for Maritime Decarbonisation",
+          "description": "SMARTDEC aims to create an interactive platform for exchange between all stakeholders in the maritime transport sector, including solution developers (start-ups, SMEs, entrepreneurs), researchers, academics and end-users, as part of the decarbonization of transport and port activities and stimulating the adoption of new technologies and define a harmonised strategy for the Atlantic seaboard. The activities include business support to the most promising technologies selected from an open call, as well as the production of policy recommendations on decarbonising the maritime transport sector.",
+          "expected_results": "",
+          "achievements": "",
+          "expected_outputs": "",
+          "delivered_outputs": "",
+          "expected_achievements": "",
+          "actual_achievements": ""
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31271,
+      "acronym": "SISdATA",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "System to increase security sustainability in the domain of Atlantic traditional aquaculture (natural tanks and cage nets)",
+          "description": "SISdATA is working on a new information system to support aquaculture in the Atlantic regions, using information from sources like satellites, local water quality sensors, computational fluid dynamics simulations, biochemical models, and data-driven approaches. This will help connect different phenomena happening at various scales.\nThe plan is to develop and test this new platform in different case studies to provide valuable information for the optimal and sustainable operation of aquaculture farms. This includes making them more resilient against extreme weather events and water pollution. The overall aim is to boost the blue economy, which includes aquaculture and related services that rely on good water quality in estuaries and coastal areas, like tourism and water sports.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31270,
+      "acronym": "SEALabHaus",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic New Bauhaus Laboratory for Sustainable, Inclusive and Beautiful Blue Tourism, Heritage and Culture of the Sea",
+          "description": "SEALabHaus 's main goal is to revolutionize the tourism and blue culture value chain. By transforming, revitalizing, and enhancing the coastal tourism ecosystem, the project seeks to achieve balance with the sea. \nIt is introducing an innovative and integrated approach, inspired by the New European Bauhaus (NEB), through the collaborative design of a transnational laboratory for the Atlantic Area. This project aims to create advanced structures, tools, and services like an itinerant exhibition and foruns that will enhance the connections and specialized capabilities of the region. It supports unique, innovative, sustainable, and inclusive activities based on NEB values.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31269,
+      "acronym": "SAtComm",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Sustainable Atlantic Communities",
+          "description": "SAtComm aims to enable citizens from residential, SME, and industrial entities to mobilise as groups into Energy Communities and equip them with the digitalisation and legal tools to empower them to play a central role in the Clean Energy Transition. The project has 5 pilots locations in the 4 Member-States jurisdictions: an office building in the Irish city of Dingle, a community building in the French West Central Brittany area, the Port of Lamego in Portugal’s Douro sub-region, a mixture of industrial and residential premises in the Spanish Coruña region, and the University of La Laguna in Canarias, Spain, surrounding student accommodation premises. The objective is to enable local communities to integrate renewable energy and smart grid concepts to improve their competitiveness, maximise their sustainability, and become “prosumers.”",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31268,
+      "acronym": "SaferSEA",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Safer Smarter and Eco-friendlier Atlantic Area",
+          "description": "The objective of SaferSea is to contribute to the development of a safer, eco-friendly maritime sector and to provide maritime stakeholders with off-the-shelf solutions to support their green transition. The partnership has already started with the identification and development of innovative technologies for ships and ports and expects to create a stronger connection between stakeholders – shipowners, port authorities, researchers and innovative startups.\nThe project will test new technologies in pilot actions like a sea trial for a better understanding of risks associated with new propulsion energies. Under the supervision of the French Navy, they will spill products at sea and monitor its distribution in the marine environment. They will test if and how sensors detect the product, and how this product can be removed from the sea. Other testing venues and pilot projects will be listed over the course of the project.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 26,
+          "title": "Safety"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

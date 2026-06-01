@@ -1,0 +1,298 @@
+{
+  "current": 4,
+  "next": "https://keep.eu/api/search/projects/?page=5",
+  "previous": "https://keep.eu/api/search/projects/?page=3",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33253,
+      "acronym": "MedJICARP~A_T_2.2_0353",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Joint Initiative for Climate Adaptation and Risk Prevention",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 060. Adaptation to climate change measures and prevention and management of climate related risks: others, e.g. storms and drought (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches)\n~\nSUMMARY: The Mediterranean Sea is particularly sensitive to climate change, warming 20% faster than the global average while already under significant anthropogenic pressures like shipping, fishing, and tourism. Issues such as rising sea water temperatures, increasing salinity and invasive species are already negatively impacting marine ecosystems and affecting fisheries and tourism. The eastern Mediterranean in particular is a hotspot of rising sea water temperatures and at the same time a major gap in terms of marine observations. Countries in this region are in urgent need of increased climate resilience and adaptation capacity. It is expected that the frequency and intensity of extreme events will increase. Such events include storm surges, erosion, flash floods, marine heat waves (MHW) and Mediterranean hurricanes (“Medicanes”). Further, coastal areas are susceptible to maritime safety and marine pollution incidents because of a lack of operational capacity and situational awareness of the marine environment (despite the high volume of ship traffic and coastal economic activity). \nTo respond to scientific and societal challenges in the area, there is the need for a sustainable and cost-effective multiplatform observing system. We propose the combined use of low-maintenance, user-friendly multiplatform observing systems for a more comprehensive 3D characterization of the region at multiple scales: High-Frequency Radars (HFRs), Ferryboxes, coastal fixed point observatories and in-situ sensors. The need for setting up cost-effective observing systems in the area is further justified by the clear north-south and west-east imbalance of monitoring capabilities. Setting up a multi-level, multi-sector, and cross-border approach in adapting to climate change is an urgent need, and it expected to enhance the capability of eastern Mediterranean countries to jointly develop and and enhance innovation and actions for climate change adaptation, risk prevention & disaster resilience.\n~\nKEEP KEYWORDS: Institutional cooperation and cooperation networks, Knowledge and technology transfer, Scientific cooperation",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To implement pilots to increase capacity and capability for joint deployment and training for supporting climate change adaptation, risk prevention and disaster resilience.\n~\nEXPECTED RESULT: - Increased cooperation, capability and innovation in the field of operational oceanography with emphasis on climate change monitoring.\n- Increased capacity of the eastern Mediterranean to cope with climate change and other hazards.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To implement pilots to increase capacity and capability for joint deployment and training for supporting climate change adaptation, risk prevention and disaster resilience.\n~\nEXPECTED RESULT: - Increased cooperation, capability and innovation in the field of operational oceanography with emphasis on climate change monitoring.\n- Increased capacity of the eastern Mediterranean to cope with climate change and other hazards.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To implement pilots to increase capacity and capability for joint deployment and training for supporting climate change adaptation, risk prevention and disaster resilience.\n~\nEXPECTED RESULT: - Increased cooperation, capability and innovation in the field of operational oceanography with emphasis on climate change monitoring.\n- Increased capacity of the eastern Mediterranean to cope with climate change and other hazards.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 11,
+          "title": "Scientific cooperation"
+        },
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33252,
+      "acronym": "PROTECHMED~A_T_1.1_0461",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "PROmoting innovative solutions for the TECHnological Transition of the MEDiterranean horticultural sector",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 028. Technology transfer and cooperation between enterprises, research centres and higher education sector\n~\nSUMMARY: PROTECHMED seeks to establish an enabling ecosystem for co-designing and testing five eco-innovative solutions for horticultural greenhouses. These solutions are integral to the digital and innovation transition within the ecological context. With a strong focus on water and energy conservation in horticultural crops, the ultimate aim is to drive the transition toward a more intelligent and sustainable business model for greenhouse food production.\nKey aspects include:\n\n\n1. \tAgri-Cluster Alliance: more than 300 among Researchers, professionals, institutions, and horticultural companies collaborate across Greece, Italy, Malta, Tunisia, Lebanon, and Turkey. Their goal is to enhance agronomic and technological expertise among MSMEs and bridge the gap between research and agricultural companies along the value chain.\n\n\n2. \tSmart Eco-Innovative Technologies: These technologies improve water and nutrient efficiency, incorporate photovoltaic installations, and include a Decision Support System for overall efficiency monitoring. Remote assistance via augmented reality (AR) visors and soilless techniques for closed-loop crop production are also explored.\n\n\n3. \tCapacity Development: Training programs for at least 150 technicians and agronomists, along with coaching for MSMEs adopting PROTECHMED Solutions.\n\n\n4. \tInception Camp: Held during the project’s initial phase, it involves on-field visits and focus groups. Challenges are addressed collaboratively by the transnational Living Lab, which engages stakeholders from the quadruple helix (academia, industry, government, and civil society).\n\n\n5. Joint Business Model: In the final project phase, public consultations contribute to a shared Action Plan and RoadMap, committing stakeholders to transition toward a smarter business model for sustainable food production.\n~\nKEEP KEYWORDS: Agriculture and fisheries and forestry, Innovation capacity and awareness-raising, Knowledge and technology transfer",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To evaluate and adopt ecoinnovative solutions developed by PROTECHMED, enhancing agro-industry stakeholders’ capacity in Thessaly, Sicily, Antalya, Bekha Valley, Manouba, including strengthening digital skills and strategic business orientation for sustainable and ecofriendly protected horticulture.\n~\nEXPECTED RESULT: A minimum of 40 organizations pledge to adopt and implement 5 PROTECHMED solutions in the Agro-Industry sector, contributing to water and energy efficiency and enhancing their capacity, towards a sustainable model for protected horticulture, creating a transnational Alliance across MED countries.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To evaluate and adopt ecoinnovative solutions developed by PROTECHMED, enhancing agro-industry stakeholders’ capacity in Thessaly, Sicily, Antalya, Bekha Valley, Manouba, including strengthening digital skills and strategic business orientation for sustainable and ecofriendly protected horticulture.\n~\nEXPECTED RESULT: A minimum of 40 organizations pledge to adopt and implement 5 PROTECHMED solutions in the Agro-Industry sector, contributing to water and energy efficiency and enhancing their capacity, towards a sustainable model for protected horticulture, creating a transnational Alliance across MED countries.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To evaluate and adopt ecoinnovative solutions developed by PROTECHMED, enhancing agro-industry stakeholders’ capacity in Thessaly, Sicily, Antalya, Bekha Valley, Manouba, including strengthening digital skills and strategic business orientation for sustainable and ecofriendly protected horticulture.\n~\nEXPECTED RESULT: A minimum of 40 organizations pledge to adopt and implement 5 PROTECHMED solutions in the Agro-Industry sector, contributing to water and energy efficiency and enhancing their capacity, towards a sustainable model for protected horticulture, creating a transnational Alliance across MED countries.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33251,
+      "acronym": "NBS4MED~A_T_2.2_0414",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Nature based solutions for climate resilient Mediterranean cities",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 060. Adaptation to climate change measures and prevention and management of climate related risks: others, e.g. storms and drought (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches)\n~\nSUMMARY: CHALLENGE ADDRESSED\nExtreme weather events represent one of the primary climate risks in the Mediterranean, with urban areas, where the majority of the population resides, being exceptionally vulnerable due to a combination of densely-built spaces, impervious surfaces, and high population density. Furthermore, the growing intensity and frequency of these events (a direct result of climate change) makes conventional infrastructure (such as drainage systems), on which current climate resilience approaches are largely dependent, increasingly inadequate. To address this common challenge, nature-based solutions represent a scalable, cost-effective and environmentally sustainable approach with increasing popularity worldwide, yet with limited applications in the Mediterranean. \n\nPROJECT IMPACT\nNBS4MED aspires to transform urban climate adaptation strategies in the Mediterranean by advancing the adoption of nature-based solutions and their broad integration in urban climate resilience planning. To this end, the project will:\n-Strengthen organisational capacities to design and implement fit-for-purpose nature-based solutions. \n-Stimulate improvements in urban climate adaptation policies in project territories. \n-Enhance transnational cooperation and exchange of knowledge.\n\nKEY OUTPUTS \n-A common decision making framework to guide the operationalisation of nature-based solutions across the Mediterranean.\n-5 replicable nature-based solutions implemented and tested in project territories.\n-Local strategies to accelerate the uptake of nature-based solutions in 5 target municipalities.\n-A transnational network to enhance cooperation in urban climate adaptation and advance the deployment of nature-based solutions across the Mediterranean.\n\nFINAL BENEFICIARIES\nUrban populations in project territories will increase their climate-resilience and benefit from improved quality of life as a result of the increased deployment of nature-based solutions.\n~\nKEEP KEYWORDS: Green technologies, Urban development, Water management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Demonstrate innovative and replicable nature-based solutions to improve urban climate resilience in the Mediterranean.\n~\nEXPECTED RESULT: -Enhanced capacities of Mediterranean cities to design and implement fit-for-purpose, nature-based solutions to mitigate the impact of extreme weather events and improve climate resilience.\n-Mitigated climate risks in project territories.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Demonstrate innovative and replicable nature-based solutions to improve urban climate resilience in the Mediterranean.\n~\nEXPECTED RESULT: -Enhanced capacities of Mediterranean cities to design and implement fit-for-purpose, nature-based solutions to mitigate the impact of extreme weather events and improve climate resilience.\n-Mitigated climate risks in project territories.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Stimulate policy improvements to advance the uptake of nature-based solutions across the Mediterranean.\n~\nEXPECTED RESULT: -Updated urban climate adaptation policies in project territories. \n-Improved understanding by public authorities of the available policy tools to bolster the deployment rate of NBS.\n-Mediterranean network to facilitate policy exchanges and transnational cooperation in the implementation of NBS.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Stimulate policy improvements to advance the uptake of nature-based solutions across the Mediterranean.\n~\nEXPECTED RESULT: -Updated urban climate adaptation policies in project territories. \n-Improved understanding by public authorities of the available policy tools to bolster the deployment rate of NBS.\n-Mediterranean network to facilitate policy exchanges and transnational cooperation in the implementation of NBS.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 7,
+          "title": "Urban development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33250,
+      "acronym": "INNOVATILE~A_T_1.1_0261",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Towards the decarbonization of tile industry through an innovative semi-wet granulated technology for porcelain tiles",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 029. Research and innovation processes, technology transfer and cooperation between enterprises, research centres and universities, focusing on the low carbon economy, resilience and adaptation to climate change\n~\nSUMMARY: INNOVATILE aims at scaling up an innovative semi-wet granulation technology for porcelain tiles in order to create a more sustainable process for ceramic tile manufacturing which is an energy and resource intensive process. With the help of this technology and in alignment with UNSDG and European Green Deal policies, INNOVATILE expects to reduce energy demand by 30-35%, raw materials and water consumption by 10-20%, and greenhouse gas emissions by 30-35%. Additionally, it will allow to replace feldspar which is a critical raw material in the EU.\n \nWithin the project, after validation research, a pilot implementation will be performed with an end user then followed by replication in another country. Environmental analysis and comparisons with traditional manufacturing processes will be conducted. The developed inventory of secondary raw materials (SRMs) will be beneficial for not only tile manufacturers but also for other industries by providing information on locally available SRMs.\n \nThe HypocarbonTileTech network, a pioneering initiative on decarbonization, and its platform will be established to foster collaboration among stakeholders which are all actors of the value chain. The network's activities aim to raise awareness and initiate collaboration on decarbonization, renewables, circular economy, and waste management. These efforts will target various audiences, starting from students and researchers to industry professionals. Additionally, policy documents will be generated and disseminated to public authorities to ensure a long lasting and sustainable impact of the project results and the network.\n \nThe Interreg area represents one of the world's main ceramic tile producing regions, hosting four of the top ten largest producers: Spain, Italy, Türkiye, and Egypt. The impact of INNOVATILE’s technology will achieve a wider effect as these four countries are represented in the consortium, enabling INNOVATILE to engage with the world’s largest tile manufacturers\n~\nKEEP KEYWORDS: Energy efficiency, Green technologies, Innovation capacity and awareness-raising",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To support for transnational testing and development of technologies  and for the uptake of technology and technology transfer to target an hypocarbonic tile manufacturing industry\n~\nEXPECTED RESULT: -Reduced energy, carbon emissions and critical raw materials consumption by innovative semi-wet granulate preparation technology in tile manufacturing\n\n-Developed replicability and technology transfer as well as established  long-term  networking activity\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To support for transnational testing and development of technologies  and for the uptake of technology and technology transfer to target an hypocarbonic tile manufacturing industry\n~\nEXPECTED RESULT: -Reduced energy, carbon emissions and critical raw materials consumption by innovative semi-wet granulate preparation technology in tile manufacturing\n\n-Developed replicability and technology transfer as well as established  long-term  networking activity\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To support for transnational testing and development of technologies  and for the uptake of technology and technology transfer to target an hypocarbonic tile manufacturing industry\n~\nEXPECTED RESULT: -Reduced energy, carbon emissions and critical raw materials consumption by innovative semi-wet granulate preparation technology in tile manufacturing\n\n-Developed replicability and technology transfer as well as established  long-term  networking activity\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To support for transnational testing and development of technologies  and for the uptake of technology and technology transfer to target an hypocarbonic tile manufacturing industry\n~\nEXPECTED RESULT: -Reduced energy, carbon emissions and critical raw materials consumption by innovative semi-wet granulate preparation technology in tile manufacturing\n\n-Developed replicability and technology transfer as well as established  long-term  networking activity",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33249,
+      "acronym": "MAENA~A_T_2.3_0285",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Replenishing the sMall wAter cyclE towards a more resilieNt Agriculture",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 064. Water management and water resource conservation (including river basin management, specific climate change adaptation measures, reuse, leakage reduction)\n~\nSUMMARY: The disruption of natural water cycles caused by human activities, such as land use changes, agricultural practices, and urbanisation, is leading to ecological damage in the Mediterranean (Med) region which is particularly vulnerable to the impacts of global warming. Despite this, water management policies often focus on large-scale infrastructure projects, such as dams and water treatment plants that do not adequately consider the importance of Small Water Cycles (SWC). This disconnect has negative consequences as SWCs play a critical role in maintaining healthy ecosystems and supporting agricultural practices.\nAdditionally, it appears that there is limited knowledge among farming communities on the concept of restoring SWCs and its benefits, including conserving water sources, improving soil health and increasing agricultural productivity.\nThe Med region offers a suitable context to address these global challenges at a regional scale and serves as a real test bed for identifying effective solutions. In this respect, MAENA is designed to build capacities and support the adoption of practices targeting SWC restoration to improve on farm water use efficiency. The project will be implemented based on a participatory approach while actively involving farmers and surrounding local communities.\nFour demonstration farms will provide proof of concept of SWC restoration that will be deployed in twenty farmers’ lands in partner countries.\nMAENA will transfer knowledge and skills on SWC restoration to the targeted community through transnational training and capacity building with onsite, online and peer exchanges formats. \nMAENA will form the first core of a Hub fostering SWC restoration in the Med region, enabling decision makers to replicate and scale-up the project outcomes, and carry forward this new paradigm.\nThis approach will result in more resilient and sustainable farming communities supporting both people and the environment by replenishing our water (مائنا).\n~\nKEEP KEYWORDS: Agriculture and fisheries and forestry, Soil and air quality, Water management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To restore the small water cycle at the farm scale\n~\nEXPECTED RESULT: Improved water use efficiency and agricultural productivity\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To strengthen the adaptive capacity of agricultural actors for small water cycle restoration\n~\nEXPECTED RESULT: Increased knowledge and skills, of agricultural actors involved, on small water cycle restoration\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To strengthen the adaptive capacity of agricultural actors for small water cycle restoration\n~\nEXPECTED RESULT: Increased knowledge and skills, of agricultural actors involved, on small water cycle restoration",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 35,
+          "title": "Soil and air quality"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33248,
+      "acronym": "SIMMER~A_T_2.2_0517",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Strategic Integration of Operational and Legal Frameworks for Enhanced Resilience and Management of Mediterranean Wildfires",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 059. Adaptation to climate change measures and prevention and management of climate related risks: fires (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem-based approaches)\n~\nSUMMARY: Wildfires are worsening in the Mediterranean due to longer fire seasons, and mega-fires. A key challenge is ensuring wildfire management uses science-based innovations. SIMMER invites scientists, practitioners, and decision-makers to collaborate, share best practices to improve management. This includes understanding wildfire behavior, trends, and climate change impacts to better manage landscapes, ecosystems, and response effectiveness.\nSIMMER uniquely analyzes the interplay between scientific, legal, and operationalization context to develop the cornerstone Integrated Science-Policy Framework for sustainable wildfire management. It bridges the gap between advanced technological tools and their practical application, enhancing stakeholders' management capacity across the entire lifecycle—from preparedness to response, and recovery.\nSIMMER holistic approach starts by collecting stakeholder needs, mapping existing wildfire management assets, developing maturity indicators, and identifying gaps. Next, SIMMER creates the integrated science-policy framework to address these gaps, which is tested through pilot activities. In the final phase, SIMMER produces a Knowledge Hub and Networking Platform, drafting policy recommendations, and training materials based on lessons learned.\nSIMMER pilot activities in six countries involve civil protection, nature protection organizations, local authorities, and volunteers. Demonstrable tools include ecosystem-based methods like prescribed burning and grazing, AI, remote sensing, for risk assessment and early warning, drones for burn severity mapping, and community-based post-fire assessment.\nSIMMER offers stakeholders mature scientific solutions, legal frameworks and operationalization protocols, benefiting decision-makers, firefighters, community leaders, and researchers. Beyond providing tools, SIMMER fosters collaboration and knowledge sharing, empowering communities to proactively protect themselves and their environment.\n~\nKEEP KEYWORDS: Climate change and biodiversity, Innovation capacity and awareness-raising, Knowledge and technology transfer",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Bridge the gap between scientific research, legal context and operationalization framework in Mediterranean countries by promoting the uptake of innovative solutions for wildfire prevention and management.\n~\nEXPECTED RESULT: Develop a science-policy standardization framework for wildfire prevention and management authorities in the Mediterranean, to reduce wildfire impact costs by 25% through anticipatory actions and evidence-based policies.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Bridge the gap between scientific research, legal context and operationalization framework in Mediterranean countries by promoting the uptake of innovative solutions for wildfire prevention and management.\n~\nEXPECTED RESULT: Develop a science-policy standardization framework for wildfire prevention and management authorities in the Mediterranean, to reduce wildfire impact costs by 25% through anticipatory actions and evidence-based policies.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Bridge the gap between scientific research, legal context and operationalization framework in Mediterranean countries by promoting the uptake of innovative solutions for wildfire prevention and management.\n~\nEXPECTED RESULT: Develop a science-policy standardization framework for wildfire prevention and management authorities in the Mediterranean, to reduce wildfire impact costs by 25% through anticipatory actions and evidence-based policies.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Bridge the gap between scientific research, legal context and operationalization framework in Mediterranean countries by promoting the uptake of innovative solutions for wildfire prevention and management.\n~\nEXPECTED RESULT: Develop a science-policy standardization framework for wildfire prevention and management authorities in the Mediterranean, to reduce wildfire impact costs by 25% through anticipatory actions and evidence-based policies.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

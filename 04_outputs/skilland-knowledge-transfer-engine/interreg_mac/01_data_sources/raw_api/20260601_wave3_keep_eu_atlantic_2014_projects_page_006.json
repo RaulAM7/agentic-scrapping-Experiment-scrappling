@@ -1,0 +1,474 @@
+{
+  "current": 6,
+  "next": "https://keep.eu/api/search/projects/?page=7",
+  "previous": "https://keep.eu/api/search/projects/?page=5",
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 19377,
+      "acronym": "REDAWN",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Reduzir a dependência energética nas redes de água da região Atlântica",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Réduire la dépendance énergétique des réseaux de distribution d’eau dans l’Espace Atlantique",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Reducción de la dependencia energética en redes de suministro de agua en las regiones atlánticas",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Reducing energy dependency in Atlantic Area water networks",
+          "description": "The water industry is the fourth most energy intensive sector in the Atlantic Area, responsible for significant contributions to climate change and reductions in the competitiveness due to the associated costs, but with the potential to generate local renewable energy in water network infrastructure. At present significant potential exists to save energy, costs and environmental impacts in Atlantic Area water networks, but technological, institutional and social barriers prevent the exploitation of this resource. \nThe REDAWN project will develop technology and policy, and raise awareness to overcome these barriers, improving the energy efficiency of water suppliers and users in the region. The aim of this project is to improve the energy efficiency of water networks through the installation of innovative micro-hydropower technology. This technology will recover wasted energy in existing pipe networks across irrigation, public water supply, process industry, and waste-water network settings. REDAWN will develop an adequate institutional, social and technological environment to foster greater resource efficiency in water networks, including:\n• Completion of an energy recovery resource assessment in water networks in the Atlantic Area;\n• Completion of an economic/environmental impact assessment of this technology on the region;\n• Development of design guidelines and support tools for hydropower energy recovery in drinking water, waste water, irrigation and process industry \nsectors;\n• Development of policy and institutional support tools to increase the implementation of energy recovery projects;\n• Quantification of the societal impacts of hydropower energy recovery in water networks;\n• Widespread dissemination and promotion of energy efficiency in AA water networks.",
+          "expected_results": "The impact of REDAWN will be to enable a reduction in the energy consumption of water distribution systems resulting in reduced energy costs for water utilities, for large industrial users, and agricultural producers. This will be achieved through micro-generation of hydroelectricity in water networks. Secondly this reduction in the cost of water distribution for water utilities will result in a reduction in the cost of water for end-users i.e. households, SMEs, etc.\nThe societal impact of REDAWN will include: a reduction in the contribution of the water sector to climate change; improved competitiveness of SMEs and industry through reduced water related operating costs; improved environment for food production through cheaper and less energy intensive irrigation capabilities; and the social impact of the reduction in cost of water supply to the socially disadvantaged.",
+          "achievements": "The water industry is the fourth most energy intensive sector in the Atlantic Area, responsible for significant contributions to climate change and reductions in competitiveness due to associated costs. At present significant potential exists to save energy and reduce the environmental impact on water networks, but the existing barriers prevent the proper exploitation of this resource.\nThe REDAWN project aims to develop an adequate institutional, social and technological environment to improve energy efficiency of water networks through the installation of innovative micro-hydropower technology. This technology will recover wasted energy in existing pipe networks across irrigation, public water supply, process industry, and waste-water network settings. The consortium completed a resource assessment for energy recovery from micro-hydro, compiling an extensive assessment for drinking water, irrigation and wastewater sectors. At this stage, they completed the data collection, resource assessment and extrapolation of total resources for these three sectors.\nIn total, data on 8560 sites has been compiled which included the location of existing infrastructure with excess pressure, and corresponding historical flow and pressure readings. REDAWN thus had an impact at several levels. It enabled the reduction in the energy consumption of water distribution systems and in the energy costs for water utilities, large industrial users, and agricultural producers. It has also contributed to improve competitiveness of SMEs and industry through reduced water-related operating costs, as well as to improve the environment for food production through cheaper and less energy intensive irrigation capacities. REDAWN also enabled the reduction in the cost of water supply to socially disadvantaged people.\n\"The nature of this project challenge required an integrative response that crossed many boundaries and borders – discipline, practice, industry and national. REDAWN enabled the engineering, environmental science and business researchers to interact directly with practitioners from European industry. Together, these partners are committed to bringing their established expertise to the table and open to learning with, through and from each other”. Prof Paul Coughlan Trinity College Dublin Business School.",
+          "expected_outputs": "REDAWN will produce new case studies and scale pilots of energy recovery potential in water networks in the region, along with a number of corresponding technical and scientific publications, and finally policy and strategy instruments to foster greater resource efficiency in the sector.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19376,
+      "acronym": "PRIMROSE",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Previsão de risco e impacto de eventos nocivos no sector da aquacutura",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Prédire du risqué et l'impact des événements néfastes sur le secteur de l'aquaculture",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Prediciendo el riesgo e impacto de eventos nocivos en el sector de la acuicultura",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Predicting risk and impact of harmful events on the aquaculture sector",
+          "description": "The aquaculture sector on Europe’s Atlantic Area is  negatively impacted by the effects of harmful blooms and microbial pathogens. The PRIMROSE project aims to strengthen risk management systems in order to grow, innovate and generate jobs in the aquaculture sector. This sector relies on sufficient early warning of harmful events, so that mitigation measures can be put in place. PRIMROSE will both develop a transnational short to medium term risk forecast and a long term assessment of climate impact on harmful algal blooms and pathogens. This improved forecast will include microbial risk and climate impacts, in addition to algal bloom predictions. The consortium will benefit from improved spatial resolution utilising new generation Sentinel data products for aquaculture production areas in Ireland, Scotland, England, Spain, Portugal and France. The transnational aspects of PRIMROSE will be developed through the implementation of a portal system using common best practice and methodologies and a joint front end. This new system will develop an easily understandable traffic-light risk index. The market for these products will include policy makers, risk regulators, food safety authorities and the shellfish and fin-fish industry and will exploit existing EU investment in marine observing infrastructure.",
+          "expected_results": "• \tRisk assessment, prevention & surveillance actions: developing a single trans-national web based information portal adopting best practices and methodologies approaches to risk assessment.\n•\t Planning monitoring & reporting: incorporating operational oceanographic or bespoke products that will allow informed forecasts to be produced.\n• \tResponse mechanisms to threats: expanding the ASIMUTH (Applied simulations and Integrated modeling for the understanding of toxic and harmful algal blooms) concept to include assessment of other important aquaculture risks: specifically: shellfish vectored microbial risk to humans.\n• \tDeveloping new risk management tools: automating graphical and mapping routines making web based reporting easier & cheaper to produce in a common format.\n• \tEarly detection & mapping: development of a long terms forecasting product that incorporates climate and environmental change for use by national policy makers, regulators, food safety authorities & the shellfish industry.",
+          "achievements": "The aquaculture industry in the European Atlantic Area is negatively impacted by the effects of harmful bloom events where the sector relies on sufficient early warning of these events so that mitigation measures can be implemented. The PRIMROSE project has exceeded its stated aims and objectives in its deliverables, outputs and activities to strengthen risk management systems in order to grow and innovate within the aquaculture sector. The developed end products implemented have substantially improved the predictive forecasting of Harmful Algal Blooms with a transnational and regional focus in aquaculture locations from the Shetland Islands to the Canary Islands. The end products and activities implemented are in use for these risk management and prediction systems and are available for use of policy makers, risk regulators, food safety authorities, and the seafood industry, who will exploit existing EU investment in marine observing infrastructure.\nIt concerns a transnational regional portal system, proof of concept geoserver, and a bulletin report generator whose national reporting procedures were standardise and partially automated so that expert evaluators have information to make accurate forecasts. New versions of hydrodynamic models were also validated with in situ measurements, satellite images and improved knowledge of particle transport processes in offshore areas to support advice on the risk of toxicity events and microbiological contamination. \nCommon best practices and methodologies for risk assessment were developed and implemented, including the use of an easily understandable traffic light risk index.\nThe project also carried out autonomous methods of water samples monitoring and water collection at aquacultures site using autonomous boats or aircraft. \n\"As shellfish growers we are, more often than not, caught up in day-to-day operational matters at sites, involving harvesting and husbandry activities. Hence, having quick access to our bulletin is treasured by the growers here in the isles, given that it provides easy to read, very important information on bloom activity and subsequent toxin status which can seriously impact business operations. We have appreciated greatly the additional input provided by PRIMROSE to bring enhanced and innovative measures to our forecasts.” Kenny Pottinger Chair of Seafood Shetland shellfish growing committee.",
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19375,
+      "acronym": "EnhanceMicroAlgae",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "pt": {
+          "name": "Oportunidades industriais de valor acrescentado para as microalgas no Espaço Atlântico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Oportunidades industriales de elevado valor añadido para las microalgas en el Espacio Atlántico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Opportunités industrielles à hautes valeurs ajoutées pour les microalgues dans région del'Atlantique",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "High added-value industrial opportunities for microalgae in the Atlantic Area",
+          "description": "Microalgae comprise 30,000+ known photosynthetic microorganisms, however, few are used commercially. This natural resource offers a great number of industrial possibilities by exploiting their chemical composition with growth manipulations. At the same time, this complexity can overwhelm enterprises entering this sector due to the great number of variables affecting economic and environmental viability.\nThe Enhancemicroalgae project will contribute to the competitiveness of microalgae-based industry in the Atlantic Area through the transfer of technological and economic expertise to the commercial sector. The consortium offers a wide range of skills and interests, with strong track records for science, production and exploitation of microalgae throughout the Atlantic Area. \nThe main objectives are:\n(i) to undertake a comprehensive analysis of skills, skill gaps and opportunities in the microalgae sector (industrial/academic); \n(ii) develop case studies, supported by Decision Support Tools, to increase economic performance and competitiveness with transfer of know-how from academic and technological centers to SMEs; \n(iii) analyze critical factors of operation from an environmental point of view; \n(iv) incorporate nanotechnology/new technologies (emerging and/or transferred from other sectors) to microalgae sector; and \n(v) encourage the creation of spin offs and self-employment.",
+          "expected_results": "• Undertake a comprehensive analysis of skills, skill gaps and opportunities in the microalgae sector (industrial/academic);\n• Develop case studies, supported by Decision Support Tools (DST), to increase economic performance and competitiveness with transfer of know-how from academic & technological centers to SMEs;\n• Analyze critical factors of operation from an environmental point of view;\n• Incorporate nanotechnology/new technologies (emerging &/or transferred from other sectors) to microalgae sector;\n• Encourage the creation of spin offs and self-employment.",
+          "achievements": null,
+          "expected_outputs": "• Region and product-specific best practice documentation and training;\n• Integration of analysis and control parameters with environmental risks for large scale production of microalgae driven through an online DST;\n• Deployment of the above to generate a biorefinery approach to maximize use of algal biomass through multiple exploitation routes;\n• Characterization of highly productive microalgae for high value-added production;\n• Evaluation and exploitation of natural strain resources within the region;\n• Evaluation of different extraction processes to recover different high added-value products using green chemistry;\n• Validate nanotechnology/emerging technologies (production, processing and genetic engineering) in the microalgal sector;\n• Cosmetic industry: new ingredients  (anti aging, antioxidants, collagen degradation, skin whitening);\n• Pharma: anti-(cancer/inflammatory/obesity) possibilities;\n• Nutrition: pigments, polyphenols, other functional ingredients;\n• Food security/aqua/agritech - alternatives to fish protein and PUFAs (Polyunsaturated fatty acids).",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19373,
+      "acronym": "MMIAH",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Recover and valorization of maritime, military and industrial heritage of the Atlantic Area coast",
+          "description": "One of the main features of the Atlantic Area is its maritime dimension, which gives this territorial area a strong cultural identity. The proximity to the sea has led to a common development pattern, both economic and urban in coastal cities, closely linked to the sea and the maritime industry, and even military settlements, by the geostrategic position of many of these cities. The crisis of industrial activity linked to the sea and the reduction of military presence have led to the degradation of many of these facilities, which have fallen into disuse and generated in their surroundings an urban landscape of environmental and heritage degeneration.\nThe MMIAH project is committed to the value enhancement of the urban coastal edge of the Atlantic Area through the recovery of disused asset associated with the military, maritime and industrial heritage of coastal cities, facilitating their social use and generating value added activities around them in order to promote cultural tourism as a factor of economic sustainability. This project specific goals are:\n- Recover the historical memory of Atlantic cities, their growth and development linked to its maritime, industrial and military heritage;\n- Recover these heritage sites which have been abandoned for public use;\n- Establish a joint model of sustainable management and use planning of the mentioned heritage translatable to other cities of the Atlantic Area;\n- Promote the participation of civil society in the \"ownership\" of the new uses of maritime, military and industrial heritage; \n- Develop cultural tourism through historical reenactment, promoting the Atlantic identity around these abandoned assets in the coastal edge;\n- Encourage the economic sustainability of these spaces including them as an essential part of the cultural and tourism offer of the cities.",
+          "expected_results": "• Recover the historical memory of Atlantic cities, their growth and development linked to its maritime, industrial and military heritage.\n• Recover these heritage sites which have been abandoned for public use.\n• Establish a joint model of sustainable management and use planning of the mentioned heritage translatable to other cities of the Atlantic Area.\n• Promote the participation of civil society in the \"ownership\" of the new uses of maritime, military and industrial heritage.\n• Develop cultural tourism through historical reenactment, promoting the Atlantic identity around these abandoned assets in the coastal edge.\n• Encourage the economic sustainability of these spaces including them as an essential part of the cultural and tourism offer of the cities.",
+          "achievements": "One of the main features of the Atlantic Area is its maritime dimension, which gives this territorial area a strong cultural identity. The proximity to the sea has led to an economic and urban development pattern in coastal cities, closely linked to the sea, the maritime industry, and military settlements, by the geostrategic position of many of these cities. The crisis of the industrial activity linked to the sea and the reduction of military presence have led to the degradation of many of these facilities, which have fallen into disuse and generated in their surroundings an urban landscape of environmental and heritage degeneration.\nThe MMIAH project committed to the value enhancement of the urban coastal edge of the Atlantic Area through the recovery and rehabilitation of abandoned military or industrial heritage sites relating to the sea for tourism and the benefit of local communities. Besides promoting the participation of civil society in the “ownership” of the new uses of maritime, military and industrial heritage, MMIAH has also developed cultural tourism through historical reenactment, promoting the identity around these abandoned assets including them as an essential part of the cultural and tourism offer of the cities.\nOne of the main results of this project was the delivery of a White Paper presenting best practices to inform heritage regeneration within the European region and beyond for the development, interpretation, and presentation of these heritage sites. It included the existing challenges and opportunities, examining the interrelationship between the work packages and their effectiveness in delivering the project outcomes, as well as drawing final recommendations and conclusions.\nThe project focussed therefore on the recovery of the historical memory of Atlantic cities and established a joint model of sustainable management that can be transferable to other Atlantic cities.\n\"Historically the buildings need to be preserved, but it needs to be done in a way that they can still be used. That is what the MMIAH project pursues”. Clare Philips Visitor Services Manager at Plymouth City Council.",
+          "expected_outputs": "• 1 evolutionary study of the cities through its Maritime, Military and Industrial (MMI) heritage and their influence on urban and social development;\n• 1 joint methodology for the preparation of Master Plans for the management of disused heritage in the cities of the Atlantic Area;\n• 1 participatory Master Plan for each territory;\n• 3 cultural products created based on historical recreation and 9 demonstration actions on the importance of the heritage, using techniques such as the dramatization of historical events that occurred around these spaces;\n• Intervention in an element of heritage in each city to valorize it with sustainability criteria and incorporate it into the tourist offer;\n• 8 MMI infrastructures which have disappeared or are in ruins recovered through modelling;\n• 1 app and/or on-line site with tourist guidance aiming at developing heritage routes through the Atlantic coastal edge;\n• Increase in the tourist offer of the Atlantic coastal edge;\n• 4 fam trip organized with at least 5 tour operators from the 5 countries involved in each one;\n• 5 press trips organised with at least 10 media organizations and prescribers invited to each press trip from the five countries.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Recuperação e valorização do património marítimo, militar e industrial do litoral do Espaço Atlântico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Recuperación y valorización del patrimonio marítimo, militar, industrial del litoral del Espacio Atlántico",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Recuperation et valorisation du patrimoine maritime, militaire et industriel de la cotiêre de l'Espace Atlantique",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19371,
+      "acronym": "AYCH",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Athletic hubs of young breeders",
+          "description": "AYCH will build a model of social innovation for young people supporting social entrepreneurship, employment and education in the creative and cultural industries, across the Atlantic Area. Connecting people, ideas, skills, technologies and enterprises across a network of hubs the project will unlock the creative, entrepreneurial potential of young people focussing on key themes such as innovation, co-creation of products, social entrepreneurship and employability. \nCentral to the delivery of the project is the establishment of a network of transnational, connected and multidisciplinary hubs that will stimulate idea generation, pre-startup and early stage business startup support to young people both distanced from the labour market and those seeking a career, or self-employment in the creative sector. \nAddressing the market failure in the provision of youth service and start up support to young people that captures imagination and channels creativity into the creation of new products and services, the project will raise aspirations for enterprise, creating both social and economic capital, connecting employers to talent, supporting growth and jobs in the sector.",
+          "expected_results": "The project expects to lower youth unemployment rates, in the partner areas, raise awareness of social enterprise as an option for business startup, promoting responsible, sustainable entrepreneurship and improve youth services to create more dynamic, entrepreneurial, inspiring environments where young people can co-create, connect across borders and dramatically improve employability, providing vital incubation space and services to young entrepreneurs in the Creative and Cultural Industries.",
+          "achievements": "The Atlantic Area faces high rates of youth unemployment and under-employment while at the same time, there’s a market failure in providing youth services and start-up support to young people, who channel their imagination and creativity in creating new products and services. AYCH is dedicated to youth up to 30 years old seeking a career or self-employment in the creative sector, open both for young people with lower education and for postgraduated and offers help in building on their creative  ideas.\nThe project role is to encourage entrepreneurship, enterprise and employment skills by connecting people, ideas, skills and technologies across a network of international hubs. The project established this collaborative network of multidisciplinary centres, the Atlantic Horizon Hubs, in the fields of creativity, technology and social enterprise, allowing young people to jointly stimulate new ideas and identify market opportunities, in transnational teams and with the support of a team of international experts, as well as through residencies and internships. All skills, technology and knowledge have been shared through virtual and physical workshops, seminars and the commercial and global challenges that young entrepreneurs respond to through Local or International Creative Jams. This network is the result of both formal and non-formal educational settings for youth in the Atlantic Area, giving a body of very active young ambassadors the opportunity of successful self-realisation and to change their lives.\nTo support the connections and transnational collaboration, the Atlantic Horizon Hubs are embedded into youth service provision in each partner area and beyond, where they have created local ecosystems of entrepreneurship, supporting the adoption of the model across the Atlantic regions. AYCH thus supports local economic growth, job creation by connecting employers to talent and in the longer term, reduces youth unemployment.\n\"Becoming involved in AYCH allowed me to understand on a professional and personal level, the importance of everyone’s participation towards a sustainable planet. I feel now more engaged in my actions for a sustainable future. I’m currently involved in IKEA, inspiring people to live more sustainably in their homes and no matter what professional direction I take, there won’t be a path that doesn’t align with the vision AYCH gave me during my participation in the project” Danae Vélez de León AYCH Ambassador.",
+          "expected_outputs": "- 1 Atlantic Youth Creative Hubs social innovation model/policy framework created and transferred to economic strategies of at least 3 other regions in Member States;\n- 1600 young people engaged with across AYCH networks;\n- 800 SMEs engage with HEIs, third sector orgs and young people through challenges, showcases and seminars;\n- 40 new to firm and market products created;\n- 40 new product prototypes created;\n- 50 businesses started;\n- 400 young people in education or training;\n- 200 jobs created;\n- 200 internships supported.\n- 1 youth ambassador scheme to engage young people in local areas; \n- 3 annual creative youth jams to connect hubs and examine current youth entrepreneurship support policy;\n- 40 transnational seminars on education, employability and (social) enterprise in creative sector;\n- 40 transnational Key Enabling Technologies workshops - Virtual Reality, Nanotechnology, Digital Fabrication and design, Digital Media, Internet of Things;\n- 10 creative business incubation programmes in each hub to support ideas into business;\n- 20 transnational business challenges in shared issues affecting the Atlantic Area programme - aging population, youth unemployment, transport and access, innovation in traditional sectors. Young entrepreneurs will work together to design, prototype and conceive and commercialise products;\n- 10 progression support desks (virtual & physical) to support users of each of the hubs towards opportunities in employment, education or training.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Hubs Atlánticos de Jóvenes Creativos",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Hubs Atlantiques de Jeunes Créatifs",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Hubs Atlânticos de jovens criativos",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 19370,
+      "acronym": "CAPITEN",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic cluster for the technology and economic innovation in \"nautical\" sector",
+          "description": "The nautical industry offers a significant potential for job creation and is a vector for economic development and wealth for the Atlantic Area territories. The marine leisure industry is worth EUR 8.9Bn and employs 85,000 people across the Atlantic Area.\nThe CAPITEN project has 2 goals: \n- to promote economic development and jobs by enhancing the local natural and cultural heritage; \n- to create an industry cluster to organise its concerted development and promote the emergence of innovative products and services, bolstering the attractiveness of the destination resorts and well-being of the local residents, as well as attracting a new tourist clientele.\nCAPITEN aims to organise the sector on 3 interdependent and complementary hubs of excellence that form a virtuous circle: i) tourism, water sports and coastal activities, ii) industry, services, trade, iii) sailing and ports.\nAfter a study on the ground among professionals of the sector, partners proposed a concrete actions' plan to increase the attractiveness of the Atlantic regions and draw new customers.\nThis cluster will strengthening cooperation between the Atlantic regions for a common services offers strengthening blue growth on this area.",
+          "expected_results": "• Development of economic models, specifications and methodological tutorials: seasonally adjusted products, target audience (children, adolescents, seniors, well-being), marine and coastal heritage discovery;\n• Study and economic model of public and perennial nautical events/ organization of test events;\n• Creation of an observatory dedicated to new technologies for the eco-construction and deconstruction / creation of a transnational expert group;\n• Design of 3 prototypes of eco-designed navigation supports;\n• Creation of a specification for new services for boaters and the general public; \n• Creation of 10 routes Atlantic destinations between territories, training of professionals\n• Promotion of actions via a public website;\n• Proposal for a long-term organizational model for the Atlantic Water Cluster.",
+          "achievements": "The nautical industry offers significant potential for job creation and is a vector for economic development and wealth for the Atlantic Area territories. The CAPITEN project aims to foster the tourist economy, and promotes a sustainable approach in the nautical industry in its various activity sectors. CAPITEN operates in three innovation clusters: design of innovative marine leisure products, innovations in yachting and technological and industrial innovations. This project has two main goals: first, to promote economic development and jobs by enhancing the local natural and cultural heritage, and second, to create an industry cluster to organise its concerted development, promote the emergence of innovative products and services, bolstering the attractiveness of the destination resorts, and the wellbeing of the local residents while attracting a new tourist clientele.\nFor these purposes the project implemented a series of actions related to innovative products, integrating new technologies or suggesting new activities to marine leisure users looking for a change. The conceptualised products were mostly presented and tested at mainstream events and adjusted to best meet the needs identified and the targeted audience. These were aimed at boat clubs that seek to diversify their range of activities. For example, it designed three prototypes of navigation supports with ecological design and improved the specifications for new services for boaters and the general public, as well as the creation of ten Atlantic Destinations routes between territories.\nCAPITEN also created a database of the main processes currently used by the industry’s manufacturing sector, in order to move towards a more eco-responsible industry. This database will allow to view and compare processes that have been selected for the manufacture and recycling of boats, according to environmental criteria with convincing technical results.",
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Cluster Atlântico para a inovação tecnológica e económica na fileira da náutica",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Cluster Atlántico para la innovación tecnología y económica en el sector de la náutica",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Cluster Atlantique pour l'innovation technologique et économique dans la filière du nautisme",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

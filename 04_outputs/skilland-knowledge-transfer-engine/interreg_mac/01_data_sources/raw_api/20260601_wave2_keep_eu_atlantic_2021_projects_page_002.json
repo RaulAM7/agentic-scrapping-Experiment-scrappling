@@ -1,0 +1,291 @@
+{
+  "current": 2,
+  "next": "https://keep.eu/api/search/projects/?page=3",
+  "previous": "https://keep.eu/api/search/projects/",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31291,
+      "acronym": "SED'UP",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Re-use of marine sediments and circular economy",
+          "description": "The project aims to foster innovative approaches for the beneficial reuse of marine sediments, supporting circular economy strategies in the Atlantic Area. The overall objective is to boost synergies to pave the way for re-use alternatives for local destinations, and demonstrate that marine sediments are a valuable resource with significant potential. \nBy combining scientific research with innovation, the project seeks to address the transnational challenge of shifting the perception of these sediments from waste to a reusable resource, addressing environmental, regulatory and economic common challenges. Through cross-border and transdisciplinary collaboration and stakeholder engagement, the project will encourage, by demonstrating potential applications, the identification of new value chains that promote reducing waste, and enhance circular loops for the sustainable reuse of marine sediments among the maritime and port communities of the Atlantic Area.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31290,
+      "acronym": "TRAP",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Transforming Rivers by Reducing Aquatic Plastic Pollution",
+          "description": "TRAP addresses the critical transnational challenge of aquatic plastic pollution through innovative, eco-friendly solutions to reduce plastic litter reaching the Atlantic Ocean. The main goal is to produce guidelines to design hotspots to trap and retain plastics in rivers and estuaries. It offers an innovative approach to tackle aquatic plastic pollution by combining advanced digital tools, nature-based solutions and community engagement. \nTRAP brings positive change in the efficiency of plastic removal strategies and better-informed management practices. \nKey outputs include a digital management tool for identifying plastic retention hotspots, field-tested retention solutions, and practical guidelines for decision-makers. Beneficiaries range from environmental agencies to local authorities and riverine communities. \nThe project leverages transnational cooperation to ensure knowledge sharing, creating scalable, field-tested solutions that can be adapted across the Atlantic Area.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 30,
+          "title": "Waterways, lakes and rivers"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31289,
+      "acronym": "RIVERS-REST",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "RIVERS RESToration to reduce erosion and the transport of sediments & pollutants to the ATLANTIC Ocean",
+          "description": "RIVERS-REST responds to the urgent need to reduce the pollution that rivers carry into the Atlantic Ocean, with serious effects on the environment, the functionality and sustainability of the water system, and many sectors of the Blue Economy: from rivers' navigability to the regeneration of beaches that challenges tourism, from fisheries affected by the impacts on estuarine and marine biodiversity. The origin lies in the denaturation of the rivers by urban and hydraulic policies, drafted against nature and not valid anymore in a context of Climate Change, and also in wrong agricultural practices.\nRIVERS-REST addresses these problems through Pilots to test new technical and governance solutions to reduce sediment and chemical pollutants runoff into rivers and to the Atlantic, implement Nature restoration initiatives testing new approaches and techniques, plus joint development of planning methods and instruments capable of correcting these problems.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31288,
+      "acronym": "BEACon",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Business Excellence through Atlantic Cooperation",
+          "description": "BEACon – Strategic Support for Atlantic Innovation and Business. \nThe BEACon Project will transform business support in the Atlantic Area, enhancing success rates through an evidence-based toolkit for business advisors. Using insights from Randomised Controlled Trials, BEACon ensures training and advisory services drive real impact. \nAtlantic SMEs face hurdles in digital transformation, sustainability, and competitiveness. BEACon aligns business support with EU priorities, including the Green Deal and Atlantic Action Plan \n\n2.0, fostering sustainable and innovative enterprises. \nKey Outputs & Benefits: a scalable toolkit to optimise business training; pilot programmes tailored for Atlantic Area SMEs; economic impact analysis for continuous improvement. By leveraging transnational cooperation, BEACon will map a path to success for Atlantic SMEs and innovators.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31287,
+      "acronym": "ATLAS",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic Tracking with Lightwave Acoustic Sensing",
+          "description": "ATLAS pioneers the use of Distributed Acoustic Sensing (DAS) on submarine telecommunication cables to provide a revolutionary, cost-effective solution for ocean monitoring, biodiversity conservation and coastal risk prevention. The project addresses major transnational challenges, including geohazard detection, marine noise pollution, and whale-ship collision prevention across the Atlantic, delivering critical insights for public authorities, maritime operators, and researchers. \nThe project’s outputs are ranging from seismic event warnings to marine biodiversity assessments, and enhance policy decisions, protect ocean ecosystems, and improve maritime safety. By leveraging international cooperation and deploying DAS-based methodologies at multiple sites along the Atlantic rim, ATLAS will set a new standard for sustainable ocean observation, aligning with European environmental directives and ensuring a long-term impact on marine conservation and risk prevention.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31286,
+      "acronym": "CANSTAR",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Consolidating an Atlantic Network of Sustainable AstroTourism Destinations",
+          "description": "CANSTAR is an innovative, integrated and sustainable AstroTourism project aware of environmental preservation and local economic growth across multiple European regions. The main transnational challenge to tackle is the sustainable development of AstroTourism, addressing light pollution, environmental conservation&rural development. The project’s overall objective is to promote sustainable tourism by enhancing star-studded sky resources while reducing light pollution.\nExpected changes include improved local economies, preserved natural resources, and better training for tourism professionals. Main outputs include the development of infrastructure, training programs, awareness tools, and regional marketing strategies. Local communities, tourism professionals, and stakeholders will benefit directly. CANSTAR will use a collaborative approach, involving multiple regions, to ensure the sharing of best practices and resources, strengthening the long-term sustainability of AstroTourism through transnational cooperation.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

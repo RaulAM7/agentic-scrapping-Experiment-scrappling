@@ -1,0 +1,388 @@
+{
+  "current": 1,
+  "next": "https://keep.eu/api/search/projects/?page=2",
+  "previous": null,
+  "total_pages": 15,
+  "count": 89,
+  "results": [
+    {
+      "id": 32769,
+      "acronym": "AquaBioNets",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Filets aquacoles biodégradables",
+          "description": "AquaBioNets est un projet qui soutient l’aquaculture durable dans six pays méditerranéens. Il réunit des groupes clés tels que les gouvernements, les entreprises, les chercheurs et les communautés afin de promouvoir des pratiques respectueuses de l’environnement, notamment l’utilisation de filets biodégradables.\n\nLe projet renforce les compétences, soutient l’innovation et contribue à l’élaboration de politiques locales grâce à une approche collaborative appelée « Living Lab ». Il aborde des problématiques telles que la pollution, la forte concurrence mondiale et la réglementation floue. Tous les résultats, y compris les supports de formation et les guides politiques, seront partagés publiquement afin de favoriser la diffusion de l’aquaculture durable dans toute la région.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "The overall objective of WP1 is to gain upgraded and up-to-date knowledge in the field of Sustainable Aquaculture, to be transferred to 5helix stakeholders through WP2 and WP3, by performing the Living Lab approach. \nThe objective will be achieved through three different types of activities, namely (1) capitalisation of results from previous EU funded projects (Horizon 2020, Interreg, EMFF), (2) research and testing activities with the aim of optimisation of findings and lastly (3) monitoring their environmental impact. \n\nThe output O1.1 establishes a transnational partnership of 12 organisations from six Mediterranean countries, cooperating through the Living Lab approach to advance sustainable aquaculture. By jointly capitalising on previous project results, conducting targeted research, and sharing expertise, the partnership ensures effective cross-border knowledge transfer and stakeholder engagement.\n\nThe overall objective of WP2 is to educate and train representatives from organisations covering 5helix actors, including HEIs and ROs, industry (SMEs), public administration, and civil society, by performing the Living Lab approach. WP2 activities will be implemented in Croatia, Spain, Greece, Cyprus, Italy & Albania. \nPP MUSOL is WP2 lead and objective will be achieved through 4 types of capacity building sessions, each focused on 1 target group (civil society and environment actors are put together because of their similar background and learning objectives). Capacity building sessions will be carried out in all six countries, based on inputs from WP1, additionally enriched by country specific data and target group’s interests, determined in Working Groups.  \nThe main output of WP2 is a jointly developed methodology titled, which applies the LL approach to the field of sustainable aquaculture. \nHaving implemented the Education, Training and Connecting activities in the field of Sustainable Aquaculture for 5helix stakeholders, in WP3 PPs continue with Connecting and Co-designing activities, focused on shifting policies towards Sustainable Aquaculture, following the Living Lab approach, covering Implementing, Improving, Evaluating and Dissemination components. \nWP is led by PP ANETEL and aims to support the wider implementation of solutions, tools and methodologies for policy regulations. Essential key of this WP is the active involvement of stakeholders in improving process of solutions and specially to encourage them to provide feedback for adoption of solutions to their actual needs. Stakeholders will be encouraged to implement the improved solutions (methods, tools, etc.) in their real environment, as well as to evaluate the solutions, communicate and deploy results, to share gained knowledge and to expand the network of stakeholders in participating region and beyond.",
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Biodegradable aquaculture nets",
+          "description": "AquaBioNets is a project supporting sustainable aquaculture in six Mediterranean countries. It brings together key groups like governments, businesses, researchers, and communities to promote eco-friendly practices, especially the use of biodegradable nets.\nThe project strengthens skills, supports innovation, and helps create local policies through a collaborative approach called the Living Lab. It addresses issues like pollution, tough global competition, and unclear regulations. All results, including training materials and policy guides, will be shared publicly to help spread sustainable aquaculture across the region.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "The overall objective of WP1 is to gain upgraded and up-to-date knowledge in the field of Sustainable Aquaculture, to be transferred to 5helix stakeholders through WP2 and WP3, by performing the Living Lab approach. \nThe objective will be achieved through three different types of activities, namely (1) capitalisation of results from previous EU funded projects (Horizon 2020, Interreg, EMFF), (2) research and testing activities with the aim of optimisation of findings and lastly (3) monitoring their environmental impact. \n\nThe output O1.1 establishes a transnational partnership of 12 organisations from six Mediterranean countries, cooperating through the Living Lab approach to advance sustainable aquaculture. By jointly capitalising on previous project results, conducting targeted research, and sharing expertise, the partnership ensures effective cross-border knowledge transfer and stakeholder engagement.\n\nThe overall objective of WP2 is to educate and train representatives from organisations covering 5helix actors, including HEIs and ROs, industry (SMEs), public administration, and civil society, by performing the Living Lab approach. WP2 activities will be implemented in Croatia, Spain, Greece, Cyprus, Italy & Albania. \nPP MUSOL is WP2 lead and objective will be achieved through 4 types of capacity building sessions, each focused on 1 target group (civil society and environment actors are put together because of their similar background and learning objectives). Capacity building sessions will be carried out in all six countries, based on inputs from WP1, additionally enriched by country specific data and target group’s interests, determined in Working Groups.  \nThe main output of WP2 is a jointly developed methodology titled, which applies the LL approach to the field of sustainable aquaculture. \nHaving implemented the Connecting and Education&Training activities (first phases of LL approach) in the field of Sustainable Aquaculture for 5helix actors, in WP3 PPs continue with co-designing activities, aimed on shifting policies towards Sustainable Aquaculture, by covering Implementing, Improving, Evaluating and Dissemination components. \nWP is led by PP ANETEL and aims at support to wider implementation of policy solutions, tools and methodologies seen as examples of best practice, exchanged thanks to transnational cooperation of PPs and stakeholders. Essential key of this WP is the active involvement of stakeholders in improving process of policy solutions & especially to encourage them to give feedback for adaptation of solutions to their actual needs. They will be encouraged to implement the improved solutions in real environment, evaluate solutions, communicate &deploy results, share gained knowledge and expand the network of stakeholders in participating region and beyond.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32768,
+      "acronym": "BIOSTARS",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Des solutions systémiques de bioéconomie circulaire pour soutenir l'innovation entrepreneuriale et sociale dans les zones rurales.",
+          "description": "BIOSTARS soutient les communautés rurales de la Méditerranée en les aidant à construire des économies locales plus fortes grâce à des entreprises durables basées sur la biotechnologie. Le projet réunit des startups, des investisseurs et des communautés afin de créer des emplois, de réduire l'impact sur l'environnement et de promouvoir l'innovation sociale. À l'aide d'une boîte à outils spéciale développée dans le cadre de projets antérieurs, BIOSTARS guidera les régions dans la mise en place de villages de startups bioéconomiques. Il propose des solutions pratiques et sociales, des formations et un soutien pour renforcer les compétences écologiques, encourager l'esprit d'entreprise et relier les acteurs locaux dans un effort commun pour développer des économies rurales circulaires et économes en ressources.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Systemic circular bioeconomy solutions to support start-up and social driven innovation in rural areas",
+          "description": "BIOSTARS supports rural communities in the Mediterranean by helping them build stronger local economies through sustainable, bio-based businesses. The project brings together startups, investors, and communities to create jobs, reduce environmental impact, and promote social innovation. Using a special toolbox developed from earlier projects, BIOSTARS will guide regions in setting up bioeconomy startup villages. It offers practical and social solutions, training, and support to boost green skills, encourage entrepreneurship, and connect local players in a shared effort to grow circular, resource-efficient rural economies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Assembling the place-based innovation ecosystem in transfer territories\nProvide a common understanding of the Start-up village concept\nIdentify the challenges and development pathways for developing and switching of start-ups, SMEs and social enterprises for a sustainable bioeconomy \nSelecting outputs from ‘Givers’ based on the identified project portfolio for defining key areas in the development of the BIOSTARS toolbox\nDeliver an effective BIOSTARS toolbox and validate the proposed toolbox with actors-takers from different sectors and maturity levels, evaluating their feedback and producing the final configuration of the toolbox\nCreating rapport between givers and takers\nDelivering tailored training for public authorities to use the BIOSTARS toolbox\nDelivering tailored training for entrepreneurs to use the BIOSTARS toolbox\nProviding support to local authorities to capitalize on the BIOSTARS toolbox, establishing the virtual help desk as a hot spot to provide support to SMEs and innovative companies. \nSetting up a Transnational cluster for transnational and cross-sector collaboration\nSupporting innovative SMEs, start-ups and social enterprises by organizing workshops on “hot topics”\nWorkshops on the empowerment of youth in the bioeconomy sector bridging the gap between young talent and the bioeconomy industry\nCreation of the Youth platform, a Repository of ideas and proposals made by local youth as contributes to youth involvement in the bioeconomy\nUnderstanding cultural differences and assessing societal readiness in the transfer territories, assisting in strategizing and operating in a place-based ecosystem responding to local needs and dynamics, and addressing society's readiness to adopt and use innovation.\n\nSupporting the use of the BIOSTARS toolbox by providing guidelines and recommendations to replicate successful cases across the MED \nScaling out of project results developing a transferring framework providing step-by-step guidelines for capitalizing on the transnational cluster\nProviding support for the development of startup villages on sustainable and circular systemic bioeconomy solutions\nLeveraging on the Start Up Village Initiative through the Regional Hubs and fostering knowledge exchange and mutual learning\nTransferability plan for the capitalization and exploitation of the project results beyond the partnership\nLaunch of the BIOSTARS Manifesto to sustain the Transnational Cluster after the project’s end \nHigh-level conference on financing innovation in rural green sectors in BiH \nContribute to the Result amplification strategy and engage in capitalisation activities with the Institutional Dialogue and Thematic community project.\n",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32767,
+      "acronym": "TO CARE MED",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": "L'outil de limitation de la capacité d'accueil touristique (TCCL) développé dans le cadre du projet ALTERECO aborde le risque de surtourisme et son impact sur le patrimoine naturel et culturel des destinations méditerranéennes.\nLe projet TO CARE MED étendra l'outil TCCL à d'autres destinations touristiques côtières, insulaires, rurales et naturelles protégées, en se concentrant sur deux aspects. Tout d'abord, l'outil TCCL sera adapté à chaque destination. Ensuite, il sera transféré à l'aide d'un « modèle de formation en cascade ». Cela permettra de transférer les méthodologies du niveau transnational à l'apprentissage et à la mise en œuvre au niveau local.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Transferring Tourism Carrying Capacity Tool TO CARE about Sustainability of MED ecotourism strategies, plans, products and services.",
+          "description": "The Tourism Carrying Capacity Limit (TCCL) tool developed in the ALTERECO project addresses the risk of overtourism and its impact on the natural and cultural heritage of Mediterranean destinations.\nThe TO CARE MED project will extend the TCCL tool to other coastal, island, rural and protected natural tourist destinations, focusing on two aspects. First, the TCCL tool will be adapted to each destination. Then, it will be transferred using a 'cascade training model'. This will bring methodologies from the transnational level to local learning and implementation.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Promote tourism stakeholders' understanding of what sustainability means in ecotourism and how the exploitation of ecosystem services must be balanced with the conservation of nature and biodiversity while ensuring the well-being of the community and tourists. It is not certain that ecotourism is sustainable, there is an environmental carrying capacity that must be understood, analyzed, and constantly monitored. This requires a collaborative effort between the different subjects who together build the ecotourism offer, and this also represents the ambition of WP1 which intends to establish a working group on the destination that cooperates at both local and transnational levels.\nThe successful implementation of the ecotourism sustainability tourism activities as well as the alignment of stakeholders' understanding with the carrying capacity principles (approached and developed in WP1) pave the way to focusing on the optimization of the Tourism Carrying Capacity Limit (TCCL) tool (developed in previous ALTERECO projects) to transfer it to MED ecotourism destinations, while ensuring a personalized application to the pilot project areas. This implies that WP 2 aims to transfer the TCCL tool/model and to orient the organization of tourism subsystems (catering, accommodation, attractions, mobility) and therefore allow the dynamic and strategic alignment of the territory's offers with the results of the analysis of tourist flows carrying capacity, in ecotourism areas characterized by high levels of natural, cultural and biodiversity heritage. \nTo steer the uptake of solutions by jointly defining sustainable tourism strategies and action plans. The goal is to align ecotourism products and services with carrying capacity limits, ensuring environmental protection, sustainable development, and citizens' health while maximizing the exploitation of project results.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32766,
+      "acronym": "SHARE.MedWATER",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Harmonisation stratégique et amélioration des ressources en Méditerranée: promouvoir la gestion de l'eau et l'innovation grâce aux ressources non conventionnelles.",
+          "description": "La rareté de l'eau en Euro-MED s'aggrave sous l'effet du changement climatique, des sécheresses prolongées et de la croissance des secteurs agricole, touristique et urbain. SHARE.MedWATER répond à ce défi en intégrant des sources d'eau non conventionnelles (de pluie, grises, usées) dans des modèles de stockage, traitement, réutilisation et gestion conjointe, en zone agricole dans 7 pays EU (CY, IT, ES, AL, GR, FR, MT).\nGrâce à une approche transfrontalière et interrégionale, le projet développe des solutions évolutives de réutilisation de l’eau aux divers niveaux (communautaire/ territorial). Il s’appuie sur les modèles de communautés énergétiques pour définir et tester la SHARE.water community, un cadre de gestion coopératif de l’eau. Ce modèle est ensuite étendu au niveau territorial, en évaluant sa faisabilité hydro-économique et son impact sur le stress hydrique.\nSHARE.MedWATER comble les lacunes réglementaires, en élargissant le champ du Règlement UE 2020/741 à l’eau de pluie et aux eaux grises, en accord avec la Directive UE 2024/3019. Il renforce les liens entre la gestion locale et territoriale de l’eau et développe un Système d'Aide à la Décision (DSS) permettant aux décideurs d’optimiser la réutilisation des eaux non conventionnelles en tenant compte des facteurs économiques, environnementaux et sociaux.\nLe projet suit une approche structurée: il collecte des données et implique les parties prenantes (WP1-STUDY), puis met en œuvre sept projets pilotes communautaires et deux applications territoriales dans 6 pays méditerranéens (WP2-TEST). Enfin, il applique le DSS pour la prise de décision et en concevant des activités de renforcement des capacités pour garantir leur adoption (WP3-TRANSFER).\nEn favorisant une \"transition hydrique\", SHARE.MedWATER propose des solutions résilientes et transférables, alignées sur les politiques UE et les cadres de coopération régionale, assurant une gestion durable de l’eau en Méditerranée.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Strategic Harmonization and Resource Enhancement in the MEDiterranean: Advancing Water Management and Innovation through Non-Conventional Resources.",
+          "description": "SHARE.MedWATER delivers scalable solutions to reuse rainwater, greywater, and treated wastewater in rural and island regions across seven Mediterranean countries. \n\nIt sets up community-level pilots where rainwater is harvested to irrigate crops, greywater from homes is reused for toilet flushing, and treated wastewater supports green spaces. At district level, two large-scale demos coordinate water reuse across agriculture, tourism, and urban services.\n\nInspired by energy-sharing models, SHARE.MedWATER builds a framework for managing and distributing non-conventional water sources collectively. A decision-support tool helps authorities weigh costs, environmental impact, and user needs. Through transnational cooperation, it aims to reduce dependence on freshwater, strengthen climate resilience, and support EU and regional water strategies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Creation of a community of knowledge that the project will build upon, harmonising transferable and adoptable solutions and approaches during the project lifespan by distinguishing targeted SHs acting as “receivers”- replicators. WP Leader: ENEA.\nImplement sustainable water reuse systems in 7 pilot sites across GR, CY, AL, IT, ES, MT, and FR, demonstrating water efficiency and improving community resilience, leading to increased water availability and reduced scarcity.\nWP Leader: CUEIM.\nEstablish a scalable, community-driven water reuse model that integrates alternative water sources into district-level water management systems, enhancing water efficiency, resilience and cross-sector cooperation.\nWP Leaders: ANETEL/ CUEIM.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32765,
+      "acronym": "RECONNECT",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": "Artisanat créatif pour une symbiose industrielle dans les secteurs de l'économie bleue - RECONNECT",
+          "description": "RECONNECT vise à stimuler l'économie circulaire en Méditerranée en réutilisant les déchets de la pêche et de l'aquaculture pour créer des produits biosourcés de valeur. Il encourage la collaboration entre les industries, les entreprises artisanales et les communautés en utilisant des technologies innovantes et des modèles commerciaux durables. Le projet met en évidence le rôle de l'artisanat dans la mise en œuvre d'approches créatives et sociales de la circularité. Il soutient la coopération entre des secteurs qui interagissent rarement, au bénéfice des grandes industries comme des petites entreprises. RECONNECT testera ses outils auprès de 130 PME et créera des réseaux et des ressources pour garantir un impact à long terme sur les pratiques durables de l'économie bleue.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Creative craft for industrial symbiosis in blue-economy sectors - RECONNECT",
+          "description": "RECONNECT aims to boost the circular economy in the Mediterranean by reusing waste from fisheries and aquaculture to create valuable bio-based products. It promotes collaboration between industries, craft-based businesses, and communities using innovative technology and sustainable business models. The project highlights the role of crafts in driving creative and social approaches to circularity. It supports cooperation between sectors that rarely interact, benefiting both large industries and small firms. RECONNECT will test its tools with 130 SMEs and create networks and resources to ensure long-term impact in sustainable blue economy practices.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "WP1 establishes the foundation of the RECONNECT project, focusing on laying the groundwork for subsequent activities. This work package involves several key preparatory activities designed to ensure a robust and well-informed start to the project. It includes creating comprehensive regional reports that map the current state of industrial symbiosis and circularity, developing an open innovation methodology for clustering within fisheries, aquaculture (including algae/micro-algae-based activities), and conducting thorough stakeholder mapping. To complete the toolkit, an AI-based tool to assess SMEs capabilities and create collaborations will be finalised for testing. Additionally, WP1 organizes study visits and experience exchange programs to foster knowledge transfer and capacity building. If applicable, the specifications for an open call to recruit firms will be defined, ensuring a transparent and inclusive engagement process. COORDINATOR: PP8 UNIRI\nWP2 focuses on the practical application and testing of the toolkit composed by OI methodologies and the AI-based tool developed in WP1. This work package is dedicated to piloting innovative approaches through the recruitment of firms and the establishment of innovation brokerage units. These units will be piloted both transnational by sector and intersectorally, fostering cross-border and cross-sector collaborations. SMEs from fishery (Pilot n.1) and aquaculture (Pilot n.2) sectors from all project areas will be assessed for innovation needs and to identify potential re-use of residues from their or others production processes. The results of the assessment will be matched with existing solutions, creating further synergies and opportunities of transectoral collaborations.\nThe activities in WP2 aim to demonstrate the feasibility and effectiveness of the proposed solutions in real-world settings, providing valuable insights and refinements for scaling up. \nWP2 Coord: PP5 KINNO\n\nWP3 is centered on ensuring the sustainability and broader impact of the project’s outcomes. This work package focuses on transferring the knowledge and best practices developed during the project to a wider audience, enhancing the resilience of the participating sectors, and capitalizing on the project’s successes. It sees the development of guidelines to help SMEs navigate symbiotic systems by integrating open innovation practices and providing consulting services to SMEs to help them adapt and consolidate their positions within symbiotic ecosystems. Additionally,  the creation of a position paper outlining transition pathways through open innovation will summarise lesson learnt, future trends, etc to be endorsed by public authorities for the follow-up activities. WP3 aims to ensure that the benefits of the project extend beyond its duration, promoting long-term sustainability and growth in the Mediterranean blue-economy sectors.\nWP3 coordinator: PP2 CCIAADL  ",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 32764,
+      "acronym": "RENFORCE",
+      "programme": {
+        "id": 377,
+        "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": "Dans les régions méditerranéennes touchées par les incendies et les tempêtes, RENFORCE fait passer la gestion forestière de la réaction à la prévention. En d'autres termes, le projet développe des outils pratiques pour réduire les risques avant que la catastrophe ne frappe.\nIl met en place des plans de prévention participatifs dans des zones pilotes, combinant les connaissances locales et la science forestière. Sur le terrain, cela se traduit par la cartographie des zones à haut risque, la gestion de la végétation pour qu'elle serve de coupe-feu naturel et l'application de stratégies de plantation résistantes aux tempêtes.\nRENFORCE élabore également des protocoles communs au-delà des frontières afin d'anticiper les dégâts. Il fournit des outils d'aide à la décision aux autorités publiques, des programmes de formation aux propriétaires fonciers et une stratégie commune visant à intégrer la réduction des risques dans la planification forestière.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Resilience ENhancing to adapt FORests to Climate change Effects and to prevent biotic and abiotic hazard",
+          "description": "In Mediterranean regions hit by wildfires and windstorms, RENFORCE shifts forest management from reaction to prevention. In other words, the project develops practical tools to cut risks before disaster strikes.\nIt sets up participatory prevention plans in pilot zones, combining local knowledge with forestry science. On the ground, this means mapping high-risk areas, managing vegetation to act as natural firebreaks, and applying storm-resistant planting strategies.\nRENFORCE also builds common protocols across borders to anticipate damage. It delivers decision-making tools for public authorities, training programmes for landowners, and a shared strategy to embed risk reduction into forest planning.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "To develop sustainable strategies for wildfires and windstorm risk reduction by multifunctional planning of vegetation on the ground, with particular regard to climate change, in collaboration with bodies in charge with the management and monitoring of forest ecosystem. \nTo test solutions increasing the resilience of forests to sudden disturbances and climate change by testing integrated forest operations and strengthening the transnational research and innovation synergy to manage forests affected by potential diseases boosted by global warming, integrating transnational research and innovation in forest management strategies. \nTo increase the institutional capacities of local bodies and to inform policy dialogue and strategic engagement of local actors on forest management to safeguard forest areas from abiotic disturbances.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 855,
+    "partners": 647,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    32769,
+    32768,
+    32767,
+    32766,
+    32765,
+    32764,
+    32763,
+    32762,
+    32761,
+    32760,
+    32759,
+    31598,
+    31597,
+    31596,
+    31595,
+    31594,
+    31593,
+    31592,
+    31591,
+    31590,
+    31589,
+    31588,
+    31587,
+    31586,
+    31585,
+    30105,
+    30104,
+    30103,
+    30102,
+    30101,
+    29256,
+    29255,
+    29254,
+    29253,
+    29252,
+    29251,
+    29250,
+    29249,
+    29248,
+    29247,
+    29246,
+    29245,
+    29244,
+    29243,
+    29242,
+    29241,
+    29240,
+    29239,
+    29238,
+    29237,
+    29236,
+    29235,
+    29234,
+    29233,
+    29232,
+    29231,
+    29230,
+    29229,
+    29228,
+    29227,
+    29226,
+    29225,
+    29224,
+    29223,
+    29222,
+    29221,
+    29220,
+    29219,
+    29218,
+    29217,
+    29216,
+    29215,
+    29214,
+    29213,
+    29212,
+    29211,
+    29210,
+    29209,
+    28812,
+    28811,
+    28810,
+    27712,
+    27711,
+    27710,
+    27709,
+    27708,
+    27707,
+    27706,
+    27705
+  ]
+}

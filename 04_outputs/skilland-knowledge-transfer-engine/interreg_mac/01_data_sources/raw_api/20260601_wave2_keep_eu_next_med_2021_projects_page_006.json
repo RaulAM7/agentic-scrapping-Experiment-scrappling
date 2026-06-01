@@ -1,0 +1,286 @@
+{
+  "current": 6,
+  "next": "https://keep.eu/api/search/projects/?page=7",
+  "previous": "https://keep.eu/api/search/projects/?page=5",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33241,
+      "acronym": "CERES~A_T_1.2_0072",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Centers of Excellence for Resilient Entrepreneurship and Sustainable Solutions",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 023. Skills development for smart specialisation, industrial transition, entrepreneurship and adaptability of enterprises to change\n~\nSUMMARY: CERES objective is to establish Centers of Excellence (CoEs) in three project partner areas, in Greece, Palestine and Lebanon. CoEs will serve as innovation hubs, offering state-of-the-art training, fostering entrepreneurship and employment. Establishment of the CοEs will enable entrepreneurs, MSMEs, researchers, and graduates to receive interdisciplinary training from international teams of experts and obtain sufficient mentoring and technical support.The objective of the CoEs is to provide targeted capacity building that develops the skills and competencies required to meet the evolving needs of the market, especially in green and digital transition technologies. The Research Institutions (LP, P3) will develop small, flexible, online and/or physical presence courses offering cutting-edge knowledge in a specialised subject accompanied by practical experience as well for integrated support and networking to scale-up their project ideas. Practical knowledge will gain by the establishment and operation of Living Labs on smart and resilient energy solutions (WP3) with the support additionally of P1,P2,P5, for the business development of project ideas, as well as the configuration of the pilot projects (P3,WP4) to be developed by the project. Pilots will be based on different application technologies; they will embed an open-source management and supervisory system and collaborative platform, and they will be developed to be cost-effective, green and resilient (WP5). All partners will collaborate for the development of the pilot projects combining their expertise and offering a mix of state-of-the-art technology together with practical training and problem solving. WP6, clustering promotion, networking and a virtual collaborative platform and business model will ensure the sustainability of the outputs. Important aspect of CERES will be the effort to follow the NEB principles in planning and implementing the pilot projects, towards aesthetics, inclusivity, sustainabil\n~\nKEEP KEYWORDS: Education and training, Knowledge and technology transfer, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Sustainable growth and competitiveness of MSMEs through the support of young graduates, innovative start-ups and enterprises to achieve the twin transition in the green and digital economy through the establishment of CoE-Centers of Excellence in already existing structures and ground programmes.\n~\nEXPECTED RESULT: Enhanced capacity-building of young graduates, newly established MSMEs in the energy sector to formulate new businesses (spin-offs) or to improve their capacities for the existing ones. Provide innovative solutions to emergent energy related projects with high visibility and impact for locals\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Strengthen and support networks, clusters, consortia and value-chain in the energy sector to closer collaboration and improve competencies with real  transnational cooperation and knowledge exchange.Promote sustainability towards the twin transition in green and digital sectors following SDG&NEB.\n~\nEXPECTED RESULT: Promote transnational cooperation and  networking through energy clustering initiation, living lab development for start-ups and spin-offs take-off. Support the development of 2 clusters on energy for internationalisation, exchange of experiences and encourage NEB and SDG principles adoption.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Strengthen and support networks, clusters, consortia and value-chain in the energy sector to closer collaboration and improve competencies with real  transnational cooperation and knowledge exchange.Promote sustainability towards the twin transition in green and digital sectors following SDG&NEB.\n~\nEXPECTED RESULT: Promote transnational cooperation and  networking through energy clustering initiation, living lab development for start-ups and spin-offs take-off. Support the development of 2 clusters on energy for internationalisation, exchange of experiences and encourage NEB and SDG principles adoption.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Sustainable growth and competitiveness of MSMEs through the support of young graduates, innovative start-ups and enterprises to achieve the twin transition in the green and digital economy through the establishment of CoE-Centers of Excellence in already existing structures and ground programmes.\n~\nEXPECTED RESULT: Enhanced capacity-building of young graduates, newly established MSMEs in the energy sector to formulate new businesses (spin-offs) or to improve their capacities for the existing ones. Provide innovative solutions to emergent energy related projects with high visibility and impact for locals",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33240,
+      "acronym": "MEDinCHAMBERS~A_G_4.1_...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "CROSS-BORDER CHAMBERS' NEW SERVICES as driver FOR SUSTAINABLE FAIR TRADE OF TEXTILE INDUSTRY ACROSS MEDITERRANEAN",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: The MEDinCHAMBERS project aims to enhance the cross-border governance model in the textile value chains in Italy, Spain, Tunisia, Egypt, and Turkey. The partner institutions have different organizations, diverse and not always shared information, independent operating procedures, and non-integrated tools. Therefore, it is necessary to take governance actions to structure a network of knowledge and establish lasting relationships, so that collaboration and support are effectively possible and mutual cooperation between the EU and MPC chambers of commerce, as already provided for by agreements in force at national and regional levels.\nThe goal is to build a shared common knowledge framework (hubs&detector) of the rules, risks, focusing on those linked to textile sector needs and constraints, resources, and to create a cross-border operational team (MEDinCHAMBERS) composed of several bilateral chambers of commerce in the Med area. It is important to note that the textile sector is export-oriented, with the European Union being the main destination market. Therefore, compliance with the new EU Strategy for Sustainable and Circular Textiles and recognizing the importance of the textiles sector, along with the urgent need for new sustainable and environmental approaches, the main goal is to promote a more circular, energy-saving, and sustainable textile sector in Italy, Spain, Egypt, Tunisia, and Turkey, by providing tailored support services and creating a cross-border alliance.\n~\nKEEP KEYWORDS: Governance, partnership, Innovation capacity and awareness-raising, New products and services",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Develop and implement common tools that can contribute to the design of transnational initiatives as well as to the delivery of innovative private-public services that support to the TCLF sector to promote its green transition, according to sustainability and circular economy principles\n~\nEXPECTED RESULT: Enhanced access to cross-border service for  TCLF MSMEs with information and resources on sustainable practices, promoting eco-friendly technologies, and facilitating networking opportunities\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Develop and implement common tools that can contribute to the design of transnational initiatives as well as to the delivery of innovative private-public services that support to the TCLF sector to promote its green transition, according to sustainability and circular economy principles\n~\nEXPECTED RESULT: Enhanced access to cross-border service for  TCLF MSMEs with information and resources on sustainable practices, promoting eco-friendly technologies, and facilitating networking opportunities\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Ensure project’s sustainability, through the creation of local ecosystems and alliances whose action will be kept in function also after project’s ending\n~\nEXPECTED RESULT: Creating local and transnational sustainable ecosystems that will support the growth of the TCLF sector beyond its completion. This support will involve establishing partnerships between TCLF MSMEs, industry stakeholders, and academic institutions.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 23,
+          "title": "New products and services"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33239,
+      "acronym": "CLOSER~A_G_4.1_0087",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Connecting LOcal proximity networks Sustaining participatory govERnance",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: The need to reinforce social serivices and social rights in the MED area is urgent and particularly relevant in rural/remote/peripheral areas, increasingly suffering from depopulation and aging, often lacking of basic services’ provision or where the access to them is most difficult, leaving the population more exposed against both systemic shocks and ordinary life-cycle risks (ILO, 2022). \nCLOSER aims to promote joint actions in the Mediterranean for the promotion of participatory governance at local and regional level, by: a) the creation of territorial “proximity networks” in Italy, Spain, Greece, Palestine, Jordan and Lebanon engaging local social actors – alongside with the public authorities - as relevant stakeholders that often fill the gap in the existing public service’ provision; and b) their capacity building in becoming facilitators of participatory processes of local governance for the co-design and delivery of social services aimed at improving the wellbeing of the population.\nThe trained local networks will jointly develop a strategical model of participatory governance that will be piloted in each of the 6 participating regions, for the provision of co-design bottom-up social services with a higher level of respondence to real needs of the involved contexts, thanks to the participation of all concerned actors and a consequent closeness of the delivered services to the individuals to whom they are directed. Participatory governance facilitates cooperation between stakeholders, transparency of institutional processes, direct engagement of the local population with a consequent higher co-responsibility and ownership of the decision-processes and sense of belonging, more effective and inclusive services’ delivery and improved territorial cohesion. The final goal is to connect and build the capacity of these networks in jointly designing solutions to provide social services, planned and delivered through participatory models of governance.\n~\nKEEP KEYWORDS: Governance, partnership, Institutional cooperation and cooperation networks",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Create local and cross-borders networks between public authorities, third sector organisations and other stakeholders involved in the governance of the social sector, for  promoting cooperation and building their capacity in becoming facilitators of participatory  processes of local governance\n~\nEXPECTED RESULT: At least 6 territorial proximity networks (1/country) created and connected in 1 cross-border network, with the participation of at least 30 public and private organisations cooperating across borders and at least 60 stakeholders trained in participatory local governance.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Create local and cross-borders networks between public authorities, third sector organisations and other stakeholders involved in the governance of the social sector, for  promoting cooperation and building their capacity in becoming facilitators of participatory  processes of local governance\n~\nEXPECTED RESULT: At least 6 territorial proximity networks (1/country) created and connected in 1 cross-border network, with the participation of at least 30 public and private organisations cooperating across borders and at least 60 stakeholders trained in participatory local governance.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Develop and implement a joint model of participatory governance based on the cooperation of territorial proximity networks at local and cross-border level, for the co-design and provision of social services for improving the wellbeing of the local population.\n~\nEXPECTED RESULT: 1 strategical model of participatory governance developed at EuroMed level, taken up and transposed in 6 local piloting actions (1/country) for the delivery of 1 co-designed social service per country aimed at improving the wellbeing of the population in remote, peripheral or less-served areas.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Develop and implement a joint model of participatory governance based on the cooperation of territorial proximity networks at local and cross-border level, for the co-design and provision of social services for improving the wellbeing of the local population.\n~\nEXPECTED RESULT: 1 strategical model of participatory governance developed at EuroMed level, taken up and transposed in 6 local piloting actions (1/country) for the delivery of 1 co-designed social service per country aimed at improving the wellbeing of the population in remote, peripheral or less-served areas.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33238,
+      "acronym": "DigitalLife4ALL~A_T_3....",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "DigitalLife4ALL: An Adult & Lifelong Learning initiative to enhance the digital skills & smart competencies of Seniors, Older Adults, People with Disabilities & Persons in Vulnerable Social Groups ...",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 145. Support for the development of digital skills\n~\nSUMMARY: DigitalLife4ALL’s aim is to build a synergetic network of Digital Skill Hubs across all participating regions. The Hubs’ task: to continuously foster learning in modern digital skills & competencies in all citizens, especially targeting vulnerable social groups.\nOur Hubs will be designed to address common challenges observed both empirically & through research in partner regions: drastic lack of digital skills in seniors, older adults, people with disabilities & vulnerable groups, discomfort using digital tools offered in modern society, lack of safety against a plethora of digital threats. The Digital Era is advancing, but it’s leaving parts of our society behind, especially the already disadvantaged.\nThis is the exact problem we set out to tackle: to build resilient infrastructure to teach digital skills & competencies to local communities, especially to vulnerable persons with respect to their sensitivities, to allow citizens of all social strata to use modern digital tools & services efficiently & safely. To augment their quality of life & enhance employability and to continuously support our common journey towards a Smart Mediterranean, leaving no-one behind.\nAll this will take place by creating self-sufficient Digital Hubs and a unified Digital Education Curriculum, to be taught in Hubs continuously, both physically & digitally to maximize our reach.Our aim is to construct a network, a Community of Practice set towards strengthening Digital Skills in our societies, that will continuously, effectively disseminate modern Digital Competencies to citizens, stakeholders & policymakers. Through informal training & teaching cycles, community engagement & events, DigitalLife4ALL seeks to create a constant place of digital literacy in every country: a place that will always support smart expertise for beneficiaries & support horizontal digital learning in all social groups, be it adults, seniors, the disabled or socially-vulnerable, as we navigate the new Digital Era.\n~\nKEEP KEYWORDS: Education and training, ICT and digital society, Social inclusion and equal opportunities",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop continuously-available infrastructure for digi-physical learning on Digital Skills to empower the disadvantaged (people with disabilities, seniors, older adults & the socially-vulnerable) in digital competencies, safety & equal participation in modern socioeconomic life. (tackling A4.2.2)\n~\nEXPECTED RESULT: Enhanced digital skills, competencies & digital safety for citizens & particularly members of disadvantaged groups in partnership regions, continuous availability of modern, updated digital learning classes created through transnational efforts & decreased digital exclusion in regional populations.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop continuously-available infrastructure for digi-physical learning on Digital Skills to empower the disadvantaged (people with disabilities, seniors, older adults & the socially-vulnerable) in digital competencies, safety & equal participation in modern socioeconomic life. (tackling A4.2.2)\n~\nEXPECTED RESULT: Enhanced digital skills, competencies & digital safety for citizens & particularly members of disadvantaged groups in partnership regions, continuous availability of modern, updated digital learning classes created through transnational efforts & decreased digital exclusion in regional populations.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To develop continuously-available infrastructure for digi-physical learning on Digital Skills to empower the disadvantaged (people with disabilities, seniors, older adults & the socially-vulnerable) in digital competencies, safety & equal participation in modern socioeconomic life. (tackling A4.2.2)\n~\nEXPECTED RESULT: Enhanced digital skills, competencies & digital safety for citizens & particularly members of disadvantaged groups in partnership regions, continuous availability of modern, updated digital learning classes created through transnational efforts & decreased digital exclusion in regional populations.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To promote & support Diversity, Equality & Inclusion in the regional business ecosystem & exchange best practices between citizens & enterprises and boost employability & networking opportunities for disadvantaged social groups (tackling A4.2.3).\n~\nEXPECTED RESULT: Augmented dissemination & support of DEI practices in regional businesses, increased awareness of DEI in regional populations, heightened employability, networking & knowledge of the business ecosystem for regional populations and particularly disadvantaged groups.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33237,
+      "acronym": "JADEITE~A_G_4.1_0270",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Just and Green Transition through Participatory Governance",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: The overall objective of the JADEITE project is improve socio-environmental well-being in the Next Med programme area, through strengthened participatory governance processes. JADEITE works towards effective and impactful public policies and services supporting a just green transition.\nParticipatory governance refers to democratic mechanisms to involve stakeholders and citizens in public policy-making. In the Med area, such processes require testing, consolidation and integration into policy contexts. The concept is familiar, but processes are often unstructured and institutional capacity is often missing. Active engagement may not be a priority for people struggling with pressing socio-economic issues. Moreover, participatory processes must use opportunities that digital tools offer to reach previously unheard voices.\nPublic services to support the Green Transition represent an opportunity to test participatory governance process, addressing these challenges and helping to ensure that the transition is just and leaves nobody behind.\nJADEITE involves partners from 5 countries, supported by a group of crucial associate partners, to map, test and consolidate participatory governance processes. The JADEITE Tool Kit will contain guidelines for offline methods and an online citizen-led, Challenge Mapping tool transferred from a previously funded Interreg Project. Territorial analysis and comprehensive research flank project activities.\nContributing to the New Agenda for the Mediterranean, SDG 17, Green Deal targets and various local policies, JADEITE will increase multi-level capacity to design, implement, monitor and build on participatory governance processes at territorial level, including steps forward towards a just green transition. Results will benefit public authorities, stakeholders but also individuals JADEITE territories. They will be integrated into local policy documents and international cooperation will be consolidated in a formal network.\n~\nKEEP KEYWORDS: Governance, partnership",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Share, adapt and implement common, innovative tools for participatory governance processes across the policy cycle, to design and deliver better public services that support a just green transition at territorial level.\n~\nEXPECTED RESULT: Increased multi-level capacity (among public authorities and key stakeholders) to design, implement, monitor and build on participatory governance processes at territorial level, including specific focus on a just transition.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Share, adapt and implement common, innovative tools for participatory governance processes across the policy cycle, to design and deliver better public services that support a just green transition at territorial level.\n~\nEXPECTED RESULT: Increased multi-level capacity (among public authorities and key stakeholders) to design, implement, monitor and build on participatory governance processes at territorial level, including specific focus on a just transition.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Share, adapt and implement common, innovative tools for participatory governance processes across the policy cycle, to design and deliver better public services that support a just green transition at territorial level.\n~\nEXPECTED RESULT: Increased multi-level capacity (among public authorities and key stakeholders) to design, implement, monitor and build on participatory governance processes at territorial level, including specific focus on a just transition.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33236,
+      "acronym": "CLUSTERATLAS4MED~A_T_1...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "CLUSTER for a dATa driven ruraL sustAinable touriSm for MEDiterranean SMEs",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 026. Support for innovation clusters including between businesses, research organisations and public authorities and business networks primarily benefiting SMEs\n~\nSUMMARY: CLUSTERATLAS4Med is the Mediterranean meta-cluster for rural tourism. Following a hub-and-Spoke model, ATLAS4MED will boost the competitiveness of tourism SMEs in rural areas through better and bespoke services useful to address the challenges of the digital and green transition, fostering interconnections among the relevant stakeholders of the quadruple-helix in the Mediterranean area.\nFor Ancient Greeks, Atlas was a giant so strong to carry the weight of the world on his shoulders. In Berber culture, Atlas refers to the main mountain range of North Africa. In Latin, the Atlas has come to mean book of maps. Atlas can thus be associated with meanings such as \"strength\", \"support\" and \"orientation\", reflecting the ATLAS4Med meta-cluster’s objective of developing a strategic approach to guide rural tourism actors across the NEXT MED area toward more sustainable growth. \nThe main novelty of our project will be the creation of a strategic trans-Mediterranean meta-cluster that will specifically support rural tourism, instead of tourism in general. Rural tourism can play a leading role for the sustainable growth of rural areas but it needs a different approach. Rural SMEs are, on average, less innovative and digitalised. This can prevent them from grasping the benefits of the global markets. Our trans-regional meta-cluster, closely aligned with the Eurocluster Rural Tourism funded under the Single Market Programme, will create synergies among the different actors and territories to sustain the long term growth of rural tourism while addressing the twin transition. The target groups to be involved are: R&D Organisations, VET providers, public administrations, Chambers of Commerce, Business organisations and rural associations.\n8 full partners and 6 associated partners from 7 NextMED countries will work together to capitalise and share their experiences gained through other EU-funded projects and to create a new and durable trans-mediterranean cluster.\n~\nKEEP KEYWORDS: Clustering and economic cooperation, SME and entrepreneurship, Tourism",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Development and promotion of the ATLAS4MED trans mediterranean cluster to foster new and more sustainable businesses and professional opportunities in rural tourism\n~\nEXPECTED RESULT: Definition and launch of the ATLAS Meta-Cluster to Support the Mediterranean Rural Tourism through enhanced digital and international networking capacities\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Development and promotion of the ATLAS4MED trans mediterranean cluster to foster new and more sustainable businesses and professional opportunities in rural tourism\n~\nEXPECTED RESULT: Definition and launch of the ATLAS Meta-Cluster to Support the Mediterranean Rural Tourism through enhanced digital and international networking capacities\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Promoting the digital transformation of rural tourism SMEs to enhance digital and data analysis skills and foster international networking capacities to promote innovation and competitiveness\n~\nEXPECTED RESULT: Launch of the joint developed ATLAS-Cluster Platform that will promote innovation and digitalisation of SMEs operating in rural tourism for a more competitive, inclusive and sustainable tourism development of the NEXT MED area\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Development and promotion of the ATLAS4MED trans mediterranean cluster to foster new and more sustainable businesses and professional opportunities in rural tourism\n~\nEXPECTED RESULT: Definition and launch of the ATLAS Meta-Cluster to Support the Mediterranean Rural Tourism through enhanced digital and international networking capacities",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

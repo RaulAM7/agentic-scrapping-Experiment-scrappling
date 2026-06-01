@@ -1,0 +1,382 @@
+{
+  "current": 10,
+  "next": "https://keep.eu/api/search/projects/?page=11",
+  "previous": "https://keep.eu/api/search/projects/?page=9",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23601,
+      "acronym": "APOGEO",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PRECISION AGRICULTURE FOR THE IMPROVEMENT OF WINE PRODUCTION IN MACARONESIA",
+          "description": "Apogeo is based on the application of precision farming techniques as a clear commitment to the intelligent and sustainable cultivation of vineyards, facilitating the optimisation of resources. Apogeo focuses on obtaining as much information as possible from the vineyards, so that it can be known in detail their state (monitoring the physico-chemical properties of the soil and plants), predict their evolution (obtaining information in real time through various sensors) and take the appropriate measures in each particular situation. Low-cost services and technologies will be developed to be introduced in wine-growing companies, allowing continuous monitoring of the health status of the vineyards. Autonomous drones, spectral sensors, and advanced equipment for land, water and biofertiliser analysis will play a key role in this initiative that will be complemented by a training program for current and future winegrowers.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "AGRICULTURA DE PRECISIÓN PARA LA MEJORA DE LA PRODUCCIÓN VITÍCOLA EN LA MACARONESIA",
+          "description": "APOGEO se sustenta en la aplicación de técnicas de agricultura de precisión como una apuesta clara por el cultivo inteligente y sostenible de los viñedos, facilitando la optimización de los recursos. APOGEO se centra en obtener la mayor cantidad de información posible de los viñedos, de forma que se pueda conocer al detalle su estado (monitorizando las propiedades físico-químicas del suelo y plantas), predecir su evolución (obteniendo información en tiempo real a través de diversos sensores) y tomar las medidas adecuadas en cada situación particular. Se desarrollarán servicios y tecnologías de bajo coste para ser introducidas en las empresas vitícolas, permitiendo monitorizar de forma continuada el estado de salud de los viñedos. Drones autónomos, sensores espectrales, y equipamiento avanzado para el análisis de tierras, aguas y biofertilizantes jugarán un papel clave en esta iniciativa que se verá complementada con un programa de formación para los actuales y futuros viticultores.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23600,
+      "acronym": "MACLAB-PV",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "IMPROVEMENT OF R & D & I CAPACITIES AND INFRASTRUCTURE IN THE SECTOR OF RENEWABLE ENERGY AND ENERGY EFFICIENCY IN THE CANARY ISLANDS AND SENEGAL",
+          "description": "MacLab-PV aims to promote the excellence and applicability of the scientific and technological activity of the Canary Islands and Senegal in the Renewable Energy and Energy Efficiency sector through the implementation of new lines of R & D, the optimisation and creation of scientific infrastructures, the strengthening of the capacities of human capital, technological transfer and awareness. Two R & D & I laboratories of reference in Renewable Energies will be strengthened and optimised technologically and two new R&D&I Field Laboratories on Energy Efficiency will be created. Didactic laboratories on these technologies will be designed and manufactured. In parallel, training actions, promoting mobility and transferring R & D & I results, scientific advice to authorities and companies and a public awareness campaign will be carried out.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "MEJORA DE CAPACIDADES E INFRAESTRUCTURAS DE I+D+I EN EL SECTOR DE LAS ENERGÍAS RENOVABLES Y LA EFICIENCIA ENERGÉTICA DE CANARIAS Y SENEGAL",
+          "description": "MACLAB-PV pretende fomentar la excelencia y aplicabilidad de la actividad científica y tecnológica de Canarias y Senegal en el sector de las Energías Renovables y la Eficiencia Energética mediante la puesta en marcha de nuevas líneas de I+D, la optimización y creación de infraestructuras científicas, el fortalecimiento de las capacidades del capital humano, la transferencia tecnológica y la sensibilización. Se fortalecerán y optimizarán tecnológicamente dos Laboratorios de I+D+i de referencia en Energías Renovables y se crearán dos nuevos Laboratorios de I+D+i de campo sobre Eficiencia Energética. Se diseñarán y fabricarán Laboratorios didácticos sobre estas tecnologías. Paralelamente, se realizarán acciones de capacitación, fomento de la movilidad y trasferencia de resultados de I+D+i, asesoramiento científico a autoridades y empresas y una campaña de sensibilización pública.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23599,
+      "acronym": "INTERTAGUA",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "INTERACTIVE AQUATIC INTERFACES FOR THE DETECTION AND VISUALISATION OF MARINE ATLANTIC MEGA FAUNA AND VESSELS IN MACARONESIA USING RADIO TRANSMITTER MARKERS",
+          "description": "The INTERTAGUA project aims to research, develop and test innovative computer technologies to foster the social and economic potential of the Macaronesian oceans and coastal areas. This objective is pursued through the application of sensor, communication and monitoring technologies to enable conscious, voluntary and informed citizen participation in collaborative scientific activities in the field of blue economy. The project is distinguished by incorporating biodiversity and the hundreds of species that live in these regions or migrate to the limits of the Atlantic. The potential of living systems to use low-cost emerging technologies to monitor ecosystems must be explored. The project is based on the symbiotic development between cyber-physical and ecological systems that seek to transform Macaronesia into a unique laboratory for collaboration in the area of biodiversity, climate change, engineering and design.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "INTERFACES ACUÁTICAS INTERACTIVAS PARA LA DETECCIÓN Y VISUALIZACIÓN DE LA MEGA FAUNA MARINA ATLÁNTICA Y EMBARCACIONES EN LA MACARONESIA USANDO MARCADORES RADIOTRANSMISORES",
+          "description": "El proyecto INTERTAGUA tiene como objetivo investigar, desarrollar y probar tecnologías informáticas innovadoras para fomentar el potencial social y económico de los océanos macaronésicos y las zonas costeras. Este objetivo se persigue mediante la aplicación de tecnologías de sensores, comunicación y monitorización para permitir la participación ciudadana consciente, voluntaria e informada en actividades científicas de colaboración en el campo de la economía azul. El proyecto se distingue por incorporar la biodiversidad y los cientos de especies que viven en estas regiones o migran a los límites del Atlántico. Se debe explorar el potencial de los sistemas vivos para utilizar tecnologías emergentes de bajo coste para monitorear los ecosistemas. El proyecto se basa en el desarrollo simbiótico entre sistemas ciberfísicos y ecológicos que buscan transformar la Macaronesia en un laboratorio único para la colaboración en el área de biodiversidad, cambio climático, ingeniería y diseño.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23598,
+      "acronym": "PLASMAR+",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PROGRESS OF SUSTAINABLE MARINE AREA PLANNING IN MACARONESIA",
+          "description": "The actions of PLASMAR+, in support of the Management of Maritime Space (OEM) based on scientific knowledge and ecosystem approach, cover the whole Exclusive Economic Zone (EEZ) of the regions of Madeira, Azores and Canary Islands. \nIts actions include the support system for the Indimar decision (web application that integrates relevant and updated data that allows locating the most suitable areas for the development of the different economic activities) for the OEM with a total of 8 maritime activities (incorporation of floating offshore energy and recreational fishing). Indimar requires the improvement of data infrastructures to incorporate the new results, such as 6 new monitoring programs, and to support up to 4 specific applications, such as cumulative impact analysis and ecosystem services, or support to the Environmental Impact Assessment process. The BlueGrowth Index will inform sustainability trends and identify the sectors with the greatest potential.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "PROGRESO DE LA PLANIFICACIÓN SOSTENIBLE DE AREAS MARINAS EN MACARONESIA",
+          "description": "Las acciones de PLASMAR+, de apoyo a la Ordenación del Espacio Marítimo (OEM) basada en conocimiento científico y enfoque ecosistémico, abarcan el conjunto de la Zona Económica Exclusiva (ZEE) de las regiones de Madeira, Azores y Canarias.\nEntre sus actuaciones cabe destacar el sistema de soporte a la decisión INDIMAR (aplicación web que integra datos relevantes y actualizados que permiten localizar las áreas más adecuadas para el desarrollo de las distintas actividades económicas) para la OEM con un total de 8 actividades marítimas (incorporación de energía offshore flotante y pesca recreativa). INDIMAR requiere la mejora de las infraestructuras de datos para incorporar los nuevos resultados, como 6 nuevos programas de monitoreo, y para sostener hasta 4 aplicaciones concretas, como el análisis de impactos acumulativos y servicios ecosistémicos, o el apoyo al proceso de Evaluación de Impacto Ambiental. El BlueGrowth Index informará las tendencias de sostenibilidad e identificará los sectores con mayor potencial.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 21,
+          "title": "Regional planning and development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23597,
+      "acronym": "E5DES",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "RESEARCH AND INNOVATION TOWARDS EXCELLENCE IN TECHNOLOGICAL EFFICIENCY, USE OF RENEWABLE ENERGIES, EMERGING TECHNOLOGIES AND CIRCULAR ECONOMY IN DESALINATION",
+          "description": "E5DES presents 6 strategic lines of R & D & I in desalination and initiatives to carry out the roadmap that allows, in terms of desalination, to increase visibility, international recognition, turn the participating regions into a node of knowledge and innovation production and operate as an ideal geographical space for testing, verification and technological innovation. It is proposed to: \n\n1) Increase the international recognition of the R & D & I service brand and increase collaborations with other Research and Business Centers. \n\n2) Increase and concentrate the efforts of researchers on the production of innovative solutions of efficiency in desalination and direct use of renewable energies, circular economy in line with the priorities of the RIS3 and Blue-EU growth. \n \n3) Generate new knowledge and technological innovation in water quality and the water-energy nexus.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "INVESTIGACIÓN E INNOVACIÓN HACIA LA EXCELENCIA EN EFICIENCIA TECNOLÓGICA, USO DE ENERGÍAS RENOVABLES, TECNOLOGÍAS EMERGENTES Y ECONOMÍA CIRCULAR EN LA DESALACIÓN",
+          "description": "E5DES presenta 6 líneas estratégicas de I+D+i en desalación e iniciativas para llevar a cabo la hoja de ruta que permita, en materia de desalación, incrementarla la visibilidad, el reconocimiento internacional, convertir a las regiones participantes en nodo de producción de conocimiento e innovación y operar como espacio geográfico ideal para el ensayo, verificación e innovación tecnología. Se propone:\n\n1) Incrementar el reconocimiento internacional de la marca de servicios de I+D+i y aumentar las colaboraciones con otros Centros de Investigación y Empresas.\n\n2) Incrementar y concentrar el esfuerzo de los investigadores en la producción de soluciones innovadoras de eficiencia en desalación y de aprovechamiento directo de energías renovables, economía circular acorde a las prioridades de las RIS3 y Crecimiento Azul-UE.\n\n3) Generar nuevo conocimiento e innovación tecnológica en calidad de agua y el nexo agua-energía.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23596,
+      "acronym": "RASPA",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "ATLANTIC NETWORK FOR HEALTH SURVEILLANCE OF FISHERY AND AQUACULTURE PRODUCTS",
+          "description": "The RASPA project proposes the creation of a network for the health surveillance of fishery and aquaculture products in the Macaronesian macro-region (Madeira, Canary Islands, Mauritania and Senegal) that will help to increase the safety, health level and quality of the products that reach our markets. Through this proposal, it aims to value the research, technology and knowledge generated by the existing centers in the territory and enhance their capacities through networking to prevent, detect, control and, as far as possible, eliminate health threats with risk to human health. For this purpose, the project focuses on the study of the state of the art, the strengthening of capacities and knowledge, and the planning of the joint surveillance system, as well as the transfer of good practices to the fisheries and aquaculture sector contributing to raising the health quality of the products.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "RED ATLÁNTICA PARA LA VIGILANCIA SANITARIA DE LOS PRODUCTOS PESQUEROS Y ACUÍCOLAS",
+          "description": "El proyecto RASPA propone la creación de una red de vigilancia sanitaria de productos de la pesca y la acuicultura en la macroregión Macaronésica (Madeira, Canarias, Mauritania y Senegal) que ayude a incrementar la seguridad, el nivel sanitario y la calidad de los productos que llegan a nuestros mercados. A través de esta propuesta se persigue poner en valor la investigación, la tecnología y el conocimiento generado que desarrollan los centros existentes en el territorio y potenciar sus capacidades a través del trabajo en red para poder prevenir, detectar, controlar y en lo posible, eliminar, las amenazas sanitarias con riesgo para la salud humana. Para ello el proyecto se centra en el estudio del estado del arte, el refuerzo de capacidades y conocimiento, y la planificación del sistema de vigilancia conjunto, así como en la transferencia de buenas prácticas al sector pesquero y acuícola contribuyendo a elevar la calidad sanitaria de los productos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

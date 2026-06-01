@@ -1,0 +1,298 @@
+{
+  "current": 5,
+  "next": "https://keep.eu/api/search/projects/?page=6",
+  "previous": "https://keep.eu/api/search/projects/?page=4",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33247,
+      "acronym": "GREENOLIVE~A_T_2.1_0213",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Green Mediterranean through Solar Driven Decarbonization of Industries",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 041. Energy efficiency renovation of existing housing stock, demonstration projects and supporting measures\n~\nSUMMARY: The Mediterranean region faces a severe climate crisis and unemployment. The region, being blessed with abundant solar energy, must form effective international partnerships to promptly transit to greener, low-carbon and resilient economies. Industry contributes significantly to global warming of the region, which is estimated to be 20% higher than the rest of the world. Decarbonized and self-sufficient industries could promote sustainable development by alleviating unemployment rates. With 8 partners from Italy, Spain, France, Türkiye, Palestine and Egypt and 9 Associated partners, GREENOLIVE is committed to build a novel solar energy pilot partially addressing process heat of the plastics industry, which must undergo a deep energy transformation. The solar system will rely on 600 kWe PV system to provide heat at about 300°C through electric heaters using the Power to Heat (P2H) concept. Using P2H concept for process heat at 300°C is a novel approach. It is expected to decrease fossil fuel use in the plastics plant by 18-22%, through using solar energy efficiently. When solar energy is in excess, packed-bed thermal energy storage (TES), scaled-up based on previous EU project results, will store heat for periods when radiation is unavailable. Integrating TES in the system will avoid using expensive batteries and make it more energy efficient at lower cost. Locally available waste materials will be developed as TES materials. Low-cost and locally available components will be used in the system to deliver affordable clean energy and contribute to UN SDG7. The project will also prepare a replication plan for textiles and agri-products industries and the residential sector. The creation of GREENOLIVE Training Kit and white paper will optimize knowledge and skills transfer in solar energy systems and policy improvement, benefiting local industries, society, education, and engineering companies.\n~\nKEEP KEYWORDS: Energy efficiency, Green technologies, Renewable energy",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To implement pilot plant in industry and demonstrate technical, financial, and environmental benefits of energy-efficient solar energy use at around 300 C.\n~\nEXPECTED RESULT: Up-scaled solar energy system to provide process heat conserving 18-22% fossil fuel, decreasing greenhouse gas emissions and increasing energy efficiency for solar energy use in industry.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To implement pilot plant in industry and demonstrate technical, financial, and environmental benefits of energy-efficient solar energy use at around 300 C.\n~\nEXPECTED RESULT: Up-scaled solar energy system to provide process heat conserving 18-22% fossil fuel, decreasing greenhouse gas emissions and increasing energy efficiency for solar energy use in industry.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To implement pilot plant in industry and demonstrate technical, financial, and environmental benefits of energy-efficient solar energy use at around 300 C.\n~\nEXPECTED RESULT: Up-scaled solar energy system to provide process heat conserving 18-22% fossil fuel, decreasing greenhouse gas emissions and increasing energy efficiency for solar energy use in industry.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Transnational platform for technology transfer, utilization of research outcomes and adaptation to local needs and capacities related to energy efficient solar energy sources.\n~\nEXPECTED RESULT: Transnational organizations cooperating after the project is completed.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33246,
+      "acronym": "YOUTHMED~A_Y_3.1_0624",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Empowering YOUTH for an Inclusive MEDiterranean",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: 152. Measures to promote equal opportunities and active participation in society\n~\nSUMMARY: YOUTHMED addresses critical challenges in the MED region identified in reports by UfM & the United Nations, such as limited access to education & economic opportunities, gender-based discrimination, & social exclusion among youth & migrants. By fostering critical thinking, enhancing skills, & promoting social inclusion, YOUTHMED aims to empower marginalized groups & build cohesive communities through a collaborative approach with partners from Lebanon, Greece, Spain, & Egypt.\nThe project tackles three main challenges highlighted in the UfM Regional Strategy for Youth & the UN's Sustainable Development Goals (SDGs): limited training & economic opportunities for marginalized youth, gender-based discrimination, & a lack of cross-border collaboration among youth organizations. YOUTHMED will equip youth with skills in digital marketing, social media, & critical thinking while promoting gender equality & social inclusion. It will also strengthen cross-border cooperation among youth organizations.\nKey outputs include a cross-border cooperation agreement between 25 organizations, development of an e-media exchange platform, a comprehensive training curriculum, & capacity building for 480 marginalized youth & 30 members of youth organizations. Additionally, 300 participants will engage in awareness campaigns, & 75 vulnerable individuals will receive counseling & vocational training.\nThe main beneficiaries are marginalized youth, vulnerable groups including women, refugees, & migrants, & local communities. By integrating environmental sustainability into its design, YOUTHMED will promote digital collaboration, eco-friendly event practices, & raise awareness about environmental protection.\nYOUTHMED aims to create lasting positive impacts for marginalized youth & migrants in the MED region. it is designed to influence policy changes, build institutional capacity, & establish sustainable partnerships that will continue to support youth empowerment beyond the project's duration.\n~\nKEEP KEYWORDS: Education and training, Labour market and employment, Social inclusion and equal opportunities",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Transnational actions and services that promote gender equality, equal opportunities, social inclusion, and socio-economic integration and empowerment.\n~\nEXPECTED RESULT: 25 Organisations cooperate across borders after project completion and 100 youth Participate in joint actions across borders after project completion\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Digital literacy programs and initiatives especially among migrants, NEETs, youth, women, the underprivileged, long-term unemployed, and rural populations.\n~\nEXPECTED RESULT: 510 youth complete joint training schemes\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Transnational actions and services that promote gender equality, equal opportunities, social inclusion, and socio-economic integration and empowerment.\n~\nEXPECTED RESULT: 25 Organisations cooperate across borders after project completion and 100 youth Participate in joint actions across borders after project completion",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33245,
+      "acronym": "MedPROACT~A_T_2.2_0366",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Pilot Actions for Climate Change Adaptation",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 060. Adaptation to climate change measures and prevention and management of climate related risks: others, e.g. storms and drought (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches)\n~\nSUMMARY: The MedPROACT project aims to enhance the adaptive capacity of Mediterranean coastal communities to climate change by focusing on ecosystem resilience and sustainable management of marine resources. This initiative involves a transnational consortium of environmental NGOs, universities, and research institutions from Italy, Turkey, Jordan, and Tunisia. The activities are organised into three technical work packages that address, through demonstrated solutions and tested pilot actions, various aspects of climate change adaptation such as the management of invasive species, restoration of specific marine ecosystems, and development of local climate adaptation tools.\nExpected outcomes:\n- the adaptive capacity of coastal communities connected to fishery and seafood consumption is increased by promoting knowledge and strategies that address the invasive species proliferation, reducing pressure on traditional stocks and increasing scientific literacy;\n- improved ecosystem resilience of seagrass meadows and coral reefs through restoration and sustainable management practices taught to local communities, including the decision makers of marine protected areas, in order to allow the maintenance of their crucial role in carbon sequestration, coastal protection, and habitats supporting marine life;\n- enhanced community resilience: by increasing awareness of the local population and developing effective adaptation policies through participative processes, the project aims to equip the local communities and authorities with effective Adaptation Plans and Guidelines, governance tools that will safeguard people, activities, tourists and livelihoods, especially connected to marine and coastal resources.\nIn summary, MedPROACT leverages a comprehensive, multilevel approach to build resilience against climate change in Mediterranean coastal communities and benefit local actors such as fishers, tourism operators, scientific community, governmental bodies, youths.\n~\nKEEP KEYWORDS: Agriculture and fisheries and forestry, Climate change and biodiversity, Coastal management and maritime issues",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the capacity of local communities of targeted coastal areas to adapt to climate change, improving the adoption of demonstrated solutions that ensure marine ecosystems resilience and changeover sea-related human activities\n~\nEXPECTED RESULT: Innovative solutions to enable local communities of coastal areas to adapt to climate change are capitalised and made available.\nSignificantly increased awareness and administrative capacity on the climate change impact on environment, economy and society through participatory processes.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the capacity of local communities of targeted coastal areas to adapt to climate change, improving the adoption of demonstrated solutions that ensure marine ecosystems resilience and changeover sea-related human activities\n~\nEXPECTED RESULT: Innovative solutions to enable local communities of coastal areas to adapt to climate change are capitalised and made available.\nSignificantly increased awareness and administrative capacity on the climate change impact on environment, economy and society through participatory processes.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the capacity of local communities of targeted coastal areas to adapt to climate change, improving the adoption of demonstrated solutions that ensure marine ecosystems resilience and changeover sea-related human activities\n~\nEXPECTED RESULT: Innovative solutions to enable local communities of coastal areas to adapt to climate change are capitalised and made available.\nSignificantly increased awareness and administrative capacity on the climate change impact on environment, economy and society through participatory processes.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33244,
+      "acronym": "DIGIWAVE~A_T_3.1_0124",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "DigiWAVE : Women Access Versatile Employment in Digital Economy",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 145. Support for the development of digital skills\n~\nSUMMARY: In Europe and the MENA region, the underemployment and segregation of women to specific labour sectors as well as discrimination in the labour market result in a gender employment and wage gap (Women’s Empowerment in the Mediterranean Region). In self-employment, the global percentage of women who are entrepreneurs is 5.3% in Europe and 4.5% in the MENA region, below the 6,2% global percentage, mainly because of difficulties in accessing business support services and networks (Intergovernmental Monitoring Mechanism on Gender Equality).\nThe gender digital divide affects both the access and the use of the ICTs, as well as the number of female ICT graduates and experts working in the sector that in 2021 was only 19% (Education area of the EU commission). This gap is even bigger when it comes to vulnerable women facing additional barriers in the labour market.\nDigiWAVE will encourage versatile employment (i.e. employment and self-employment) of vulnerable women in the digital economy and will enhance women’s labour and economic inclusion contributing to closing the gender digital divide in the region. It will create favourable conditions for a sustainable growth of women’s employability, on one side by providing training and support for acquiring new skills aligned with the digital global market, and on the other side by advocacy and dialogue between key stakeholders to generate concrete action plans, enhancing laboral prospection, visibility and networking. \nThe main expected outputs are as follows: \n\n\n1. Competence development in ICT, empowerment and business development\n\n\n2. Enhanced laboral inclusion through advocacy, prospection and networking for employability\n\n\n3. Communication and visibility on the laboral and social inclusion of vulnerable women\nThe direct beneficiaries will be 200 vulnerable (at laboral, social and economic levels) women from Spain, Greece, Tunisia and Jordan, while others will benefit from resources. Engagement with 400 stakeholders is foreseen.\n~\nKEEP KEYWORDS: ICT and digital society",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To increase the competences and skills of vulerable women in the Mediterranean to be competitive in the digital economy.\n~\nEXPECTED RESULT: Vulnerable women in the Mediterranean are trained, mentored and empowered to be competitive in the digital economy.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To increase the laboral access of vulnerable women in the Mediterranean to the digital economy\n~\nEXPECTED RESULT: Increased awareness and improved practices among stakeholders for including vulnerable women in digital economy",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33243,
+      "acronym": "YIELD~A_Y_1.2_0618",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Youth Innovators Entrepreneurship Launchpad for Deep Tech",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: 137. Support for self-employment and business start-ups\n~\nSUMMARY: YIELD aims at addressing the pressing challenges faced in the EUROMED region by young entrepreneurs targeting deep tech, and especially in the Blue, Green, circular economy and eco-innovation (BGCE) sectors by jointly establishing a comprehensive support system tailored to their unique needs. \nBGCE sectors are increasingly important since they can foster innovation, stimulate regional economic development, and align EUROMED region with EU and global policies. \nOne common challenge faced by young entrepreneurs is the lack of access to tailored support and resources to help them turn their innovative ideas into successful businesses. \nThe project seeks to ensure that young aspiring entrepreneurs (people aged 18-30 that may be recent graduates, unemployed, or aspire to create their own business), have the necessary support to succeed in the competitive landscape of deep tech entrepreneurship, working in transnational teams (50 teams). \nThis innovative route involves creating transnational challenge-based networks for knowledge exchange, offer of specialized training and mentoring, facilitating connections with experienced mentors who can provide valuable guidance, insights, and access to wider networks. \nThe main output of YIELD is to empower at least 50 teams of young aspiring entrepreneurs, exploiting deep tech solutions to solve selected BGCE challenges (e.g. water scarcity, wildfires, waste management) in establishing their own micro enterprise and contribute to the growth and development of the entrepreneurship ecosystem in the EUROMED region.\nYIELD capitalizes its joint transnational methodology on previous project results & best practices (from MED and EU) that support young entrepreneurship, from access to resources to fostering a supportive community, thus cultivating a vibrant ecosystem where young aspiring entrepreneurs can maximise their full potential and catalyze change.\n~\nKEEP KEYWORDS: Education and training, Labour market and employment, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth entrepreneurship in the deep tech Blue, Green, circular economy & eco-innovation (BGCE) sectors strengthened, providing young aspiring entrepreneurs with internationally-founded entrepreneurial acceleration & business development training, and knowledge to establish their own micro enterprise.\n~\nEXPECTED RESULT: At least 5 micro enterprises specializing in deep tech solutions for a challenge in the BGCE sector founded in the EUROMED region in the 5-year period following project closure, following the successful completion of the training rounds.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth entrepreneurship in the deep tech Blue, Green, circular economy & eco-innovation (BGCE) sectors strengthened, providing young aspiring entrepreneurs with internationally-founded entrepreneurial acceleration & business development training, and knowledge to establish their own micro enterprise.\n~\nEXPECTED RESULT: At least 5 micro enterprises specializing in deep tech solutions for a challenge in the BGCE sector founded in the EUROMED region in the 5-year period following project closure, following the successful completion of the training rounds.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth entrepreneurship in the deep tech Blue, Green, circular economy & eco-innovation (BGCE) sectors strengthened, providing young aspiring entrepreneurs with internationally-founded entrepreneurial acceleration & business development training, and knowledge to establish their own micro enterprise.\n~\nEXPECTED RESULT: At least 5 micro enterprises specializing in deep tech solutions for a challenge in the BGCE sector founded in the EUROMED region in the 5-year period following project closure, following the successful completion of the training rounds.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Youth entrepreneurship in the deep tech Blue, Green, circular economy & eco-innovation (BGCE) sectors strengthened, providing young aspiring entrepreneurs with internationally-founded entrepreneurial acceleration & business development training, and knowledge to establish their own micro enterprise.\n~\nEXPECTED RESULT: At least 5 micro enterprises specializing in deep tech solutions for a challenge in the BGCE sector founded in the EUROMED region in the 5-year period following project closure, following the successful completion of the training rounds.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33242,
+      "acronym": "SHARE4MED~A_G_4.1_0512",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "SHARE4MED",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: As underlined in NEXTMED synergies and complementarities document, \"With a 2030 target, the EU Mission Restore our Ocean and Waters (Mission Ocean) aims to protect and restore the health of our ocean and waters through research and innovation, citizen engagement and blue investments. The Mission’s new approach will address the ocean and waters as one and play a key role in achieving climate neutrality and restoring nature\".\nIn order for Mission Ocean to reach its goals, it is necessary it is deployed uniformly and widely to help local authorities in planning and rolling out the green transition. Doing so is a real challenge for Municipalities and it is even more difficult for small ones due to a problem of lack of critical mass. \nReaching the critical mass and having an appropriate transition agenda ARE THE TWO MOST URGENT NEEDS to be solved for Mediterranean Municipalities in view of the green transition and climate neutrality.\nTO START ANSWERING THESE NEEDS, in June 2023, the Municipality of Genova and the EU Mission Ocean launched the Coalition of Mayors for Mission Ocean and their Shared Transition Plan outlining the communalities and possible synergies among the local development plan of each municipality member of the Coalition.\nThe aim of SHARE4MED is to FULLY ANSWER THESE NEED by consolidating the Coalition of Mayors for Mission Ocean, to expand it in EU and to extend it to non EU countries with specific focus on the WESTMED initiative.\nSHARE4MED EXPECTED CHANGE with respect to the current situation will be a significantly greater awareness of Municipalities on Mission Ocean and WESTMED initiatives and on their solutions and empowerment tools to be used jointly, through the common SHARE4MED action plan, in achieving the climate neutrality in their territories.\nMAIN OUTPUTS are the Coalition of Mayors and its Shared Agenda, Action Plan and Governance DASHBOARD. Final beneficiaries are Municipalities (TG1), local economic operators (TG3) and citizens (TG2)\n~\nKEEP KEYWORDS: Coastal management and maritime issues, Governance, partnership, Regional planning and development",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Develop and implement the SHAREd Action Plan  of Mediterranean Cities for EU Mission Restore our Oceans and Water by 2030.\n~\nEXPECTED RESULT: SHARE4MED Coalition's Action Plan, the shared crossborders transition agenda for improved institutional capacity of urban and local authorities of Italy, Algeria, Tunisia and Spain in the fields of oceans and water preservation and restoration\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Develop and implement the SHAREd Action Plan  of Mediterranean Cities for EU Mission Restore our Oceans and Water by 2030.\n~\nEXPECTED RESULT: SHARE4MED electronic Governance DASHBOARD, the common and crossborders tool to design socio-economic and environmental initiatives related to a greener and smarter MED\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Develop and implement the SHAREd Action Plan  of Mediterranean Cities for EU Mission Restore our Oceans and Water by 2030.\n~\nEXPECTED RESULT: SHARE4MED electronic Governance DASHBOARD, the common and crossborders tool to design socio-economic and environmental initiatives related to a greener and smarter MED",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 21,
+          "title": "Regional planning and development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

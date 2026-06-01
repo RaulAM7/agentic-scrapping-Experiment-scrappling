@@ -1,0 +1,413 @@
+{
+  "current": 12,
+  "next": "https://keep.eu/api/search/projects/?page=13",
+  "previous": "https://keep.eu/api/search/projects/?page=11",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 21392,
+      "acronym": "EnerNETMob",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Réseaux interrégionaux d'électromobilité dans la région méditerranéenne pour systèmes de transport intermodaux et interurbains à faible intensité de carbone",
+          "description": "EnerNETMob vise à élaborer, tester et améliorer \"Plans d'électromobilité durable\" selon communes normes et politiques à faible intensité de carbone, afin de mettre en place un \"réseau interrégional d'électromobilité\" traversant la zone transnationale MED.\r\nLe projet favorise la mobilité partagée et l’intermodalité avec systèmes de transport électrique, en mettant en œuvre des réseaux interurbains et interrégionaux d'équipements de charge pour véhicules électriques aussi alimentés par énergies renouvelables.\r\nEn intégrant les modèles de SUMP et SEAP, les \"Plans d'électromobilité durable\" viseront à 2 grands défis:\r\n- Mettre en œuvre des \"Réseaux Interrégionaux de Electromobilité\" dans les systèmes de transport locaux, suite à des communes approches et lignes directrices de conception des services de transport électriques;\r\n- Mettre en œuvre petites investissements pilotes sur l'électromobilité pour connexions interurbaines et intermodales afin de tester le réseau aussi au niveau transnational.\r\nLa Directive 2014/94/UE a fourni des lignes directrices pour développer les infrastructures de charge dans l’UE. Toutefois les États n’ont toujours pas intégré les réseaux en tout le territoire avec les mêmes protocoles et modèles de planification.\r\nDonc, sur la base des BAT existantes, le projet développera solutions d'électromobilité et actions pilotes pour surmonter les limitations de moyen parcours et pour coordonner les investissements futurs sur le transport électrique dans la zone MED.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments disponibles pour favoriser l'utilisation des solutions de transport à faibles émissions de carbone dont les solutions multimodales, Nombre de modèles pour développer des plans urbains comprenant le transport à faibles émissions de carbone et les actions immatérielles de connections multimodales, Population impliquée dans les activités de sensibilisation, Nombre d'aires urbaines engagées (par le biais de chartes, protocoles, MoU) dans le développt de plans/stratégies incluant le transport à faibles émissions de carbone et les actions immat. de connections multimodale, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Mediterranean Interregional Electromobility Networks for intermodal and interurban low carbon transport systems",
+          "description": "EnerNETMob aims to draft, test and improve parallel “Sustainable Electromobility Plans” according to common standards and low carbon policies, in order to set an “Interregional Electromobility Network” crossing cities of all transnational MED area.\r\nProject promotes sharing mobility and land-sea intermodality using electric transport systems, by implementing interurban and interregional pilot networks of Electric Vehicles Supply Equipment (EVSE) also co-powered by Renewable Energy Sources. \r\nBy integrating the SUMP and SEAPs models, the “Sustainable Electromobility Plans” will be developed to reach 2 main challenges:\r\n- to implement and extend “Interregional Electromobility Networks” inside and beyond MED area, following common approaches and design guidelines for electric transport infrastructures/services;\r\n- to implement pilot small-scale investments on electromobility for interurban and intermodal connections in order to allow longer trips and test network at transnational level. \r\n2014/94/EU Directive provided preliminary guidelines to develop charging infrastructures in EU territory. However, Member States have still not implemented integrated EVSE networks at European level with same communication protocols and planning models.\r\nTherefore, on the basis of existing Best Available Technologies, project will develop electromobilty solutions and will test pilot actions to overcome medium-trip limitations and to coordinate future investments on electric transport in MED area.",
+          "expected_results": "1 Increased capacities to implement policies on regional/urban planning of electric transport infrastructures/services through transnational cooperation : .EnerNETMob aims to reach the maturity and the transnational coordination of investments planning in multimodal, environmental-friendly and low carbon transport and in mobility infrastructures and services to be funded by ESI Funds.This result will be realized through the pursuing of the 1st specific project objective “To analyze and implement joint strategies for mobility and urban planning of electromobility systems in the framework of existing regional transport networks in the MED region”.To this end, National/Regional Authorities will coordinate their policies and regulations to develop and implement Sustainable Electromobility Plans (SEMPs) within the framework of a shared transnational low carbon strategy.The direct benefit of implemented SEMPs will be to overcome transnational restrictions by integrating electromobility infrastructures in existing intermodal terminals (as airports, ports, railway stations, etc.).Therefore, this project result will contribute to the programme result indicator since it will increase the share of urban plans including low carbon transport and multimodal connection soft actions.1 Increased capacities to implement policies on regional/urban planning of electric transport infrastructures/services through transnational cooperation : .EnerNETMob aims to reach the maturity and the transnational coordination of investments planning in multimodal, environmental-friendly and low carbon transport and in mobility infrastructures and services to be funded by ESI Funds.This result will be realized through the pursuing of the 1st specific project objective “To analyze and implement joint strategies for mobility and urban planning of electromobility systems in the framework of existing regional transport networks in the MED region”.To this end, National/Regional Authorities will coordinate their policies and regulations to develop and implement Sustainable Electromobility Plans (SEMPs) within the framework of a shared transnational low carbon strategy.The direct benefit of implemented SEMPs will be to overcome transnational restrictions by integrating electromobility infrastructures in existing intermodal terminals (as airports, ports, railway stations, etc.).Therefore, this project result will contribute to the programme result indicator since it will increase the share of urban plans including low carbon transport and multimodal connection soft actions.2 Increased transnational cooperation through the integration of the national/regional “Small-Scale Infrastructure Networks” in the MED area : .The project will increase options for implementation of multimodal and low carbon transport plans through electromobility infrastructures and services.By pursuing the 2nd specific project objective “To create regional “Small-Scale Infrastructure Networks” allowing interurban electric transport displacement among cities, rural areas and intermodal terminals in the MED region”, EnerNETMob aims to create a Mediterranean “Interregional Electromobility Network” interconnecting local networks.Such electromobility network will be transnational and modular in order to overcome interurban distances and spatial restriction by installing/extending charging infrastructures within a medium-range distance, so that a BEV can cover longer distances by using several electric fuel stations along its trip.EnerNETMob transnational cooperation actions will enhance competencies/skills of public-private stakeholders and National/Regional Authorities in order to transfer regulations and policies to local level and to develop and implement sustainable plans including low carbon transport and multimodal connection soft actions.The foreseen transnational cooperation will contribute to the programme result indicator since it increases the share of urban plans including low carbon transport and multimodal connection soft actions.3 Enhanced knowledge on electromobility infrastructures design by using same technical standards and integrated protocols for all MED regions : .Such EnerNETMob result will affect the harmonization of electromobility infrastructures, ICT tools and management infrastructures and the development of common understanding for intermodal and electric transport infrastructures and services in the MED area.By pursuing the 3rd specific project objective “To share common design guidelines for electromobility systems according to same technical standards and communication protocols”, the National/Regional/Local Authorities will adopt and share electromobility standards and integrated protocols at transnational level.The direct benefit of using shared standards and guidelines will be to overcome interregional and transnational restrictions by using common and integrated communication protocols of charging operations, so that same BEV can cross over to different EU States using common charging standards and EVSEs.Moreover this knowledge will be achieved by National and regional authorities with competencies to implement plans and transfer regulations and policies to Municipalities and local Institutions for the implementation of further urban plans.Therefore, also in this case project result will contribute to programme result indicator since it increases the share of urban plans including low carbon transport and multimodal connection soft actions.",
+          "achievements": "The EnerNETMob  project has held its Kick-off meeting in Tripolis,  Greece  on the 3rd and 4th of May 2018 where it  established  its Steering and Scientific Committees and workgroups with the aim  to run a smooth and reliable project matching the scheduled timeframe and to facilitate  the internal project coordination and communication among partners and the MED programme authorities.The partnership has set up its communication channels to promote  the project achievements and electromobility across the MED territory through the project’s website at https://enernetmob.interreg-med.eu/,  the social media channels (Facebook: http://bit.ly/FacebookENERNETMOB,  YouTube: http://bit.ly/YouTubeENERNETMOB, Twitter: https://twitter.com/EnerNETMob, and is also participating to activities for strengthening the MED Program Urban transport Community ( https://urban-transports.interreg-med.eu/)The partners have started researching the current development of electromobility in the EU and the EU Policy and Regulation Framework of electromobility with the aim to assess the policies and Regulations/Directives adopted by the  EU Commission and Parliament and will define the benchmarks at EU levels. They are also analyzing and develop reports on their  National Policy and Regulation Framework of electromobility. Partners are developing the guidelines for  “Sustainable Electro-Mobility Plans” and the “Best Available Technologies and Technical standards”. These guidelines will be used by the partners in pilot activities to plan and design electric transport infrastructures/services with the same technical standards and the best available technologies.",
+          "expected_outputs": "Small-Scale Infrastructure Network,ICT platform interconnecting the Interregional Electromobility Network.,Electromobility Implementation Guidelines to draft and implement SEMPs (SEMP model),Memorandum of Understanding for Interregional Electromobility,Interregional Electromobility awareness",
+          "delivered_outputs": "Number of instruments available to foster the use of LC transport solutions, including multimodal ones, Number of models to develop urban plans including low carbon transport and multimodal connections soft actions, Population involved in awareness raising activities, Number of urban areas engaged (through charters, protocols, MoU) in developing urban plans/strategies including low carbon transport and multimodal connection soft actions, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 5,
+          "title": "Green technologies"
+        },
+        {
+          "id": 8,
+          "title": "Multimodal transport"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21391,
+      "acronym": "WETNET",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Coordinated management and networking of Mediterranean wetlands",
+          "description": "Wetlands in Europe are vulnerable interconnected environments, hugely contributing to biodiversity. Their protection intertwines scientific-environmental aspects and governance concerns. WETNET tackles the issue of implementing a multilevel governance for MED wetlands in order to achieve overall and network effects on wetlands ecosystems as well as on connected local systems. \nThe project aims at ensuring higher coordination between different levels of spatial planning and authorities in charge for their management, whilst limiting conflicts between preservation issues and economic activities. By defining common priorities for MED wetlands conservation, WETNET builds a common territorial strategy for their integrated management. Building on previous EU experiences (River Contracts), WETNET seeks to test and transfer ‘Wetlands Contracts’, acting through broad participatory processes where users, private and public entities are committed in mainstreaming wetlands preservation into their ordinary activities. To this aims, the project will also:\n- Increase the knowledge on River Contracts effectiveness.\n- Strengthen existing transnational networks for sharing and disseminating information and good practices on wetlands preservation.\nThe project partnership involves all authorities and typology of stakeholders operating in target field. It will allow WETNET to meet the Wetlands needs at a broad scale, ensuring the transferability of its results to other EU countries.",
+          "expected_results": "1 Define common priorities for the conservation of MED wetlands : Definition and acknowledgment of three fundamental objectives for MED wetlands conservation, to be achieved by the strategy that will be developed for enhancing the environmental governance of wetlands. This result will be achieved by (i) exploiting the characteristics of the different partners involved in the project’s partnership, which are authorities of different level and nature (Regions, government agency, …) and different interest stakeholder (ONG for nature protection, Research institution with scientific focus, …); (ii) considering MED wetlands from an international point of view, identifying which requirements of the conservation needs of an international agreement.1 Define common priorities for the conservation of MED wetlands : Definition and acknowledgment of three fundamental objectives for MED wetlands conservation, to be achieved by the strategy that will be developed for enhancing the environmental governance of wetlands. This result will be achieved by (i) exploiting the characteristics of the different partners involved in the project’s partnership, which are authorities of different level and nature (Regions, government agency, …) and different interest stakeholder (ONG for nature protection, Research institution with scientific focus, …); (ii) considering MED wetlands from an international point of view, identifying which requirements of the conservation needs of an international agreement.2 Improved coordination and effectiveness of strategies and actions for wetlands preservation and sustainable management : Increasing the coordination of existing planning and management instruments and of institutions operating in target areas will lead to: (i) more effective management of wetlands, avoiding conflicts, overlapping or duplication of policies/interventions; (ii) mainstreaming of wetlands conservation into the existing spatial and landscape planning framework; (iii) easier connection with the existing funding opportunities for the implementation of environmental and landscape rehabilitation actions. This will help increase the share of protected areas meeting their conservation goals and objectives.3 Stronger, active involvement of multiple stakeholders engaged in wetlands’ conservation, management and sustainable development : In accordance to the nature of the strategy proposed, aiming at defining and signing a voluntary agreements, the project will engage multiple stakeholders (policy makers at local and regional level; development agencies, park authorities, ONG, farmers and their associations), which, by subscribing the contract, will be active actors of the new territorial governance, based on cooperation, integration of sectors and horizontal and vertical subsidiarity. Under the scheme, both public and private sector interests commit themselves to help maintaining and enhancing wetlands’ biodiversity and to mainstream the wetlands preservation into their ordinary strategies and activities. This will help spreading eco-friendly behaviors and practices, thus increasing the share of protected areas meeting their conservation goals and objectives.",
+          "achievements": "About the pilot activities, the implementation of Wetland Contracts still proceeded with different speeds as in the previous semester, but most of PPs (except the Maltese partner) have been able to fully start the participative processes of their contracts.WP1- 6th Transnational Project and Steering Committee (SC) Meeting held in Lisbon (28-29 November 2018);- 3rd Payment Claim was prepared and submitted by the LP within deadline;- a project modification concerning a 6 months prolongation and some changes of the budget was approved by SC in Lisbon and then developed and cross-checked with the JSo.WP2- RCDI, CIRF, SEO and VR reported their participation in a number of external events for dissemination and networking (D.\n\n2.\n\n7.1);- the preparation of the 2nd international brochure and the 2nd local brochure is still ongoing, while the 3rd newsletter was published in October with the contributions of VR, CIRF, FAMP, SEO, SARGA, RCDI and TDV;- WetNet is regularly updated on the web (www.wetnet.interreg-med.eu/) and social networks by SARGA with the contribution of most PPs: twitter (@wetnetmed) and FB: (facebook/wetnet) as well as most of the PP’s local websites (D.\n\n2.\n\n3.1);- most PPs made press releases (D.\n\n2.\n\n3.3) in local language and contributed to project communication and dissemination;- SEO produced and presented in Lisbon an animated video that will be made available for all PPs in the next semester;- the SC also decided that VR will be in charge of producing a set of video on project activities, the Summer School and the final event using most of its budget for communication.WP3- most of the PPs produced their secenario deliverables (D.\n\n3.\n\n3.1 and \n\n3.\n\n3.2) through participative initiatives;- all PPs organized meetings for involving the stakeholders of their Wetland Contracts processes in the scenarios definition (Territorial Labs with experts and focus groups);- CIRF proceeded in visiting the pilot areas and providing assistance and expertise: from July-18 to December-18, coaching missions were held in Portugal on 27 Nov.18 and in Slovenia on 18-19 Sept.\n\n18.WP4- the activity started during the previous period for organizing the Summer School has been kept ongoing: the event sites and logistics have been confirmed through an agreement with the Caorle Municipality, but the dates are not confirmed yet pending the decision on the 6 months prolongation of the project request decided in Lisbon.",
+          "expected_outputs": "Wetland contracts subscription,Framework of preliminary materials about target areas,Framework of best practices in improved wetland management",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Gestion coordonnée et mise en réseau des zones humides méditerranéennes",
+          "description": "Les zones humides en Europe sont des environnements vulnérables qui contribuent de façon déterminante à la biodiversité. Leur protection enchevêtre des aspects scientifiques et environnementaux ainsi que des problèmes de gouvernance. \nWETNET vise à assurer une meilleure coordination entre les différents niveaux d'aménagement de ces zones et des autorités en charge de leur gestion, tout en contribuant à limiter les conflits entre les questions de préservation et les activités économiques et à accomplir des effets de réseaux sur les écosystèmes des zones humides et sur les systèmes locaux connectés.\nEn définissant des priorités communes pour la conservation des zones humides méditerranéennes, WETNET construit une stratégie territoriale commune pour leur gestion intégrée.\nEn s'appuyant sur des expériences passées de l'UE (Contrats de Rivières), WETNET essaie de tester et transférer les ‘Contrats de Zones Humides’ en agissant à travers un processus de participation où les secteurs privés et publics s'engagent à préserver les zones humides. Le projet accroitra aussi la connaissance sur l'efficacité des contrats de rivière et\trenforcera les réseaux transnationaux pour partager et diffuser les bonnes pratiques sur la préservation des zones humides.\nLe partenariat implique les autorités et groupes d'intervenants qui opèrent dans le secteur, en permettant à WETNET de répondre aux besoins des zones humides à grande échelle en assurant la transférabilité de ses résultats dans l’UE.",
+          "expected_results": "1 Définir les priorités communes pour la conservation des zones humides : N/A1 Définir les priorités communes pour la conservation des zones humides : N/A2 Amélioration de la coordination et l'efficacité des stratégies et des actions pour la préservation des zones humides : N/A3 Plus forte participation active de plusieurs acteurs engagés dans la conservation, la gestion de zones humides et le développement durab : N/A",
+          "achievements": null,
+          "expected_outputs": "Souscription des Contract de zone humides,Cadre de matériaux préliminaires sur les zones cibles,Cadre des meilleures pratiques pour une meilleure gestion des zones humides",
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 21,
+          "title": "Regional planning and development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21390,
+      "acronym": "MEDFEST",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Les expériences de patrimoine culinaire MED: comment créer les destinations touristiques durables",
+          "description": "MEDFEST aborde le défi de la diversification traditionnelle des destinations touristiques ‘Mer & Soleil’ avec de nouveaux produits durables basés sur le patrimoine culinaire riche et réputé de la Méditerranée. Notre objectif est de créer des outils et instruments pour la conception de nouvelles expériences culinaires durables qui seront offertes aux visiteurs afin de: 1) diversifier le secteur du tourisme en termes de produits et leur caractère saisonnier; 2) apporter le développement du tourisme à l’arrière-pays côtier; 3) sauvegarder le patrimoine culinaire pour les générations futures.\nAfin d’atteindre les objectifs fixés, nous produirons les résultats suivants:\n- Outils pour améliorer les destinations touristiques durables en utilisant le patrimoine culinaire comme ressource.\n- Création de huit nouvelles destinations touristiques durables dans l’espace MED basées sur le patrimoine culinaire.\n- Stratégie transnationale commune pour la gestion et la planification du tourisme culinaire dans l’espace MED.\nCette approche est unique parce que les initiatives pour le patrimoine culinaire MED sont généralement sans lien et à ce jour, il n’y a eu que quelques approches communes développées pour intégrer le patrimoine culinaire MED dans une offre touristique durable. La méthodologie dans MEDFEST est basée sur la planification d’action participative où les trois types principaux de parties prenantes (producteurs, organisations touristiques, décideurs politiques) sont impliqués.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "MED Culinary heritage experiences: how to create sustainable tourist destinations",
+          "description": "MEDFEST is tackling the challenge of diversifying traditional ‘sun & sea’ tourist destinations, with new and sustainable products based on rich and renowned culinary heritage of the Mediterranean. In so doing, we will increase the sustainability and quality of life in MED space. Our objective is to create tools and instruments for designing new sustainable culinary experiences, which will be offered to visitors to: 1) diversify the tourism sector in terms of products and its seasonality; 2) bring tourism development to the coastal hinterland; 3) safeguard culinary heritage for future generations.\n\nTo achieve the stated objectives we will produce the following outputs:\n- Tools for enhancing sustainable tourist destinations by using culinary heritage as a resource.\n- Creation of eight new sustainable tourist destinations in MED space based on the culinary heritage.\n- Common transnational strategy on managing and planning culinary tourism in MED space.\n\nThis approach is unique because MED culinary heritage initiatives are generally unconnected and to this day there have been only few common approaches developed to integrate the MED culinary heritage into a sustainable tourist offer. The methodology in MEDFEST is based on participatory action planning, where three main types of stakeholders (producers, tourism organisations, policy makers) are involved and take responsibility for project’s actions from the beginning till the end to ensure the durability of the results.",
+          "expected_results": "1 New tools for culinary heritage in sustainable development in MED space : Our result will give tools and techniques on how to improve the capacities of the small-scale food and culinary sector in coastal and hinterland areas to form long-term alternative and sustainable tourist destinations in MED space. It will give answers on the following questions:-\twhat are the criteria to identify sustainable culinary experiences;-\twhere in MED space are they located;-\twhat are the key 'ingredients’ and tools of their sustainability and socio-economic success?It will focus on three types of target groups:a) producers/holders of MED culinary heritage,b) tour providers, tourist organisations,c) public policy makers, institutional actors.The three tools will apply sustainable tourism management criteria in the small-scale and local culinary heritage sector.MEDFEST result will contribute to the programme result indicator 3.1.a as it will develop 3 tools that will enhance the development of sustainable and responsible tourism destinations by prolonging seasonality, connecting rural hinterland with major tourist coastal areas and by protecting our common cultural heritage. Three tools will be: 1) criteria toolkit on for identifying sustainable MED culinary heritage experiences, 2) online map of sustainable culinary experiences in MED and 3) tool for qualitative analysis of successful culinary heritage practices.Creation of tools corresponds to activities in WP3 (Activities 3.2, 3.3 and 3.4).1 New tools for culinary heritage in sustainable development in MED space : Our result will give tools and techniques on how to improve the capacities of the small-scale food and culinary sector in coastal and hinterland areas to form long-term alternative and sustainable tourist destinations in MED space. It will give answers on the following questions:-\twhat are the criteria to identify sustainable culinary experiences;-\twhere in MED space are they located;-\twhat are the key 'ingredients’ and tools of their sustainability and socio-economic success?It will focus on three types of target groups:a) producers/holders of MED culinary heritage,b) tour providers, tourist organisations,c) public policy makers, institutional actors.The three tools will apply sustainable tourism management criteria in the small-scale and local culinary heritage sector.MEDFEST result will contribute to the programme result indicator 3.1.a as it will develop 3 tools that will enhance the development of sustainable and responsible tourism destinations by prolonging seasonality, connecting rural hinterland with major tourist coastal areas and by protecting our common cultural heritage. Three tools will be: 1) criteria toolkit on for identifying sustainable MED culinary heritage experiences, 2) online map of sustainable culinary experiences in MED and 3) tool for qualitative analysis of successful culinary heritage practices.Creation of tools corresponds to activities in WP3 (Activities 3.2, 3.3 and 3.4).2 New sustainable tourist products and eight new destinations based on culinary heritage : MEDFEST result will be new services and products of small and regional scale culinary heritage experiences in pilot areas according to the transnational strategy (project result 3). This project result will be achieved by conducting participatory planning methods with using tools such as trainings, capacity building and empowerment of local communities, public and private stakeholders on MED culinary heritage. This project result will have eight outputs – action plans – some of them will also be implemented if they require only soft measures, in line with programme financing rules. The end project result will be planned and implemented sustainable culinary tourism products in coastal or hinterland MED areas.MEDFEST result will contribute to the programme result indicator 3.1.b as there will be eight regions in eight MED countries covered by a sustainable tourism evaluation tool. New sustainable destinations will be newly designed culinary heritage routes, new cultural activities for tourist and locals or similar products.Creation of new sustainable tourism destination corresponds to the testing phase of the project in WP4 (Activity 4.2).3 Strategy of planning and managing sustainable culinary tourism in MED space : MEDFEST result will be a strategy of designing new services/products of culinary heritage in MED space and of how to include them into existing tourist offer by tour operators or public tourist organisations. The strategy will improve public policies and consequently create new networks and connections among culinary and tourist operators. The main aim of this project result is to ensure that the strategy of planning and managing sustainable culinary tourism in MED space gains durability through its integration into existing public and private initiatives. MEDFEST’s end results will be integrated into existing public networks (such as European Culinary Heritage Network, SlowMED, SlowTourism Network, …) to ensure long-lasting effects of the project. Lastly, partners will integrate project results in public policies/developmental strategies or plans (tourism, agriculture, spatial development) on local/regional or national level.MEDFEST result will contribute to the programme result indicator 3.1.c as the final result will be one final strategy of planning and managing sustainable culinary tourism in MED space. The strategy will also integrate sustainable culinary experiences into existing plans or strategies of tourism.This result corresponds to WP5 (Activities 5.2 and 5.3) and partially WP3 (Activity 3.5).",
+          "achievements": "The 5th implementation period was dedicated to finalize activities in eight pilot territories. MEDFEST partners developed concrete culinary tourism experience products in local territories: The Mar and Munt Collection (FR), Were is it...? Gastro routes (PT), B2B for culinary providers (GR), Gastronomic Routes Menja't l'Alt Urgell (ES), Unique Kras Carso Food Tour (SLO), From Farm to Fork (CRO), Mushrooms and wild herbs (IT), and Honey Routes in Rural Larnaca (CY).In this period emphasis was given to fine-tuning the tourism offer and role of stakeholders in it, to organize capacity building activities (study visits), prepare promotional materials, organise local showcases and press conference to present the project result also to wider public and tourism actors. All project partners elaborated action plans, but went much further then this – action plans are implemented and thanks to strong engagements of local actors, new sustainable culinary experiences are ready to enter the market. Lessons-learned from developing our own territorial actions helped us to refine and finalise Strategy of planning sustainable culinary experiences. In the strategy we first present general principles and goals that we wish to achieve in the long run by promoting new and enhanced culinary tourism products. We present the basic concept our knowledge was built on; three development scenarios identified in study phase of the project; and driving forces behind successful culinary experiences. In order to make the strategy user-friendly for local communities and practitioners we include also guidelines for preparing action plans, some aspects on capacity building activities, and recommendations from the practice.Most of the activities (including management and communication) have been implemented on time. Deliverables have been disseminated in the media via web platform, social media, articles and press releases. There is slight delay in finalising the MEDFEST final publication - joint work of all project partners, which needs some final language and editing corrections. All project partners have been intensively engaged in preparation of the international event in Tavira (Portugal) planned for September \n\n2019.",
+          "expected_outputs": "New tools for designing culinary heritage sustainable tourism,New sustainable tourist products and destinations based on culinary heritage,Strategy of planning and managing sustainable culinary tourism",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21389,
+      "acronym": "EduFootprint",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Abaissement de l'empreinte écologique dans les écoles des villes méditerranéennes",
+          "description": "EduFootprint entend augmenter la capacité pour une meilleure gestion de l'énergie, faible émission de carbone et l'empreinte environnementale dans les bâtiments de l'école publique, en tenant compte non seulement des impacts directs en énergie, mais aussi indirects (marchés publics, transports). Cela se fera à travers l'élaboration d'une stratégie intégrée de l'énergie avec une approche de cycle de vie pour augmenter la capacité des propriétaires et gestionnaires de bâtiments publics pour élaborer et mettre en œuvre des pratiques efficaces d'énergie intégrés dans les plans d'action pour l'énergie durable local.\r\nAction transnationale est vital parce que le projet permettra de tester le modèle dans différents pays MED pour le suivi de la consommation et de la gestion de l'énergie, et il va diffuser les solutions innovantes associant les pouvoirs publics et les propriétaires, le secteur privé et les utilisateurs finaux. Les régions les moins expérimentés auraient la possibilité d'agir sur base éprouvée du savoir-faire des autres partenaires pré-existante, et le modèle serait essai dans les pays avec différents modes de gestion des bâtiments publics.\r\nThe projet permettra de réduire les émissions de GES et de réduire les coûts de l'énergie pour les bâtiments publics. L'utilisation d'une approche qui considère l'école dans son cycle de vie complet, assure aussi les modes de vie des citoyens durable, la croissance et la promotion éducative, etc.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Calculateur d'empreinte environnementale,Plan d'action de l'énergie pour les écoles,locaux intégrés Plan d'actions pour une énergie dans les bâtiments scolaires actions définies dans les activités d'essai,Formations local, régional, nationales et transnationales sur modèle et des outils EduFootprint,Plan stratégique pour le transfert du modèle EduFootprint",
+          "delivered_outputs": "Nombre d'outils de planification disponibles pour le suivi et la gestion de la consommation énergétique dans les bâtiments publics, Nombre de stratégies en faveur des plans de gestion de la consommation énergétique dans les bâtiments publics, Nombre de groupes cibles participant aux activités de sensibilisation sur l'efficacité énergétique pour les bâtiments publics, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à développer des plans/stratégies d'efficacité énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "School Low Carbon Footprint in Mediterranean cities",
+          "description": "EduFootprint intends to raise capacity of owner and managers of public buildings for better management of energy; it will be done considering not just direct energy impacts of buildings (consumption), but also indirect ones (public procurement or general awareness and behavior). Activities will be concentrated in the test and transferability of an integrated energy strategy with a Life Cycle Assessment (LCA) approach in schools, consisting in the elaboration and implementation of energy efficient practices integrated with local Sustainable Energy Action Plans (SEAPS). \r\nTransnational action is vital because the project will test the EduFootprint model in different MED countries and it will disseminate the innovative solutions involving public authorities and owners, private sectors and end-users in seven MED regions. The less experienced areas would have the opportunity of acting upon well-proven basis from the pre-existing know-how of other partners, and the model would be test in countries with different ways of public buildings management.\r\nThe project will allow to cut energy costs for public buildings in MED area. The use of an approach that considers the school in its complete life cycle, assures a multiplying effect of actions, so a sustainable low-carbon citizen lifestyles and educational and cultural growth and promotion of eco-innovation solutions for various stakeholders (students, their families, teachers, public institutions, energy services providers).",
+          "expected_results": "1 An innovative model of assessment and management of school buildings that allows to reduce their environmental footprint and to strengthen local SEAPs : The EduFootprint model consists on tools to assess the environmental footprint of schools: an automatic calculator with School Environmental Footprint Guidelines (SEFGs) for owners and managers and a pre-defined package of actions for reducing the footprint (these actions are the sum of activities tested in the past in different previous experiences and other tested at transnational level with this project). The tools will allow to monitor and reduce the environmental footprint of school buildings and as a consequence energy consumption and GHG emissions for a big part of public buildings in MED area.The final scope of the implementation of the EduFootprint model is the elaboration and adoption of energy efficient practices, structured in a school plan that will be integrated with the local Sustainable Energy Action Plan (SEAPs). In this way the project will also support public authorities to better connect these activities, so the link between single school initiatives and actions foreseen in the SEAPs will the reinforced. So in this way SEAPs will be strengthened; their content will be improved with low-cost actions, avoiding refurbishment/retrofitting activities regarding buildings, and increasing the involvement of the school community (students, their family, workers, suppliers), and therefore of citizens, in the achievement of objectives1 An innovative model of assessment and management of school buildings that allows to reduce their environmental footprint and to strengthen local SEAPs : The EduFootprint model consists on tools to assess the environmental footprint of schools: an automatic calculator with School Environmental Footprint Guidelines (SEFGs) for owners and managers and a pre-defined package of actions for reducing the footprint (these actions are the sum of activities tested in the past in different previous experiences and other tested at transnational level with this project). The tools will allow to monitor and reduce the environmental footprint of school buildings and as a consequence energy consumption and GHG emissions for a big part of public buildings in MED area.The final scope of the implementation of the EduFootprint model is the elaboration and adoption of energy efficient practices, structured in a school plan that will be integrated with the local Sustainable Energy Action Plan (SEAPs). In this way the project will also support public authorities to better connect these activities, so the link between single school initiatives and actions foreseen in the SEAPs will the reinforced. So in this way SEAPs will be strengthened; their content will be improved with low-cost actions, avoiding refurbishment/retrofitting activities regarding buildings, and increasing the involvement of the school community (students, their family, workers, suppliers), and therefore of citizens, in the achievement of objectives2 Competence of buildings owners and managers to develop and implement energy efficiency practices in public school buildings in the MED area : With the EduFootprint approach owners and managers will be able to assess energy management of buildings and identifying low-cost actions, with a strong involvement of citizens (as said before, through the school community) and to create immediate positive effects. These capacities will be developed thanks to the participation to training courses and project promotion events, and the availability of the tested model and tools.So the project, enhancing the skills of public authorities and school managers to asses, define, adopt and implement sustainable energy plans and lead them to success, obviously contributes to the programme result indicator: school energy efficiency plans will increase and/or related actions will be included in local SEAPs in MED area. Local energy efficiency help desks will be created to achieve this project result. We have already identified the involvement in the project: at least 61 schools based in 39 municipalities, 27 covered by an approved SEAP that will be improved with project actions. In all that municipalities help desk will be activated and the model could be implement in the rest of the cities' school buildings.3 A transnational EduFootprint network of schools to assure the transferability of the model in all the Mediterranean area : The test of the integrated energy strategy with a LCA approach developed by the partnership for its implementation in schools will allow to adapt the EduFootprint model and tools (already existing and just developed an used in a limited local area in Italy) to specific conditions of different MED regions. This will make easier the transferability of the model and spread information about its advantages for schools, public institutions (frequently owners/managers of public buildings as schools) and for the territory. To reinforce the transferability and allow the replication of the approach a transnational EduFootprint network will be created, from the begining with the 61 that we will involve in the Testing. So this will allow the dissemination of the model in all MED area and, for sure, here will be increased the rate of local energy plans and/or the actions included in existing SEAPs.",
+          "achievements": "During the fourth implementation period, the project continued according to the work plan and the deadlines, especially focusing on the finalisation of the testing activities. In parallel, almost all the partners kept their contacts with their SEAP municipalities, the territorial stakeholders and the target groups informing them on the project progress. The fifth project meeting was organised in Tirana in September where the partners commonly charged the Coordinator to require officially a three-month extension of the project. The request to the JS is necessary to finalise the testing activities (WP3) within the current reporting period and to postpone the activities of the transferring phase (WP4) along with some products in the frame of WP\n\n2. In October, the LP started the formal procedure and the JS officially accepted the request in December. Under the supervision of Ambiente Italia, all the partners duly completed their Report on testing and the final report on environmental and economic impacts of the tested model has been issued. As some information from the partners need to be checked, the deliverable will be fine-tuned in the next reporting period. As regards the integration of the SEAPs within school buildings (Output \n\n3.6), during the meeting in Albania, the LP presented the approach it will follow with its own municipalities. Each partner can adopt the solution offered by the LP or another one that best meets the needs of their own territories. The testing of the Mobile APP is complete with all the school data and the tool has been officially launched. As regards the transferring phase (WP4), the Output \n\n4.2 including some annexes (D \n\n4.\n\n1.1 and D \n\n4.\n\n2.1) has been completed. The Plan for the local and regional transferring (D \n\n4.\n\n1.1) have been prepared by each partner. 1 event took place during this period (in Lubiana). The other events are planned in the next period (10). The Plans for national and transnational transferring (D \n\n4.\n\n2.1) have been prepared as well. The Italian-Slovenian transnational event was organised on 23rd November. The other events are planned in the next reporting period (in Portugal and in Greece). The project is contributing to the MEDNICE project supplying the requested information. In addition, EduFootprint participated at the Efficient Buildings and Renewable Energy MED Community conference organised in October in Ljubljana animating the WG3 Social Awareness and a training session.",
+          "expected_outputs": "Environmental footprint calculator,Energy Action Plan for schools,SEAPs integrated within school buildings actions defined in the testing activities,Local, regional, national and transnational trainings on EduFootprint model and tools,Strategic plan for the transfering of EduFootprint model",
+          "delivered_outputs": "Number of available planning tools to monitor and manage energy consumption in public buildings, Number of strategies supporting plans on energy consumption management for public buildings, Number of target groups participating in capacity raising activities on energy efficiency for public buildings, Number of regions and sub-regions engaged (through charters, protocols, MoU) in developing energy efficiency plans/strategies, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21388,
+      "acronym": "COASTING",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Coastal INtegrated Governance for Sustainable Tourism",
+          "description": "COASTING is a capitalisation project based on the ICZM principles application, aiming at enhancing the effectiveness of a multilevel governance tool like Coast Contract, fully framing coastal management and tourism sustainability issues.\r\nCOASTING transnational partnership will activate synergies and cooperation to share specific solutions for an integrated and responsible management of coastal areas, particularly invested by tourism criticalities.\r\nThe partnership will capitalise on previous experiences related sustainable development and landscape recovery so that a new shared methodology will be able to enhance the governance tool (i.e Marseille Bay Contract) with activities focused on tourism qualification and sustainability.\r\nThe improved governance tool is the common output of the project; during the capitalisation process the partnership will reach advanced results developing strategies or action plans in each specific regional context, while mainstreaming the defined methodology with local stakeholders.\r\nThe participative approach is the main project’s character both at transnational and local level. The transnational partnership will overcome common challenges related coastal areas while the stakeholders involvement will introduce specific contextual issues referred to tourism enhancement and sustainability at the regional/local level. The validated methodology will be useful for future transferring activity and institutional uptake in the Mediterranean area and EU.",
+          "expected_results": "1 Shared approach for sustainable and responsible coastal tourism governance set-up at Mediterranean scale : Involvement of multiple partners committed in sustainable coastal areas governance, to systematize their knowledge, improve existing experiences results through a cooperation practice and adopt a shared methodology reacting collectively towards common Mediterranean challenges. This shared approach aims at integrating the conservation, protection, promotion and development of natural and cultural heritage with the tourism theme and will increase the tourism sustainability in the MED area.1 Shared approach for sustainable and responsible coastal tourism governance set-up at Mediterranean scale : Involvement of multiple partners committed in sustainable coastal areas governance, to systematize their knowledge, improve existing experiences results through a cooperation practice and adopt a shared methodology reacting collectively towards common Mediterranean challenges. This shared approach aims at integrating the conservation, protection, promotion and development of natural and cultural heritage with the tourism theme and will increase the tourism sustainability in the MED area.2 Improved coordination and effectiveness of regional policies for coastal integrated management and sustainable tourism governance : Increasing the coordination and coherence of existing planning and management national/regional/local instruments dealing with coastal areas governance and sustainable tourism development, through the introduction of a multilevel governance tool, such as Coast Contract and Contrat de Baie, leads to: (i). more effective management of coastal areas avoiding conflicts, overlapping or duplication of policies/interventions; (ii). definition of common strategies for developing sustainable actions related to the tourism sector and coherently with the other main territorial strategies; (iii). more integrated vision of coastal area management, coordinating environmental protection and tourism development.This coherent and integrated approach will increase the sustainability of the tourism in the MED area reducing environmental pressures and protecting its natural and cultural assets while enhancing Europe’s tourism competitiveness.3 Stronger active involvement of local stakeholders engaged in sustainable tourism governance : In accordance to the nature of the strategy proposed, aiming at define a common methodology based on multilevel stakeholders involvement, the project engages multiple stakeholders (policy makers at local and regional level, environmental and tourism agency, organisations, enterprise and general public), which will be active actors of the territorial governance based on cooperation, integration of sectors and horizontal and vertical subsidiarity. Both public and private sector interests will commit themselves to help enhancing sustainable and responsible tourism in coastal areas and to mainstream this strategies into their activities. This will help spreading eco-friendly behaviours and practices, combining environmental themes with tourism management, such as the mitigation of tourist impacts and job creation, favouring the tourism sustainability in the MED area.",
+          "achievements": "Concerning WP1 (Project Management):- We have organized a Steering Committee in Dubrovnik in April.- Deliverables related to administrative/technical management (1-2) and financial management (1) have been produced according to the work plan.- The first evaluation report (2) was elaborated by FAMP in may, according to the evaluation plan (1).Regarding WP2 (Project Communication):- We have finished and uploaded in web platform all communication deliverables which have been coordinated and made by Sapienza University of Rome (responsible partner). - Regarding to Deliverable \n\n2. (Web communication Pack): several contents have been updates in COASTING website and social networks (news, events, roadshows information, deliverables, pictures, etc...). First and second Newsletter have been elaborated by Sapienza with contributions of all partners in March and July respectively. COASTING partners have translated into their local languages and sent the newsletters.- Related to local communication (activity : COASTING poster, brochure and others communication materials (1) have been created for all partners for the local Roadshows. Press releases have also been elaborated (\n\n2.). - COASTING partners have participated in: Two Horizontal project events (1): Community Capitalization Workshop Split, March 27th-28th 2019 (attended by DUNEA); and Mediterranean Sustainable Tourism Convention 2019 Barcelona, June 5th-6th 2019 (attended by FAMP and Lazio Region). One MED programme event (1): Launch seminar of the MED capitalization plan Thessaloniki , March 7th-8th 2019 (attended by Epirus Region). Several external events (1) have been attended by each COASTING partner.Related to WP3 (Capitalization):- We have finished the Wikisource for Coastal Governance (2) with collaborations of all partners. - All COASTING partners have organized their Roadshows (1). A Roadshows report is being elaborated by Gozo as responsible partner.- A Workshop in coordination with the Horizontal Project (1) was organized by FAMP and DUNEA in Dubrovnik in April. An Event report was elaborated by FAMP.- All COASTING partners have begun to elaborate their strategies for Coast Contract Application. Epirus Region, as responsible partner, is elaborating a report collecting all the strategies (1).- FAMP is drafting the Memorandum of Understanding (1) that all partners will sign at the final Conference (1).",
+          "expected_outputs": "Strategy for sustainable tourism management,MoU for sustainable tourism governance",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Gouvernance intégrée côtière pour un tourisme durable",
+          "description": "COASTING est un projet de capitalisation basé sur l'application des principes de la gestion intégrée des zones côtières (GIZC), visant à améliorer l'efficacité de la gouvernance comme le contrat de baie, en prenant en compte l’exigence du tourisme durable.\r\nLa coopération transnationale COASTING activera des synergies pour partager des solutions spécifiques en vue d’une gestion intégrée et responsable des zones côtières, particulièrement concernée par les enjeux du secteur touristique.\r\nLe partenariat capitalisera les expériences de développement durable et de valorisation du paysage afin qu'une nouvelle méthodologie commune contribue à l’amélioration de la gouvernance (ex: Contrat de baie Métropole AMP) pour un tourisme durable.\r\nLe perfectionnement de la gouvernance sera le produit commun du projet. Tout au long du processus de capitalisation, le partenariat aura pour objectif d’obtenir des résultats avancés en élaborant des stratégies ou des plans d'actions dans chaque contexte local, tout en intégrant la méthodologie définie par les acteurs locaux.\r\nL'approche participative est le principal caractère du projet au niveau transnational comme local. Le partenariat transnational permettra de surmonter les défis communs liés aux zones côtières, tandis que la participation des parties prenantes introduira les enjeux locaux de gestion du tourisme durable. La méthodologie validée sera utile pour la future activité de transfert et d'adoption institutionnelle dans la zone MED et en UE.",
+          "expected_results": "1 Une approche partagée pour une gouvernance durable et responsable du tourisme côtier mise en place à l'échelle m&e : N/A1 Une approche partagée pour une gouvernance durable et responsable du tourisme côtier mise en place à l'échelle m&e : N/A2 Amélioration de la coordination et de l'efficacité des politiques régionales de gestion intégrée des zones c&a : N/A3 Renforcement de la participation active des acteurs locaux engagés dans la gouvernance du tourisme durable : N/A",
+          "achievements": null,
+          "expected_outputs": "Stratégie pour la gestion du tourisme durable,MoU pour la gouvernance du tourisme durable",
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21387,
+      "acronym": "MAESTRALE",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "MAESTRALE",
+          "description": "The project Maestrale intends to lay the basis for a Maritime Energy Deployment Strategy in the Mediterranean. Based on a survey of existing and innovative technologies, hindrances and potentials in participating countries, it aims to widen knowledge sharing among scientists, policy makers, entrepreneurs and citizens and prompt effective actions and investments for blue growth.\r\nNotwithstanding the large number of academic and technical studies in the field of renewable blue energy, there is a lack of concrete initiatives and operating plants in the MED area. To fill this gap, project partners will cooperate to detect maritime renewable energy potentials in participating countries as regards their physical, legal, technological, economic and social contexts. Among the issues to be faced, there are environmental sustainability, technological innovation, acceptability by citizens, and possible conflicts with marine ecosystems.\r\nThe main output will consist in the creation of Blue Energy Labs (BEL) to take place in each participating region. BELs will involve local enterprises, public authorities, knowledge institutions and citizens and will operate to support future blue energy policies and plan concrete strategies for blue growth. A number of pilot projects will serve the purpose of raising awareness among local stakeholders, facilitating social acceptance, decreasing uncertainty and increasing feasibility of concrete interventions.",
+          "expected_results": "1 Complete and updated knowledge framework on Blue Energy in the MED area : MAESTRALE will collect all data and information needed to build an exhaustive survey of available technologies, existing laws/regulations, hindrances and potentials of maritime renewable energy sources in the MED areas targeted by the project. This knowledge framework will serve as a basis to develop innovative clusters in the blue energy sector and to calibrate the business services and transnational activities that will take place, according, on the one hand, to the specific features, needs and potentials of each involved territory, and on the other, to the common aspects that can be addressed at transnational level (EU regulations and funding opportunities, etc.).1 Complete and updated knowledge framework on Blue Energy in the MED area : MAESTRALE will collect all data and information needed to build an exhaustive survey of available technologies, existing laws/regulations, hindrances and potentials of maritime renewable energy sources in the MED areas targeted by the project. This knowledge framework will serve as a basis to develop innovative clusters in the blue energy sector and to calibrate the business services and transnational activities that will take place, according, on the one hand, to the specific features, needs and potentials of each involved territory, and on the other, to the common aspects that can be addressed at transnational level (EU regulations and funding opportunities, etc.).2 Blue Energy Labs: transnational network among key actors in Blue Energy at the MED/EU level : MAESTRALE will lead to the creation of a transnational network of Blue Energy Labs (BEL) that will serve as a cooperating tool and meeting platform for key actors involved in the Blue Energy Sector – public authorities, research centres, enterprises, and groups of citizens – operating in the MED area. BELs will take place in each participating region, with the aim to foster the development of transnational clusters and the joint implementation of Blue Energy projects and services. They will serve to support the creation of public-private partnerships and ensure knowledge and innovation exchange among the actors of the “quadruple helix” in order to lay the basis for concrete initiatives of blue growth.3 Participative planning processes of Blue Energy projects (20 at least) to be realised in MED regions : Regional Blue Energy Labs (BELs) will act as an “embryo” of Blue Energy Clusters, and will involve the “quadruple helix” actors in the preparation of pilot projects of Blue Energy plants (at least 2 projects per region), to be funded with EU Structural Funds in the near future. These participative processes will serve to define and demonstrate decisional and operational procedures, based on cooperation and networking, aimed to support new initiatives in the Blue Energy sector.",
+          "achievements": "In the 5th implementation period of MAESTRALE project (M27-M32), from January to June 2019, all the forecasted activities in the Application Form have been carried out. All Partners were involved in the activities of project development and engaged in WPs through the participation at the Third Transnational Blue Energy Lab, besides the concrete contribution in deliverables production and finalization. The progress of project activities has been reported by the Lead Partner and discussed during transnational and Steering Committee meetings (3 in total have been carried out). Once assembled, based on the contribution of PPs, the draft versions of the deliverables have been sent to PPs for their revision and approval. The few reviews and comments received were taken into consideration and integrated into the final versions that have been definitely approved. During this reporting period, the monitoring activity of Output \n\n3.2 has been carried out by sending emails to potential stakeholders that included the designed form and publishing it on the MAESTRALE website and Webgis portal, PPs’ websites and social networks. The questionnaire, up to June 2019, has been filled by 76 SMEs, that are included in the MAESTRALE Webgis. The 6th Newsletter, reporting activities regarding both the Testing phase and the dissemination and transferring activities, has been spread among all the stakeholders that expressed their willingness to receive the newsletter. PPs participated in or organized 36 events in order to raise awareness on Blue Energy and the MAESTRALE project. During the 5th reporting period activities of WP4 continued with the implementation of the Regional Blue Energy Laboratories. Started in February 2018, a total of 27 lab meetings were carried out (14 during the 5th reporting period). 2 PPs have carried out the training activity and all PPs have chosen their two pilot projects. The Training materials on Blue Energy” (D.\n\n4.\n\n2.2) has been translated in the 8 PPs’ local languages with the contribution of all PPs. The activities of WP5 continued and transferring activities have been mainly focused with the University Students’ (LP, OC-UCY, AUTH) besides the High School students (LP, OC-UCY) and children (GOLEA). Regarding networking, all PPs are collaborating, with a different degree, with other projects on blue energy. A delegation made of 6 PPs participated in the EUSEW in Brussels on June, and activities of transferring and networking have been implemented.",
+          "expected_outputs": "Online MED Blue Energy GEOdatabase,Toolkit for Blue Energy development in the MED area",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "Le projet Maestrale vise à poser les fondements pour une stratégie de développement de l'énergie maritime en Méditerranée. A partir d'une enquête sur les technologies existantes et innovatrices, les difficultés et possibilités dans les pays participants, le projet a pour but de partager le savoir chez les scientifiques, les décideurs poliques, entrepreneurs et citoyens et d'agir efficacement pour une croissance bleue. Malgré le grand nombre d'études techniques et académiques dans le domaine des énergies renouvelables, il existe un manque d'initiatives concrètes et d'exploitations des installations dans la zone méditerranéenne. Pour combler ce vide, les partenaires coopèreront pour détecter le potentiel d'énergie renouvelable maritime des pays participants en ce qui concerne leurs contextes physiques, juridiques, technologiques, économiques et sociaux. Parmi les aspects à considérer, on retrouve la durabilité de l'environnement, l'innovation technologique, l'acceptabilité politique par les citoyens et d'éventuels conflits avec les écosystèmes marins. Le principal résultat sera la création de Blue Energy Labs dans chaque région participante, impliquant les entreprises, les autorités publiques, les établissements du savoir et les citoyens avec le but de développer un plan d'action pour la croissance bleue et de preparer un certain nombre de projets pilotes concertés, en augmentant la faisabilité d'interventions concrètes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Boîte à outils pour le développement Blue Energy dans la région MED",
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

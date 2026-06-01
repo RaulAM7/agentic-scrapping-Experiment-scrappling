@@ -1,0 +1,405 @@
+{
+  "current": 7,
+  "next": "https://keep.eu/api/search/projects/?page=8",
+  "previous": "https://keep.eu/api/search/projects/?page=6",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 23483,
+      "acronym": "Biodiversity Protection",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Mainstreaming biodiversity management efforts for environmental sustainability",
+          "description": "The Med Biodiversity Protection Community/MBPC (\"PANACeA2\") is a horizontal project focusing on objective “maintaining biodiversity and natural ecosystems through strengthening the management and networking of protected areas”. It builds on achievements to increase the impact of modular projects’ towards common identified targets and links through:1) Synthesizing and tranferring outcomes on ecosystem protection efforts;2) Engaging a stakeholders’ community & transferring knowledge beyond the community and the project´s lifetime,3) Enhancing the communication & dissemination strategy,4) Developing the long term capitalization tool ensuring evidence based policy enforcement.The activities ensure an active community of Mediterranean actors meant to overcome sectoral borders by integrating knowledge, allowing a better informed multilevel decision-making and management of biodiversity.The MBPC facilitates multisectoral dialogue with the scientific community to ensure an effective policy-management-science interface in the Mediterranean related to biodiversity protection and sustainable development. It pursues the long term strategic goal of the Interreg MED programme by reaching beyond EU Member States into the whole Mediterranean basin. It aims to feed EU, UNEP/MAP Barcelona Convention and CBD policies linked to the protection of natural resources for sustainable development in Mediterranean protected areas and key ecological function units and ecosystems.",
+          "expected_results": "1 Support the network of Protected areas in the Mediterrarnean : The BPC will continue supporting an enforced and well managed PAs as powerful tools for effective biodiversity conservation and protection. It will ensure access and trainings to effective tools for proper protected area management that will enable ensuring ecological connectivity through network design and best practice management. The BPC also ensures an uptake of these main findings by regional policies to support them reaching their targets to 2020 and to prioritise their policy aspirations beyond 2020.1 Support the network of Protected areas in the Mediterrarnean : The BPC will continue supporting an enforced and well managed PAs as powerful tools for effective biodiversity conservation and protection. It will ensure access and trainings to effective tools for proper protected area management that will enable ensuring ecological connectivity through network design and best practice management. The BPC also ensures an uptake of these main findings by regional policies to support them reaching their targets to 2020 and to prioritise their policy aspirations beyond 2020.2 Using en Ecosystem-Based Approach for ecosystem management : The BPC will also continue working beyond protected areas with an ecosystem approach to help addressing transboundary impacts such as pollultion including plastic and oil as well as to support better adaptation and mitigation to climate change effects. It prioritises actions in sensitive areas for the declaration of new Protected Areas using factors of ecological sensitivity and function are key criteria for the selection.",
+          "achievements": "The MBPC moved forward in the implementation of activities and considerations for changes till the end of the project.WP1: The LP coordinated activities and advised in WP and WG actions according to their responsibilities. Common file structures for docs continue. Online MSTeams, Skype and Zoom meetings are organized among the partners, with one Steering Committee set for Jan. \n\n2022. MBPC partners participate to JS and PANORAMED meetings. New features were tested for the MBPPK platform (storymaps). Partners contributed to reporting.WP2: The MBPC project was promoted in target events, e-news, social media and capitalization, transfer and capacity building workshops. Coordination with MPs is sought including active involvement in co-designing events and publications i.e. Tools Catalogue, story maps. Visual and gamification materials were developed i.e. videos, press release for the MoU with Pelagos and social media campaigns. MBPC partners participated in 21 events and played leading roles during some MPA Forum sessions in Monaco, IUCN WCC in Marseille and BCN COP in Turkey.WP3: Community building continued with 5 WP3 partners meetings to support the companionship process to ongoing MPs. The report of the WS on marine litter and MPAs in Montenegro in June with PlasticBustersMPAs was published. Capacity and community building were promoted via WP4/5 events. From a topic point of view, WG1 had online events on transboundary governance, WG2 had 1 best practice transfer webinar on “River/Wetland Contracts”: the experience of Tune-up; and WG3 collaborated with HPs for joint documents, and worked on Mediterranean wetland ecosystem (spatial) knowledge base with other institutions (Tour de Valat, EKBY, WWF Greece, MedWet,...)WP4: Events continued adapting to COVID with hybrid events and changes in international agendas. The EBM MSP on-site Venice workshop planned was finally cancelled and reshaped as part of the Euro-Med Academy MBPC module. An Adriatic-Ionian workshop on transboundary governance was held online in July and the report published, with a presential event delayed to Spring \n\n2022.WP5: The report of EUGreenWeek event on pollution, health and biodiversity was published, 2 side events and 3 sessions were led by MBPC partners during the MPA Forum and 1 campus session with the Sustainable Tourism community at the IUCN WCC. MP participation was promoted. The MBPC partners participated in collaborative events to present the community and achievements.",
+          "expected_outputs": "Transferability plan :1, Policy paper :1000000, Targeted community building and capacity building workshops :20.",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Intégration des efforts de gestion de la biodiversité pour la durabilité environnementale",
+          "description": "\"PANACeA 2\" est un projet horizontal “Maintenir la biodiversité et les écosystèmes naturels en renforçant la gestion et la mise en réseau des aires protégées”. Il s’appuie sur les réalisations pour accroître l’impact des projets thématiques par le biais d’activités spécifiques:1) synthétiser et transférer les résultats des efforts de protection des écosystèmes;2) engager une communauté de parties prenantes et transférer les connaissances au-delà de la communauté et de la vie du projet,3) améliorer la communication et la diffusion,4) Développer l’outil de capitalisation garantissant l’application des politiques sur des bases factuelles.Les activités assurent une communauté d’acteurs méditerranéens censés surmonter les frontières sectorielles, permettant une prise de décisions à plusieurs niveaux et une gestion de la biodiversité mieux informées. Le projet facilite le dialogue multisectoriel avec la communauté scientifique afin d'assurer une interface politique-gestion-science en Méditerranée, en rapport avec la protection de la biodiversité et le développement durable. Il poursuit l'objectif stratégique à long terme Interreg MED en s'étendant au-delà des États membres et dans l'ensemble du bassin méditerranéen. Il vise à alimenter les politiques de l'UE, de la Convention de Barcelone / PNUE et de la CDB en matière de protection des ressources naturelles dans les aires protégées méditerranéennes et les unités de fonctions écologiques et écosystèmes clés.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23482,
+      "acronym": "SMARTMED",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Empower Mediterranean for SMART Tourism",
+          "description": "SMARTMED will address key MED region challenges in the development of smart, inclusive and sustainable tourism, primarily due to high seasonality and lack of cooperation among key sector stakeholders. The lack of a long-term vision for the destination future and disconnection between tourism and wider territorial development, embracing local infrastructure development, labour market policies, business support environment, spatial planning and social cohesion policies decreases the attractiveness of the region for innovative business in tourism and has led to a heavily seasonal labour market, unable to attract talented individuals as well as putting great pressure on natural resources, local infrastructure and public services. Common territorial features, a homogenous destination image and similar socio-economic patterns require joint action and a single approach to the challenges posed by current tourism development in the region. SMARTMED will contribute to the development of an attractive, smart and inclusive MED destination, maintaining its leading position through coordinated policies and capable public and private sector stakeholders. This will be achieved by enhanced, more structured cooperation empowering multi-level stakeholders to develop and deliver integrated tourism policies and innovative solutions for smart MED destinations through an new business model, supported by a permanent collaborative stakeholders platform for cross-sectorial cooperation.",
+          "expected_results": "1 Establishment of Mediterranean tourism cooperation as a common platform for joint action : This will contribute directly to ensuring Capacity building for the empowerment of relevant actors in the tourism sector. The capacities of regional/local public and private stakeholders in MED countries will be strengthened to implement new business models and foster cross sectorial cooperation such as public private partnerships.This will directly foster cooperation along local tourism value chain to prepare MED tourism stakeholders for new demands of future tendencies and to target the global market proactively1 Establishment of Mediterranean tourism cooperation as a common platform for joint action : This will contribute directly to ensuring Capacity building for the empowerment of relevant actors in the tourism sector. The capacities of regional/local public and private stakeholders in MED countries will be strengthened to implement new business models and foster cross sectorial cooperation such as public private partnerships.This will directly foster cooperation along local tourism value chain to prepare MED tourism stakeholders for new demands of future tendencies and to target the global market proactively2 Strengthen capacities of all involved stakeholders in tourism business and policy making : This will contribute directly to ensuring Capacity building for the empowerment of relevant actors in the tourism sector. The project will create the fundaments for the development of human resources and skills in tourism of the MED area, with particular attention to the needs of local inhabitants, and provide targeted education and training measures to enhance a high quality and innovative tourism offer, which in turn will ensure the retention of qualified human resources. The targeted trainings will be developed to empower tourism entrepreneurs in digital skills and develop new skills in destination management and sustainable tourism, in line with the SMART Tourism Business Model. The trainings will be strictly linked to the initiatives to be tested in the pilot actions, as they are intended to stimulate entrepreneurs and start-ups in delivering an innovative tourist offer, while reinforcing business capacities in the sector.3 Reinforce the competitiveness of Med Destinations through the development and testing of a transferable and sustainable SMART Tourism Business Model. : The design, testing and assessment of a transferable SMART Tourism Business Model for the MED region will contribute directly to ensuring capacity building for the empowerment of relevant actors in the tourism sector. It will provide regional and local stakeholders with a tested business model and tools for innovative and sustainable tourism development that can roll out the experiences and best practices of the SMARTMED pilots.",
+          "achievements": "Most of the project activities in this reporting period were focused on the implementation of the WP\n\n4. As reported in previous Project Progress Report, Turismo de Portugal as responsible partner for the coordination of WP4 proposed to all partners that LP should take over the coordination of WP\n\n4. This change was accepted by partners and then followed with the budget modification. As WP4 coordinator, LP finalized the following deliverables in this reporting period: -\tD\n\n4.\n\n5.\n\n1. Training course material-\tD\n\n4.\n\n5.\n\n2. Training methodology-\tD\n\n4.\n\n3.\n\n1. Design of pilot initiatives-\tD\n\n4.\n\n4.\n\n1. Pipeline of pilot projectsBy using deliverables produced earlier, project partners worked on preparation and implementation of pilot projects. PP1, PP4, PP6, PP8 and PP12 reported their progress regarding the design and implementation of pilot initiatives. LP, PP1 and PP2 initiated activities related to WP\n\n5. They collaborated on the preparation of \n\n5.\n\n1.\n\n1. and \n\n5.\n\n3.\n\n1. In their report, PP5 reported the progress related to the WP6 activities, namely activities related to the design of the capitalization strategy and cooperation with the LP in this regard. Furthermore, PP3 reported that specifications for a benchmark of the platforms and websites have been drawn up and several corresponding coordination meetings were organized. In parallel with the implementation of the WP4, projects partners, according to their roles and responsibilities, implemented some activities from the WP\n\n2. This was referred to the project communication activities and participation at networking events, coordination meetings, external events, etc. Information on the overall progress of the project is regularly published on the website and social media channels. 5th Steering Committee was held as hybrid event on November 16, \n\n2021. in Barcelona. Steering Committee was organized online as well.At the SC meeting project partners agreed on 6-month project extension. LP submitted the request, and it was approved in January \n\n2022. New project end date is 30 September \n\n2022.Steering Committee unanimously adopted the following deliverables: D\n\n4.\n\n1.1, D\n\n4.\n\n1.\n\n2., D\n\n4.\n\n1.3, D\n\n4.\n\n1.4, D\n\n5.\n\n1.1, D\n\n5.\n\n3.\n\n1.Most project partners submitted and prepared their progress reports (reports form PP9, PP10 and PP11 were missing).",
+          "expected_outputs": "Empowerment events to establish key areas for the development of tourism competitiveness and innovation in the MED region :50, Identification of stakeholders’ networks :20, Networking events for regional/local stakeholders :50, e-learning platform :10, Final Advocacy/Capitalisation Event :20.\n",
+          "delivered_outputs": "Number of stakeholders (structures) involved in supported initiatives (per category representing public and private stakeholders), Expenditures declared to the EC for Axis 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de stakeholders (structures) impliquées dans initiatives soutenues (par représentation de catégorie d'organisations publiques et privées), Dépenses déclarées à la CE pour Axe 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23481,
+      "acronym": "BLUE DEAL",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Blue Energy Deployment Alliance",
+          "description": "The MED area will include Blue Energy (BE) in maritime planning and governance, thanks to BLUE DEAL project. Given the early stage of BE technologies, proper information to deliver consistent strategies, plans and regulations in the BE sector are still missing; this often compromises public-private initiatives for exploiting marine renewable energy and discourages investments.Scope of BLUE DEAL is to overcome current technical and administrative restrictions for BE deployment and define proper requirements and procedures to support decisions and guarantee compliance with regulatory, environmental and social constraints. Based on outputs from the Interreg MED MAESTRALE and PELAGOS projects, BLUE DEAL foresights a series of transnational Labs to involve multi-sectorial stakeholders, perform participative planning processes and establish public-private alliances through open innovation actions. Project partners will share their interdisciplinary expertise, develop demonstrations in target regions and release feasible visions of prosperous and sustainable coastal development.For mainstreaming and capitalisation, BLUE DEAL will determine a policy oriented Joint Plan for portability, addressed to decision makers to introduce BE in regional and national strategies, and a market oriented Transfer Protocol, addressed to SMEs and investors to support business and entrepreneurship. Let’s make a BLUE DEAL!",
+          "expected_results": "1 Transnational Alliance of multi-level maritime Clusters : BLUE DEAL will establish 9 Regional Alliances in involved regions/countries - Cyprus, Malta, Crete (EL), Latium and Tuscany (IT), Comunitat Valenciana and Andalusia (ES), Croatia and Albania - and 1 Transnational Alliance as interconnected networks of quadruple-helix stakeholders including SMEs, public administrations, research and technical institutions, civil associations. These innovative public-private clusters, open to the citizens’ involvement, will offer their members a consolidated mix of activities, transnational tools for internationalisation, including 3 out of 5 services: Capacity Building, Financial Opportunities, International Cooperation and Networking. The MAESTRALE webgis and outputs will be the basis for activities of knowledge transfer and capacity building in the BE sector at both regional and transnational level, through the new BLUE DEAL labs and through coordinated activities with MED stakeholders. The Cluster portal developed by PELAGOS will be upgraded to a higher level as a virtual market place, including a BE market database, to permit Cluster members to promote their activities and technological priorities and to identify business opportunities and strengthen competitiveness. This opportunity will be experienced also within the BLUE DEAL Labs.1 Transnational Alliance of multi-level maritime Clusters : BLUE DEAL will establish 9 Regional Alliances in involved regions/countries - Cyprus, Malta, Crete (EL), Latium and Tuscany (IT), Comunitat Valenciana and Andalusia (ES), Croatia and Albania - and 1 Transnational Alliance as interconnected networks of quadruple-helix stakeholders including SMEs, public administrations, research and technical institutions, civil associations. These innovative public-private clusters, open to the citizens’ involvement, will offer their members a consolidated mix of activities, transnational tools for internationalisation, including 3 out of 5 services: Capacity Building, Financial Opportunities, International Cooperation and Networking. The MAESTRALE webgis and outputs will be the basis for activities of knowledge transfer and capacity building in the BE sector at both regional and transnational level, through the new BLUE DEAL labs and through coordinated activities with MED stakeholders. The Cluster portal developed by PELAGOS will be upgraded to a higher level as a virtual market place, including a BE market database, to permit Cluster members to promote their activities and technological priorities and to identify business opportunities and strengthen competitiveness. This opportunity will be experienced also within the BLUE DEAL Labs.2 Common instruments to transfer policies and support new Clusters : BLUE DEAL Alliances will allow to exchange experiences, transfer knowledge, promote inter-sectorial interactions, identify and mainstream best practices and disseminate results. They will adapt the results obtained into MED context to make multilevel territorial policies more inclusive for BE. Common instruments will be provided and transnationally shared, including a Transfer Protocol addressed to SMEs to support replicability and start-up initiatives and investments, and a Joint Plan for portability to mainstream BE planning practices and allow public authorities to embed BE sources potentials in Regional and National strategies, multiplying effects and opportunities. These operational tools will allow for the establishment of new Regional Alliances and of the Transnational BLUE DEAL Alliance, using the upgraded PELAGOS Cluster portal. Cluster members will cooperate to finally “make a deal” on future BE deployment in the MED area.",
+          "achievements": "In the 5th implementation period of the BLUE DEAL project, all the forecasted activities in the Application Form have been carried out. All the PPs have been engaged and actively contributed to project development and deliverables production. They were engaged in WPs through participation in the 5th and 6th project status meetings organized by the LP before the 2nd Business Forum and the Final Conference. These 2 meetings were implemented in person and let the partnership meet again in person after 2 years of web-based calls due to the COVID-19 outbreak. Timeline adaptations, budget reallocations under the 20% rule, and two AF modifications have been managed by LP during the SC meetings (4 in total).The cooperation of PPs allowed for the successful conclusion of the Open Innovation Activity and the School Contest. Under the coordination of CEEI, all PPs selected three finalists for each challenge and bring them to the 2nd Business forum (organized in Valencia on 23-25/03 by CEEI). UNISI coordinated the School Contest that ends during the Final Conference, involving around 1000 students across the Med Area. Under the coordination of INDACO2, 10 Open Days have been organized and implemented in 9 target Regions, involving 150 entities and more than 440 participants. Two issues of the Newsletter were issued and spread among all the stakeholders that expressed their willingness to receive the newsletters. PPs participated in 13 external events to disseminate the main outcomes of the BLUE DEAL project and cooperated with the Horizontal project in the Euro-Med Academy, participating in meetings and events. Some PPs edited the 2nd edition of the special Topic Frontiers in Energy Research presenting and disclosing to the scientific audience the main results of the project. Within the activities of WP2, the BLUE DEAL partnership organized the Final Conference in Ravenna, on the 18th of May within the context of the European Maritime Days \n\n2022. The activity of Capitalization (WP5) has been implemented under the coordination of CRES and led to the organization of the Capitalization Lab (March 2022), the consolidation of the Regional Alliances, and the operationalization of the Transnational BLUE DEAL Alliance (O\n\n5.1). O\n\n5.1 represents the legacy of BLUE DEAL incorporating all the relevant deliverables, and learnings. The open platform was further implemented, and now it includes a dashboard to estimate one-dimensional and multidimensional statistical indicators.",
+          "expected_outputs": "Regional BLUE DEAL Alliances :45, transnational BLUE DEAL Alliance :1, BLUE DEAL Transfer Protocol and Joint Plan for portability :2.",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Alliance de déploiement d'énergie bleue",
+          "description": "La zone MED intégrera l’Energie Bleue (EB) dans la gouvernance et la planification maritime grâce à BLUE DEAL.Compte tenu du stade précoce des technologies EB, on manque souvent des informations nécessaires pour mettre en œuvre stratégies, plans et règlements cohérents dans le secteur; cela entrave les initiatives publiques et privées et décourage les investissements.Objectif du projet est de surmonter les restrictions techniques et administratives au déploiement de l’EB et définir conditions requises et procédures appropriées pour appuyer les décisions, tout en prenant en compte les contraintes réglementaires, environnementales et sociales. S’appuyant sur les résultats des Interreg MED MAESTRALE et PELAGOS, BLUE DEAL prévoit une série de laboratoires transnationaux visés à impliquer les parties prenantes multisectoriels, réaliser des processus de planification participative et établir alliances public-privé par des actions d’innovation ouverte. Les partenaires partageront leur expertise interdisciplinaire, dérouleront actions de démonstration dans les régions cibles et produiront visions faisables pour un développement côtier durable.Pour intégrer et capitaliser les résultats, BLUE DEAL produira un Plan Conjoint pour la portabilité axé sur les politiques, adressé au décideurs politiques, pour intégrer l’EB dans les stratégies régionales/nationales, et un Protocole de Transfère orienté vers le marché, pour supporter les PME et les investisseurs. Faisons un BLUE DEAL!",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23480,
+      "acronym": "Green Growth",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Green Growth",
+          "description": "The Horizontal Project (HP) Green Growth aims to support the Modular Projects (MPs) under the Green Growth thematic of the Interreg MED Programme priority Axis 1 - Innovation. The HP Green Growth will act as a community of projects promoting a sustainable development by fostering innovation through an integrated and territorial based cooperation approach. The HP Green Growth will build upon achievements of the first phase HP SYNGGI and will further maximise the transnational replicability and capitalization potential of results. It will involve the Quadruple helix actors in Mobilisation and Mutual Learning workshops and training and matchmaking sessions to share their best practices in the field of green growth and to promote the effective transfer of concrete results into regional/national policies. The expected outcomes will facilitate the creation of multi-stakeholders shared actions plans to highlight new opportunities and to unlock market potentials. Partners and territories that represent the maximum geographical coverage, including territories from the southern shore of the MED, as well as relevant initiatives, will be engaged on effective political leverage for demand driven and territorial evidence-based policy change on green growth thematic coherent with the EU policy framework. Moreover, the project will closely collaborate with thematic communities and PANORAMED to improve governance and contribute to the Interreg MED Programme visibility and identity.",
+          "expected_results": "1 Green Growth Actionable knowledge : Production of tailored and actionable information about the community project’s results, success stories and achievements using innovative tools. Results will be disseminated to a wide audience targeting interested actors in Green Growth (i.e. public authorities, policy-makers, SMEs and clusters, society, academia etc.) in the Interreg MED cooperation territories and beyond. The community will act as a hub where projects work together to produce common results and to achieve a greater impact.1 Green Growth Actionable knowledge : Production of tailored and actionable information about the community project’s results, success stories and achievements using innovative tools. Results will be disseminated to a wide audience targeting interested actors in Green Growth (i.e. public authorities, policy-makers, SMEs and clusters, society, academia etc.) in the Interreg MED cooperation territories and beyond. The community will act as a hub where projects work together to produce common results and to achieve a greater impact.2 Transposition of project results : Provision of transferring methodologies for replication of concrete project results (tools and measures) for territorial appropriation/ownership.3 Evidence-based policies and strategies : Elaboration of demand driven policies and strategies based on the results of the projects of the community. Several thematic policy recommendations / position papers, in collaboration with Interreg MED communities, PANORAMED and other initiatives, will be created to obtain this result.",
+          "achievements": "During the 4th Reporting Period (July-December 2021), the Green Growth project managing the Green Growth Community (GGC) has been busy organising and participating in project events and networking activities as well as carrying out planned project actions. During these six months the project partners have met online in two occasions. In addition, several project partners have led online and in-person stakeholder engagement workshops engaging actors from the quadruple helix to amplify modular projects results as well as to discuss about opportunities to move towards a circular economy targeting local communities. Apart, the GGC achievements were presented internationally at the Balkan Forum and in COP22 in Turkey. GGC also organised a joint series of 2 webinars on green and circular economy practices with the Union for the Mediterranean, with support from FAO, PRIMA and ENI CBC MED. Moreover, The GGC organised a session in the 2021 Circular Week and in the Circle the MED Forum. Finally, the GGC presented its support to regions in their transition to a circular economy in the EU Circular Economy Stakeholder Platform Circular Talk and has contributed to 3 Leadership Group reflection papers. A mainstreaming in-person workshop was carried out in the Region of Aragon to present EMBRACE modular project toolkit to be applied to interested Aragonese SMEs takers. Furthermore, two thematic online webinars were organised, with contributions of the extended Green Growth Modular Projects PLUS insights. During this period, the GGC has held internal meeting with those projects twice. Additionally, online meetings with other horizontal projects were organised to discuss coordinated actions and especially, to contribute to the Interreg Euro-MED Academy development.Regarding published documents, the GGC contributed to a joint position with other communities and prepared a policy reflection paper on how the GGC outcomes contribute to the objectives of the EU Green Deal. The project has also added a new section on the website called the Euro-Mediterranean Policy Hub. Three new articles have also been published on the GGC knowledge platform, the ECESP, and REVOLVE magazine. Finally, 2 videos have been released featuring PEFMED and REINWASTE impact for the EU Regions Week.Finally, a project budget reallocation and project extension until October 2022 was requested and approved. GGC also contributed to the new mapping of results and activities requested by the JS.",
+          "expected_outputs": "GG value chains activation :1, Enterprises involved in transfer actions for GG opportunities :100, Clusters involved in transfer actions for GG opportunities :2, SMEs involvement in the project consortium :1, Policy paper :1.",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "Le Horizontal Project (HP) Green Growth, vise à soutenir les Modular Projects dans le cadre de la thématique « Green Growth » de l’Axe prioritaire 1 du programme Interreg MED – Innovation. HP Green Growth agira en tant que communauté de projets promouvant un développement durable en favorisant l'innovation grâce à une approche de coopération intégrée et territoriale. Le HP s'appuiera sur les réalisations de la première phase de HP SYNGGI et optimisera davantage la réplicabilité transnationale et le potentiel de capitalisation des résultats. Il impliquera les acteurs de l'hélice quadruple lors d'ateliers de mobilisation et d'apprentissage mutuel ainsi que de sessions de formation et de mise en correspondance afin de partager leurs meilleures pratiques en matière de Green Growth et de promouvoir le transfert effectif de résultats concrets dans les politiques régionales/nationales. Les aboutissements estimés faciliteront la création de plans d’action partagés entre plusieurs parties prenantes afin de mettre en évidence les nouvelles opportunités et de libérer les potentiels du marché. Les partenaires et les territoires qui représentent une couverture géographique maximale, y compris les territoires de la rive sud de la région MED, ainsi que les initiatives pertinentes, seront mobilisés pour obtenir un effet de levier politique efficace en faveur de changements de politiques axés sur la demande et territoriaux sur la croissance verte, en cohérence avec le cadre politique de l'UE.",
+          "expected_results": "1 Green Growth Actionable knowledge : Production d'informations adaptées et exploitables sur les résultats, les réussites et les réalisations du projet communautaire à l'aide d'outils novateurs. Les résultats seront diffusés à un large public ciblant les acteurs intéressés par la croissance verte (c'est-à-dire les autorités publiques, les décideurs politiques, les PME et les clusters, la société, les universités, etc. La communauté agira comme une plaque tournante où les projets travailleront ensemble pour produire des résultats communs et avoir un plus grand impact.1 Green Growth Actionable knowledge : Production d'informations adaptées et exploitables sur les résultats, les réussites et les réalisations du projet communautaire à l'aide d'outils novateurs. Les résultats seront diffusés à un large public ciblant les acteurs intéressés par la croissance verte (c'est-à-dire les autorités publiques, les décideurs politiques, les PME et les clusters, la société, les universités, etc. La communauté agira comme une plaque tournante où les projets travailleront ensemble pour produire des résultats communs et avoir un plus grand impact.2 Transposition des résultats du projet : Mise à disposition de méthodologies de transfert pour la réplication des résultats concrets des projets (outils et mesures) en vue d'une appropriation/appropriation territoriale.3 Politiques et stratégies fondées sur des données probantes : Elaboration de politiques et de stratégies axées sur la demande, basées sur les résultats des projets de la communauté. Plusieurs recommandations politiques thématiques / prises de position, en collaboration avec les communautés Interreg MED, PANORAMED et d'autres initiatives, seront créées pour obtenir ce résultat.",
+          "achievements": null,
+          "expected_outputs": "Activation des chaînes de valeur GG :1, Entreprises impliquées dans des actions de transfert pour des opportunités GG :100, Clusters impliqués dans des actions de transfert pour des opportunités GG :2, SMEs involvement in the project consortium :1, Document de politique :1.",
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23479,
+      "acronym": "Renewable energy",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Capitalisation of the RES projects in the MED area",
+          "description": "ENERGY TRANSITION AS A STARTING POINT FOR A RESILIENT TERRITORIAL DEVELOPMENT IN MED AREAClimate Change is one of the most relevant challenges we face globally and especially in the MED Area. Territories will have to establish mechanisms ensuring a more resilient management of the available resources. Energy transition brings an opportunity to set new types of organisation and planning, putting citizens’ empowerment and local level administrative capacity in the center of the strategy. The Renewable Energy Community sets the basis of its second generation on the capitalisation of the Ecosystemic Transition Units in MED Region, as an alternative solution for energy transition with an ecosystemic approach, with the aim of promoting an effective integration of energy into territorial planning, and bring out new opportunities for local development. Multi-level coordination model is proposed to be developed, enhancing the coordination between all stakeholders. The objective is to ensure transferring of the \"ETUs\" model into a wide number of territories, spreading and mainstreaming the outcomes acquired into local/regional governance and policies. The aim is to prove integral solutions can be addressed through effective coordination and effective transnational cooperation within our Community and also within the MED Communities.",
+          "expected_results": "1 Increase the awareness and empowerment of territories in rural areas : In order to achieve an effective energy transition, we need to get closer scientific and technical knowledge to people. Most of the barriers detected often is the lack of acknowledge and involvement, and would be probably due to a lack of understanding technical concepts, or a lack of large scale vision. One of the main results of the Renewable Energy Project will be to increase the awareness of rural population, specially for the role this kind of territories has in climate change adaptation, and to identify their role as prosumers.1 Increase the awareness and empowerment of territories in rural areas : In order to achieve an effective energy transition, we need to get closer scientific and technical knowledge to people. Most of the barriers detected often is the lack of acknowledge and involvement, and would be probably due to a lack of understanding technical concepts, or a lack of large scale vision. One of the main results of the Renewable Energy Project will be to increase the awareness of rural population, specially for the role this kind of territories has in climate change adaptation, and to identify their role as prosumers.2 Support to energy plans, identifying their local RES potential : Application of RES Community tools through ETU in rural areas remote and periurban types.The main contribution of the project to increasing local RES production and consumption in rural areas will be to support the application and use of RES Community tools in any of the four main ETU components: energy planning, through sectoral plans; energy communities through citizens’ awareness in energy transition; energy governance through the implementation of green fiscal policies; and energy facilities through the design and implementation of microgrids, storage systems, PV Solar, etc3 Commitment of Territories to integrate the ETU model in their energy transition regulation framework : The third main result the project wants to achieve is the widest commitment of rural villages and areas to integrate the ETU model in their energy policy framework. That means that the result will be identified when the ETU model gets integrated to the territory planning through any of their strategic plans such as climate plans, urban development plans, infrastructural plans, economic development plans, etc.For that matter, the project counts to create a Charter of Commitment, where all rural territories can signed and promote.1 Increase the awareness and empowerment of territories in islands : Islands are among the first territories in the Mediterranean region that will be forced to address the impacts of climate change. To ensure islands tackle those challenges in a successful way, adequate awareness and empowerment of the local population is a prerequisite. This is because experience shows that without local ownership, sustainable energy solutions are not effectively implemented; rather, it is often the case that projects stall and investments are not realized.Hence, one of the main results of the Renewable Energy Project will be to:a) raise awareness among the local island population on the benefits of RES uptake, while addressing the link of sustainable energy with key economic activities on islands (e.g. tourism).b) empower islanders to become actively involved in local efforts to combat climate change capitalizing on the significant social capital that islands exhibit2 Support to energy plans, identifying their local RES potential : Application of RES Community tools through ETU in ISLANDS areas.A number of islands have already taken action in climate change mitigation and adaptation by developing Sustainable Energy Action Plans (SEAPs) and island SEAPs (iSEAPs) under the Covenant of Mayors and Pact of Islands initiatives respectively. Furthermore, the updated European Directives on RES, the functioning of the electricity market and energy efficiency, provide a new framework through which islands can contribute to the energy transition, namely by adopting new cooperation and financing schemes (e.g. energy communities), hosting innovative technologies (storage, smart grids, EVs) and helping meet the climate and energy targets set by their government in the National Energy and Climate Plans.Implementing the ETU model components, by capitalizing on the RES Community tools, will offer islands valuable support in their on-going efforts to accelerate their energy transition.3 Commitment of Islands to integrate the ETU model in their energy transition regulation framework : The third main result the project relates to ensuring the widest commitment of islands in integrating the ETU model in their energy transition. Since the energy transition on islands can and must be seen through the lenses of an integrated approach, namely one that maximizes synergies between energy, water, waste, transport and ICT, tackling insularity and responding to the need to use local resources and infrastructures in an optimal way, the ETU model will have to be integrated in islands’ local territorial planning horizontally, embedded in climate plans, urban development plans, infrastructural plans, economic development plans, etc.It should be stressed that Mediterranean islands are already committed to take action for their smart, sustainable and inclusive development through European initiatives, such as: · The Clean Energy for EU Islands Initiative, which foresees the decarbonisation of islands’ energy systems and economies through the development of an island-wide Clean Energy Transition Agenda,addressing three aspects: community building and stakeholder involvement, development of a de-carbonisation plan and a financing concept ensuring the implementation of the plan.· The Smart Islands Declaration, cornerstone document of the Smart Islands Initiative, currently supported by over 200 EU islands, where signatories make an ambitious call for action and commit to 10 steps through which to become smart, inclusive and thriving societies.These initiatives and the commitments foreseen in them will inform the drafting of the Charter of Commitment that the project will develop.",
+          "achievements": "The fourth progress period of the Renewable Energy project considers the activities realised between the 1st of July and 31 of December \n\n2021. This period has been characterised by the implementation of the Mainstreaming Process-ETU Initiative Flagship and special cases (follow-up of the technical support provided by modular projects to flagship cases, according to the strategy and scenarios defined in the first stage).WP MANAGEMENT -\tRegular contacts with the PP and the other partners to manage the everyday project activities (day to day management-meeting calls).-\tOrganization and implementation of the 6 SC meetings (28th& 29th of Sept. 21). -\tRealisation of the 3rd progress report. WP COMMUNICATION-\tThe animation of the project social media, news and texts for the websites of the project-\tRealisation of videos on the Flagship case and special cases with the organisation and participation to shooting sessions.-\tPANORAMED Mainstreaming meetings (04/11/21 & 30/11/21)WP TRANSFERING-\tRealisation of Thematic maps.-\tAssessment reports at 31/12/21-\tThe launch of the new Interreg MED Renewable Energy Community WebGIS (dec. 2021) -https://www.recommunitywebgis.com/-\tUpload of all the available maps on the new WebGIS platform.Participation to the launching event of the new EURO-MED Programme (02/12/21).WP CAPITALIZATION-\tOrganisation and/or participation to coaching sessions for the TU Flagship & Special cases (total 25 coaching sessions).-\tSuccessfully organized Energy Talk on October 26 2021 at EUSEW2021 to discover all the insights about the ETU Initiative FC results.-\tParticipated in EUSEW 2021 and MEDAWeek 2021, presenting the ETU Initiative and flagship cases.-\tCentral conference on sustainable construction was held on 24 – 25 November 2021 in Zagreb. Promotion of the project was organised within the Conference (panel session). -\tPresentation of the ETU Initiative to a group of territorial development organisations from Belgium (06/10/21)-\tCoordination of the “Green Living Areas” learning module organised in the framework of the EURO-MED Academy. Organisation of the contents and more precisely of the Learning Unit dedicated to a storage system in the building.Participation to:-\tJoint position paper “Strategic recommendations for sustainable use of resources in the Mediterranean built environment” and to the presentation online event (11/11/21).-\tInterreg MED RE Mapping of mainstreaming, transferring and liaising activities.",
+          "expected_outputs": "3rd Stage of Mainstreaming Process in Islands Areas :50000, 3rd Stage of Mainstreaming Process in Rural Areas :50000, Deployment of ETU models implementation criteria :1, Engagement of Regions and Sub-regions :70.",
+          "delivered_outputs": "Number of planning tools to develop energy plans including local RES, Population of islands covered by plans, Population of rural areas covered by plans, Number of models to develop action plans including local RES in energy mix, Number of regions and sub-regions engaged (through charters, protocols, MoU) in increasing share of local RES in energy mix, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Capitalisation des projects sur les énergies renouvelables dans la région MED",
+          "description": "LA TRANSITION ENERGETIQUE COMME POINT DE DEPART POUR UN DEVELOPPEMENT TERRITORIAL RESILIENT DANS LA REGION MEDLe changement climatique est l’un des défis les plus important au niveau global et particulièrement dans la région MED. Les territoires vont devoir établir des mécanismes assurant une gestion plus résiliente des ressources disponibles. La transition énergétique est une opportunité de mettre en place de nouveaux types d’organisation et planification, plaçant l’autonomisation des citoyens et les capacités des administrations locales au centre de la stratégie.La Communauté des Energies Renouvelables pose les bases de sa seconde génération sur la capitalisation des “Unités de transition Écosystémiques” (ETUs) dans la région MED, comme une solution alternative pour la transition énergétique, avec une approche écosystémique et l’objectif de promouvoir une réelle intégration de la composante énergie dans la planification territoriale et d’apporter de nouvelles opportunités pour le développement local. Un modèle de coordination multi-niveaux sera proposé, afin de renforcer la coordination entre toutes les parties prenantes. L’objectif est d’assurer un transfert du modèle “ETUs” dans un grand nombre de territoires, en diffusant et intégrant les résultats acquis dans les politiques locales et régionales et de prouver que des solutions intégrées peuvent être adoptées à travers une coordination effective et une coopération transnationale active au sein de la Communauté MED.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'outils de planification visant à développer des plans énergétiques comprenant des sources locales d'énergies renouvelables, Population des îles couverte par des plans, Population des zones rurales couvertes par des plans, Nombre de modèles pour développer des plans d'action comprenant des sources locales d'énergies renouvelables dans l'ensemble du mix énergétique, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à augmenter la part des sources locales d'énergies renouvelables dans l'ensemble du mix énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23478,
+      "acronym": "BLUE CROWDFUNDING",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Capacity Building of BLUE Economy Stakeholders to Effectively use CROWDFUNDING.",
+          "description": "Blue economy innovation in Mediterranean could be significantly improved, if more investment funds would be available. One possible solution is use of Crowdfunding (CF) but in MED area knowledge and capacities for CF are still low in comparison to North EU. Project general objective is to improve innovation capacities in blue growth sector by mainstreaming use of crowdfunding.Methodology will be adapted from Interreg Central CROWD-FUND-PORT project and Interreg MED - FINMED by LP and PP6 who were coordinator/partner in those projects.Project will deliver: \n\n1.) Capacity building of blue economy SMEs on how to use CF;\n\n2.) Transnational blue-crowdfunding cluster with developed CF services;\n\n3.) Mainstreaming the international CF trainings in business support institutions;\n\n4.) Mainstreaming policy change and recognition of using civic crowdfunding in regions.Results will be delivered by mix of 13 partners from 8 MED countries including 4 blue economy clusters/chambers, 3 crowdfunding experts, 2 academia and 4 regions. Following blue economy sectors will be reached: blue energy, maritime safety, maritime transport, maritime tourism, fisheries and aquaculture.Project ambition is to trigger change from using public funds for innovation to use crowdfunding and crowdsourcing to fund, test and validate innovative blue economy products and services. Consequently blue-economy SMEs will get better access to funding and will be able to deliver better and more innovative solutions.",
+          "expected_results": "1 Better access to funding in blue economy sector : Improved capacities for crowdfunding will lead to more raised funds for blue economy projects. Project will focus on improvement of capacities of public and private sector. Private sector (SMEs and start-ups) will receive regional crowdfunding trainings, those who will not be able to participate at the training could use \"Toolkit for blue economy alternative financing\". Business support institutions will establish \"blue crowdfunding focal points\", where direct support to SMEs will be held, specifically 13 SMEs will receive indirect support for their blue crowdfunding projects. Sustainability and high quality of blue crowdfunding support will be achieved through international \"train-the-trainer\" programme and umbrella \"blue crowdfunding cluster\". Public sector will receive comprehensive support (by Goteo, Corwdpolicy and European Crowdfunding Network) in order to adopt rules and procedures for the civic blue-crowdfunding experiment. The experiment will show possibility of combining private funds (through crowdfunding) and public funds to implement civic projects in the field of blue growth. Examples of the projects could be improvement of near-sea walking paths, cleaning of beaches, better public sea transport, etc…1 Better access to funding in blue economy sector : Improved capacities for crowdfunding will lead to more raised funds for blue economy projects. Project will focus on improvement of capacities of public and private sector. Private sector (SMEs and start-ups) will receive regional crowdfunding trainings, those who will not be able to participate at the training could use \"Toolkit for blue economy alternative financing\". Business support institutions will establish \"blue crowdfunding focal points\", where direct support to SMEs will be held, specifically 13 SMEs will receive indirect support for their blue crowdfunding projects. Sustainability and high quality of blue crowdfunding support will be achieved through international \"train-the-trainer\" programme and umbrella \"blue crowdfunding cluster\". Public sector will receive comprehensive support (by Goteo, Corwdpolicy and European Crowdfunding Network) in order to adopt rules and procedures for the civic blue-crowdfunding experiment. The experiment will show possibility of combining private funds (through crowdfunding) and public funds to implement civic projects in the field of blue growth. Examples of the projects could be improvement of near-sea walking paths, cleaning of beaches, better public sea transport, etc…2 Supporting 13 innovative products/services : Project result will contribute to the two programme result indicators \"number of SMEs directly and indirectly supported.1 SMEs will be directly as being partner in the proposal: Crowdpolicy13 SMEs will be indirectly supported by receiving support to implement crowdfunding campaigns240 blue economy stakeholders will receive trainings and capacity building on crowdfunding 13 innovative products/services in the field of blue economy will be supported with crowdfunding campaigns.Number campaigns will depend on the capacities of partners and regional blue economy priorities:- Portugal (blue energy, maritime safety): 2- Croatia (maritime transport, blue tourism): 2- Slovenia (blue growth innovations): 1 - Spain (navigation, maritime tourism, ports): 3 - Greece (blue innovation, maritime tourism): 2 - Cyprus (Maritime transport, cruise, nautical tourism, aquaculture): 3Indirect support to SMEs will also be achieved through capacity building process (participation at trainings, webinars, seminars and through services of blue-crowdfunding cluster).3 Better policy acceptance of crowdfunding : Regions and cities have difficulties in using crowdfunding because of 2 reasons: lack of knowledge and rigid rules for combining public and private funds. Project will improve knowledge of Regional authorities, who will find procedural solutions and made civic crowdfunding experiment possible. This will be important to learn that - it is possible and how it is possible - to combine public funds with crowdfunding. Based on experiences the regional mainstreaming of policies will be possible with adopted “Policy procedures for civic crowdfunding” and “Regional action plans on mainstreaming of blue crowdfunding”. Mainstreaming to the MED space will be achieved by transferring “Replicability guide on civic blue crowdfunding”, presentation of project results to S3 JRC, presentation of project results to EU policy makers and final international conference, where project results will be presented. Project results will be important as showcases for international community of coastal cities and regions beyond MED space, on how to use crowdfunding for civic blue economy proejcts.",
+          "achievements": "CHANNELLING EFFORTS TOWARDS KNOWLEDGE AND POLICY MAINSTREAMING OF PROJECT RESULTSProject partners, presenting business support institutions, focused on knowledge mainstreaming of project results related to business crowdfunding, with organization of three transnational events. First event was organized on 5th-6th of April 2022, called \"train the trainers\", where 122 participants learned about business and civic crowdfunding. Second event was Raising Crowdfunding Capacities of BLUE GROWTH community, on 27th of April \n\n2022. On-line training session was aimed to provide the fundamental keys on how crowdfunding could be used in different sectors. The Blue Growth Community and ASCAME members were invited to participate. Third event organized, was MatchMed event Barcelona, on 14th of June 2022, with the goal to present, how to multiply the impact of public-private funds through alternative finance in the Mediterranean.Project partners also continued with the work related to BLUE CF cluster, new members were invited after the train the trainers event, sustainability plan was prepared, along with the future plan of operation of focal points and invitation for cooperation to new potential organizations was made. Also Memorandum of understanding about future cooperation was signed with The Association of the Mediterranean Chambers of Commerce and Industry (ASCAME).Institutional partners (regions) were focused on policy mainstreaming of project results related to civic crowdfunding. Two key documents were finalized, \"Lessons learned and Replicability guide\", explaining the key aspects of civic crowdfunding to potential future users. Two main results were shared on following events: workshop “Cohesion Policy as a tool to boost and support entrepreneurship on islands\" organized on 23rd of May 2022 in Brusells, Belgium, on the two Study visits (Neaples and Seville) and on the meeting with S3 JRC, on 19th of May \n\n2022. Final activity, encompassing knowledge and policy mainstreaming, was implemented, as project final conference, on 15th of June 2022 in Barcelona. On the conference, we presented our project results. Our guest expert speakers presented opportunities offered by the European Innovation Council for local development (Mr. Vasileios Tsanidis - European Innovation Council), new regulation on Crowdfunding (Mr. Oliver Gajda - EuroCrowd) and possible use of crowdfunding as fund-matching (Mr. Panagiotis Kinanlis, project manager of the \"Greek Fintech Cluster).",
+          "expected_outputs": "Toolkit for blue economy alternative financing :1, Increased blue crowdfunding capacities of directly involved SMEs :1, 15 innovative blue growth SMEs ideas supported by Crowdfunding campaigns :13, Blue crowdfunding cluster :1.",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "Le manque de finances entrave l’innovation dans le domaine de l’économie bleue dans la MED, ce qui est dû à la méfiance des banques qui hésitent à accorder des crédits aux PME, l’absence d’instruments pour un financement alternatif, et la faible économie des pays MED. Le projet proposé augmentera les capacités d’utiliser le financement participatif (FP) pour l’innovation dans le domaine de la croissance bleue. La méthodologie sera adaptée des projets Interreg CEl CROWD-FUND-PORT et MED-FINMED par LP et PP\n\n6.Le projet apportera:1) La capacité des PME d’utiliser le FP de manière plus effective2) Le groupement transnational du FP bleu avec les services du FP développés3) Intégration des formations internationales des FC dans les institutions4) La politique de reconnaissance du FP pour la croissance des partenariats publics/privés. 14 partenaires de 9 pays MED travailleront avec des groupements de l’économie bleue, des experts en FP, des universitaires et des autorités locales. Il s’agit des secteurs suivants : l’énergie bleue, la sécurité maritime, le transport maritime, le tourisme maritime, la pêche et l’aquaculture.Le projet a pour ambition de passer de l’usage des fonds publics à l’usage du FP et à la production participative pour financer et valider des produits et des services issus de l’économie bleue. Par conséquent, les PME de l’économie bleue auront un meilleur accès au financement et seront donc aptes à produire de meilleures et plus innovantes solutions.",
+          "expected_results": "1 Capacités améliorées du FP pour les partenaires publics et privés : Le résultat du projet sera important pour l’indicateur du résultat du programme « nombre d’instruments opérationnels soutenus ».Un (1) instrument opérationnel sera soutenu.Pendant la période d’essai une boîte à outils sera préparée pour pouvoir augmenter les capacités du FP pour les secteurs de l’économie bleue dans la région MED. La boîte à outils sera faite sur la base des connaissances acquises dans les projets Interreg Europe Central CROWD-FUND-PORT (via LP et PP3) et FINMED (via PP6), et sera adaptée au territoire MED et aux secteurs de l’économie bleue.La boîte à outils comprendra les services suivants :-les connaissances et l’accès au marché (conseils légaux pour le FP des PME, leçons apprises pour l’usage du FP par le secteur public, soutenance des organisations de recherches et d’affaires grâce aux leçons apprises sur les plateformes en Europe Centrale, et de bonnes pratiques) ;-la création des capacités (le matériel d’entrainement pour les séminaires, des outils en-ligne) ;-les opportunités financières (le soutien des campagnes du FP pour la croissance bleue des PME) ;-la coopération internationale et le networking (l’école d’été internationale pour les PME, le séminaire international pour les responsables et les chercheurs, la création d’un groupement du FP bleu, une stratégie internationale et un mémorandum d’accord).1 Capacités améliorées du FP pour les partenaires publics et privés : Le résultat du projet sera important pour l’indicateur du résultat du programme « nombre d’instruments opérationnels soutenus ».Un (1) instrument opérationnel sera soutenu.Pendant la période d’essai une boîte à outils sera préparée pour pouvoir augmenter les capacités du FP pour les secteurs de l’économie bleue dans la région MED. La boîte à outils sera faite sur la base des connaissances acquises dans les projets Interreg Europe Central CROWD-FUND-PORT (via LP et PP3) et FINMED (via PP6), et sera adaptée au territoire MED et aux secteurs de l’économie bleue.La boîte à outils comprendra les services suivants :-les connaissances et l’accès au marché (conseils légaux pour le FP des PME, leçons apprises pour l’usage du FP par le secteur public, soutenance des organisations de recherches et d’affaires grâce aux leçons apprises sur les plateformes en Europe Centrale, et de bonnes pratiques) ;-la création des capacités (le matériel d’entrainement pour les séminaires, des outils en-ligne) ;-les opportunités financières (le soutien des campagnes du FP pour la croissance bleue des PME) ;-la coopération internationale et le networking (l’école d’été internationale pour les PME, le séminaire international pour les responsables et les chercheurs, la création d’un groupement du FP bleu, une stratégie internationale et un mémorandum d’accord).2 13 idées innovantes de la croissance bleue soutenues par les campagnes de FP : Le résultat du projet sera significatif pour deux indicateurs du programme « nombre des PME soutenues directement et indirectement ».2PME seront directement soutenues en tant que partenaires :Crowdpolicy et Aquabiotech.15 PME seront indirectement soutenues en recevant un soutien pour réaliser des campagnes de FP.270 partenaires à l’économie bleue bénéficieront d’entrainements et de renforcement des capacités pour un FP.Pendant la période d’essai, 13 PME seront indirectement soutenues par les campagnes de FP, à savoir :-Portugal (énergie bleue, sécurité maritime : 2 PME) ;-Croatie (transport maritime, tourisme bleu : 2 PME) ;-Slovénie (innovations bleues : 1 PME) ;-Espagne (navigation, tourisme maritime, ports : 3 PME) ;-Grèce (innovations bleues, tourisme maritime : 2 PME) ;-Chypre (transport maritime, croisières, tourisme nautique, aquaculture : 3 PME).Le soutien indirect aux PME se fera aussi par le renforcement des capacités (participation aux entrainements, webinars, séminaires, groupement des services du FP bleu).3 Une meilleure politique d’acceptation du FP et ses bénéfices pour la région MED : Un meilleur placement du FP dans la planification stratégique du développement régional dépend du résultat obtenu. Le projet sera dans sa phase finale au moment où se fera l’ébauche d’une Spécialisation Intelligente pour la période 2021-2027, et quand les fonds européens auront diminué à cause du Brexit. Un financement alternatif, comme par exemple le FP, peut aider les PME de combler la différence entre le développement et la commercialisation des produits et des services. Ceci est d’autant plus important pour les secteurs non-traditionnels (économie bleue), que les responsables oublient trop souvent.La stratégie MED du FP, la fiche technique de l’apprentissage et le mémorandum d’entente seront les points principaux du résultat. La phase de la capitalisation du projet et ses résultats conduiront à la multiplication des FP dans la région MED.Des activités pertinentes seront conduites par un partenaire institutionnel : Regione Campania, Regione Marche, Région de Vlore et le Réseau européen du FP. Ils pourront tester le FP par rapport au public et le financement de l’ ERDF dans le but d’obtenir des résultats dans la zone côtière de gérance intégrée (ICZM) ainsi que pour le développement régional de l’économie bleue.",
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

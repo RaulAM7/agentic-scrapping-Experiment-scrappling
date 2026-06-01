@@ -1,0 +1,405 @@
+{
+  "current": 6,
+  "next": "https://keep.eu/api/search/projects/?page=7",
+  "previous": "https://keep.eu/api/search/projects/?page=5",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 23489,
+      "acronym": "Social and Creative",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Social and creative",
+          "description": "The S&C project structures the capitalisation of the results of the former TALIA horizontal project and of the ongoing and past modular projects dealing with creativity and social innovation, financed by the Interreg MED Programme 2014-\n\n2020. The project is structured on three main strands of action (alongside Communication and Management), with the twin aim of building a shared sense of purpose within the MED Creative and Social Innovation community and promoting implementation and transferability of results through exemplary policy innovation trials:- Community Building: Following on the TALIA track and complementing previous work with modular projects and their local and transnational networks, in two new main directionswill be addressed: liaison and interaction with the PanoraMED Axis 4 project and other, thematically relevant Horizontal Projects and their target audiences.- Transferring: This notably includes the preparation of a common asset database and the organisation of a huge series of dedicated events at the local and MED levels, including a Summer School for policy makers.- Capitalisation: Particularly involving the creation of interregional working groups across the MED space, aimed at discussing and implementing the most prominent results into exemplary and reusable policy templates, thus contributing to a new wave of evidence-based policy making",
+          "expected_results": "1 Further visibility of Creative and Social Innovation as a Policy Support Tool : Thanks also to the TALIA project a MED community of CSI related stakeholders has been established and its inner vitality and capacity to interact and exchange knowledge duly fertilised and promoted. However, there still is a gap with the policy level, which is particularly relevant for the capitalisation goal of this MED programme call. In terms of stakeholder empowerment, we aim to fill in that gap by strengthening the by now little developed relations with other Horizontal Projects to some extent related with CSI topics (e.g. social innovation for behavioural change leading to a more sustainable use of energy in public buildings) and with the PanoraMED project per se. Such liaising will be finalised (above and beyond a mutual exchange of knowledge on available tools and methods) to the definition of viable application scenarios for the experimental adoption of MED project results (including TALIA’s) in real or realistic policy design and/or evaluation situations.1 Further visibility of Creative and Social Innovation as a Policy Support Tool : Thanks also to the TALIA project a MED community of CSI related stakeholders has been established and its inner vitality and capacity to interact and exchange knowledge duly fertilised and promoted. However, there still is a gap with the policy level, which is particularly relevant for the capitalisation goal of this MED programme call. In terms of stakeholder empowerment, we aim to fill in that gap by strengthening the by now little developed relations with other Horizontal Projects to some extent related with CSI topics (e.g. social innovation for behavioural change leading to a more sustainable use of energy in public buildings) and with the PanoraMED project per se. Such liaising will be finalised (above and beyond a mutual exchange of knowledge on available tools and methods) to the definition of viable application scenarios for the experimental adoption of MED project results (including TALIA’s) in real or realistic policy design and/or evaluation situations.2 Capacity building of MED policy makers in ‘Policy making 4.0’ : The hands-on, application oriented approach used in the transferring process will be particularly useful for creating the conditions for triple loop policy learning (i.e. not only getting to know why and how MED policy makers do what they do in the current policy setup, but also acquiring the technical capabilities and the strategic thinking needed to modify the state of the art and know why and how to do this too). Based on the methods and tools TALIA and other Modular/Horizontal Projects have delivered, which will be made available in a sort of “Plug and Play” One Stop Shop, we can predict that this capacity building will mostly relate to mastering new ways of integrating collective as well as artificial intelligence into new or existing policy processes. This is what we specifically call “Policy Making 4.0”, a fourth wave of decision styles after the isolated leviathan (1.0), the integration of domain experts (2.0), and the recourse to more participatory processes (3.0).3 Sharing of evidence on successful policy innovation trials : A key feature of the foreseen capitalisation process is to start by a number of pre-defined and pre-identified as promising cases whereby the integration of CSI results can prove efficient in relation to use of resources and/or effective in its transformative power. These cases will be visualised through Oriented Bayesian Nets (OBNs), with and without the addition of CSI support tools. During the project, this initial set of cases will be streamlined, thanks to the interaction with the policy group members, and lead to a smaller number of validated and practically implemented action lines. The open and inclusive nature of the proposed process as well as the transparent and easy to grasp visualisation of the cases, as allowed by the use of OBNs, will result into a shared and reusable set of innovative policy trials already validated by MED regional and local stakeholders.",
+          "achievements": null,
+          "expected_outputs": "Transfer Model :1, Stakeholders engaged :500, Working Groups :1, Policy Briefs :2, Non-financial aid beneficiaries :500.",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Sociale et créatif",
+          "description": "Le projet S&C structure la capitalisation des résultats de l'ancien projet horizontal TALIA et des projets modulaires en cours et passés relatifs à la créativité et à l'innovation sociale, financés par le programme Interreg MED 2014-\n\n2020.Le projet s'articule autour de trois axes principaux (aux côtés de la communication et de la gestion), dans le double objectif de créer un sens commun des objectifs au sein de la communauté MED d'innovation créative et sociale et de promouvoir la mise en œuvre et la transférabilité des résultats au moyen d'essais exemplaires en matière d'innovation politique:- Construction de la communauté: à la suite de la piste TALIA et complétant les travaux antérieurs avec des projets modulaires et leurs réseaux locaux et transnationaux, deux nouvelles directions principales seront abordées: la liaison et l'interaction avec le projet PanoraMED Axis 4 et d'autres projets horizontaux pertinents sur le plan thématique- Transfert: Cela comprend notamment la préparation d'un database commun sur les actifs et l'organisation d'une vaste série d'événements dédiés aux niveaux local et MED, y compris une université d'été pour les décideurs.- Capitalisation: implique notamment la création de groupes de travail interrégionaux à travers l'espace MED, dans le but de discuter et de mettre en œuvre les résultats les plus importants dans des modèles de politique exemplaires et réutilisables, contribuant ainsi à une nouvelle vague de prise de décision politique",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23488,
+      "acronym": "SHAREMED",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Sharing and enhancing capabilities to address environmental threats in Mediterranean sea",
+          "description": "The need to assess and address the increasing presence of coexisting environmental threats, that propagate in space and time also across political boundaries, calls for a transactional coordinated actions based on evidence-rooted common understanding.SHAREMED will:- engage stakeholders and authorities, and jointly define state-of-the-art and regional strategies;- collate and harmonise existing info, data and knowledge and contribute to joint production of a database of coherent data;- define common procedures and jointly produce atlas of state and hazard maps;- integrate existing observing infrastructures in a common transnational system of systems and jointly disseminate observations through common portals;- enhance forecast capabilities through development and implementation of coastal high resolution transnational systems;- explore potential of new observing methodologies;- define roadmaps, guidelines, action plans.The actions above will: - increase capability of authorities and scientific community to observe, assess and address environmental threats;- increase coherence and efficacy of assessments;- favour access and use of existing information and project joint products.The project will capitalise on knowledge provided by previous projects and existing EU infrastructures, and will contribute to the definition of long term strategies and action plans for assessing and addressing environmental threats in the Mediterranean.",
+          "expected_results": "1 Joint identification of regional strategies and roadmaps for future systems of observing systems : N/A1 Joint identification of regional strategies and roadmaps for future systems of observing systems : N/A2 Definition and implementation of cooperative frameworks for data sharing, assessment procedures, and joint production of thematic maps : N/A3 Shared portals for existing observation capabilities : N/A4 Implementation of relocatable short term forecast system : N/A5 Joint identification of regional strategies and contribution to action plan to address hazard related to environmental threats and pollution environme : N/A",
+          "achievements": "The project has started regularly, and in agreement with planned course. We had a successful kick-off meeting, participate to a few cross projects’ meetings, in order to establish links and synergies with other INTERREG MED projects, including PANORAMED and other strategic projects. We defined and launched a number of thematic working groups and 3 regional working groups. However, the beginning and progressive worsening of pandemic situation all over Europe, occurred just few months after the start of the project, heavily impacted on the project agenda, and forced us to rethink and redesigned several activities. In spite of this, we were able to keep most activities running, and reached several impornat results.From the technical and scientifical perspective, project partners were able to finalize the design and operationalization of the relocatable forecast system of physical and biogeochemical marine properties, which will be tested in the next phase in different study sites. Furthermore, several thematic working groups have began to actually work together on harmonization of protocols and data acquisition. From a “governance” perspective, a list of major players to be involved in each of the study sites has been produced, subdivided in: a) group of stakeholders engaged to identify needs and gaps from a societal and user perspective; b) group of stakeholders able to propose and suggest technical “solutions” or paths toward solutions; and c) group of stakeholders able to share infrastructure/data/manpower to meet the challenge of assessing and addressing environmental threats. The next steps will be to formalize the groups, and possibly enlarge them. Additionally, a major effort has been made in the preparation of a general capitalization meetings, in which more than 40 experts from all over the Mediterranean will share their vision, experience, and expertise gained in previous and sister projects, as well as their vision of the most successful path towards SHAREMED major objective.",
+          "expected_outputs": "Implementation of common transnational portals :9, Implementation of shared database and jointly produced Atlas :25, Implementation of coastal high resolution transnational forecast systems :10, International workshop for non-EU countries :5, Capitalisation framework at regional, sub-regional and national levels :30,Recommendations for the future transnational system of observing systems :20, Action plan on environmental threats and pollution :20.",
+          "delivered_outputs": "Number of stakeholders (structures) involved in supported initiatives (per category representing public and private stakeholders), Expenditures declared to the EC for Axis 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "Le besoin croissant d’évaluer et de traiter les menaces environnementales, qui se propagent non seulement dans l’espace et le temps mais bien au-delà des frontières politiques, appelle à des actions transactionnelles coordonnées basées sur une compréhension commune partagée.SHAREMED va:- mobiliser les autorités et les parties prenantes et définir conjointement les stratégies régionales- rassembler, harmoniser l’information, les mesures et l’existant pour la production conjointe d’une base de données cohérentes- définir des procédures et produire une cartographie des états et des menaces- intégrer les infrastructures d’observations existantes dans un système transnational et les diffuser au moyen de portails communs- améliorer les capacités de prévision par la mise en œuvre de systèmes transnationaux à haute résolution- explorer le potentiel de nouvelles méthodes d’observation- définir des feuilles de route, des lignes directrices et plans d’action.Les actions listées ci-dessus vont:- accroître la capacité des autorités et des scientifiques d’observer, d’évaluer et de traiter les menaces environnementales- accroître la cohérence et l’efficacité des évaluations- favoriser l’accès et l’utilisation des produits communs du projet.Le projet capitalisera les connaissances issues du projet et des infrastructures existantes de l’UE et contribuera à la définition de stratégies/plans d’action à long terme pour l’évaluation et la gestion des menaces environnementales en Méd.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de stakeholders (structures) impliquées dans initiatives soutenues (par représentation de catégorie d'organisations publiques et privées), Dépenses déclarées à la CE pour Axe 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23487,
+      "acronym": "Sustainable Tourism",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Sustainable Tourism",
+          "description": "Sustainable Tourism project aims to enhance the development of policies and increase the coordination of strategies between territories at interregional and transnational level regarding the development of a sustainable and responsible coastal and maritime (C&M) tourism, in line with the integrated coastal zone management and maritime spatial planning principles, through cooperation and joint planning.In particular, the project will support the mainstreaming of the MED modular projects results of axis by communication, transferring & community building, and capitalisation activities. Its objective is to set up a general framework of collaboration to facilitate the creation of synergies among modular projects, to enhance its visibility and to support the institutional uptaking of their outputs and results, mainly in the field of tourism policies and cohesion policies.The project is built upon the results of the previous horizontal project (BleuTourMED_C3) and it is managed by a sound partnership with capacity to reach the main stakeholders of the tourism sector gathering, at the same time, different expertise and profiles: sectoral European networks (NECSTouR), Mediterranean networks (Arco Latino, Adriatic Ionian Euroregion), destination management organisations (DIBA, RDA Green Karst), academic Mediterranean networks (UNIMED), Mediterranean research centre (Plan Bleu) and universities (Thessaly).",
+          "expected_results": "1 Consolidation of the MED Sustainable Tourism Community : N/A1 Consolidation of the MED Sustainable Tourism Community : N/A2 Institutional uptake of modular projects results into regional/national policies : N/A",
+          "achievements": "WP1 Project Management: Several Technical Committee meetings (online) have been held. ST has carried out the technical and financial justification for the 4th implementation period and presented the 4th Payment Claim. ST has also held several internal meetings to coordinate the partnership and the foreseen activities, has kept updating the Contacts Database and the project’s Gantt chart.WP2 Communication: ST has published news about the Community and the projects’ activities on a regular basis. The Team up Calendar has been constantly updated, several news and internal and external events have been published in the website, as we as two issues of the newsletter. An specific communication action plan for the II MED Sustainable Tourism Convention has been designed as well as different communication materials and means.WP4 Transferring: ST has updated the monitoring activities according to the Community needs and has participated in events organized by the Modular projects of the Sustainable Tourism Community. The Search the Med platform and Community’s catalogue of outputs have been updated. In terms of community building and transferring activities, an online workshop with the Community was organised on the 10th of March 2022, as well as preparatory actions towards transferring activities and transferring workshops. Furthermore, ST has promoted the integration of the Community’s results through publications in scientific journals and conferences.WP5 Capitalising: The ST has produced the timetable of capitalisation deliverables for 2022, after incorporating several new deliverables due to the extension of the project, and many deliverables have been produced and are being produced such as the Best Practices Report on Capitalisation, the MED Declaration, The handbook on how to use EU Recovery Funds and ERDF Regional Funds for the Sustainability of tourism in the Mediterranean or the MED ST Convention, the Euro-MED Academy, among others. Project partners have held bilateral meetings with stakeholders as preparatory activities for capitalisation and have participated in several events at EU and MED level, showcasing ST Community’s results to EU policy makers and regional authorities.",
+          "expected_outputs": "Development of transferring instruments for supporting tourism sustainability and responsibility:9, Development and transferring of tools in Mediterranean tourist destinations :76, Replicability of outputs at different territorial levels :15, Agreements and MoU with regional and local authorities for the mainstreaming of projects results :5, Awareness raising for policy makers about the need of developing sustainable tourism strategies and mainstreaming STC results into network members strategies. :5, Athens call for action :1.",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Tourisme Durable",
+          "description": "Le projet Tourisme Durable vise à renforcer le développement des politiques et à accroître la coordination des stratégies entre les territoires aux niveaux interrégional et transnational concernant le développement d’un tourisme littoral et maritime durable et responsable conformément aux principes de gestion intégrée des zones côtières et d’aménagement de l’espace maritime, par la coopération et la planification conjointe.En particulier, le projet soutiendra l’intégration des résultats des projets modulaires MED de l’axe par des activités de communication, de transfert et de renforcement communautaire et de capitalisation. L’objectif est de mettre en place un cadre général de collaboration afin de faciliter la création de synergies entre les projets modulaires, renforcer sa visibilité et soutenir la valorisation institutionnelle de ses réalisations et résultats dans le domaine des politiques du tourisme et des politiques de cohésion.Le projet est basé sur les résultats du projet horizontal précédent (BleuTourMED_C3) et il est géré par un partenariat solide avec la capacité de rejoindre les principales parties prenantes du rassemblement du secteur touristique avec des expertises complementaires : réseaux sectoriels européens (NECSTouR), réseaux méditerranéens (Arco Latino, Eurorégion Adriatique Ionienne), organisations de gestion de destination (DIBA, RDA Green Karst), réseaux académiques (UNIMED), centre de recherche (Plan Bleu) et universités (Thessalie).",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23486,
+      "acronym": "Psamides",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Ports small and medium alliance for sustainable development",
+          "description": "PSAMIDES links two critical blue growth sectors: Ports and coastal & maritime tourism, which combined represent the 51% of GVA, 69% of jobs and 61% of profits of the total EU blue economy, strongly concentrated in MED area.An important share of MED tourism is channelled through Ports and concentrated in coastal areas. Yet, a particularity of the MED area is the constellation of hundreds of Small and Medium sized Ports (SMP) that play a fundamental role in articulating coastal & maritime tourism, connecting the hinterland and the communities.SMP with their marinas, yachts, cruising activities and linked touristic industries are a key factor of competitiveness in the MED area. PSAMIDES objective is to optimize SMP operation and marina management by implementing innovative tools to manage tourism flows, better controlling costs, providing more services to customers and stimulating Ports ecoinnovation, reducing environmental negative externalities derived from tourist activity. PSAMIDES is built upon two axis:1)\tCreating a SMP Blue Growth Community: a transnational approach will be adopted to allow SMP creating an integrated business ecosystem supporting innovation, overcoming its limited staff and funding to identify the most effective solutions on their own.2)\tEnhancing Blue Growht Governance: setting up an effective multilevel governance tool and methodology, capitalizing management experiences that could be replicated in hundreds of Ports of the MED area.",
+          "expected_results": "1 1. Innovative solutions for a more efficient and sustainable Ports Ecosystem are tested, transferred and capitalized. : Clusters, as main partners and innovation leaders, will support SMEs through clustered services to support commercialisation and attract investments. They will be also in charge of matching Port needs and SMEs’ offer through B2B sessions, open innovation groups and a call for proposals. The selected SMEs will provide new innovative technologies and services in order to improve the ports ecosystem management and their environmental quality (reduce air and water pollution and establish a more efficient waste management system, etc).This result will be achieved through the collaboration between specialized clusters, public administrations and technological centres and ports. Three types of activities are envisaged to achieve this result: Testing: matchmaking,, B2B, consultancy vouchers, PPPs. Use of new economic models and demand driven innovation. Supporting services for private sector.Transferring: enabling the environment to facilitate the replication of pilots, specially in other small and medium Mediterranean ports and beyond.Capitalizing: i) internal: taking stock of testing results. ii) externa: identifying synergies with past and current actions that contribute to the objective of this project.This result is directly linked with the program result indicator as pilots will be used as demonstrators and innovation instrument for Mediterranean blue growth clusters and their members in their scientific and transnational activity.1 1. Innovative solutions for a more efficient and sustainable Ports Ecosystem are tested, transferred and capitalized. : Clusters, as main partners and innovation leaders, will support SMEs through clustered services to support commercialisation and attract investments. They will be also in charge of matching Port needs and SMEs’ offer through B2B sessions, open innovation groups and a call for proposals. The selected SMEs will provide new innovative technologies and services in order to improve the ports ecosystem management and their environmental quality (reduce air and water pollution and establish a more efficient waste management system, etc).This result will be achieved through the collaboration between specialized clusters, public administrations and technological centres and ports. Three types of activities are envisaged to achieve this result: Testing: matchmaking,, B2B, consultancy vouchers, PPPs. Use of new economic models and demand driven innovation. Supporting services for private sector.Transferring: enabling the environment to facilitate the replication of pilots, specially in other small and medium Mediterranean ports and beyond.Capitalizing: i) internal: taking stock of testing results. ii) externa: identifying synergies with past and current actions that contribute to the objective of this project.This result is directly linked with the program result indicator as pilots will be used as demonstrators and innovation instrument for Mediterranean blue growth clusters and their members in their scientific and transnational activity.2 2. Collaboration between Small and Medium Mediterranean Ports and their governance are improved. : The result will be achieved though the established cross-border cooperation between all actors of the ports ecosystem. A tool and a methodology focusing on the stakeholders’ involvement in the tourism sector sustainability will be the basis for this cooperation. It is expected that with the improvement of the governance, the innovation oriented culture from the clusters will reach all project stakeholders.Three types of activities are envisaged: Testing: provide instruments facilitating the links and the exchange between private and public bodies. Cooperation of the quadruple helix actors.Transferring: enabling the environment to facilitate the replication of pilots, specially in other small and medium Mediterranean ports and beyond.Capitalizing: implementing public policies for innovation, engaging all stakeholders, building capacity and empowering them. Focusing on public authorities and cluster managers for stimulating interdisciplinary and transnational cooperation.This result is directly linked with the program result indicator as the improvement of the collaboration and governance of Mediterranean SM Ports will be mainly done through the transferring and capitalization of the testing/pilots organized by Mediterranean blue growth clusters and their members in their scientific and transnational activity. This will lead to a stable Mediterranean innovative cluster collaboration in the area of blue growth, and more specifically, in maritime and coastal tourism.",
+          "achievements": "This project progress report aims at providing summary information on the main achievements for the Period November 2019 to June 2020 (first semester) - in particular, reporting progress for activities and tasks of Work packages 1 (management), 2 (Project communication), 3 (Testing), 4 (transferring).The overview on the objectives of this first reporting period takes into account the level of achievement of the project specific objective: \n\n1.1 To increase transnational activity of innovative clústers and networks of key sectors of the MED area.All partners have had a high level of involvement and participation during the first reporting period, and all them have contributed to reach the following achievements:\n\n1. Setting up of internal organizational structure, tools, roles and responsabilities to facilitate a smooth administratie and financial management, participation to six STC meetings, completion of two questionnaires in the frame of the monitoring task for the transition between modules.\n\n2. Elaboration of a communication strategy, analysis of target groups, the identification of relevant stakeholders, drafting the first press release and its dissemination to regional/national channels. \n\n3. Preparation of the description of the seven thematic topics of the pilots (innovative technologies, services, measures). The Consortium has selected seven innovative technologies to be tested to improve the ports ecosystem management and their environmental quality. In that context, target groups values to be reached during transfer and dissemination of testing results were distributed par partner. Moreover, the evaluation framework for measuring effectiveness of tchnology use was set up. Under evaluation and monitoring of testings activity (testing phase), partners have already identified methods for reaching interoperatibilty among mediterranean Ports when using particular technologies during the implementation of pilots in the coming months. In fact, evaluating all selected technologies that are to be purchased, installed and tested in SMPs and demonstrating their added value and transfer and replicability potentials are key project activities, as the identification of project findings, results and recommendations are key inputs for transferring.\n\n4. Preparatory activities for WP4 and in specific the drafting of the Call for Innovation Support Services to be launched in autumn 2020 and the design of the framework of the SMEs’ Coaching Program",
+          "expected_outputs": "Ports & SME’s self-assessment tool :1, Innovation support services for Blue Growth SMEs :50, Establishment of a transnational Mediterranean SMP community :1.",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Alliance des ports de petites et moyennes tailles pour un développement durable",
+          "description": "PSAMIDES relie deux secteurs essentiels de la Croissance Bleue : les ports et le tourisme côtier et maritime, qui, ensemble, représentent 51% des GVA, 69% des emplois et 61% des profits de toute l'Economie Bleue de l'UE, concentrée dans la zone MED. Une part importante du tourisme en MED transite par les ports et se concentre dans les zones côtières. Et la zone MED a la particularité d'accueillir des centaines de ports de petite et moyenne taille (SMP), qui sont clé dans l'articulation du tourisme. Les SMP, avec leurs marinas, yachts, activités de plaisance, sont un facteur clé de compétitivité dans la zone MED. L'objectif de PSAMIDES est d'optimiser les opérations dans les SMP et la gestion des marinas, en utilisant des outils innovants pour gérer les flux touristiques, réduire coûts, d'améliorer les services aux usagers et de stimuler l'éco-innovation dans les ports, en réduisant les impacts du tourisme. PSAMIDES a deux axes : 1) La création d'une communauté des SMP autour de la Croissance Bleue : une approche transnationale sera adoptée pour permettre aux SMP de créer un écosystème d'entreprises intégré soutenant l'innovation, en surmontant les limites en personnel et financement, pour identifier les solutions les plus efficaces.2) Améliorer la gouvernance de la Croissance Bleue : mettre en place un outil et une méthodologie de gouvernance multi-niveaux efficaces, en capitalisant sur des expériences qui pourraient être dupliquées dans d’autres ports de la zone MED.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 38,
+          "title": "Infrastructure"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23485,
+      "acronym": "SuSTowns",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "enhancing SUStainable tourism attraction in small fascinating med TOWNS",
+          "description": "The charm of the Mediterranean space resides also in the fascinating small towns which have increasingly become tourist destinations for large numbers of visitors, favouring both the development and growth of its territories. Thanks to press campaigns, fashions and youth trends, such tourist flows are gaining ever more ground. However, Mediterranean fascinating small towns are subject to the decline in fashion and notoriety by tourists. In addition, these towns are at risk of intensive exploitation of their territories and may become over-equipped with infrastructures and services whenever their tourist attraction decreases. The project aims to intervene at the peak of the growing curve of tourist flows, making sure that these towns maintain the highest tourist flows, averting any risk of alteration of their fragile ecosystems. The main expected outcomes are the planning documents to address tourism marketing to produce new methodologies and technological tools which contribute in the strategy focused on stabilizing tourism flows. Therefore, the outputs are addressed to preserve the heritage of such towns which otherwise would see their existence compromised by the effects of overtourism. The challenge of the project is to associate small towns to jointly govern these processes, avoiding that the tourist flows cause collapse of the public services for excessive anthropization. In return, the preservation of local traditions and cultural heritage, has to be ensured.",
+          "expected_results": "1 Generated planning and policy processes that will integrate diverse stakeholders’ interests and perspectives on sustainability issues : Achieving a sustainable development of tourism implies complex processes that require policy and planning to take environmental, social, economic and ecological dimensions into consideration within a long-term perspective. In addition, a multitude of stakeholder are frequently involved, often bringing with them diverse interests and goals that are not always easy to reconcile. Because of this, development processes with aims of achieving sustainable tourism often encounter dilemmas and paradoxes.As an example, to preserve the resources tourism depends on, policies and planning processes must consequently balance the aims of economic growth with concerns for the sustainable development of tourism. This is why an enhanced and collaborative governance is needed, built on the participation of civil society, local communities and institutions in setting up tourism strategies. An expected result is to provide the municipalities with adequate policy instruments, able to integrate diverse stakeholders’ interests and perspectives on sustainability issues and aimed to attract and maintain the various tourist business activities on their territory, encouraging the development of innovative services to create new jobs in this sector and to make tourists continue to enjoy tourism attractions going into the future. Thus, the small fashion towns avoid the decline of tourism and instead promote a rejuvenation of the tourist destination to enable the time-sustained tourist inflows.1 Generated planning and policy processes that will integrate diverse stakeholders’ interests and perspectives on sustainability issues : Achieving a sustainable development of tourism implies complex processes that require policy and planning to take environmental, social, economic and ecological dimensions into consideration within a long-term perspective. In addition, a multitude of stakeholder are frequently involved, often bringing with them diverse interests and goals that are not always easy to reconcile. Because of this, development processes with aims of achieving sustainable tourism often encounter dilemmas and paradoxes.As an example, to preserve the resources tourism depends on, policies and planning processes must consequently balance the aims of economic growth with concerns for the sustainable development of tourism. This is why an enhanced and collaborative governance is needed, built on the participation of civil society, local communities and institutions in setting up tourism strategies. An expected result is to provide the municipalities with adequate policy instruments, able to integrate diverse stakeholders’ interests and perspectives on sustainability issues and aimed to attract and maintain the various tourist business activities on their territory, encouraging the development of innovative services to create new jobs in this sector and to make tourists continue to enjoy tourism attractions going into the future. Thus, the small fashion towns avoid the decline of tourism and instead promote a rejuvenation of the tourist destination to enable the time-sustained tourist inflows.2 A tool for local sustainable tourism policy making found in \"Total Quality Management\" based on collaboration between private and public sta : A promising solution can be found in \"Total Quality Management TQM” which is based on collaboration between private and public stakeholders to implement cooperative strategies to promote a rejuvenation of the tourist destination and avoid the tourism decline phase faced by the fashion small towns according to the TALC (Butler 1980). The result of the project is to impact on the quality of public policies related to tourism, going to improve performance indicators through the application of TQM, which is a relatively efficient way of achieving shared sustainable solutions.The scope is to transfer business management tools to tourist policy makers. However, partners are aware that Implementing a TQM program in public sector organizations is not an easy process. For the TQM philosophy to be adopted, commitment and involvement by the private and public stakeholders must be established and well evident. TQM may require possible changes during the WP3 implementation, in finding opportunities for continuous process improvement and implementingimprovements to make public sector organizations more efficient, effective and responsive to tourism needs. With revenues becoming more scarce from political and economic impacts, the public sector needs to maximize allresources available. TQM can be a proven tool to help meet that need, provided that WP3, WP4 and WP5 are closely connected one each other in the project implementation.3 A comprehesive and transferrable policy model defined for the management of the sustainable tourism life cycle in the small fashion towns : According to the results of the Project as well as through the capitalization of the lessons learnt in the framework of other projects and initivatives carried out by the project’s partners and their stakeholders, the Project SuSTowns will define a THEUpolicy model to manage the entire tourism life cycle in the small fashion towns.On the one hand, the SusTowns pilot activities will focus on the management of the decline of the tourism, since there are no initiatives addressing this specific phase of the Tourism Area Life Cycle in the small fashion towns in islands and low density areas. The results of the SuSTowns Project pilots will provide the proper tools for the public authorities to deal with the phase of the tourism decline. On the other hand, the synergies detailed in the chapter C.3.3 provide tools for the other phases of the Tourism Area Life Cycle; for instance, the branding strategy of Borghi più belli d’italia and the construction of a unique cross-border destination in the heart of the Pyrenees in the framework of the Project (POCTEFA 2014-2020) will be capitalized as tools for the beginning and development tourism phases.By integrating the lessons of the SuSTowns pilots with the tools produced by other projects and initiative, the Project will capitalize all such learnings and synergies in a comprehensive policy model for regional, national and even international policy makers to manage the entire tourism life cycle in the small fashion towns",
+          "achievements": "Despite of the COVID-19 sanitary emergency, the PPs have been able to launch all the planned pilot actions effectively involving 19 pilot Municipalities, one more than planned in the AF.The project methodology has been updated and produced in the final version containing the lessons learnt during the testing activities in the pilot areas. The Project methodology has been produced in English and translated in Italian, Slovenian, Albanian, Spanish and Croatian.59 meetings with the Local Focus Groups (out of 36 in AF) and 23 Training Sessions (out of 18 in AF) have been organized.19 Action Plans have been finalized and submitted to the related Local Authority (out of 18 in AF).29 Tourist packages have been produced (out of 18 in AF) and 22 National Marketing Plans (out of 18 in AF).19 Evaluations reports have been produced (out of 18 in AF).Under WP4, in this period have been realized: 6 National Seminars, 6 National Training for new Municipalities, 3 Participation in International events, 3 Technical meetings have been organized involving international tourism agents. 10 MoUs have been already signed by new municipalities/public authorities interested to adopt the project methodology.A very good visibility to the project has been assured during the first 3 periods of implementation.We have achieved 57 appearances on media (100 in total during the three semesters out of 40 planned in the AF for all the project life).18 Storytelling videos have been produced during the period (21 in total during the three semesters out of 20 planned in the AF for all the project life).62 Vox Pops have been produced during the period (72 in total during the three semesters out of 100 planned in the AF for all the project life).Passing to WP1, the COVID-19 has caused a significant increase of the work necessary to coordinate the project activities. We have had to organize more coordination meetings than planned to deal with the situation. Great efforts have been assured by the Technical Committee members and by the Project Steering Committee.",
+          "expected_outputs": "Methodology to apply the TQM approach in the sustainable tourism management and governance :1, MoU signed by local authorities committing to implement the Local action plans for sustainable tourism. :18, Small MED towns covered by sustainable tourism evaluation tools :18, MoU signed by local, regional or other authorities committing to disseminate and transfer the methodology :11, Policy recommendations to capitalise the tourism model towards regional and national authorities :10, Policy recommendations to capitalise the tourism model at international level :1, MoU with regional/national authorities to capitalise the sustainable tourism model for small towns :10, MoU with transnational organizations to capitalise the sustainable tourism model for small towns :1.",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "Le charme de l'espace méditerranéen réside aussi dans les fascinantes petites villes, devenues de plus en plus des destinations touristiques pour un grand nombre de visiteurs, favorisant le développement de ses territoires. Grâce aux campagnes de presse, aux modes des jeunes, ces flux touristiques ont gagné de terrain. Pourtant, ces petites villes méditerranéennes sont soumises à un déclin de la mode des touristes. En outre, ces villes risquent l’exploitation intensive de leurs territoires en devenant sur-équipées en infrastructures et services, chaque fois que leur attrait touristique diminue. Le projet vise à intervenir au sommet de la courbe croissante des flux touristiques, pour que ces villes maintiennent les flux touristiques les plus élevés et évitent tout risque d'altération de leurs écosystèmes fragiles. Les principaux résultats attendus sont de nouvelles méthodologies et outils technologiques qui contribuent à la stratégie axée sur la stabilisation des flux touristiques. Par conséquent, les outputs sont destinés à préserver le patrimoine de ces villes qui, autrement, verraient leur existence compromise par les effets négatifs du tourisme de masse. L’enjeu du projet est d’associer les petites villes à une gestion commune de ces processus, en évitant que les flux touristiques entraînent un effondrement des services publics à cause d’une anthropisation excessive. En contrepartie, la préservation des traditions locales et du patrimoine culturel doit être assurée.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23484,
+      "acronym": "MPA Engage",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Engaging Mediterranean key actors in Ecosystem Approach to manage Marine Protected Areas to face Climate change",
+          "description": "The Mediterranean is being and will be heavily impacted by Climate Change (CC). There is a global (CBD), EU (Directive on Birds/Habitats) and Med (UNEP/MAP, MAPII, MSSD; Barcelona Convention) consensus to strengthen Marine Protected Areas (MPAs) as key tools to prevent further biodiversity loss and maintain ecosystem.Although the EU policy, MSP and MSFD, provides the framework to address CC effects, their current implementation is essentially missing. Likewise, most MPAs lack of specific adaptation plans to CC.The overall objective of MPA-ENGAGE is to promote the role of MPAs as nature-based solutions for the implementation of EcAp to CC adaptation: The QUINTUPLE HELIX (MPAs, socio-eco actors, local/regional authorities, scientists and citizens) from 8 countries will cooperate towards adapting the management of 7 Med MPAs to CC impacts. The engagement, for the first time, of citizen scientists (recreational divers) and small-scale fishery actors will be essential.The operational know-how will be capitalized and transmitted (by Trainings, Twinning &Data Sharing) to key coastal actors to develop an extremely robust and resilient strategy for success.Lastly, MPA-ENGAGE will promote a Med Policy Dialogue among an assembly of associates (scientists, MPAs, & Networks/regions). The unambiguous support to MPA-ENGAGE by organisations such as MEDPAN, RAC-SPA, UNEP/MAP, FAO; GFCM, CPMR-ICM, WWF and UfM well demonstrates the compliance with wider EU & Med strategies and policies.\n",
+          "expected_results": "1 Improved monitoring and management of MPAs to CC to build a Med MPA sentinel network for CC : MPA managers will be trained to assess the vulnerability of protected areas, implement monitoring protocols and to develop adaptation actions to CC. The adaptation plans will result from the analysis based on regional and, when possible, local climate scenarios. CC impacts on local ecosystems will be assessed and MPAs will be enhanced by actions targeting both, local ecosystems, including native endangered. Activities will also focus on building capacity and raising awareness of different local stakeholders, the general public and project partners in order to take the maximum advantage of the tools, approaches and methods that will be prepared and tested. The final aim is to improve the effectiveness of management plans of MPAs to enhance MPAs role as main pillars for coastal resilience face to CC.1 Improved monitoring and management of MPAs to CC to build a Med MPA sentinel network for CC : MPA managers will be trained to assess the vulnerability of protected areas, implement monitoring protocols and to develop adaptation actions to CC. The adaptation plans will result from the analysis based on regional and, when possible, local climate scenarios. CC impacts on local ecosystems will be assessed and MPAs will be enhanced by actions targeting both, local ecosystems, including native endangered. Activities will also focus on building capacity and raising awareness of different local stakeholders, the general public and project partners in order to take the maximum advantage of the tools, approaches and methods that will be prepared and tested. The final aim is to improve the effectiveness of management plans of MPAs to enhance MPAs role as main pillars for coastal resilience face to CC.2 Adoption of management plans to face CC in MPAs : This process will involve action learning, where concepts are tested out on the ground, refined and improved to develop good practice. Through this, MPAs will be able to measure progress towards achieving conservation objectives incorporating climate change into a more effective management, thus enhancing their performance and effectiveness. Furthermore, demonstrating success in adaptation planning though these pilots MPAs may be the necessary precursor to larger scale adaptation investments at network level and the preparation of common tools and protocols of the project will allow to facilitate this process.3 Strengthened networking of MPAs through supporting more intensive cooperation between competent public authorities and key stakeholdersStrengthened ne : The project will enable development of a framework to ensure MPAs are integrated as part of the national climate change response strategy, recognising their benefits through better management and integrating them with their surrounding coastal and seascape. Exchange workshops, trainings and seminars on risks, challenges and adaptation solutions, with the participation of different local administrations and stakeholders’ groups like fishermen (professional and recreational) and touristic sector through recreational divers will be carried out during the project in order to encourage a more integrated and co-management approach on coastal and marine planning and communicating the benefits of MPAs. Integrating climate considerations into implementation works at the local scale in the MPAs and surrounding areas will help to achieve more resilient existing Mediterranean protected areas and to federate them into consolidated networks (e.g. MEDPAN). The cooperation between MPAs will also include twining programmes between partnering MPAs and other MPAs participating in other projects, in one side, but also between other experienced MPAs (having participated in other initiatives, for instance, MPA-Adapt, Coconet, ADRIPLAN, AMAre, FishMPABlue2O…). . The adopted tools and strategies will also link MPAs with the needs of GFCM mid-term strategy (2017–2020), mitigating negative interactions between CC and local fishery, towards a durable and more sustainable development.4 Raise awareness of the role of MPAs as nature based solutions for enhancing resilience to CC and Biodiversity conservation : Increased awareness of the role of effectively managed Mediterranean MPAs as nature-based solutions among different sectors including local communities and decision-makers. This will enhance understanding of their importance to reduce vulnerability to natural and extreme climate events, the opportunities and their management respond´s needs to be effective. Moreover, it will emphasize their key role to support adaptation and mitigation contributing to wider policies and strategies.",
+          "achievements": "“Act local, think Mediterranean”. It is under this slogan the MPA Engage project started in November 2019 with a worthy goal: help Marine Protected Areas (MPA) to develop harmonised approach to set efficient adaption action face to climate change with the participation of 14 partners and 3 capitalisation boards. Beyond supporting local adaptation strategies the project intend to contribute to put MPAs at the frontline of adaptation to the global climate emergency.In May and June 2020, MPA Engage organised a first series of webinars destined to MPA stakeholders that focus on monitoring the CC impacts, assessing their ecological and socio-economic vulnerability, and how to engage the local communities through citizen science actions. They presented stakeholders with concrete tools, protocols, and ready-to-use material. Thanks to an efficient communication campaign, theses webinars were quite a success, with more than 400 participants. In order to maximise their impact and sustainability, all the webinars were recorded and the corresponding videos as well as related material and tools are now available online.At the end of July, the first in the field “Engage Citizen Science” event was organised in the MPA of Tavolara (Italy). It involved researchers and the staff of the MPA but also instructors of diving centers “citizen scientists” that volunteered to take part in the testing of strategies and monitoring protocols as scuba divers. Through their engagement, they become a pillar for engaging recreational divers towards the monitoring of CC impacts.Raising awareness and involving people is an essential part of the MPA-Engage project. We organised the 1st Instagram photo contest “4 pictures, 4 Mediterranean”. To enter the contest, participants were asked to share photos in their Instagram profile illustrating MPAs’ natural values, MPA’s history, global warming impacts, and actions for the conservation of the Mediterranean Sea. The winners of the local and international rounds are to be rewarded and their photos will get the opportunity to be part of a collective exhibition to be exhibited at the MPAs as part of the raise awareness .MPA-Engage already possesses its own website on the Interreg Med Platform. To learn in real time about our ongoing and future events, you can also follow our social network accounts on Twitter, Facebook and Instagram.",
+          "expected_outputs": "D.8. Joint Vulnerability assesment Plans :2.\n\nD.8. Joint Monitoring Plan in the MPAs :1.\n\nD.8. Joint Citizen Science involvement plan in the MPAs :1.\n\nD.8. Joint Participatory Approach in the MPAs :1.\n\nJoint  Adaptation Plan to Climate Change :1\n\nD. Local Governance and adapation plan to CC :7.\n\nNumber of partnering Marine Protected Areas :7,Surface of partnering Protected areas (Ha) :105384, Budget spent to enhance nature conservation and protection in the Mediterranean :3049783, Number of associated Marine Protected Areas :7, Surface of associated Protected areas (Ha) :187677.\n",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "La Méditerranée est et sera fortement touchée par le changement climatique (CC). Il existe un consensus mondial (CDB), UE (Directive sur les oiseaux et habitats) et Med (UNEP/MAP, SMDD; Convention de Barcelone) visant à renforcer les aires marines protégées (AMP) en tant qu’instruments essentiels pour protéger la biodiversité. Bien que l'UE, MSP et MSFD, fournisse un cadre pour traiter les effets du CC, leur mise en œuvre actuelle fait essentiellement défaut. De même, la plupart des AMP n’ont pas de plan d’adaptation spécifique au CC.L’objectif général de MPA-ENGAGE est de promouvoir le rôle des AMP comme solutions basées sur la nature pour la mise en œuvre de l’EcAp dans l’adaptation au CC: les acteurs de la QUINTUPLE HELIX (AMP, acteurs socio-éco, autorités locales/régionales, scientifiques et citoyens) de 8 pays coopéreront pour adapter la gestion de 7 AMP méditerranéennes aux impacts du CC. L'engagement, pour la première fois, de citoyens (plongeurs récréatifs) et d'acteurs de la pêche artisanale sera essentiel.Le savoir-faire opérationnel sera capitalisé et transmis (par le biais de formations, de jumelages et de partage de données) aux principaux acteurs. Enfin, MPA-ENGAGE va promouvoir un dialogue politique auprès des associés (scientifiques, AMP et réseaux/régions). Le soutien sans équivoque apporté à MPA-ENGAGE par MEDPAN, RAC-SPA-UNEP/MAP, FAO, CGPM, CPMR-ICM, WWF, UpM et PANACEA montre bien l’ampleur stratégique et politique au-delà de l'UE et de la Med.\n",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

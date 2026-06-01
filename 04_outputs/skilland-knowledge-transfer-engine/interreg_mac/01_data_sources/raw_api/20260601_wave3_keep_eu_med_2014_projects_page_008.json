@@ -1,0 +1,421 @@
+{
+  "current": 8,
+  "next": "https://keep.eu/api/search/projects/?page=9",
+  "previous": "https://keep.eu/api/search/projects/?page=7",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 23477,
+      "acronym": "Blue Growth",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Blue Growth Community - Capitalization & Communication project for Blue Economy Innovation in the Mediterranean",
+          "description": "Interreg Med promotes horizontal projects, which main objective is to ensure the communication/capitalisation activities of modular projects in order to increase their impacts towards common identified targets and “increase the transnational activity of innovative clusters and networks of key sectors of the MED area\" (S.O.. With a specific focus on non-financial support to SMEs, BG therefore proposes concrete activities to enhance the capitalization nature of this second phase, going beyond the reinforcement of the cross-cutting and integrated approach between modular projects and transnational key stakeholders. BG enhances the dissemination and transferability of modular projects results to ensure stronger, wider and deeper capitalization, mainstreaming and strategic liaising processes aimed at external multilevel stakeholders, allowing a better take-on of technical modular projects results into policy-making at a multi-level governance scale, and benefitting the further development of the blue economy and entrepreuneurship notably for SMEs. These actions also keep contributing to the sustainable socio-economic development of the Med area through innovative investments in the Blue economy, while ensuring a close communication and coordination with PANORAMED as with key on-going Mediterranean strategies and initiatives (WestMed, BLUEMED...). The results will reach not only the projects and programmes scales, but also beyond, at the Member States & Mediterranean levels.\n",
+          "expected_results": "1 Consolidated Bue Growth Community : The already settled Blue Growth Community will be enriched with new members so enhancing its transnational and multilevel nature. The set of joint activities/ services offered by the community to its members will enhance its role in the Med and EU context.1 Consolidated Bue Growth Community : The already settled Blue Growth Community will be enriched with new members so enhancing its transnational and multilevel nature. The set of joint activities/ services offered by the community to its members will enhance its role in the Med and EU context.2 Capitalized results on Blue Economy : The capitalization process will result in a tailor-made system able to meet the end-user needs in the 5 pillars of Blue Growth. Being the context of this project linked to economic targets, the community will address policy makers as well as business actors in its capitalization activities.3 Innovated services and knowledge offered for fostering the Blue Growth in the Mediterranean regions : Following the transferring process a number of innovative services and tools and updated knowledge will be available for the members of the community and beyond. The open knowledge platform will offer to the members: - possibility to network (with same functionality as a social media); - classification of expertise present within the community (i.e the members - internal and external - can upload their relevant CV or short profile under the 5 pillars and eventually also relevant organizations can upload their profile and role in the BG);- systemization of the produced knowledge under the 5 pillars through a smart index.Other outputs will be available beyond the platform.",
+          "achievements": "During this 1st period, all partners were committed for the set up & implementation of activities of all WPs. As for the WP1, the LP and all partners cared the administrative issues for the start up of the project . The kick-off meeting (Marseille, December 2019) has been organized for the set up of the SC and the approval of the SC rules, later on another SC meeting (Montpellier, February 2020) has taken place and many periodical coordination meetings (Skype or on-site) for ensuring the project smooth internal coordination. As for the other WPs, in general, in this first period a special attention was given to the action plans & strategies' elaboration for the effective implementation of the project.As regards WP2, special attention has been dedicated to the elaboration and discussion of all strategies linked to Communication. Communication activities such as the production of press releases and their publications, of templates, pictures, the production of the first video, the use of social media project accounts, have been implemented by the CM with the collaboration of all partners. As for WP3, a special attention has been dedicated to the elaboration of the Community building strategy and to the creation of the Knowledge Sharing open platform (marina-platform). Very important for the start-up of the project has been the organization of the 1st Annual Assembly event (Montpellier, February 2020), by changing the planned place (from Rome to Montpellier) for favoring the combination of the event with the political bureau of CPMR and increasing the chance to engage more regions in the community. As for the extra community activities, the BG project has promoted and/or participated to several initiatives with other HPs, Panoramed and JS, including the MED coordination mechanism meetings (in Madrid in February 2020 & online) and many other online meetings. The active participation (with live presentations) in Intra-thematic community building group activities (Task \n\n3.\n\n2.2) in the occasion of the kick-off meetings of the MPs and SP has been guaranteed by the partnership. As for WP4 the partners cared the elaboration of the Interaction Plan and the setup of the Advisory Board.As for WP5, the partners have cared the elaboration of Mainstreaming guidelines and Strategic liaising plan.",
+          "expected_outputs": "Transferring methodology :1, Final report on transfer modalities :1,Transfer-trainings :15, Streamlining common capitalization tools and topics :5, Strategic liaising :50, Efficient advocacy and lobbying:5, Enterprises receiving grants :1.",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Blue Growth Community - Projet de capitalisation et de communication pour l'innovation dans l'économie bleue en Méditerranée",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Methodologie de transfert :1, Rapport final modalités de transfert :1, Transfert-formation :15, Rationalisation des outils et sujets de capitalisation :5, Liaisons stratégiques :50, Représentation d'intérêts efficace :5.",
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23476,
+      "acronym": "Efficient Buildings",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Efficient Buildings",
+          "description": "As a MED hub for Energy Efficiency (EE) innovative and shared solutions, the Efficient Buildings Community will anchor a MED community around energy issues that public organisations face in order to promote modular projects’ outcomes and increase their impact on public policies.Indeed, in the MED area, the majority of public buildings is not adequately designed to reduce their energy consumption and improve their EE performance. This is partly due to a lack of awareness of owners and managers and knowledge gaps regarding common answers to this transnational challenge.By establishing a joint transnational framework around energy efficiency in public buildings to propose solutions to energy issues faced by public organizations in the MED area, the Efficient Buildings community will contribute to increase the capacity of owners and managers of public buildings to design and implement better energy efficiency practices.On the other hand, the Efficient Buildings Community will promote its results at national and EU levels to influence policies and call for new national and European regulatory framework that take into account MED specificities and the innovative solutions proposed by the community.",
+          "expected_results": "1 Policy Harmonization : The EB project will enable to achieve a greater public policy harmonization regarding the energy efficiency in public buildings issues specific to the Mediterranean. Indeed, it will build on the technical papers and two Policy papers developed in the Framework of the MEDNICE project, following the modular projects results' systematization, to develop fruitful EU and regional advocacy campaigns. National policy debates will be organized as well. With these actions, it will facilitate the policy harmonization in the countries of the northernshore of the Mediterranean.1 Policy Harmonization : The EB project will enable to achieve a greater public policy harmonization regarding the energy efficiency in public buildings issues specific to the Mediterranean. Indeed, it will build on the technical papers and two Policy papers developed in the Framework of the MEDNICE project, following the modular projects results' systematization, to develop fruitful EU and regional advocacy campaigns. National policy debates will be organized as well. With these actions, it will facilitate the policy harmonization in the countries of the northernshore of the Mediterranean.2 Replication : The EB project, through its living labs (EBLL) and the twinnings activity, will ensure the replicability and replication of good practicies and the use of innovative technical, management or governance Tools on new territories.the north shore will be favored as it is the programme territory but links with the South bank will be made because the challenges faces due to climate change in general and energy efficiency in buildings in particular are shared by both banks and solutions have to be shared as well.",
+          "achievements": "During the third reporting period the City of Nice, as Lead Partner, carried out the following activities:- Steering Committee Meeting held on 26/02/2022- Regular monthly Conference Calls back to back with Communication Calls led by CMCC and ADENE.The LP undertook the usual administrative, technical and financial management of the project activities and prepared and submitted the fourth period progress report. The payment claims were submitted on 31 March \n\n2022.Under the coordination of IREC all partners contributed to the quality assurance methodology and produced quality assurance reports for the deliverables.Work also continued on the implementation of the EBLLs (Greek, Portuguese).Energy Cities led the North South city partnerships. Energy Cities oversees 3 of the 6 partnerships and was able to organise a first in person partnership meeting for each of the three during this period.All 3 partnerships met 3-4 times for an online exchange before the partnership meeting took place. Mostar (BA) and Karşiyaka (TR) met from 11-13 May in Mostar, Potenza (IT) and Mostaganem (DZ) from 21-23 June in Potenza. Both meetings included site-visits of pilot projects, both retrofitted public buildings and RES (integrated) installations, discussions with local stakeholders and time to exchange on the PrioritEE respectively the Impulse Toolbox. In Mostar, the programme also included a reception with the lord mayor, while in Potenza earthquake safety was a special topic. The LP organised a Joint Euro-Mediterranean Workshop with meetMED and SEACAP 4 SDG projects, as part of the activity \n\n5.6 (Synergies with Euro-Mediterranean institutions). It was the 7th webinar, and presented a panorama of replicable tools and methodologies to the attention of local authorities, as well as local, regional and national energy agencies around the Mediterranean basin. The series of 8 webinars was completed on 01/03/22 by the last one on EE in schools organised by UPatras and CRES. The second EU breakfast was co-hosted online by EuroACE /Renovate Europe on \"Enabling conditions for building renovation in the Mediterranean area”, crossing perspectives from the local level, the construction sector and the policy side. The Greek national parliamentary debate was held on 15/03/\n\n2022. CRES also produced the technical paper providing quantitative support to the Joint Position Paper.CMCC, IREC and ENEA continued contributing to the Green Living Areas module of Euromed Academy.",
+          "expected_outputs": "Stakeholders involvement in Efficient Building Living Labs and Networks activitie :1200, National and regional policy change. :15, Strong liaison with JS, PANORAMED, existing platforms and institutions in the MED area :15.\n",
+          "delivered_outputs": "Number of available planning tools to monitor and manage energy consumption in public buildings, Number of strategies supporting plans on energy consumption management for public buildings, Number of target groups participating in capacity raising activities on energy efficiency for public buildings, Number of regions and sub-regions engaged (through charters, protocols, MoU) in developing energy efficiency plans/strategies, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d'outils de planification disponibles pour le suivi et la gestion de la consommation énergétique dans les bâtiments publics, Nombre de stratégies en faveur des plans de gestion de la consommation énergétique dans les bâtiments publics, Nombre de groupes cibles participant aux activités de sensibilisation sur l'efficacité énergétique pour les bâtiments publics, Nombre de régions et sous-régions engagées (par le biais de chartes, protocoles, MoU) à développer des plans/stratégies d'efficacité énergétique, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 10,
+          "title": "Construction and renovation"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23475,
+      "acronym": "INCIRCLE",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Support INsular and low density areas in the transition towards a more CIRCuLar tourism Economy",
+          "description": "Natural resources in vulnerable MED tourist territories, such as islands and scarcely inhabited areas, are at stake. The carrying capacity of such MED destinations is often counterposing interests of tourist stakeholders and local communities. A joint response and a shared methodological framework to policy making are required in tackled territories, to seize the sustainability challenge, especially in terms of an improved and integrated sustainable tourism planning to preserve and valorise non-renewable resources.INCIRCLE will build up on previous projects, capitalising knowledge and available tools to test a new methodology that will apply the principles of circular economy to the tourism sector, with a focus on the peculiar needs of islands and low density areas. \n\nINCIRCLE tailored policies will address mobility, energy efficiency, use of limited resources as water and waste production, while enhancing community prosperity and quality of life.Durable and easily adaptable outputs are envisaged to provide MED decision makers with concrete tools and testing opportunities to improve their capacity in terms of assessing and planning sustainability in territories where resources are already scarce, to disclose new funding and concrete replication opportunities, establishing a critical mass for a MED sustainable and circular growth. Capitalization activities will replicate activities in further territories and mainstream results in regional, national and European policies.",
+          "expected_results": "1 Increased number of policies on sustainable tourism, leading naturally vulnerable MED areas to undertake strategies and plans based on CE principles. : INCIRCLE aims at empowering the knowledge of decision- and policy-makers on the cross-cutting thematic of CE and the positive outcomes that its principles (rethink, reduce, reuse and recycle) can generate when applied in favour of sustainability. Project targets, being islands and low density areas, suffer from an increased scarsity of natural resources that can be contrasted only if policy makers pave the way for local actors, such as public officers and tourism stakeholders, compelling or allowing them to adoptstrategies, actions and mechanisms able to thoroughly impact the sustainability of tourism destinations. Main areas of interest are energy production and efficiency, waste and water management, sustainable mobility and environment preservation. Increasing the number and effectiveness of policies focusing on environmental protection is an asset for the area to move towards an enhanced level of sustainability. Sharing of knowledge, concerted actions and joint planning on a transnational level are essential for a change in the mind-set of public administrator and stakeholders themselves. To this end, the INCIRCLE project intends to organize transnational discussion tables among public officers and experts in the field of CE and sustainable tourism to report on the actual status and shared common issues, find most suitable and scaled solutions, capitalising on already existing sustainable measures.1 Increased number of policies on sustainable tourism, leading naturally vulnerable MED areas to undertake strategies and plans based on CE principles. : INCIRCLE aims at empowering the knowledge of decision- and policy-makers on the cross-cutting thematic of CE and the positive outcomes that its principles (rethink, reduce, reuse and recycle) can generate when applied in favour of sustainability. Project targets, being islands and low density areas, suffer from an increased scarsity of natural resources that can be contrasted only if policy makers pave the way for local actors, such as public officers and tourism stakeholders, compelling or allowing them to adoptstrategies, actions and mechanisms able to thoroughly impact the sustainability of tourism destinations. Main areas of interest are energy production and efficiency, waste and water management, sustainable mobility and environment preservation. Increasing the number and effectiveness of policies focusing on environmental protection is an asset for the area to move towards an enhanced level of sustainability. Sharing of knowledge, concerted actions and joint planning on a transnational level are essential for a change in the mind-set of public administrator and stakeholders themselves. To this end, the INCIRCLE project intends to organize transnational discussion tables among public officers and experts in the field of CE and sustainable tourism to report on the actual status and shared common issues, find most suitable and scaled solutions, capitalising on already existing sustainable measures.2 Increased number of insular and remote MED destinations benefitting of an evaluation tool able to measure and assess the level of sustainability : INCIRCLE recommends a range of CE-based solutions for sustainable tourism, fundamental to deeply impacting territories when related to themes such as energy efficiency, sustainable mobility, water and waste management.The INCIRCLE approach follows multiple circular steps to finally guarantee the transferring of a virtuous-circle methodology to regions, assisting them with technical support and tools in the process.Regional and local policy institutions at different levels of the hierarchical scale as well as tourism stakeholders are confronted with a state-of-the-art of their territory, supported by transnational experts on CE and sustainable mobility in order to share competences, learn from each other and, on the basis of circular economy indicators, find the most suitable solutions to be applied to their territories in order to improve their sustainability level.The project offers a set of valid and impactful readily available solutions from other projects, tailoring them to the local needs of pilot territories and further extending their testing to other regions.Following the testing phase, data related to indicators are collected and analysed to assess the effectiveness of the solutions and provide hints for replicators.Sustainable measures, a set of circularity indicators and the trustworthy assessment of sustainability are the key capitalization instruments and will be made available to other replicators in all the MED area and beyond.",
+          "achievements": "A sound project management was ensured by project partners. Due to the pandemic, just on-line meetings among partners were held. For what concerns the steering of the project, four project meetings were organized during the fourth reporting period (2 SCM and 2 TBM), providing project partners with relevant information in terms of upcoming transferring and capitalizing activities. Additional WP4 and WP5-related operative meetings were held to support the smooth implementation of envisaged activities. Potential project risks were constantly assessed and monitored, while project partners contributions and actions regularly checked and evaluated. Contingency plans were designed to deal with the Covid pandemic and resulting delays and technical issues.The INCIRCLE Knowledge Platform was fed with new contents and enriched with the first set of documents to support the project replication process. Most local demonstrators were implemented and a first set of monitoring data provided. During the 4th reporting period all INCIRCLE strategies were elaborated and evaluated, according to the developed evaluation framework. The last round of SWG meeting was organised in Albania, Balearic Islands, Crete and Cyprus to, on the one side, present the strategy and seek stakeholders’ approval and, on the other one, to collect feedback and identify potential room for enhancement.Regarding ongoing transferring activities, the project replication package was finalised and made available in 10 languages (English, Italian, French, Slovenian, Portuguese, Spanish, Catalan, Croatian, Greek, Albanian). An overall of 4 mainstreaming workshops were organised in partner territories to trigger strategies’ mainstreaming and funding. Regarding INCIRCLE communication, the booklet for tourists and local businesses were drafted, designed, translated and produced. In terms of project visibility, 11 presentations were held, while 5 articles and 271 posts were published. Towards the end of the reporting period, efforts were invested in the design of INCIRCLE study visit and final capitalisation conference.",
+          "expected_outputs": "INCIRCLE KNOWLEDGE PLATFORM :1, INCIRCLE set of circular tourism indicators :1, INCIRCLE demonstrator of already existing CE solution tailored to MED island and low density areas :5, INCIRCLE regional/national strategies for the transition towards a more circular regional tourism :5, Replicating agreements :6,Regional and local tourist destinations covered by INCIRCLE assessment of tourism circularity :16, INCIRCLE strategies for the transition towards a more circular tourism in new MED territories :6.",
+          "delivered_outputs": "Number of instruments available to enhance the development of sustainable and responsible tourism, Number of tourist destinations covered by a sustainable tourism evaluation tool, Number of strategies applying sustainable tourism management criteria, Number of regions and sub-regions engaged (through charters, protocols, MoU) in implementing sustainable tourism plans, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Supporter les zones INsulaires et à faible densité dans la transition vers une économie touristique plus CIRCuLairE",
+          "description": "Les ressources naturelles des territoires touristiques vulnérables MED, tels que les îles et les zones à faible densité, sont en jeu. La capacité d'accueil de ces destinations oppose les intérêts des acteurs touristiques à ceux des communautés locales. Une méthodologie concertée visant à l'élaboration des politiques est nécessaire pour assurer la durabilité dans ces zones, en termes d'une planification intégrée de tourisme durable, qui préserve et valorise les ressources non-renouvelables.En partant d’autres projets, INCIRCLE capitalise les connaissances et les outils disponibles pour tester une nouvelle méthodologie qui applique les principes de l'économie circulaire au tourisme, en posant l'accent sur les besoins propres aux îles et aux zones à faible densité. \n\nLes politiques conçues par INCIRCLE concernent mobilité, efficacité énergétique, gestion de l'eau et des déchets, en améliorant prospérité et qualité de vie des communautés.On envisage des résultats durables, faciles à adapter, pour fournir aux décideurs MED des outils concrets et testables, pour améliorer leur capacité d'évaluation et planification de la durabilité dans ceux zones aux ressources limitées, attirer d’autres financements et permettre une réplication concrète, promouvant une croissance durable et circulaire dans l’espace MED. Les activités de capitalisation visent à transferer les activités dans d'autres territoires, integrant les résultats dans les politiques régionales, nationales et européennes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Plate-forme de connaissances INCIRCLE :1, Ensemble d'indicateurs INCIRCLE sur le tourisme circulaire :1,INCIRCLE demonstrator of already existing CE solution tailored to MED island and low density areas :5,INCIRCLE stratégies régionales/nationales pour la transition vers un tourisme plus circulaire :5, Accords de réplication :6, Regional and local tourist destinations covered by INCIRCLE assessment of tourism circularity :16,INCIRCLE strategies for the transition towards a more circular tourism in new MED territories :6.",
+          "delivered_outputs": "Nombre d'instruments disponibles pour améliorer le développement de tourisme durable et responsable, Nombre de destinations touristiques couvertes par un outil d'évaluation de tourisme durable, Nombre de stratégies appliquant des critères de gestion de tourisme durables, Nombre de régions et des sous-régions engagées (par des chartes, des protocoles, le MoU) dans la mise en œuvre de plans de tourisme durables, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23474,
+      "acronym": "Urban Transports",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "URBAN TRANSPORTS",
+          "description": "The high-density character of urban areas places acute pressures on transport systems through the sheer volume of movement of goods and people that move through a city, especially, on seasonal demand periods. In addition to strategic planning, however, making urban mobility sustainable also demands cooperation. Mobility is an issue that transcends formal city boundaries; not only do air pollution and other environmental impacts have no respect for administrative divisions, but the efficient and sustainable transport also demands cooperation across municipal authorities and with other levels of government. The present project correspond to a second generation of the capitalization strategy of the Interreg-Med, which envisages promoting the transferring of results and policies developed by the Urban Transports Community, through mainstreaming and strategic liaising’s series of activities at transnational level. \n\nThe Urban Transports partnership is deeply specialized on Urban Transports and networking in the Mediterranean. The horizontal project, will contribute to a unique identity on mobility planning in the Mediterranean area enhancing its peculiarities as a key to implement low carbon strategies. The mutual assistance among municipalities and metropolitan areas will be key for the successful permeability of the capitalization products designed, paving the path for making urban transports truly sustainable.",
+          "expected_results": "1 A mainstreaming process with wide thematic an territorial scope is undertaken : In this phase, the capitalisation exercise goes far beyond the community of Modular Projects, most of which have already come to an end. This result will ensure the enlargement of the thematic and territorial scope, profiting the results of the MPs and complementing them with other programmes (H2020, ENI-CBC-MED, Interreg-Europe). The project foresees living working groups, at a relatively small scale, to ensure deeper interaction. 4 workshops will be organised during the mainstreaming phase, involving MP, associate partners and relevant stakeholder and profiting from the networks involved as partners to enlarge the outreach of the process. Existing tools coming from established platforms such as Civitas, Eltis, MedUrbantools will support the meetings and workshops of lniked to this result.1 A mainstreaming process with wide thematic an territorial scope is undertaken : In this phase, the capitalisation exercise goes far beyond the community of Modular Projects, most of which have already come to an end. This result will ensure the enlargement of the thematic and territorial scope, profiting the results of the MPs and complementing them with other programmes (H2020, ENI-CBC-MED, Interreg-Europe). The project foresees living working groups, at a relatively small scale, to ensure deeper interaction. 4 workshops will be organised during the mainstreaming phase, involving MP, associate partners and relevant stakeholder and profiting from the networks involved as partners to enlarge the outreach of the process. Existing tools coming from established platforms such as Civitas, Eltis, MedUrbantools will support the meetings and workshops of lniked to this result.2 A strategic liaising exercise in 8 selected territories to achieve the capitalisation in measures, policies and actions is developed : To ensure that transferability is materialised into the real and tangible assumption of solutions, policy innovations and measures requires close follow-up and accompaniment. One of the central results of the project is to carry out a strategic liaising exercise in 8 selected territories, that will be selected though an open call which will value their readiness and willingness to enter into such project. Four of the partners will monitor 2 territories and the accompaniment will be composed of technical assistance, face-to-face meetings3 A policy leverage initiative to promote innovative changes in policy frameworks at local, regional, national and EU level is promoted : Having implemented successful initiatives and projects do not necessarily turn into regulation changes that facilitate the replication of those projects in a broader context. The project foresees activities to guarantee that the policy leverage exercised is assured. On the one hand, through two seminars organised in Brussells targeting DG MOVE and MEPs as well as the different stakeholders based. On the other hand, the project foresees the elaboration of three policy briefs and one policy paper what, far from being a theoretical exercise, will serve as a basis to face-to-face meetings with selected territorial authorities to carry out exchanges in order to make concrete proposal in order to carry out innovation in policies and regulations. The experience of the GO SUMP project shows that specific resources and strategic are needed in order to make this policy leverage exercise successful.4 A process to ensure coherence and complementarity with other regional initiatives and communities is assured. : The project seeks to assure regional complementarity and coherence with existing initiatives tackling the same overall objective to promote sustainable development through innovative solutions in the Mediterranean region. First, through seeking synergies with stakeholders from Southern and Eastern neighbourhood members of the different networks partnering in the project (UNIMED, MedCities) and also CODATU. This participation will be transversal in activities of WP Transferability and WP Capitalisation. Second, through the participation of the Interreg Med Programme, PANORAMED and the Strategic Projects and seeking the interaction both when defining the transferability packages and the capitalisation exercise, as defined in the “Mainstreaming transfer experiment” presented by the Programme. Finally, a joint summer school with other HP will be organised to assure the coordination and coherence of activities and messages.",
+          "achievements": "The following are the main achievements of this RP:- The project addenda was smoothly prepared,discussion and approved by all partners (budget revision & new “bridging activities”.Tight deadlines were dully respected. -The partnership consolidated an internal effective coordination & distribution of workload. Taskforces created in previous RP are consolidated (policy work, mentoring coordination) and ad hoc new ones are created responding to needs (final event taskforce, JS-led mapping exercise).-Communication-wise, this RP has focused on valorising the UT mentoring program:3 infographics present peers, main challenges & topics; a series of videos featuring the mentoring experts and activities organised was prepared and will be published the next RP. -Under WP5 and bridging with the previous work done under WP4, a dedicated taskforce prepared and delivered the 3 mappings required by the JS with the project outcomes, transferring methodologies & capitalisation. -WP5 is the core of the project implementation. The mentoring program: 6 out of 8 adaptation reports are ready (see deliverable \n\n5.\n\n3.\n\n2. for main lessons learnt & recommendations on active mobility, mobility monitoring and the use of data, and participatory approaches to mobility planning). Over 20 bilateral and working meetings have been organised, mostly online, with over 125 people involved in total. The next RP will feature, visibilise and capitalise on these results. -Regarding the policy work, the UT has published and translated to French 1 policy brief on active mobility, and has disseminated it at any public event it has been part of. The second brief is under preparation. -The project has continued to be active at European fora with 4 events this RP. -Joint initiatives internal and external to the partnership have been organised during this RP to mainstream and capitalise its outcomes: 1 event entitled “Southern dialogues on sustainable mobility” led by MedCities (Montepelier, 12.21) counted on the participation of UNIMED, while 1 regional event in Greece organised by CIVINET had MedCities on board. The project will be present at the MEDAcademy with 2 courses.- The partnership has intensively worked the last months to set an intense agenda of local, regional and European events to be organised the next RP, and has started preparing the project final event of next October \n\n2022.",
+          "expected_outputs": "Nuhrough charters, protocols, MoU) in developing urban plans/strategies including low carbon transport and multimodal connection soft actions :10, Population involved in awareness raising activities :40000, Number of urban areas engaged (through charters, protocols, MoU) in developing urban plans/strategies including low carbon transport and multimodal connection soft actions :30, Population involved in awareness raising activities :80000, Number of models to develop urban plans including low carbon transport and multimodal connections soft actions :2.",
+          "delivered_outputs": "Number of instruments available to foster the use of LC transport solutions, including multimodal ones, Number of models to develop urban plans including low carbon transport and multimodal connections soft actions, Population involved in awareness raising activities, Number of urban areas engaged (through charters, protocols, MoU) in developing urban plans/strategies including low carbon transport and multimodal connection soft actions, Expenditures declared to the EC for Axis 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": null,
+          "description": "La forte densité des zones urbaines exerce de fortes pressions sur les systèmes de transport en raison du simple volume de circulation des biens et des personnes qui traversent une ville, en particulier en période de demande saisonnière. Toutefois, outre la planification, la durabilité de la mobilité urbaine passe aussi par la coopération. La mobilité est une question qui transcende les frontières formelles des villes; non seulement la pollution de l'air et d'autres impacts environnementaux n'ont aucun respect pour les divisions administratives, mais le transport efficace exige également une coopération entre tous les niveaux de gouvernement. Le présent projet correspond à une deuxième génération de la stratégie de capitalisation d'Interreg-Med, qui prévoit de promouvoir le transfert des politiques développées par la Communauté des Transports Urbains, par l'intégration et la liaison stratégique d'une série d'activités au niveau transnational.\n\nLe partenariat Transports Urbains est profondément spécialisé dans les transports urbains et la mise en réseau en Méditerranée. Le projet contribuera à une identité unique en matière de planification de la mobilité dans la région méditerranéenne en renforçant ses particularités en tant que clé de la mise en œuvre de stratégies à faible émission de carbone. L'assistance mutuelle entre les municipalités et les zones métropolitaines sera la clé du succès de la perméabilité des produits de capitalisation conçus.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments disponibles pour favoriser l'utilisation des solutions de transport à faibles émissions de carbone dont les solutions multimodales, Nombre de modèles pour développer des plans urbains comprenant le transport à faibles émissions de carbone et les actions immatérielles de connections multimodales, Population impliquée dans les activités de sensibilisation, Nombre d'aires urbaines engagées (par le biais de chartes, protocoles, MoU) dans le développt de plans/stratégies incluant le transport à faibles émissions de carbone et les actions immat. de connections multimodale, Dépenses déclarées à la CE pour Axe 2,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 7,
+          "title": "Urban development"
+        },
+        {
+          "id": 19,
+          "title": "Transport and mobility"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23473,
+      "acronym": "TUNE UP",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "Promoting multilevel governance for tuning up biodiversity protection in marine areas",
+          "description": "TUNE UP is a multi-module project tackling the need for a strategic and collaborative approach to Med MPAs management and biodiversity protection, by testing and capitalizing a multi-stakeholder/multi-level governance tool based on River/Wetland Contracts experience tested by the INTERREG MED WETNET project.TUNE UP will build on WETNET results exploiting the flexibility and feasibility of the River/Wetland Contract methodology further developing it to MPAs management, assessing its effectiveness through the implementation of 11 MPA Contracts. TUNE UP approach is based on vertical and horizontal subsidiarity, to achieve coordination among institutions at all involved levels, as well as to integrate funding, resources and plans. Indeed, the project will ensure higher coordination among stakeholders and decision makers, limiting raising conflicts between preservation and economic issues, and will enhance the goal of biodiversity protection.Thus, the project intends to achieve the following results:\n\n1. Stronger, coordinated and proactive involvement of key stakeholders in MPAs management.\n\n2. Improved effectiveness of MPAs management by integrating multilevel governance tools into national and regional policy instruments.\n\n3. More intensive transnational cooperation and networking between Med MPAs. The partnership involves different types of actors operating in MPAs management, so it will allow TUNE UP to ensure high transferability of main outputs to Med Countries.",
+          "expected_results": "1 Stronger, coordinated and proactive involvement of key stakeholders in MPAs integrated management. : By promoting the implementation of a negotiated and voluntary management tool, TUNE UP will engage and strengthen the capacities of key stakeholders to become effectively actors of the new territorial governance. Under this approach, both public and private stakeholders (e.g. MPAs managers, local – regional – national public authorities, practitioners, small-scale fishermen, environmental protection associations and NGOs, local communities’ associations, civil society, economic operators working in: fishing and aquaculture, agriculture, tourism, transport sector) will commit themselves to help maintaining and enhancing MPAs biodiversity and to mainstream this ecosystem-based approaches into their ordinary duties and functions. Thus, the subscription of the Contract will assure higher coordination among stakeholders and decision makers, limiting and absorbing raising conflicts between preservation issues and economic activities (e.g. agriculture, fishing, aquaculture, tourism); and will promote the achievement of long-term results increasing the share of protected areas meeting their conservation goals and objectives.1 Stronger, coordinated and proactive involvement of key stakeholders in MPAs integrated management. : By promoting the implementation of a negotiated and voluntary management tool, TUNE UP will engage and strengthen the capacities of key stakeholders to become effectively actors of the new territorial governance. Under this approach, both public and private stakeholders (e.g. MPAs managers, local – regional – national public authorities, practitioners, small-scale fishermen, environmental protection associations and NGOs, local communities’ associations, civil society, economic operators working in: fishing and aquaculture, agriculture, tourism, transport sector) will commit themselves to help maintaining and enhancing MPAs biodiversity and to mainstream this ecosystem-based approaches into their ordinary duties and functions. Thus, the subscription of the Contract will assure higher coordination among stakeholders and decision makers, limiting and absorbing raising conflicts between preservation issues and economic activities (e.g. agriculture, fishing, aquaculture, tourism); and will promote the achievement of long-term results increasing the share of protected areas meeting their conservation goals and objectives.2 Improved effectiveness of Med MPAs management by integrating multilevel governance tools into national and regional policy instruments. : During the Capitalization phase, the partners will develop a Regional Policy Toolkit for integrating the multilevel governance tools into local and regional instruments and regulation. The Toolkit will be supported by the signing of a Memorandum of Understanding with which the competent regional authorities will foster the institutional uptake of the multilevel governance tool.Moreover, a set of capitalization activities will guarantee a proper widespread of the TUNE UP tool in other regions of the Mediterranean area with the aim of mainstreaming it into their policy instruments.Fostering a more effective Mediterranean MPAs governance which is integrated on a territorial level and with other sectors while promoting the awareness of economic value and ecosystem services from society and policy-makers, is expected to promote the achievement of long-term results increasing the share of MPAs meeting their conservation goals and objectives.3 More intensive transnational cooperation and networking between Med MPAs. : By fostering transnational synergies exploiting networks already activated in the Mediterranean area (MedWet, MedPAN), TUNE UP will exchange good practices, mainstream and disseminate multilevel governance tools and methodologies for MPAs integrated management, increasing the share of protected areas meeting their conservation goals and objectives. Moreover, TUNE UP will promote the creation of new cooperation tools: (i) common knowledge platform (ii) summer school involving also North Africa and Middle Est Regions (iii) e-learning platform (iv) capitalization seminars. These activities will ensure a more intensive transnational cooperation between Med MPAs and a wide replicability in other Mediterranean Regions of: (i) Joint transnational methodology for Contracts of MPA implementation (ii) common monitoring system (by application on an IT support) to verify the consistency, efficiency and effectiveness of MPA management processes.",
+          "achievements": "TUNE UP Project has managed to run relatively smoothly during this Reporting Period despite the COVID 19 pandemic and the issue that occurred with the Italian partners' expenses regarding staff costs that have to be declared at the external experts budget line.TUNE UP continued to cooperate closely with MBPC during this period by being in continuous contact with Plan Bleu.The project has participated in one international event in the framework of D \n\n5.\n\n6.1 while the second participation has already been scheduled. WP3 and WP4 have been concluded and the Module Shift took place successfully in October \n\n2021. WP5 activities are on track with all partners having contributed to the elaboration of the outline of the Regional MoU while at the same time preparing their Capacity Building Seminars.",
+          "expected_outputs": "MoU for MPA Contracts implementation in target area :11, Strategy for MPAs multilevel governance in target Regions :400000, MPA Contracts Joint Governance Plan at regional level :11, MoU for mainstreaming the MPA Contracts tool into regional policies :18.",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Promouvoir une gouvernance multi-niveaux pour optimiser la protection de la biodiversité dans les zones marines",
+          "description": "TUNE UP est un projet multimodules répondant au besoin d'une approche stratégique et collaborative de la gestion des AMP en Méditerranée. Le projet a pour objectif d’améliorer la protection de la biodiversité en testant et en capitalisant un outil de gouvernance multiacteurs/multiniveaux basé sur l'expérience des Contrats de riviere/zone humide testé par INTERREG MED Wetnet.Dans cette perspective, TUNE UP s'appuiera sur les résultats de Wetnet, exploitant la flexibilité de la méthodologie, en évaluant son efficacité via la mise en œuvre de 11 Contrats de AMP.  L'approche TUNE UP est basée sur l’intégration verticale et horizontale, afin de réaliser la coordination entre les institutions, ainsi que l’intégration du financement, des ressources et des plans d’action. Le projet assurera une meilleure coordination entre stakeholder, limitant ainsi les conflits entre la conservation et les problèmes économiques, et en renforçant l'objectif de protection de la biodiversité.\n\nLe projet vise à atteindre les résultats suivants:\n\n1. Participation accrue, coordonnée et proactive des principales stakeholder de AMP.\n\n2. Amélioration de l'efficacité de la gestion des AMP en intégrant des outils de gouvernance multiniveaux dans les instruments nationaux et régionaux.\n\n3. Intensification de la coopération transnationale et de la mise en réseau des Med AMP.Le partenariat implique différents types d’acteurs dans la gestion des AMP. Il permettra donc à TUNE UP d’assurer transférabilité aux pays Med.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "MoU pour la mise en œuvre des contrats MPA dans la zone cible :11, Stratégie de gouvernance multiniveau des AMP dans les régions cibles :400000, Plan de gouvernance conjointe des contrats des AMP au niveau régional :11, Mémorandum d'accord pour l'intégration du Contrat de aires marines protégées dans les politiques régionales :18.",
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23472,
+      "acronym": "MED OSMoSIS",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de stakeholders (structures) impliquées dans initiatives soutenues (par représentation de catégorie d'organisations publiques et privées), Dépenses déclarées à la CE pour Axe 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Mediterranean governance for Strategic Maritime SurveIllance and Safety issues",
+          "description": "As the MED Program aims to benefit from appropriate tools and mechanism to ease the implementation of better governance and thematic integration in the Mediterranean and contribute to shared operational plans on the overall area in key sectors of maritime surveillance, it is an enormous and challenging opportunity to seek for the demands among the National authorities carrying out Maritime Surveillance functions in the needs of operational infrastructure that cover marine spatial information obligations stemming from European Directives, initiatives and policies, in terms of maritime surveillance and safety.The proposal's objective is the development of a number of modules/applications regarding Maritime Surveillance activities and to facilitate information exchanges that will support the further development of a regional/local smart plug-in capability supporting interoperable, transnational sectoral systems, ensuring their regional, deployable and mobile interface, in order to Enhance in-situ Situational Awareness, wherever needed in the Mediterranean Sea and Atlantic approaches. It will explore the application of the current guidelines and capabilities of the ongoing evolution of the CISE data exchange model.It will carry pilot activities and capitalization actions to test,disseminate and distribute tools and protocols among partners either as being potential users but also as intermediaries to reach no participant entities.",
+          "expected_results": "1 Innovative solutions for Maritime Surveillance : the further development of the modules and applications and subsequent information exchanges between the project partners, will support the project partners cooperation regarding maritime surveillance as well as developing multilateral coordination frameworks in the Mediterranean for joint responses.1 Innovative solutions for Maritime Surveillance : the further development of the modules and applications and subsequent information exchanges between the project partners, will support the project partners cooperation regarding maritime surveillance as well as developing multilateral coordination frameworks in the Mediterranean for joint responses.2 Pilot studies results and capitalisation : The project partners competences and activities that have been included in the project cover most of the Mediterranean basin and the proposed modules/ applications cover a number of possible maritime surveillance aspects (Maritime Spatial Planning, Search and Rescue Cooperative plans between project partners, sharing experiense with partners without corresponding platforms etc).The hands on application of the Innovative solutions through the proposed pilot studies will enhance the cooperation between the project partners and reveal the possible dynamic and better results that such cooperation can contribute to maritime surveillance and relevant information exchanges.3 List of platforms for Maritime Surveillance : Establishing a list of platforms existing in the partnership while testing their availability andinteroperability, testing the data and including information will provide a valuable tool for the project partners.This result contains the reports regarding diagnosis of problems, needs analysis and possible ways to improve the currently used platforms while it will also provide a guide for the development of such platforms for countries without one and a roadmad for IPA countries to minimize their gap with other European Partners. The interoperability studies will ensure that the different institutional levels will be able to shareascending and descending information with processes coherent and shared between the EU Countries and Institutions.",
+          "achievements": "Coordination efforts were highly invested by each member of the partnership with a particular emphasis on the active participation of the associated partners, representing strongly the high expertise community in maritime surveillance issues.Within this first reporting period all efforts, by each partner individually, were made in order to prepare systematically the acquisition of a proper future architecture in better implementing the Strategic Project.Many preparations steps were made in terms of external publicity (by active participation in meetings) and in terms of internal management (continuous informing on rules and procedures).Two web conferences were organized, an unofficial 1st Skype teleconference (20Dec19) and a Starleaf Web conference equivalent to the Kick-off Meeting (14Jan20) prior to the official completion of the Subsidy Contract and in order to facilitate the setting up of the Steering Committee and its rules.The LP also participated actively with PPT presentations in Ecomondo 2019 Exhibition (8Nov19), several PANORAMED conferences (in Athens, Marseille & Madrid), MED for You Congress in Athens (24Oct19), Seminar for the Lead Partners in Marseille (10,11Dec19), Blue Growth Community 1st assembly in Montpellier (4Feb20) and INTERREG MED coordination meeting (19,20Feb'20) in Madrid.",
+          "expected_outputs": "Needs analysis, problem diagnosis, interoperability reports, development of platforms for countries without one / expansion of existing platforms capacity :10, establish a list of platforms existing in the partnership :10, WebGIS Platform and modules/applications :10, Pilot activities and reports :10, Guide for the IPA Countries :1, Training courses/events (transferring) :10, Political recommendations :10, MoU :10, Capitalization Guidelines /Plan :10.",
+          "delivered_outputs": "Number of stakeholders (structures) involved in supported initiatives (per category representing public and private stakeholders), Expenditures declared to the EC for Axis 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 14,
+          "title": "Evaluation systems and results"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

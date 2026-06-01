@@ -1,0 +1,386 @@
+{
+  "current": 2,
+  "next": "https://keep.eu/api/search/projects/?page=3",
+  "previous": "https://keep.eu/api/search/projects/",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23649,
+      "acronym": "RIS3_NET2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "COMMON MAC SPACE STRATEGY AS A REFERENCE FOR THE DEVELOPMENT OF TRANSREGIONAL RIS3 STRATEGIES",
+          "description": "RIS3_NET2 is a project that proposes to work on three main lines: \n\n\n\n1. Value the analysis and planning developed in the drafting of the Smart Specialisation Strategy of MAC Space through concrete actions. \n\n\n\n2. Position the MAC Space as a reference in the elaboration of Smart Specialisation Strategies as it is the first to carry out this cooperation between three regions. \n\n\n\n3. To bring the Macaronesian society and its professionals closer to the knowledge of the implications of an RIS3 and the existence and importance of the Smart Specialisation Strategy of MAC Space to achieve a greater alignment of the projects with the established development priorities, greater participation of these regions in cooperation projects, etc. \nTo this end, it will carry out an action plan, pilot actions for each priority and awareness-raising and training actions, which will in turn feed on other cross-cutting activities.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "ESTRATEGIA COMÚN DEL ESPACIO MAC COMO REFERENTE DE LA ELABORACIÓN DE ESTRATEGIAS RIS3 TRANSREGIONALES",
+          "description": "RIS3_NET2 es un proyecto que propone trabajar en tres grandes líneas:\n\n\n\n1. Poner en valor el análisis y planificación desarrollada en la redacción de la Estrategia de Especialización Inteligente del Espacio MAC mediante actuaciones concretas.\n\n\n\n2. Posicionar al Espacio MAC como referente en la elaboración de Estrategias de Especialización Inteligente al ser la primera en llevar a cabo esta cooperación entre tres regiones.\n\n\n\n3. Acercar a la sociedad macaronésica y sus profesionales, el conocimiento de las implicaciones de una RIS3 y la existencia e importancia de la Estrategia de Especialización Inteligente del Espacio MAC para alcanzar una mayor alineación de los proyectos con las prioridades de desarrollo establecidas, mayor participación de estas regiones en proyectos de cooperación, etc.\nPara ello llevará a cabo un plan de acción, actuaciones piloto por cada prioridad y acciones de sensibilización y formativas, que a su vez se nutrirán de otras actividades transversales.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 21,
+          "title": "Regional planning and development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23648,
+      "acronym": "INTEGRA",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PROGRAMME FOR THE INTEGRATION OF MARKETS AND DEVELOPMENT OF THE ECONOMIC AND SOCIAL NEIGHBOURHOOD OF THE REGIONAL REGION OF MACARONESIA",
+          "description": "The INTEGRA project seeks to strengthen institutional cooperation between the regions of Macaronesia through 3 fundamental objectives: \n\n\n\n1. Identify common business areas of high added value in the area of cooperation in tourism, trade and blue economy. \n\n\n\n2. Define joint strategies for economic integration in the area of cooperation and development of action plans. \n\n\n\n3. To increase the level of training and knowledge of the Macaronesian region among young people, experts and professionals, in order to promote cooperation and economic and social integration through the development of common initiatives.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "PROGRAMA DE INTEGRACIÓN DE MERCADOS Y DESARROLLO DE LA VECINDAD ECONÓMICA Y SOCIAL DE LA REGIONAL DE LA MACARONESIA",
+          "description": "El proyecto INTEGRA busca reforzar la cooperación institucional entre las regiones de la Macaronesia a través de 3 objetivos fundamentales:\n\n\n\n1. Identificar ámbitos empresariales comunes de alto valor añadido en el espacio de cooperación en materia turística, comercial y de economía azul.\n\n\n\n2. Definir estrategias conjuntas de integración económica en el espacio de cooperación y desarrollo de planes de acción.\n\n\n\n3. Incrementar el nivel de formación y conocimiento de la región macaronésica entre los jóvenes, expertos y profesionales, para promover la cooperación e integración económica y social a través del desarrollo de iniciativas comunes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23647,
+      "acronym": "MEDECOAZUL-MAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "DELIMITATION AND QUANTIFICATION OF THE BLUE ECONOMY OF MACARONESIA",
+          "description": "The challenge of the MEDECOAZUL-MAC project is to determine, with official data, how much the sector of the Blue Economy weighs in GDP, agreeing a common definition of the maritime marine sector for the three regions, making its quantification in terms of employment and GVA. These official figures and the support that the three Statistical Bodies will be able to provide to the different institutions related to the sector, will make it possible to set, measure and evaluate the quantitative objectives of blue growth, while providing economic operators, especially administrations, researchers and associations related to the sea with information to set targets, stimulate subsectors with potential and monitor the measures taken. In addition, the methodologies developed may be extrapolated to other economic sectors.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "DELIMITACIÓN Y CUANTIFICACIÓN DE LA ECONOMÍA AZUL DE LA MACARONESIA",
+          "description": "El reto del proyecto MEDECOAZUL-MAC es determinar, con datos oficiales, cuánto pesa el sector de la Economía Azul en el PIB, consensuando una definición común del sector marino marítimo para las tres regiones, realizar su cuantificación en términos de empleo y VAB. Estas cifras oficiales y el apoyo que los tres Organismos de Estadística podrán prestar a las distintas Instituciones relacionadas con el sector, permitirá fijar, medir y evaluar los objetivos cuantitativos del crecimiento azul, al tiempo que ofrecerá a los agentes económicos, especialmente las administraciones, investigadores y asociaciones relacionadas con el mar información para fijar objetivos, estimular los subsectores con potencial y hacer un seguimiento de las medidas adoptadas. Además, las metodologías desarrolladas podrán ser extrapolables a otros sectores económicos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23646,
+      "acronym": "TREEMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "EURO-AFRICAN NETWORK OF NATURAL SPACES TO PROMOTE THE IMPROVEMENT OF KNOWLEDGE, VALORISATION AND MANAGEMENT OF BIODIVERSITY AND ECOSYSTEMS",
+          "description": "One of the fundamental principles of TREEMAC is the cooperation between the Canary Islands, Cape Verde, Senegal and Mauritania, in the conservation, protection, management and value of their biodiversity, their native species, their protected areas as well as in promoting mechanisms of involvement and participation of citizens, in the knowledge and valorisation of the important natural heritage they have. \nWith the development of a common strategy for the conservation and protection of the unique ecosystems of the territory of cooperation, reforestation, monotorisation and assessment of terrestrial ecosystems will be carried out in order to achieve a better conservation status and awareness-raising actions will be carried out in environmental education through sustainable interventions.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "RED EUROAFRICANA DE ESPACIOS NATURALES PARA PROMOVER LA MEJORA DEL CONOCIMIENTO, VALORIZACIÓN Y GESTIÓN DE LA BIODIVERSIDAD Y LOS ECOSISTEMAS",
+          "description": "Uno de los principios fundamentales de TREEMAC es la Cooperación entre Canarias, Cabo Verde, Senegal y Mauritania, en la conservación, protección, gestión y puesta en valor de su biodiversidad, de sus especies autóctonas, de sus espacios protegidos así como en favorecer mecanismos de implicación y participación de la ciudadanía, en el conocimiento y la valorización del importante patrimonio natural con el que cuentan. \nCon el desarrollo de una estrategia común de conservación y protección de los ecosistemas singulares del territorio de cooperación se realizarán acciones de reforestación, monotorización y evaluación de los ecosistemas terrestres con objeto de alcanzar un mejor estado de conservación y se realizán acciones de sensibilización en educación ambiental a través de intervenciones sostenibles.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23645,
+      "acronym": "Macflor2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "ATLAS OF REPRODUCTIVE BIOLOGY OF MACARONESIAN FLORA",
+          "description": "Macflor2 is aimed at researching the reproductive systems of macaronesic endemisms. This research, based on the morphological and functional knowledge of the flower as the essence of the success or reproductive failure of populations, will focus its study on endemisms yet unexplored and taxa representing sexual systems or self-incompatibility not addressed in previous projects or that require further analysis; studies that will be complemented by analysis of genetic diversity in some endemisms of Madeira and Azores. In this idea, which points to the loss of its reproductive capacity as an essential cause of population decline, lies the value of Macflor2 which, from the knowledge and reproductive perspective, is capable of generating concrete and effective recovery strategies for endangered endemisms.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "ATLAS DE BIOLOGÍA REPRODUCTIVA DE LA FLORA MACARONÉSICA",
+          "description": "Macflor2 está dirigido a la investigación de los sistemas reproductivos de los endemismos macaronésicos. Esta investigación, fundamentada en el conocimiento morfológico y funcional de la flor como esencia del éxito o fallo reproductivo de las poblaciones, centrará su estudio en endemismos aún sin explorar y taxones representantes de sistemas sexuales y/o de auto-incompatibilidad no abordados en anteriores proyectos o que requieran profundizar en su análisis; estudios que se complementarán con análisis de diversidad genética en algunos endemismos de Madeira y Azores. En esta idea, que señala como causa esencial del declive poblacional la pérdida de su capacidad reproductora, radica el valor de Macflor2 que, desde el conocimiento y perspectiva reproductiva, es capaz de generar estrategias de recuperación concretas y efectivas para los endemismos en peligro.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 11,
+          "title": "Scientific cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23644,
+      "acronym": "OCEANLIT",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "MANAGEMENT OF COASTAL PROTECTED NATURAL AREAS AFFECTED BY MARINE LITTER IN OCEAN ARCHIPELAGOS",
+          "description": "OCEANLIT has as a general objective to reduce marine debris, helping the conservation and recovery of coastal and marine protected natural areas in ocean archipelagos. \nThe project will have an applied approach to contribute to reducing this waste based on three specific objectives: \n— OE1: generate knowledge, solutions and tools for characterisation and monitoring of wastes that help decision-making on reducing waste and minimising its environmental impact. \n— OE2: promote the improvement of waste management facilities and the involvement of professionals, users, port managers and administrations in the integration of marine litter into waste management systems. \n— OE3: sensitise and raise awareness among professionals, users and the general public through communication actions, campaigns, dissemination of good practices and success stories.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "GESTIÓN DE ESPACIOS NATURALES PROTEGIDOS COSTEROS AFECTADOS POR BASURAS MARINAS EN ARCHIPIÉLAGOS OCEÁNICOS",
+          "description": "OCEANLIT tiene como objetivo general reducir los residuos marinos, ayudando a la conservación y recuperación de los espacios naturales protegidos costeros y marinos en archipiélagos oceánicos.\nEl proyecto tendrá un enfoque aplicado a contribuir a reducir estos residuos basado en tres objetivos específicos:\n - OE1: generar conocimiento, soluciones y herramientas de caracterización y seguimiento de las basuras que ayuden a la toma de decisiones sobre reducir los residuos y minimizar su impacto ambiental.\n - OE2: promover la mejora de las instalaciones de gestión de los residuos y la implicación de profesionales, usuarios, gestores portuarios y administraciones en la integración de las basuras marinas en los sistemas de gestión de residuos.\n - OE3: sensibilizar y concienciar a profesionales, usuarios y público general mediante acciones de comunicación, campañas, difusión de buenas prácticas y casos de éxito.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

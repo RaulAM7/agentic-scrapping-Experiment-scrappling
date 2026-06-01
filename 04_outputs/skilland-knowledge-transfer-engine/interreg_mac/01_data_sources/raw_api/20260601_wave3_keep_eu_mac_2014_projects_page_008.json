@@ -1,0 +1,386 @@
+{
+  "current": 8,
+  "next": "https://keep.eu/api/search/projects/?page=9",
+  "previous": "https://keep.eu/api/search/projects/?page=7",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23613,
+      "acronym": "DATALAB",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "IMPROVING THE COMPETITIVENESS OF COMPANIES IN THE TOURISM AND TECHNOLOGY SECTOR OF THE COLLABORATIVE SPACE THROUGH THE DEVELOPMENT AND EXECUTION OF A STRATEGY BASED AND BIG DATA",
+          "description": "The DATALAB project focuses on supporting technology companies to promote the deployment of technologies based on data analytics, to collect, process, analyse and visualise information that improves the competitiveness of tourism companies and, by extension, of the tourist destination itself. To this end, it is intended to: \n\n\n\n\n1. Improve the competitiveness of companies in the tourism and technology sector, their cooperation and intelligent management capabilities through the development of a big data strategy and data analytics. \n\n\n\n\n2.Modernise the tourism sector through the development of projects of sensorisation and measurement of tourism activity for its integration into platforms and big data systems and data analytics. \n\n\n\n\n3. Generate talent through the implementation of initiatives to improve the skills, skills and competences of professionals and companies in the space of cooperation in projects linked to big data and data analytics.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "MEJORA DE LA COMPETITIVIDAD DE LAS EMPRESAS DEL SECTOR TURÍSTICO Y TECNOLÓGICO DEL ESPACIO DE COLABORACIÓN MEDIANTE LA DEFINICIÓN DESARROLLO Y EJECUCIÓN DE UNA ESTRATEGIA BASADA Y BIG DATA",
+          "description": "El proyecto DATALAB se centra en apoyar a las empresas tecnológicas para impulsar el despliegue de tecnologías basadas en la analítica de datos, para recabar, tratar, analizar y visualizar información que mejore la competitividad de las empresas turísticas y, por extensión, del propio destino turístico. Para ello se pretende:\n\n\n\n\n1. Mejorar la competitividad de las empresas del sector turístico y tecnológico, sus capacidades de cooperación y de gestión inteligente a través del desarrollo de una estrategia de big data y analítica de datos.\n\n\n\n\n2.Modernizar el sector turístico a través del desarrollo de proyectos de sensorización y medición de la actividad turística para su integración en plataformas y sistemas de big data y analítica de datos.\n\n\n\n\n3. Generar talento a través de la ejecución de iniciativas para la mejora de la capacitación, capacidades y competencias de los profesionales y empresas del espacio de cooperación en los proyectos vinculados al big data y analítica de datos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23612,
+      "acronym": "AFRIMAC 2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "CAPITALISATION OF THE PROGRAMME FOR BUSINESS, TECHNOLOGICAL, ENTREPRENEURIAL AND INNOVATIVE EXCHANGE IN MATTERS OF HIGH ECONOMIC IMPACT BETWEEN THE CANARY ISLANDS AND WEST AFRICA",
+          "description": "AFRIMAC2 seeks to promote the internationalisation of companies in the space of cooperation in areas of high added value with a strong gender approach. \nIn a transversal way, in order to increase trade exchanges internationally, it is proposed to capitalise on the implementation of working networks based on a technological platform that will be the basis of development of the project. In parallel, it is proposed to act in specific emerging sectors where synergies of the territories involved are detected through events and missions. Thus, actions will be carried out to increase the knowledge of these sectors and promote business cooperation. \nIn a structuring way, it is intended to improve the competitive potential and entrepreneurship in the productive fabric of the space of cooperation with a clear gender approach.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CAPITALIZACIÓN DEL PROGRAMA PARA EL INTERCAMBIO EMPRESARIAL, TECNOLÓGICO, EMPRENDEDOR E INNOVADOR EN MATERIAS DE ALTO IMPACTO ECONÓMICO ENTRE CANARIAS Y AFRICA OCCIDENTAL",
+          "description": "AFRIMAC2 busca fomentar la internacionalización de las empresas del espacio de cooperación en ámbitos de alto valor añadido con un potente enfoque de género. \nDe una manera transversal, con el fin de aumentar los intercambios comerciales a nivel internacional se plantea capitalizar la puesta en funcionamiento unas redes de trabajo basadas en una plataforma tecnológica que será la base de desarrollo del proyecto. En paralelo se plantea actuar en sectores específicos emergentes donde se detecten sinergias de los territorios implicados mediante eventos y misiones. Así, se realizarán acciones para aumentar el conocimiento de estos sectores y fomentar la cooperación empresarial.\nDe forma estructurante se pretende mejorar el potencial competitivo y el emprendimiento en el tejido productivo del espacio de cooperación con un enfoque claro de género.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23611,
+      "acronym": "AGRO_FEM",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "COMMERCIALISATION AND ENHANCEMENT OF AGRICULTURAL PRODUCTS FROM THE CANARY ISLANDS AND SENEGAL THROUGH THE EMPOWERMENT OF WOMEN IN THE COOPERATIVES OF EACH REGION AND THE EXCHANGE OF EXPERIENCES",
+          "description": "The AGRO_FEM project aims to enhance the value of women’s agricultural cooperatives belonging to the regions of the Canary Islands and Senegal, as well as promoting the marketing of their agricultural products in new markets. To achieve this, AGRO_FEM proposes to work through three broad lines: \n\n\n\n1. Empowerment of women in agricultural enterprises in the Canary Islands and Senegal, based on a Training Program adapted to the situation of each region under which they intend to develop mainly their professional skills and competences. \n\n\n\n2. Exchanges of technical and educational experience in order to identify new techniques and good practices that can be extrapolated to both regions; as well as trade exchanges to publicise the agricultural products of each region. \n\n\n\n3. Creation of a network of cooperatives and agricultural enterprises in the Canary Islands and Senegal for future continuity that allows a permanent exchange of experience between the two regions.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "COMERCIALIZACIÓN Y PUESTA EN VALOR DE LOS PRODUCTOS AGRÍCOLAS DE CANARIAS Y SENEGAL MEDIANTE EL EMPODERAMIENTO DE LAS MUJERES DE LAS COOPERATIVAS DE CADA REGIÓN Y EL INTERCAMBIO DE EXPERIENCIAS",
+          "description": "El proyecto AGRO_FEM tiene como objetivo la puesta en valor de las cooperativas agrícolas femeninas pertenecientes a las regiones de Canarias y Senegal, además del fomento de la comercialización de sus productos agrícolas en nuevos mercados. Para alcanzarlo, AGRO_FEM propone trabajar a través de tres grandes lineas: \n\n\n\n1. Empoderamiento de las mujeres de empresas agrarias de Canarias y Senegal, partiendo de un Programa Formativo adaptado a la situación de cada región bajo el cual se pretenden desarrollar principalmente sus habilidades y competencias profesionales.\n\n\n\n2. Intercambios de experiencias técnicas y educativas que propicien la detección de nuevas técnicas y buenas prácticas que puedan ser extrapolables a ambas regiones; así como intercambios comerciales para dar a conocer los productos agrícolas de cada región. \n\n\n\n3. Creación de una Red de cooperativas y empresas agrarias de Canarias y Senegal para la continuidad futura que permita un intercambio de experiencias permanente entre ambas regiones.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23610,
+      "acronym": "BLUE-TEC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "CREATION OF AN INNOVATIVE MODEL OF BUSINESS COOPERATION AND SMART GROWTH TO GENERATE GREATER ADDED VALUE AND IMPROVE THE COMMERCIAL OFFER OF THE NAUTICAL AND PORT SECTOR OF MACARONESIA",
+          "description": "Blue-TEC associates SMEs and public actors of nautical-port, coastal-sea tourism and its related sectors to develop and implement a new business model of specialisation and intelligent cooperation Blue Tourism, focused essentially towards the internationalisation of its services and products. It develops an innovative market intelligence system, based on the harmonisation of means of management and transmission of automated data between navigation, information, planning and entertainment systems of recreational vessels with port managers. In collaboration with the Cluster C3M and important sectoral partners, it generates new cooperation approaches based on shared systems and cross offers that have a high growth potential in their internationalisation and market intelligence processes, and networking activities that increase the international competitiveness of SMEs, creating new business opportunities.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CREACIÓN DE UN MODELO INNOVADOR DE COOPERACIÓN EMPRESARIAL Y DE CRECIMIENTO INTELIGENTE PARA GENERAR MAYOR VALOR AÑADIDO Y MEJORAR LA OFERTA COMERCIAL DEL SECTOR NÁUTICO Y PORTUARIO DE LA MACARONESIA",
+          "description": "BLUE-TEC asocia PyMEs y actores públicos del turismo náutico-portuario, costero-marítimo y sus sectores afines para desarrollar e implementar un nuevo modelo empresarial de especialización y cooperación inteligente Turismo Azul, enfocado esencialmente hacia la internacionalización de sus servicios y productos. Desarrolla un innovador sistema de inteligencia de mercado, basado en la armonización de medios de gestión y transmisión de datos automatizados entre los sistemas de navegación, información, planificación y entretenimiento de las embarcaciones de recreo con los gestores portuarios. En colaboración con el Clúster C3M e importantes socios sectoriales, genera nuevos enfoques de cooperación basados en sistemas compartidos y ofertas cruzadas que posean un elevado potencial de crecimiento en sus procesos de internacionalización e inteligencia de mercado, y actividades de networking que aumentan la competitividad internacional de las PyMEs, creando nuevas oportunidades de negocio.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23609,
+      "acronym": "MODAMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "BUSINESS COOPERATION FOR ACCESS TO THE EXTERNAL MARKET AND ATTRACTION OF INVESTMENTS BY THE FASHION AND CLOTHING INDUSTRY IN THE MACARONESIAN REGION",
+          "description": "The MODAMAC project arises from the need to support companies in the textile sector whose internationalisation is limited by their small size and productive capacity. Its main objective is to improve its competitiveness and production capacity by taking advantage of the advantages of openness to the outside, while at the same time it aims to attract investments to the region that allow to make better use of the productive and creative potential of these territories, as well as the diversification of its economic activity. For them, actions will be carried out to strengthen production and international marketing capacities of entrepreneurs, entrepreneurs and creators and to strengthen the channels of production, promotion and distribution of existing fashion products.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "COOPERACIÓN EMPRESARIAL PARA EL ACCESO AL MERCADO EXTERIOR Y ATRACCIÓN DE INVERSIONES DE LA INDUSTRIA DE LA MODA Y LA CONFECCIÓN DE LA REGIÓN MACARONÉSICA",
+          "description": "El proyecto MODAMAC surge de la necesidad de apoyar a las empresas del sector textil cuya internacionalización se ve limitada por su pequeño tamaño y capacidad productiva. Sus objetivo principal es mejorar su competitividad y capacidad de producción aprovechando las ventajas de la apertura al exterior, al tiempo que se pretende atraer inversiones a la región que permitan aprovechar mejor el potencial productivo y creativo de estos territorios, así como la diversificación de su actividad económica. Para ellos se realizán actuaciones de fortalecimiento de capacidades de producción y comercialización internacional de empresarios, emprendedores y creadores y de fortalecimiento de los canales de producción, promoción y distribución de productos de moda existentes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23608,
+      "acronym": "DigiMac2020",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PROGRAMME TO BOOST SMES FROM MACARONESIAN REGIONS IN INTERNATIONAL DIGITAL MARKETS",
+          "description": "The fundamental objective of the DigiMac2020 project is to help SMEs operate in international digital markets. \nTo this end, three main actions will be carried out: \n\n\n\n1. Advisory and consulting services provided by internationalisation consultants specialised in business and digital markets.- Identification of consultants specialised in digital business strategy and elaboration of methodologies for the application in companies. \n\n\n\n2. Specialised advisory services provided by professionals in specific digital services will be identified in participating SMEs and entrepreneurs, the most important specialised services and the detection of specialised consultants so that companies can address the selected projects. \n\n\n\n3. Diagnosis and training of the HR of SMEs.- Identification of appropriate profiles in SMEs and training of them through innovative methodologies intensive in technology.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "PROGRAMA PARA EL IMPULSO DE LAS PYMES DE LAS REGIONES MACARONÉSICAS EN MERCADOS DIGITALES INTERNACIONALES",
+          "description": "El objetivo fundamental del proyecto DigiMac2020 es ayudar a las PYMEs a operar en mercados digitales internacionales.\nPara ello se realizarán tres acciones principales:\n\n\n\n1. Servicios de asesoramiento y consultoría prestados por consultores de internacionalización especializados en negocios y mercados digitales.- Identificación de consultores especializados en estrategia de negocios digitales y elaboración de metodologías para la aplicación en las empresas.\n\n\n\n2. Servicios de asesoramiento especializado prestado por profesionales en servicios digitales específicos.- Se identificarán en las pymes y emprendedores participantes, los servicios especializados más importantes y la detección de consultores especializados para que las empresas puedan abordar los proyectos seleccionados.\n\n\n\n3. Diagnóstico y capacitación de los RRHH de las pymes.- Identificación de perfiles adecuados en las pymes y capacitación de los mismos a través de metodologías innovadoras intensivas en tecnología.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "current": 8,
+  "next": "https://keep.eu/api/search/projects/?page=9",
+  "previous": "https://keep.eu/api/search/projects/?page=7",
+  "total_pages": 9,
+  "count": 52,
+  "results": [
+    {
+      "id": 31255,
+      "acronym": "BOTS ",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Blue Organoids for Treatment Selection",
+          "description": "The main goal is to develop and produce marine hydrogels for use in the health field, particularly in treating breast cancer. BOTS is creating new synthesise hydrogels from marine biomass, based on biopolymers from fish, crustaceans and algae, and derivatise them with peptides and ligands to support the growth of specific cell types and confer the physical properties necessary for bioprinting. \nThe team is focusing on developing marine hydrogels that can be scaled up for commercial use in drug testing using automated 3D printing technology. BOTS will have multiple beneficial effects for the Atlantic regions, including the creation of SMEs that manufacture hydrogels and provide diagnostic services based on them.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31254,
+      "acronym": "BLUESKILLING INNOVATION",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Upskilling workers in the Atlantic shipbuilding and maritime tech industry to boost industrial competitiveness, sustainability and blue innovation",
+          "description": "Intending to promote good environmental practices on the part of companies working in the shipbuilding and marine renewables sectors, the project is investing in training activities to make greater use of digital tools and to adopt new technologies that ensure clean energy. BLUESKILLING INNOVATION brings together a large research community from the European aquatic sector, including specialists in maritime and river transport, shipbuilding, ports and infrastructure and offshore energies. Transnational cooperation will be key to benefit from the expertise from each region, exploit synergies and complementarities to deliver the most useful innovative training to meet the common challenges.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 30,
+          "title": "Waterways, lakes and rivers"
+        },
+        {
+          "id": 38,
+          "title": "Infrastructure"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31253,
+      "acronym": "BluePoint",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "BluePoint - Blue circular economy of marine plastics",
+          "description": "The project will create a multi-stakeholder ecosystem and model of intercooperation, innovation, entrepreneurship and internationalization that leverages the marine plastic value chain and emerging business opportunities that arise from marine plastic pollution. Based on the Atlantic-Cantabrian regions, the project aims to systematize a Blue Point model replicable in other Atlantic regions and which contributes to the transition of the maritime sector towards a resource efficient circular economy.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31252,
+      "acronym": "BLUE SHUTTLE",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "ATLANTIC AREA NETWORK FOR ENHANCING INNOVATION IN THE BLUE ECONOMY SECTOR",
+          "description": "Blue Shuttle will accelerate the digitalisation of the blue bioeconomy sector in Atlantic regions, through a Blue Innovation Network. The focus will be on a broad innovation strategy to facilitate the adoption of digital solutions by the Blue Bioeconomy sector, specifically Marine living resources and Blue biotechnology. The project will be developed in 3 phases: - Discovery: identification of stakeholders, good practices and creation of the innovation network - Analysis: diagnosis of the technological needs and skills of the blue sector to provide specific mentoring and capacity building actions. A digital platform will be created to enable the analysis and development phases - Development: enhance innovation through open innovation programmes and pilot projects.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31251,
+      "acronym": "BEAP-MAR",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Blue Bioeconomy in the Atlantic Area: New Products from Marine Organisms",
+          "description": "The project has a goal to increase our understanding of marine organisms, especially the ones that are not commonly used for commercial purposes, like new types of algae, marine fungi, and sponges.\nThe main objective is to make good use of these organisms and create new useful substances and products for different industries. By researching these less-known organisms, the project aims to come up with innovative ways to use them in industry. To make the Blue Bioeconomy grow, it's crucial to share knowledge and best practices among different regions.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 31250,
+      "acronym": "ATLIC",
+      "programme": {
+        "id": 365,
+        "title": "2021 - 2027 Interreg VI-B Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Atlantic InnoBlue Communities",
+          "description": "ATLIC wants to change how young people come up with new ideas and start businesses in the blue economy of the Atlantic Area. The main goal is to create a test community called the Atlantic Innovation Blue Community.\nPartners plan to do this by setting up special places called open innovation labs, sharing knowledge, teaching new skills, and building networks of support. Their approach is based on a model that involves young people, teachers, small businesses, and both public and private groups, promoting everyone's active involvement.\nFor this to work well, people from different places need to work together. They'll share what they know, solve problems, and create new groups focused on specific areas. This is called the four-helix model.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 900,
+    "partners": 725,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    31297,
+    31296,
+    31295,
+    31294,
+    31293,
+    31292,
+    31291,
+    31290,
+    31289,
+    31288,
+    31287,
+    31286,
+    31285,
+    31284,
+    31283,
+    31282,
+    31281,
+    31280,
+    31279,
+    31278,
+    31277,
+    31276,
+    31275,
+    31274,
+    31273,
+    31272,
+    31271,
+    31270,
+    31269,
+    31268,
+    31267,
+    31266,
+    31265,
+    31264,
+    31263,
+    31262,
+    31261,
+    31260,
+    31259,
+    31258,
+    31257,
+    31256,
+    31255,
+    31254,
+    31253,
+    31252,
+    31251,
+    31250,
+    31249,
+    31248,
+    31247,
+    31246
+  ]
+}

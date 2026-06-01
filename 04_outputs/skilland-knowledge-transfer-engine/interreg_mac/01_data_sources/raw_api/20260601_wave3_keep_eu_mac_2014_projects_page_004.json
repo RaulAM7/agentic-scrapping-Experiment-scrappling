@@ -1,0 +1,382 @@
+{
+  "current": 4,
+  "next": "https://keep.eu/api/search/projects/?page=5",
+  "previous": "https://keep.eu/api/search/projects/?page=3",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23637,
+      "acronym": "MARGULLAR2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "NETWORK OF UNDERWATER ARCHAEOLOGICAL PARKS OF SPACE MAC",
+          "description": "The fundamental objective of MARGULLAR is to preserve the valuable underwater natural and cultural heritage in our space of cooperation where there are archaeological vestiges of the sixteenth and seventeenth centuries that the entities participating in the project want to recover, preserve and place in value for the enjoyment of the population. With MARGULLAR2 it is intended to: 1) Create a Network of Underwater Archaeological Parks in the MAC Cooperation Area, 2) Develop sustainable and innovative archaeo-tourism products with an integral management/protection of the sites and 3) Innovation in the awareness and dissemination of Atlantic cultural heritage. MARGULLAR2 will be attended by the UNESCO Regional Office to further improve actions in Senegal and Cape Verde on the protection and enhancement of Underwater Heritage.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "RED DE PARQUES ARQUEOLÓGICOS SUBACUÁTICOS DEL ESPACIO MAC",
+          "description": "El objetivo fundamental de MARGULLAR es conservar el valioso patrimonio natural y cultural subacuático en nuestro espacio de cooperación donde hay vestigios arqueológicos de los siglos XVI y XVII que las entidades participantes en el proyecto desean recuperar, preservar y poner en valor para el disfrute de la población. Con MARGULLAR2 se pretende: 1) Crear una Red de Parques Arqueológicos Subacuáticos en el Espacio de Cooperación MAC, 2) Desarrollar productos arqueo-turísticos sostenibles e innovadores con una gestión/protección integral de los yacimientos y 3) Innovación en la sensibilización y difusión del patrimonio cultural atlántico. MARGULLAR2 contará con la participación de la Oficina Regional de la UNESCO, para seguir mejorando las acciones en Senegal y Cabo Verde en materia de protección y valorización del Patrimonio Subacuático.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 15,
+          "title": "Sustainable management of natural resources"
+        },
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23636,
+      "acronym": "SABOREA",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "GASTRONOMIC AND SUSTAINABLE TOURIST DESTINATIONS",
+          "description": "The SABOREA project consists of designing a Master Plan to position Macaronesia as a destination for gastronomic tourism, thereby generating positive impacts in the participating territories at the economic, territorial, environmental and social levels. The project also aims to recover, revive and promote the gastronomic and cultural ties of the MAC Atlantic Area (origins of dishes, products, techniques, etc.). The exchange of knowledge will allow to generate its own Atlantic cuisine, with a shared core, will foster relationships between entities and professionals and enrich gastronomy.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "DESTINOS TURÍSTICOS GASTRONÓMICOS Y SOSTENIBLES",
+          "description": "El proyecto SABOREA consiste en diseñar un Plan Director para posicionar a la Macaronesia como destino de turismo gastronómico, y con ello generar impactos positivos en los territorios participantes a nivel económico, territorial, ambiental y social. Asimismo, el proyecto pretende recuperar, reavivar y promocionar los lazos gastronómicos y culturales del Espacio Atlántico MAC (orígenes de los platos, productos, técnicas, etc.). El intercambio de conocimientos permitirá generar una cocina atlántica propia, con un núcleo central compartido, fomentará las relaciones entre entidades y profesionales y enriquecerá la gastronomía.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23635,
+      "acronym": "ABACO",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "IMPROVING THE QUALITY OF COASTAL AND BATHING WATERS",
+          "description": "Abaco addresses actions to evaluate, improve, preserve, enhance, promote and promote the bathing and coastal waters of Macaronesia, for the conservation of natural values and tourism promotion. Actions include: studies of water quality and beach sands, development of computer applications for the management of beaches and coastal areas, creation of tools and applications, proposals for appropriate wastewater treatments and optimal discharge conditions, marine pollution risk assessment systems, assessment of indicators of the ecological status of coastal areas, etc. At the same time ABACO will improve the qualification of the agents involved in coastal water management, through specific knowledge transfer days.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "MEJORA DE LA CALIDAD DE LAS AGUAS COSTERAS Y DE BAÑO",
+          "description": "ABACO aborda acciones para evaluar, mejorar, preservar, valorizar, fomentar y promocionar las aguas de baño y costeras de la Macaronesia, para la conservación de los valores naturales y la promoción turística. Entre las acciones se incluyen: estudios de calidad del agua y de arenas de playas, desarrollo de aplicaciones informáticas para la gestión de playas y zonas costeras, creación de herramientas y aplicaciones, propuestas de tratamientos adecuados de aguas residuales y condiciones óptimas de vertido, sistemas de evaluación de riesgos de contaminación marina, evaluación de indicadores del estado ecológico de áreas costeras, etc. Al mismo tiempo ABACO mejorará la cualificación de los agentes implicados en la gestión de aguas costeras, a través de jornadas específicas de transferencia de conocimiento.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23634,
+      "acronym": "VOLTURMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "STRENGTHENING VOLCANO TOURISM IN MACARONESIA",
+          "description": "The objective of VOLTURMAC is to contribute to the strengthening of the conservation, protection, promotion and development of the natural and cultural heritage linked to the volcanoes of Macaronesia through volcano tourism and contribute to the diversification of the tourist offer of the four archipelagos: identification, characterisation, mapping and valuation of geological-geomorphological sites, creation of itineraries and geo-tourism routes, training programs linked to volcano tourism, etc.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "FORTALECIMIENTO DEL VOLCANO TURISMO EN LA MACARONESIA",
+          "description": "El objetivo de VOLTURMAC es contribuir al fortalecimiento de la conservación, protección, fomento y desarrollo del patrimonio natural y cultural vinculado con los volcanes de la Macaronesia a través del volcano turismo y contribuir a la diversificación de la oferta turística de los cuatro archipiélagos: identificación, caracterización, cartografía y valoración de los lugares de interés geológico-geomorfológico, creación de itinerarios y geo-rutas turísticas, programas de formación ligados al turismo de volcanes, etc.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23633,
+      "acronym": "VALCONMAC2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "COMPREHENSIVE COOPERATION PROJECT FOR THE IMPROVEMENT OF KNOWLEDGE, DISSEMINATION, CONSERVATION, MANAGEMENT AND EXPLOITATION OF THE MACARONESIAN FOREST HERITAGE.",
+          "description": "The VALCONMAC2 Project is based on the continuation in the development of the methodologies of transfer and exchange of information, based on the experiences implemented in the forest field in the Macaronesian insular Region, since 2006, which, transnationally, consisted of promoting the flow of knowledge between these territories with similar biogeographical realities. \nIn this context, the VALCONMAC2 project aims to continue to promote this exchange of experiences and knowledge in the forestry field, linked to an important burden of dissemination and dissemination of the knowledge developed and acquired by the different participants, as well as the commitment to ecotourism with products such as the Trees and Trees of Macaronesia, the rehabilitation of trails and the enhancement of forest heritage through the Forest Information Centers.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "PROYECTO INTEGRAL DE COOPERACIÓN PARA LA MEJORA DEL CONOCIMIENTO, DIVULGACIÓN, CONSERVACIÓN, GESTIÓN Y APROVECHAMIENTO DEL PATRIMONIO FORESTAL MACARONÉSICO.",
+          "description": "El Proyecto VALCONMAC2 se basa en la continuación en el desarrollo de las metodologías de transferencia e intercambio de información, sustentadas en las experiencias implementadas en el campo forestal en la Región Macaronésica insular, desde el año 2006, que con carácter transnacional, consistieron en favorecer el flujo de conocimientos entre estos territorios con realidades biogeográficas similares.\nEn este contexto, el Proyecto VALCONMAC2 pretende seguir promoviendo este intercambio de experiencias y conocimientos en el ámbito forestal, ligado a una importante carga divulgativa y de difusión de los conocimientos desarrollados y adquiridos por los distintos participantes, así como la apuesta por el ecoturismo con productos como los Árboles y Arboledas de la Macaronesia, la rehabilitación de senderos y la puesta en valor del patrimonio forestal a través de los Centros de Información Forestal.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23632,
+      "acronym": "ACLIEMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "ADAPTATION TO CLIMATE CHANGE OF THE ENERGY SYSTEMS OF MACARONESIA",
+          "description": "In order to improve the capacity to adapt to climate change at the energy level of the Macaronesian archipelagos and West African countries, the ACLIEMAC project proposes a series of actions that contribute to increasing their resilience. \nThe main objective is to reduce the energy dependence of the outside so that, in the face of natural risks due to the effects of climate change, these territories are guaranteed access and supply of energy. To this end, a diagnosis of the current energy model will be carried out beforehand, analysing the risks and vulnerabilities to which they are exposed, in order to be able to implement concrete measures for their optimal adaptation to climate change. The project’s lines of action are aimed at promoting the exploitation of new sustainable economies (Circular, Blue and Low Carbon), adapt energy infrastructure to climate change and reduce the energy consumption of different sectors.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "ADAPTACIÓN AL CAMBIO CLIMÁTICO DE LOS SISTEMAS ENERGÉTICOS DE LA MACARONESIA",
+          "description": "Con el fin de mejorar la capacidad de adaptación al cambio climático a nivel energético de los archipiélagos de la Macaronesia y países del África Occidental, el proyecto ACLIEMAC propone una serie de acciones que contribuyan a aumentar su resiliencia.\nEl objetivo principal se centra en reducir la dependencia energética del exterior de modo que, ante riesgos naturales debidos a los efectos del cambio climático, estos territorios tengan garantizado el acceso y suministro de energía. Para ello, se realizará, previamente, un diagnóstico del modelo energético actual, analizando los riesgos y vulnerabilidades a los que están expuestos, con el fin de poder aplicar medidas concretas para su óptima adaptación al cambio climático. Las líneas de actuación del proyecto están encaminadas a fomentar la explotación de las nuevas economías sostenibles (Circular, Azul y Baja en Carbono), adaptar las infraestructuras energéticas al cambio climático y reducir el consumo de energía de los diferentes sectores.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "current": 5,
+  "next": "https://keep.eu/api/search/projects/?page=6",
+  "previous": "https://keep.eu/api/search/projects/?page=4",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23631,
+      "acronym": "MAWADIPOL",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PREVENTION AND MANAGEMENT OF SPECIFIC POLLUTION AND RESCUE RISKS LINKED TO THE MARITIME COOPERATION AREA AND THE COASTAL ZONE IN THE MAC MACRO-REGION",
+          "description": "In MAWADIPOL, a series of actions aimed at increasing effective coordination at regional level is intended to be carried out in the MAC cooperation area through the following aspects: \n\n— Alignment with international regulations in the fields of marine environmental protection, maritime and coastal rescue. \n\n— Increasing regional response capacities to natural and accidental marine pollution risks affecting the space of cooperation through the use of ICTs and innovative technologies. \n\n— Strengthening the capacity to plan and implement ground handling to large passenger ships. \n\n— The increase of risk prevention on beaches through a strategy of communication to the local population and tourists. \n \nThe need for effective coordination and the integration of resources is the basis of the MAWADIPOL proposal, which is consistent with the dictates of supranational bodies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "PREVENCIÓN Y GESTIÓN DE RIESGOS ESPECÍFICOS DE CONTAMINACIÓN Y SALVAMENTO LIGADOS AL ESPACIO MARÍTIMO DE COOPERACIÓN Y A LA ZONA COSTERA EN LA MACRORREGIÓN MAC",
+          "description": "En MAWADIPOL, se pretende llevar a cabo en la zona de cooperación MAC, una serie de acciones encaminadas al aumento de la coordinación efectiva a nivel regional a través de los siguientes aspectos:\n\n- La alineación con normativa internacional en los ámbitos de la protección del medio ambiente marino, salvamento marítimo y costero.\n\n- El aumento de las capacidades de respuesta regionales ante riesgos naturales y accidentales de contaminación marina que afectan al espacio de cooperación a través del uso de las TICs y de tecnologías innovadoras.\n\n- El refuerzo de la capacidad de planificación e implementación de la asistencia en tierra a grandes buques de pasaje.\n\n- El aumento de la prevención de riesgos en playas a través de una estrategia de comunicación a la población local y turista.\n\nLa necesidad de una coordinación efectiva y de la integración de recursos es la base de la propuesta MAWADIPOL, que es coherente con los dictados de los organismos supranacionales.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23630,
+      "acronym": "0Distance",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "es": {
+          "name": null,
+          "description": "El proyecto 0Distance establecerá una red macaronésica de cooperación en materia de adaptación al cambio climático y prevención y gestión de riesgos en las poblaciones dispersas y/o remotas. Se elaborarán mapas de riesgo y se establecerán los procedimientos en materia organizacional y logística para responder y asistir a estas poblaciones en emergencias ante situaciones de crisis (mejora de centros de coordinación y logística, actualización de conocimientos del personal, dotación de medios materiales); de forma paralela se fomentará la cultura preventiva y solidaria entre los territorios o municipios con mayor grado de presencia de poblaciones dispersas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "RISK MANAGEMENT IN REMOTE MACARONESIAN POPULATIONS",
+          "description": "The 0Distance project will establish a Macaronesian network of cooperation on climate change adaptation and risk prevention and management in dispersed or remote populations. Risk maps will be developed and organizational and logistical procedures will be established to respond to and assist these populations in crisis emergencies (improvement of coordination and logistics centres, updating of staff knowledge, provision of material resources); in parallel, the preventive and solidarity culture between the territories or municipalities with the highest degree of presence of dispersed populations will be promoted.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 31,
+          "title": "Rural and peripheral development"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23629,
+      "acronym": "VOLRISKMAC II",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "STRENGTHENING R & D & I CAPACITIES FOR BUILDING RESILIENCE TO VOLCANIC EMERGENCIES IN MACARONESIA",
+          "description": "VOLRISKMAC II is a project of continuity and strengthening of the actions recommended by UNESCO and IAVCEI (International Association of Volcanology and Chemistry of the Earth’s Interior) to reduce volcanic risk, focused mainly on resilience to the volcanic phenomenon. In this sense, the VOLRISKMAC II project proposes to strengthen the resilience of the volcanic monitoring systems of Macaronesia against possible future emergencies. This will bring multiple benefits, contributing to lessening the negative effects on human lives, infrastructure and economy. It also aims to improve scientific knowledge and technological infrastructures to reduce the response times of volcanic early warning systems.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "FORTALECIMIENTO DE LAS CAPACIDADES DE I+D+I PARA EL DESARROLLO DE LA RESILIENCIA FRENTE A EMERGENCIAS VOLCÁNICAS EN LA MACARONESIA",
+          "description": "VOLRISKMAC II es un proyecto de continuidad y fortalecimiento de las acciones recomendadas por la UNESCO y IAVCEI (International Association of Volcanology and Chemistry of the Earth's Interior) para reducir el riesgo volcánico, enfocado principalmente en la resiliencia ante el fenómeno volcánico. En este sentido el proyecto VOLRISKMAC II propone fortalecer la resiliencia de los sistemas de monitorización volcánica de la Macaronesia frente a posibles futuras emergencias. Esto traerá múltiples beneficios, contribuyendo a disminuir los efectos negativos en las vidas humanas, infraestructuras y economía. Tiene también como objetivo la mejora del conocimiento científico y de las infraestructuras tecnológicas para reducir los tiempos de respuesta de los sistemas de alerta temprana volcánica.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23628,
+      "acronym": "RES-COAST",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "INFRASTRUCTURE PLANNING AND RISK MANAGEMENT TOOLS FOR THE DEVELOPMENT OF CLIMATE-RESILIENT COASTAL ECONOMIES IN WEST AFRICA",
+          "description": "The RES-COAST project seeks to respond to the adverse effects of Climate Change as a result of the increase in ocean temperature and the frequency and intensity of extreme weather events make coastal and fishing communities among the first to see their livelihoods threatened. For this, RES-COAST develops a model that incorporates technical actions of prediction, 100 % sustainable territorial planning with robust/mobile systems for the supply of renewable energies/Water so that these communities are able to react and anticipate. \nThe complementarity of the actions will allow the creation of a Model of Architecture/Territorial Planning/Engineering_100 %_Sostenibe that will be scalable to replicate it in population settlements in West Africa/Canary and in other parts of the world with similar conditions.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "HERRAMIENTAS DE PLANIFICACIÓN DE INFRAESTRUCTURAS Y GESTIÓN DE RIESGOS PARA EL DESARROLLO DE ECONOMÍAS COSTERAS RESILIENTES AL CAMBIO CLIMÁTICO EN ÁFRICA OCCIDENTAL",
+          "description": "El proyecto RES-COAST trata de dar respuesta a los efectos adversos del Cambio Climático como consecuencia del aumento de la temperatura del océano y la frecuencia e intensidad de fenómenos meteorológicos extremos hacen que las comunidades costeras y pesqueras en particular sean de las primeras en ver amenazados sus medios de subsistencia. Para ello, RES-COAST desarrolla un modelo que incorpora acciones técnicas de predicción, planificación territorial 100% sostenible con sistemas robustos/Agua para que estas comunidades sean capaces de reaccionar y anticiparse.\nLa complementariedad de las acciones permitirá la creación de un Modelo de Arquitectura/Planificación Territorial/Ingeniería_100%_Sostenibe que será escalable para replicarlo en asentamientos poblacionales del África Occidental/Canarias y en otros lugares del mundo con condiciones similares.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23627,
+      "acronym": "VERCOCHAR",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "VERMICOMPOST, COMPOST AND BIOCHAR, TOOLS FOR ADAPTATION TO CLIMATE CHANGE, PREVENTION AND MITIGATION OF THE EFFECTS OF NATURAL HAZARDS IN THE AGRICULTURAL AND FORESTRY ENVIRONMENT",
+          "description": "The VERCOCHAR project will evaluate the potential to incorporate local organic waste into agricultural and forest soils transformed through simple methodologies based on biological processes (compost and vermicompost) and physical (biochar) to improve their physico-chemical and biological properties and facilitate their regeneration. To this end, the organic residues available in each area will be defined and analysed, the processed products obtained will be characterised and their effect on the properties of the soils, mainly on their water retention and carbon sequestration capacity, in addition to assessing their capacity for the regeneration of degraded and contaminated (previously identified) soils. Innovative techniques will also be developed that take advantage of local plant residues to promote reforestation. All these actions will be combined with awareness-raising and training campaigns in local populations on soil conservation and regeneration strategies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "VERMICOMPOST, COMPOST Y BIOCHAR, HERRAMIENTAS PARA LA ADAPTACIÓN AL CAMBIO CLIMÁTICO, LA PREVENCIÓN Y MITIGACIÓN DE LOS EFECTOS DERIVADOS DE LOS RIESGOS NATURALES EN EL MEDIO AGRÍCOLA Y FORESTAL",
+          "description": "El proyecto VERCOCHAR evaluará el potencial de incorporar a suelos agrícolas y forestales residuos orgánicos locales transformados a través de metodologías sencillas basadas en procesos biológicos (compost y vermicompost) y físicos (biochar), para mejorar sus propiedades físico-químicas y biológicas y facilitar la regeneración de los mismos. Con este fin, se definirán y analizarán los residuos orgánicos disponibles en cada zona, se caracterizarán los productos transformados obtenidos y su efecto en las propiedades de los suelos, principalmente en su capacidad de retención de agua y secuestro de carbono, además de valorar su capacidad para la regeneración de suelos degradados y contaminados (previamente identificados). También se desarrollarán técnicas innovadoras que aprovechen residuos vegetales locales para favorecer la reforestación. Todas estas acciones se compaginarán con campañas de sensibilización y formación en las poblaciones locales sobre estrategias de conservación y regeneración de suelos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23626,
+      "acronym": "PLESCAMAC3",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "THIRD EDITION OF THE HEALTH EMERGENCY PLAN IN THE EVENT OF A DISASTER IN MACARONESIA.",
+          "description": "The PLESCAMAC3 project is a transnational project in which all Macaronesia Emergency Systems participate, which will be developed in accordance with the lines of work established by the United Nations in the Framework of the Sendai document for Disaster Risk Reduction 2015-2030 aimed more towards disaster risk management than disaster management, and to strengthen resilience, especially health resilience, expanding the scope of disaster risk reduction, to related environmental, technological and biological threats and risks. To do this, it will create a Health Emergency Plan in case of catastrophe in Macaronesia in case of evacuation of population with some degree of disability, the formation of specialised teams in immediate intervention in multi-risks and the creation of a training program in catastrophes for first responders and health care as well as the training of schoolchildren in the face of various risks and threats.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "TERCERA EDICIÓN DEL PLAN DE EMERGENCIAS SANITARIA EN CASO DE CATÁSTROFE EN LA MACARONESIA.",
+          "description": "El proyecto PLESCAMAC3, es un proyecto transnacional en el que participan todos los Sistemas de Emergencia de la Macaronesia, el cual se desarrollará de acuerdo a las lineas de trabajo marcadas por las Naciones Unidas en el Marco del documento Sendai para la Reducción del Riesgo de Desastres 2015-2030 encaminadas más hacia la gestión del riesgo de desastres que a la gestión de desastres, y a reforzar la resiliencia, especialmente la resiliencia sanitaria, ampliándose el alcance de la reducción del riesgo de desastres, a las amenazas y riesgos ambientales, tecnológicos y biológicos conexos. Para ello creará un Plan de Emergencia Sanitaria en caso de Catástrofe en la Macaronesia en caso de evacuación de población con algún grado de discapacidad, la formación de equipos especializados en intervención inmediata en multiriesgos y la creación de un programa formativo en Catástrofes para Primeros Intervinientes y Sanitarios así como la formación de escolares ante diversos riesgos y amenazas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 12,
+          "title": "Managing natural and man-made threats, risk management"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

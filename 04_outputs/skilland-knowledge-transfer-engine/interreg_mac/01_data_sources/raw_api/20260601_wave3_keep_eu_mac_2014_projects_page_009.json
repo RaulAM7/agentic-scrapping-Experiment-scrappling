@@ -1,0 +1,378 @@
+{
+  "current": 9,
+  "next": "https://keep.eu/api/search/projects/?page=10",
+  "previous": "https://keep.eu/api/search/projects/?page=8",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23607,
+      "acronym": "WELCOME2",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "DESTINATION INTELLIGENCE. STRATEGY TO ANALYSE TOURIST BEHAVIOR IN TOURIST DESTINATIONS",
+          "description": "WELCOME2 is a project that aims to define a long-term strategy that allows the territories of the MAC space cooperation area to be transformed into intelligent tourist destinations, through the implementation of innovative technological solutions. In this way, the territories will become innovative destinations, consolidated on a cutting-edge technological infrastructure, which guarantees the sustainable development of the destination, accessible, which facilitates the interaction and integration of the visitor with the environment and increases the quality of their experience in the destination, while improving the quality of life of the resident. \nThe goals of the project consist of: make tourism offices visible, offer WI-FI access to visitors to a municipality, promote the commercial offer of local businesses, achieve customer loyalty, provide real-time information on the behavior of tourists, and analyse the satisfaction of the tourist experience.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "INTELIGENCIA DE DESTINO. ESTRATEGIA PARA ANALIZAR EL COMPORTAMIENTO DEL TURISTA EN LOS DESTINOS TURÍSTICOS",
+          "description": "WELCOME2 es un proyecto que persigue definir una estrategia a largo plazo que permita transformar a los territorios del ámbito de cooperación del Espacio MAC en destinos turísticos inteligentes, a través de la implantación de soluciones tecnológicas innovadoras. De esta manera, los territorios se convertirán destinos innovadores, consolidados sobre una infraestructura tecnológica de vanguardia, que garantiza el desarrollo sostenible del destino, accesible, que facilita la interacción e integración del visitante con el entorno e incrementa la calidad de su experiencia en el destino, a la vez que mejora la calidad de vida del residente. \nLas metas del proyecto consisten en : visibilizar las oficinas de turismo, ofrecer acceso WI-FI a los visitantes de un municipio, promocionar la oferta comercial de negocios locales, lograr la fidelización del cliente, dotar de información a tiempo real del comportamiento de los turistas, y analizar la satisfacción de la experiencia del turista.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23606,
+      "acronym": "AD4MAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "PROMOTING THE CIRCULAR ECONOMY AND RENEWABLE ENERGIES THROUGH THE ANAEROBIC DIGESTION OF ORGANIC WASTE AND BY-PRODUCTS IN MACARONESIA",
+          "description": "AD4MAC aims to promote the circular economy and the production of renewable energy in the agri-food companies and industries of the region through the proper management of waste and organic by-products, while reducing the environmental impact. AD4MAC proposes to valorise these wastes and by-products through anaerobic digestion for the production of renewable energy, and the recycling of nutrients to agriculture thanks to the use of digestate. \nA series of actions are established that include previous studies, experimental trials, demonstration facilities and outreach actions, which will expand and improve the R & D & I capacities of universities and demonstrate to companies the technological options available for the use of waste. This will enable an effective transfer of knowledge and technology to companies and industries in the region and the continuation and implementation of project results beyond completion.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "FOMENTO DE LA ECONOMÍA CIRCULAR Y LAS ENERGÍAS RENOVABLES MEDIANTE LA DIGESTIÓN ANAEROBIA DE RESIDUOS Y SUBPRODUCTOS ORGÁNICOS EN LA MACARONESIA",
+          "description": "AD4MAC pretende fomentar la economía circular y la producción de energía renovable en las empresas e industrias agroalimentarias de la región mediante la correcta gestión de los residuos y subproductos orgánicos, reduciendo al mismo tiempo el impacto ambiental. AD4MAC propone valorizar estos residuos y subproductos mediante digestión anaerobia para la producción de energía renovable, y el reciclaje de nutrientes a la agricultura gracias al uso del digestato.\nSe establecen una serie de actuaciones que incluyen estudios previos, ensayos experimentales, instalaciones demostrativas y acciones de divulgación, que ampliarán y mejorarán las capacidades de I+D+i de las universidades y demostrarán a las empresas las opciones tecnológicas disponibles para el aprovechamiento de residuos. Esto permitirá una efectiva transferencia de conocimiento y tecnología a las empresas e industrias de la región y la continuación e implementación de los resultados del proyecto más allá de su finalización.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23605,
+      "acronym": "FRUTTMAC",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "TRANSFER OF R & D & I FOR THE SUSTAINABLE DEVELOPMENT OF TROPICAL FRUIT TREES IN MACARONESIA.T",
+          "description": "The FRUTTMAC project is a project of extensive cooperation in R & D I between research centers, universities and companies, with the active participation of regional and island public administrations, as well as different professional associations. It is therefore an integral project that aims to improve the foundations for the sustainable development of tropical fruit farms in Macaronesia, thus favoring greater resilience against new scenarios such as the already perceived climate change. To this end, three main objectives have been identified: efficient use of plant genetic resources and their accessibility, promotion of sustainable farm management and diversification of commercial supply, both local and export.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "TRANSFERENCIA DE I+D+I PARA EL DESARROLLO SOSTENIBLE DE FRUTALES TROPICALES EN LA MACARONESIA.T",
+          "description": "El proyecto FRUTTMAC es un proyecto de amplia cooperación en I+D+i entre centros de investigación, universidades y empresas, con la participación activa de las administraciones públicas regionales e insulares, así como de distintas asociaciones profesionales. Se trata pues, de un proyecto integral que pretende mejorar las bases para un desarrollo sostenible de las explotaciones de frutales tropicales en la Macaronesia, favoreciendo así una una mayor resiliencia frente a nuevos escenarios como el ya percibido cambio climático. Para ello se han marcado tres objetivos principales: uso eficaz de los recursos fitogenéticos y su accesibilidad, fomento de la gestión sostenible de las explotaciones y diversificación de la oferta comercial, tanto local como de exportación.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23604,
+      "acronym": "AHIDAGRO",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "CONTRIBUTION TO WATER SAVINGS IN STRATEGIC CROPS FOR THE PRIMARY SECTOR OF THE CANARY ISLANDS AND MADEIRA THROUGH THE APPLICATION OF BIOACTIVE NATURAL PRODUCTS AND EXTRACTS WITH OSMOPROTECTORAS PROPERTIES \nPROGRESS OF SUSTAINABLE MARINE AREA PLANNING IN MACARONESIA",
+          "description": "The AHIDAGRO project proposes to develop actions that promote the adaptation of agriculture and the main regional agricultural crops to the new climatic conditions and scenarios (increasing temperature and decreasing the useful life of water resources) guaranteeing economic activity, maintaining productive potential and food security. It is intended to respond to these challenges by developing natural products and solutions with osmoprotective properties that protect crops in situations of water deficit, evaluate the protective character of the different osmoprotective compounds in hydroponic conditions, in semi-controlled greenhouse conditions and later in field conditions in strategic crops for Macaronesia.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CONTRIBUCIÓN AL AHORRO HÍDRICO EN CULTIVOS ESTRATÉGICOS PARA EL SECTOR PRIMARIO DE CANARIAS Y MADEIRA MEDIANTE LA APLICACIÓN DE PRODUCTOS Y EXTRACTOS NATURALES BIOACTIVOS CON PROPIEDADES OSMOPROTECTORAS",
+          "description": "El proyecto AHIDAGRO propone desarrollar acciones que promuevan la adaptación de la agricultura y de los principales cultivos agrícolas regionales a las nuevas condiciones y escenarios climáticos (aumento de la temperatura y disminución de la vida útil de los recursos hídricos) garantizando la actividad económica, el mantenimiento del potencial productivo y la seguridad alimentaria. Se pretende dar respuesta a estos desafíos desarrollando productos y soluciones naturales con propiedades osmoprotectoras que protejan los cultivos en situaciones de déficit hídrico, evaluar el carácter protector de los diferentes compuestos osmoprotectores en condiciones hidropónicas, en condiciones semicontroladas de invernadero y posteriormente en condiciones de campo en cultivos estratégicos para la Macaronesia.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23603,
+      "acronym": "MICROGRID-BLUE",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "SMART MICROGRIDS FOR THE MASS INTEGRATION OF DISTRIBUTED RENEWABLES IN THE ELECTRICITY SYSTEMS OF THE CANARY ISLANDS AND WEST AFRICA",
+          "description": "The objective of the MICROGRID-BLUE project is the development of innovative solutions from the technological, regulatory, social and economic point of view for the aggregation of distributed generation plants, residential and community energy storage systems and electrical and thermal demands in the form of intelligent microgrids or hybrid renewable generation systems adapted to the reality of each region. \nThis project analyses and implements technical solutions, regulatory frameworks and operating models for a new scenario for the integration of renewable energies into insular and weak electrical systems. Microgrid-BLUE proposes an innovative technological, regulatory, remuneration and social paradigm in the energy sector of the Canary Islands and West Africa. In addition, the project has as a fundamental objective the dynamisation of external investments for the installation of pilot systems in the Canary Islands, Senegal and Cape Verde.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "MICRORREDES INTELIGENTES PARA LA INTEGRACIÓN MASIVA DE ENERGÍAS RENOVABLES DISTRIBUIDAS EN LOS SISTEMAS ELÉCTRICOS DE CANARIAS Y AFRICA OCCIDENTAL",
+          "description": "El objetivo del proyecto MICROGRID-BLUE es el desarrollo de soluciones innovadoras desde el punto de vista tecnológico, regulatorio, social y económico para la agregación de plantas de generación distribuida, sistemas de almacenamiento energético residenciales y comunitarios y demandas eléctricas y térmicas en forma de microrredes inteligentes o sistemas híbridos de generación renovable adaptadas a la realidad de cada región. \nEste proyecto analiza e implementa soluciones técnicas, marcos regulatorios y modelos de explotación para un nuevo escenario de integración de Energías Renovables en sistemas eléctrico insulares y débiles. MICROGRID-BLUE propone un innovador paradigma tecnológico, regulatorio, retributivo y social en el sector energético de Canarias y en África Occidental. Además, el proyecto tiene como objetivo fundamental la dinamización de inversiones externas para la instalación de sistemas pilotos en Canarias, Senegal y Cabo Verde.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23602,
+      "acronym": "REBECA-CCT",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "NETWORK OF EXCELLENCE IN BLUE BIOTECHNOLOGY (ALGAE) OF THE MACARONESIAN REGION. CONSOLIDATION, CERTIFICATION AND TRANSFER",
+          "description": "The Interreg-Mac REBECA project has led to the creation of 3 new collections of microalgae and cyanobacteria in the Macaronesian region and the increase of the biological capital of the Collection of the Spanish Algae Bank (BEA). Rebeca-CCT aims to strengthen the work developed, expand the number of strains and explore those already identified and cataloged as new sources of metabolites of interest, consolidate work teams and action protocols, improve infrastructures and equipment, generate common support services to all RED collections (taxonomy, cytometry, biochemistry, cultivation and processing technology, development of applications, etc.) and improve the services provided to technological centers and enhance and incentivise the Microalga Biotechnology sector in Macaroneisa.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "RED DE EXCELENCIA EN BIOTECNOLOGÍA AZUL (ALGAS) DE LA REGIÓN MACARONÉSICA. CONSOLIDACIÓN, CERTIFICACIÓN Y TRANSFERENCIA",
+          "description": "El proyecto Interreg-Mac REBECA ha propiciado la creación de 3 nuevas colecciones de microalgas y cianobacterias en la región Macaronésica y el aumento del capital biológico de la Colección del Banco Español de Algas (BEA). REBECA-CCT persigue afianzar el trabajo desarrollado, ampliar el número de cepas y explorar las ya identificadas y catalogadas como nuevas fuentes de metabolitos de interés, consolidar los equipos de trabajo y los protocolos de actuación, mejorar las infraestructuras y el equipamiento, generar servicios comunes de apoyo a todas las colecciones de la RED (taxonomía, citometría, bioquímica, tecnología del cultivo y procesado, desarrollo de aplicaciones, etc.) y mejorar los servicios que se prestan a los centros tecnológicos y potenciar e incentivar el sector de la Biotecnología de las Microalgas en la Macaroneisa.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

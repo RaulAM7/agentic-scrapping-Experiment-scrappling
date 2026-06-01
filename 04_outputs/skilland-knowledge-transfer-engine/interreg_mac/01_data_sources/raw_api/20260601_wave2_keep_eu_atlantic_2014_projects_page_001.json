@@ -1,0 +1,462 @@
+{
+  "current": 1,
+  "next": "https://keep.eu/api/search/projects/?page=2",
+  "previous": null,
+  "total_pages": 12,
+  "count": 71,
+  "results": [
+    {
+      "id": 22134,
+      "acronym": "BODAH",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Big and Open Data for the development of new processes towards Atlantic heritage management",
+          "description": "Tourism is a major engine of economic development, but it also creates a burden difficult to bear among the inhabitants\nMass tourism is promoted for destinations of great cultural, historical and heritage importance, some of them also classified as World Heritage sites by UNESCO.\nBODAH aims at improving cooperation, joint planning and at better managing conflicting interests to improve the management of two kind of cultural destinations that can benefit and be affected by tourism and the pressure of local citizens: Old-historical city centres and Sites of particular cultural or heritage interest.\nThe project plans to take advantage of technology and innovation in management tools (Smart Cities), in particular, through the collection of existing - and generation of complementary - data (Big Data, Open Data, Internet of the Things, data provided through existing sensors, local systems or cameras, etc.). One of the key objectives is to develop new solutions to address social and public needs, contributing to create new alternative offers adapted to the interests of visitors to better distribute their crowd flows, as well as redistribute impacts (both, environmental and economic ones) on heritage sites, cities and monuments.",
+          "expected_results": "First of all, the production of a Capitalization and Exploitation Charter and Action Plan will contribute to enhance the impacts of the project on regional levels through involvement of local and regional policy makers, stakeholders and enterprises, after the project life. It will focus on identifying a series of key activities and actions to be implemented by the partners from December 2021 onwards, to guarantee the future use and impact of the tools created in the framework of the project, and monitor their impact. \nIn parallel, the Policy Toolkit will adapt the conclusions from the different pilot experiences and knowledge acquired into practical recommendations on how to incorporate Smart Data management in strategic planning processes. It will be a practical tool to transfer results for future uses.",
+          "achievements": "Tourism is a major engine of economic development, but it also creates a burden difficult to bear among the inhabitants. Mass tourism is promoted for destinations of great cultural, historical and heritage importance, some of them also classified as World Heritage sites by UNESCO. BODAH aims at strengthening the sustainable development of tourism and citizens flows and socioeconomic impacts redistributions thanks to the use of data and smart technologies. The project is developing new tools, solutions and knowledge in line with the current sectoral changes and characteristics of smart destinations, able to transform information into behavior changes and decision making processes.\nThe improvement of cooperation and joint planning to better manage conflicting interests will improve the management of two kinds of cultural destinations that can  benefit, as well as be affected, by tourism and the pressure of local citizens: old-historical city centres and sites of particular cultural or heritage interest. BODAH takes advantage of technology and innovation in management tools (Smart Cities), for the collection of existing data from different sources and transform them into practical knowledge. The project has already managed to establish its own indicator system that determines which data should be measured and used for pilot schemes in four cities: Santiago de Compostela and San Sebastian in Spain, Pau in France, and Cork in Ireland. The main purpose of this indicator system is to determine what aspects need to be measured and assessed to develop suitable tourism and people flow management practices. Thus, new alternative offers can be created and adapted to the interests of visitors to better distribute their crowd flows, and redistribute impacts on these cultural destinations. The project also developed a pilot strategy to stimulate processes in tourism and heritage management, as well as a web based transnational platform to share data management services for public organisations managing tourism and heritage sites.  \n\"The Compostela Catering Association (Hotels and Restaurants) believes that BODAH, thanks to the monitoring and analysis of tourist flows in the city, and especially the Old Town, is very important for us, since it enables us to adapt our members’ services to such flows. It is also a significant project because it proves, with objective data, that Santiago does not have a problem with mass tourism in its public spaces”. Thor Rodríguez Carbón President of the Compostela Catering Association.",
+          "expected_outputs": "• Production of a Charter and Action Plan, as well as a Policy Tool Kit and the organisation of networking events.\n• International benchmark on the use of Open and Big data for both, heritage/tourism and citizens management.\n• Setting of indicators, thresholds and protocol of data measurement.\n• Strategy to link BODAH results within Regional Smart Specialisation Strategies.\n• Open and Big data collection, measurement and gathering in 4 pilot sites.\n• Data Mining to create Data Analytics Reports, including living graphs and the analysis of people flows, uses and habits, as well as predictive analysis carried out by the technical partners.\n• Development of Flow Management Models on the basis of the data obtained and analysed in the 4 pilot sites.\n• Development of a pilot strategy to stimulate quadruple helix processes in tourism and heritage management.\n• Development and testing of a web based transnational platform to share data management services for public organisations managing tourism and heritage sites.\n• Development of a training tool and organisation of local events to transfer the results.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Big e Open Data para o desenvolvimento de novos processos para a gestão do património Atlântico",
+          "description": "BODAH pretende reforçar um desenvolvimento sustentável mais holístico dos fluxos de turismo e cidadãos e das redistribuições de impactos socioeconómicos relacionados com o uso de dados e tecnologias inteligentes.\nO projeto pretende desenvolver novas ferramentas, soluções e conhecimentos em linha com as mudanças sectoriais atuais e as características dos destinos inteligentes, capazes de recolher, gerar, integrar e analisar informações e transformá-las em mudanças de comportamento e processos de tomada de decisão.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Big y Open Data para el desarrollo de nuevos procesos hacia la gestión del patrimonio Atlántico",
+          "description": "BODAH tiene como objetivo fortalecer un desarrollo sostenible más holístico del turismo y de los flujos de ciudadanos y la redistribución de impactos socioeconómicos gracias al uso de datos y tecnologías inteligentes.\nEl proyecto planea desarrollar nuevas herramientas, soluciones y conocimientos en línea con los cambios sectoriales actuales y las características de los destinos inteligentes, capaces de recopilar, generar, integrar y analizar información y transformarla en cambios de comportamiento y procesos de toma de decisiones.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Big et Open Data pour le développement de nouveaux processus de gestion du patrimoine Atlantique",
+          "description": "BODAH vise à renforcer un développement durable plus holistique de flux et la redistribution d’impacts socio-économiques grâce à l'utilisation de données et technologies intelligentes.\nLe projet prévoit de développer de nouveaux outils, solutions et connaissances en ligne avec les changements sectoriels actuels et les caractéristiques des destinations intelligentes, capables de collecter, générer, intégrer et analyser des informations et de les transformer en changements de comportement et en processus de décision.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 24,
+          "title": "Tourism"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22133,
+      "acronym": "NEUROATLANTIC",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "An Atlantic innovation platform on diagnosis and treatment of neurological diseases and aging",
+          "description": "Neurological diseases are disorders that affect the central nervous system and can impair the brain, spinal cord, peripheral nerve or neuromuscular function. Most of diseases are directly related to ageing, being Alzheimer’s Disease (AD) and stroke especially relevant due to its incidence and economic burden. More than 7.5 million European citizens aging between 30 and 99 years suffer from different types of dementia.\nNEUROATLANTIC aims at bringing together the remarkable scientific and technological capacities within the Atlantic Area in the field of the neurological diseases (eg Alzheimer’s Disease, Stroke, etc). This project will act on the clinical, preclinical and capitalization aspects accelerating the uptake of new innovations that will revolutionaze the way in which neurological diseases are handled within the area. \nNEUROATLANTIC will focus on setting up a transnational platform to develop novel theragnostics agents to treat and early diagnosis of these devastating and prevalent diseases.",
+          "expected_results": "Expected results:\n1) Explore the best clinical practices to elaborate a “green paper” to propose an improved clinical management of neurological patients. \n2) Set up a preclinical translational research platform with all the elements needed to bring innovative theragnostic agents and nanobiosensors to real settings. \n3) Capitalization of results: technology roadmap and exploitation plans will be delivered for the selected projects; a governance structure will be defined in order to select new projects to be developed in the platform and, finally, R&D mission-oriented guidelines will be developed in order to define a strategic R&D agenda to address neurologica diseases in the future.",
+          "achievements": "Neurological diseases are disorders that affect the central nervous system and can impair the brain, spinal cord, peripheral nerve or neuromuscular function. Most of these diseases are directly related to ageing, with Alzheimer’s Disease and stroke being especially relevant due to their incidence and the economic burden they carry.\nThe NEUROATLANTIC project will contribute to address this challenge by proposing new standardised clinical protocols, innovative diagnostic and treatment methods and ensuring technology transfer to enterprises to favour the uptake of innovations in real settings.\nSpecifically, NEUROATLANTIC acts on the clinical and preclinical capabilities in neurological diseases to accelerate the uptake of innovations that are expected to revolutionise how these diseases are handled.  The project is exploring the best clinical practices to elaborate a green paper for improved clinical management (diagnosis and treatment) of Alzheimer´s Disease and stroke patients. Moreover, a preclinical translational research platform with all the elements needed (animal models, nanostructures synthesis, assessment of exploitation potential) was set up to bring innovative theragnostic agents and nanobiosensors (to be used to enhance diagnosis and treatment) to real settings.\nNEUROATLANTIC is also developing a technology roadmap and exploitation plans, defining a governance structure to select new projects to be developed in the platform and developing R&D mission-oriented guidelines to define a strategic agenda to address neurological diseases in the future.",
+          "expected_outputs": "•  Technology roadmaps, exploitation plans, R&D common agenda based on R&D oriented missions, green paper on clinical management guidelines. Governance structure and methodology of the NEUROATLANTIC platform.\n•  Scientific collaborative publications and several research centres working together in R&D projects on theragnostic agents development. Moreover, number of companies supported to develop new products and services.\n•  Standardrized clinical and biobank protocols. Scientific collaborative publications and several research centres working together in R&D projects on nanobiosensors development. New improved clinical protocols for neurological diseases associated to aging, mainly Alzheimer´s disease and stroke, high prevalente disorders in the Altantic Area.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Plataforma Atlântica para inovar no diagnóstico e tratamento de doenças neurológicas",
+          "description": "NEUROATLANTIC visa reunir as notáveis capacidades científicas e tecnológicas do Espaço Atlântico no campo das doenças neurológicas (por exemplo, Doença de Alzheimer, AVC, etc.). O projeto irá focar-se na criação de uma plataforma translacional para desenvolver novos agentes teragnósticos para tratar e diagnosticar precocemente essas doenças devastadoras e prevalentes. O NEUROATLANTIC trabalhará na padronização de protocolos clínicos e inovações pré-clínicas e clínicas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Plataforma Atlántica para innovar en el diagnóstico y tratamiento de las enfermedades neurológicas",
+          "description": "NEUROATLANTIC tiene como objetivo aglutinar las notables capacidades científicas y tecnológicas dentro del Espacio Atlántico en el campo de las enfermedades neurológicas (por ejemplo, enfermedad de Alzheimer, apoplejía, etc.). El proyecto se centrará en la creación de una plataforma translacional de desarrollo de nuevos agentes teranósticos para diagnosticar y tratar estas enfermedades devastadoras y prevalentes. NEUROATLANTIC trabajará en la estandarización de protocolos clínicos e innovaciones preclínicas y clínicas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Atlantic Platform pour innover dans le diagnostic et le traitement des maladies neurologiques",
+          "description": "NEUROATLANTIC vise à réunir les remarquables capacités scientifiques et technologiques de l'Espace Atlantique dans le domaine des maladies neurologiques (par example maladie d'Alzheimer, AVC, etc.). Le projet mettra l'accent sur la mise en place d'une plateforme translationnelle pour développer de nouveaux agents de teragnostic pour traiter et diagnostiquer rapidement ces maladies. NEUROATLANTIC travaillera sur la standardisation des protocoles cliniques et les innovations précliniques et cliniques.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22132,
+      "acronym": "JONAS",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Joint framework on ocean noise in the Atlantic Seas",
+          "description": "Jonas addresses the threats to marine biodiversity from noise pollution in the Northeast Atlantic, combining noise monitoring and associated risk management, on a transnational basis. Responding to state demand, JONAS will develop and manage an effective noise monitoring platform, applying the techniques included in the Marine Strategy/Marine Space Management Framework Directive and promote the adoption of quieter efficient practices for users of the North-East Atlantic marine space.",
+          "expected_results": "Some expected results are:\n- Acoustic data observatories for ocean noise mapping.\n- Common recommendations and requirements for data gathering.\n- Noise map calibration data set – technical report Atlantic Arc noise map calibration data set – paper.\n- Noise map indicators.\n- Specification for underwater noise mapping.\n- Choice of representative species –specific acoustic susceptibility characteristics in the Atlantic.\n- Methodology for underwater noise risk assessment in the Atlantic Area.",
+          "achievements": "Increasing human pressure on the ocean and its impact on biodiversity is a major concern to policy makers, scientists and citizens. Marine activities such as shipping offshore surveys, and construction produce continuous and impulsive noise that can adversely affect marine species. Marine noise knows no frontiers and therefore needs to be addressed jointly and cost efficiently among the Atlantic regions, as required by the Marine Strategy Framework Directive. Pooling of knowledge, data and expertise, as well as common and harmonised methodologies, are needed to achieve effective balanced regional assessment.\nJONAS addresses the risks of these acoustic pressures on marine biodiversity by improving ocean noise monitoring and risk prediction. To better examine the effects of noise on sensitive species in the North-East Atlantic Ocean, JONAS is producing monthly noise and risk maps to support better planning and decision-making in EU Member States. These maps are based on the spatial modelling of noise characteristics and the distributions of key sensitive species. By carrying out five case studies, the project analyses the impacts and effects of acoustic pollution, including ship quieting methods, seismic survey operations, offshore wind energy devices, and acoustic deterrent devices in aquaculture.\nJONAS is also developing an online noise visualisation platform, a communal workspace designed to make technical material more accessible and transform it into user-friendly tools and services for use by policymakers and researchers. Through research and outputs, JONAS aims to support European nations in meeting the requirements of the Marine Strategy Framework Directive, the EU’s legally-binding framework for protecting Europe’s marine environment.\n\"JONAS 14 partners 12 regions (PT, ES, FR, IE, UK)  An underwater noise distribution map to assess the influence of shipping noise on protected species within the area was generated, from a successful collaboration between JONAS and two other Interreg projects, MarPAMM and COMPASS. This map was a benefit not only for the projects involved, but also for the stakeholders concerned with the utilisation of marine resources with consideration to key species who live in the region between Ireland and Scotland.”  Dr Naomi Wilson MarPAMM Project Manager, AFBI, Fisheries & Aquatic Ecosystems.",
+          "expected_outputs": "- Monthly noise and risk atlases based on spatial modelling of noise characteristics and the distribution statistics of key bio-indicators for sensitive receptor species;\n- The pilot demonstrator platform with real-time decision support instrument; \n- Noise threshold methodology; \n- The long-term virtual research environment.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Marco conjunto sobre ruido del oceáno en los mares Atlánticos",
+          "description": "JONAS aborda las amenazas que pesan sobre la biodiversidad marina por contaminación acústica en el Atlántico Nordeste, combinando el monitoreo del ruido y la gestión de riesgos asociados, sobre una base transnacional. Respondiendo a la demanda de los Estados, JONAS desarrollará y gestionará una plataforma efectiva de monitoreo de ruido, aplicando las técnicas incluidas en la Directiva Marco sobre la Estrategia Marina/Ordenación del espacio marino y promocionará la adopción de prácticas eficientes más silenciosas para los usuarios del espacio marino del Atlántico Nordeste.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Quadro comum para o ruído oceânico nos mares do Atlântico",
+          "description": "JONAS aborda as ameaças à biodiversidade devido à poluição sonora submarina entre espécies sensíveis no Atlântico Nordeste, através da monitorização do ruído oceânico e gestão do risco numa base transnacional. JONAS visa desenvolver uma plataforma de monitorização do ruído em harmonia com as técnicas e os requisitos da  Diretiva-Quadro Estratégia Marinha e do Ordenamento do Espaço Marítimo , adotando práticas mais silenciosas e eficientes entre os utilizadores do espaço marinho do Atlântico Nordeste.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Gestion collaborative pour le bruit de l'océan dans les mers atlantiques",
+          "description": "JONAS s'attaque aux menaces induites par la pollution sonore sous-marine sur la biodiversité de l'Atlantique Nord-Est en rationalisant le suivi du bruit et la gestion des risques sur selon une approche transnationale. Les régions de l'Espace Atlantique disposeront d'un cadre régional cohérent pour résoudre ce défi commun via une plate-forme de surveillance du bruit répondant aux exigences de la Directive Cadre sur une Stratégie Maritime/ aménagement de l'espace maritime, en favorisant l'adoption de pratiques plus efficaces et silencieuses auprès des utilisateurs de l'Espace Atlantique.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 6,
+          "title": "Coastal management and maritime issues"
+        },
+        {
+          "id": 40,
+          "title": "Climate change and biodiversity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22131,
+      "acronym": "FAN-BEST",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Funding Atlantic network for blue economy technology transfer",
+          "description": "Fan-BEST is aimed at promoting the transfer of technology to SMEs in blue biotechnology and the use of marine resources through a network of public and private entities focused on raising funds for the creation and scaling phase. Funds such as ventura, business angels, participatory loan or crowdfunding will be offered for tools and services so that technologies and innovations “made in” Atlantic regions can reach the market converted into successful business projects.",
+          "expected_results": "- Improving the information about the financing needs and the potential of technology transfer.\n- Taking advantage of the knowledge and opportunities that represent business angels of the maritime economy that do not have the necessary size to access to R+D projects investment.\n- Improvement of skills and abilities of the support services for entrepreneurs and spin-offs .\n- Exploration and exploitation of university R+D in all their potential.\n- Increasing the funds and financial instruments available for innovation and scaling up in SMEs linked with marine resources sustainable exploitation.",
+          "achievements": "The Atlantic Area business environment is composed mainly of SMEs whose innovation capacity is undermined by the disconnection between the business environment and the innovation systems. Companies linked to the maritime economy have difficulties in accessing external financing to undertake innovative projects and develop value products. These factors can block their possibilities to grow and become more competitive in a global market. The FANBEST project aims to support SMEs in blue biotechnology and the exploitation of marine resources by creating a network of public and private entities focused on the fundraising to make possible the start and scale-up phases. Access to funds and investors can help technologies and innovations “made in Atlantic regions” to reach the market and be turned into successful business projects.\nThus, to increase the offer the project created a portfolio of funds and available financial instruments, a training programme and a handbook for coaches aimed to support innovative start-ups and new enterprises. It also provided more availability of funds outside banks such as venture capital, business angels or equity loans, suitable for operating in the transnational blue technology market.\nFANBEST also improved the ecosystem for future beneficiaries by creating a “Stock Market” platform, updated with technology and innovations with potential for industrial use of marine and maritime resources. Furthermore, a joint coaching programme was launched giving support to 13 innovation projects at selected SMEs.\nFinally, the creation of a Helpdesks Network specialised in supporting blue economy aimed to bring together diverse stakeholders such as agents and investors. These platforms will be a lasting result making the project have a wider impact.\n\"The programme helped HydroWing Ltd simplify our business model and create materials and methods that allow us to communicate more compellingly to investors. It definitely increased our success in this endeavour and we were delighted to raise approximately £ 2 million of investment”. Bevan Wray Project Engineer at Hydrowing.",
+          "expected_outputs": "- Portfolio of funds and financial instruments and Manual for financing innovation in start- ups and new companies in Atlantic regions;\n- Helpdesks Network specialized in marine resources and blue biotechnology that has identified the map of agents, investors and financial instruments an platforms to match the needs of funding of innovation.\n- Platform as “STOCK MARKET” updated with technology and innovations with big potential for industrial use of marine and maritime resources.\n- More availability of funds outside banks such venture capital, business angels, participative loan, other companies or crowdfunding initiatives, suitable to operate at transnational market of blue technology.\n- New set of financing instrument designed and tested by partners.\n- Coaching of 7 blue bio technological projects or based on innovative and sustainable use of marine resources, involving producer centers of research results, companies and financers.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Red Atlántica para la financiación de la transferencia de tecnología en Economía Azul",
+          "description": "FAN-BEST se dirige a promover la transferencia de tecnología a PYMEs en biotecnología azul y uso de recursos marinos por medio de una red de entidades públicas y privadas enfocada a captar fondos para la fase de creación y escalado. Fondos como ventura, business angels, préstamo participativo o crowdfunding se ofrecerán por herramientas y servicios para que las tecnologías e innovaciones “made in” regiones atlánticas puedan alcanzar el mercado convertidas en proyectos de negocio exitosos.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Rede Atlântica para o financiamento da transferência de tecnologia na Economia Azul",
+          "description": "FAN-BEST visa promover a transferência de tecnologia para PMEs especializadas em biotecnologia azul e utilização de recursos marinhos, através de uma rede de entidades públicas e privadas focada em captar fundos para a fase de criação e escala. Fundos como capital de risco, business angels e financiamento colaborativo serão propostos através de ferramentas e serviços para que a tecnologia e inovação criadas nas regiões atlânticas possam entrar no mercado enquanto projetos de negócio de sucesso.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Réseau Atlantique pour le financement de transfert de technologie dans l’Economie Bleue",
+          "description": "FAN-BEST vise à encourager le transfert de technologie aux PME de biotechnologie bleue ou liées aux ressources marines via un réseau de structures publiques et privées spécialisées dans la collecte de fonds pour les phases de création. Des fonds comme les capital-risque, business angels, prêt ou financement participatif seront proposés au travers d’outils et services, afin que les technologies et innovations «made in» Région Atlantique puissent accéder au marché sous forme de projets.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22127,
+      "acronym": "EERES4WATER",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Promoting energy-water nexus resource efficiency through renewable energy and energy efficiency",
+          "description": "Historically, energy and water interactions (the nexus) have been considered on a regional or technology-by-technology basis. It is now required to follow an  approach where deep knowledge of the nexus and the development of local policies, strategies and tools to reduce energy needs and/or promote renewable energy sources in the nexus should be profoundly addressed.\nEERES4WATER will enhance the institutional, technical and social framework to promote the direct use of renewable energy sources and energy efficiency in water cycle by influencing related policies and introduction of new processes and technologies. \n The overall objective is to provide Atlantic Area target stakeholders with the tools and instruments needed to overcome the Energy-Water nexus challenges and increase its utilization. Besides, providing policy recommendations and legal framework for policy makers and public administrators, developing innovative technological solutions, supporting tools (ICT tool for decision making and support services), establishing cooperation agreements between the academia and the private sector, and providing information and awareness about resource efficiency.",
+          "expected_results": "The expected impact is the unlocking of the Atlantic Area domestic resources and an improved sustainability of the current water cycle related processes and policies. An increase of 5% of renewable energy capacities installed is foreseen and increased adoption of energy efficiency patterns through the delivery of at least 5 new products to the market. EERES4WATER will enable more favourable conditions for the local renewable energy and energy-efficiency sectors, leading to a better positioning of the Atlantic Area in creation of new value-chains, strategies, jobs and subsequently regional growth.",
+          "achievements": "In line with the priorities set out in the Research and Innovation Strategies for Smart Specialisation (RIS3), sustainable solutions are required for the technological advancement of the waterenergy nexus. Technological solutions should be adapted to the different scenarios that typically exist in the Atlantic Area, especially in coastal and inland areas. EERES4WATER is enhancing the institutional, technical and social framework to promote the direct use of renewable energy sources and energy efficiency in the water cycle by influencing related policies and introducing new technologies.\nThe project partners are working on a bundle of technologies to make water management and energy related processes more efficient. Some of these technologies are low-cost wave-driven energy generation, wastewater decontamination and desalination systems powered by renewable energy, and pump used as a turbine. The project has developed a software application to predict water storage, pumping requirements, and variable water treatments operation, as well as an Artificial Intelligence model to predict faecal indicator organisms and detect poor water quality in real-time. The partners are working on an energy efficiency labelling standard for processes and facilities of the water cycle. This will allow policy makers to support more efficient installations and better decision making when investing in goods and services. \nThanks to all the know-how generated, the partners have provided three transnational services on innovative energy and water technologies in the fields of desalination and renewable energy. These improvements will contribute to provide citizens with cheaper and more sustainable access to water in the Atlantic Area thanks to better local and regional policies and strategies, and the consolidation of new technologies.\n\"In the Canary Islands region there is not much water. Low rainfall and a volcanic aquifer. The energy dependence of the water cycle is very high. The water used in the main islands is desalted water from the sea and complex pumping is required due to the orography and deep wells. Besides, the tourist pressure requires a high freshwater provision to accomplish the quality standard. The Canary Islands Government expects to bring to the islands some of these new technologies and results from EREES4WATER project and include them in the water cycle to reduce the huge dependence on the energy that currently exists on the waterenergy nexus in the region”. Canary Islands Government.",
+          "expected_outputs": "At technical level, the project will focus on the direct use of RES (1. pilot actions on solar energy-driven water disinfection, use of energy storage in solar energy installations and RES-driven pumping station; 2. case-study and preparatory tests for wave-driven energy desalination in coastal areas; 3. Case-study on RES combination) and on improved energy-efficiency processes/technologies (1. pilot actions on water desalination; 2. case study on membrane distillation using industrial excess heat and implementation of microturbines to recover dissipated energy).  At social level, open innovation strategies will deliver academia-business cooperation agreements.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Promoção de recursos eficientes do nexus energia-água através da energia renovável e eficiência energética",
+          "description": "EERES4WATER irá potenciar a estrutura institucional, técnica e social para promoção do uso direto de fontes de energia renováveis e eficiência energética em políticas, processos e tecnologias relacionadas com o ciclo da água. Este projeto pretende levar o Espaço Atlântico para a vanguarda da sustentabilidade, impactando positivamente nas capacidades de produção das fontes de energia renováveis e nas estratégias e políticas de eficiência energética existentes. Na eficiência de recursos estes são aspetos fundamentais para o nexus energia-água.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Uso de recursos eficientes en nexo energía-agua mediante energías renovables y eficiencia energética",
+          "description": "EERES4WATER mejorará la estructura institucional, técnica y social para promover el uso directo de las fuentes de energía renovables, y la eficiencia energética en políticas, procesos y tecnologías relacionadas con el ciclo del agua. Este proyecto pretende llevar el Espacio Atlántico a la vanguardia de la sostenibilidad, impactando positivamente en la capacidad de producción de fuentes de energía renovables y en las estratégias y politicas de eficiencia energética existentes. Estas son aspectos fundamentales para el binomio agua-energía.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Promouvoir l'efficacité des resources du lien énergie-eau par les enérgies renouvelables et l'efficacité énergétique",
+          "description": "Le projet EERES4WATER vise à améliorer le cadre institutionnel, technique et social afin de favoriser l'utilisation directe des sources d'enérgie renouvelable et d'efficacité énergétique dans les politiques, process et technologies liés au cycle de l'eau.\nCe projet vise à placer l’Espace Atlantique au premier plan de la durabilité, en ayant un impact positif sur la capacité de production de sources d’énergie renouvelable et sur les stratégies et politiques d’efficacité énergétique existantes. Ce sont des aspects fondamentaux pour le binôme eau-énergie.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 33,
+          "title": "Energy efficiency"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 22126,
+      "acronym": "Blue-GIFT",
+      "programme": {
+        "id": 59,
+        "title": "2014 - 2020 INTERREG VB Atlantic Area"
+      },
+      "translations": {
+        "en": {
+          "name": "Blue growth and innovation fast tracked",
+          "description": "The development of a world leading Marine Renewable Energy (MRE) industry in the Atlantic regions represents a fantastic opportunity to stimulate economic development in these more peripheral areas. Combating climate change and securing energy supply are also major issues and MRE represents a substantial and as yet largely untapped asset which will help reduce greenhouse gas emissions by bringing highly productive renewable technologies closer to the market.\nBlue-GIFT will help Atlantic Area companies test the next generation of MRE technology in real sea environments and prove power can be economically generated from the ocean. The project will implement a coordinated MRE technology demonstration programme that encourages longer term demonstration and technology de-risking. This will maximise the use of government funded infrastructure across the regions to demonstrate a minimum of 8 MRE floating wind, wave or tidal pre-commercial technologies, working with over 20 SME's, sustaining 30+ jobs and helping to secure €15M investment into MRE companies.",
+          "expected_results": "Blue-GIFT will help coordinate efforts to overcome one of the biggest engineering obstacles to these targets at a transnational level by using European support to reduce technical risk and improve investability. The outputs delivered by the demonstration activities will be made publicly available. This will ensure that the impact of the project will continue beyond its active lifetime, by producing resources that will be useful for ocean energy developers well into the future. Additionally, the scientific and research paper outputs will inform the continuing work carried out at all research institute partners.  Project success will also help the industrial partners create growth and jobs for the Atlantic Area. Through engagement with key decision-makers, the partners will work to create a political environment that will encourage the MRE industry to make best use of the project’s outputs.",
+          "achievements": "The development of a world leading Marine Renewable Energy (MRE) industry in the Atlantic regions represents a fantastic opportunity to stimulate economic development in more peripheral areas. MRE represents a substantial asset that can help to combat climate change, secure energy supply, and reduce greenhouse gas emissions. BLUEGIFT is helping Atlantic Area companies test the next generation of MRE technology in real sea environments and prove power can be economically generated from the ocean. The test sites involved provide a range of marine energy resource types at their facilities. Access to test sites to perform tests and validation was granted through a series of competitive calls.\nBLUEGIFT will deliver at least 8 technology demonstrations of floating wind, wave, tidal or solar technologies, resulting into over 24,000 hours of operations, work with over 20 SME’s, sustaining 30+ jobs and helping to leverage 15 million euros of investment into MRE companies. To complement technology being tested in real sea conditions, the project is also focussing on increasing technical collaboration. The Optimisation work package will collaborate with developers to ensure methodologies are consistent for test planning and verification. In order to benefit developers and the entire community in the medium to long term, BLUEGIFT partners agreed to specify and implement a joint R&D programme. The objective is to improve knowledge, methods, and tools to support MRE sea trials in the Atlantic Area.\nEach test site will hold the test results for at least three years past project close, supporting long-term impact and spin off research where appropriate. Furthermore, the project foresees a series of strategic capitalisation tasks aimed at the long term roll out of MRE technology across all the Atlantic regions.\n\"Thanks to the BLUEGIFT project, financed with ERDF funds, we will have new access to the testing site of PLOCAN, to continue the development of our innovative W2Power technology.” Ana Mayorga COO of EnerOcean.",
+          "expected_outputs": "• The Technology Development Work Package, which will run 3 competitive calls for test site access. \n• Deliver a minimum of 8 technology demonstrations lasting six to twelve months which will deliver over 24,000 hours of operational data.  \n• Capitalise on the testing expertise within EMEC, SEMREV and SmartBay to support the INTERREG AA sites at PLOCAN, BiMEP, SEENEOH and WaVEC. \n• Developing longer support for the technologies tested to breakthrough into the market, including the development of an MRE focused roadmap for the Atlantic Area along with a transnational MRE infrastructure plan.",
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "Crescimento azul e acelerador de inovação",
+          "description": "Blue-GIFT irá ajudar as empresas do Espaço Atlântico a testar a nova geração de tecnologia de Energia Marinha Renovável (EMR) em ambientes marinhos reais e demonstrar que a energia pode ser gerada economicamente a partir do mar. O projecto irá resultar num mínimo de 8 demonstrações pré-comerciais de tecnologia eólica flutuante, ondas ou marés, mais de 24.000 horas de operação, trabalhar com mais de 20 PME, manter mais de 30 postos de trabalho e garantir um investimento de 15 M € em empresas de EMR.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "Crecimiento azul y acelerador de innovación",
+          "description": "Blue-GIFT ayudará a las empresas del Espacio Atlántico a probar la nueva generación de tecnología de Energía Renovable Marina (MRE) en entornos marinos reales y demostrar que la energía puede generarse de forma económica a partir del mar. El proyecto  resultará en un mínimo de 8 demostraciones precomerciales de tecnología eólica flotante, olas o mareas, más de 24,000 horas de operación, trabajará con más de 20 PYMES, mantendrá más de 30 empleos y asegurará una inversión de 15 M€ en empresas de MRE.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Croissance bleue et accélérateur d’innovation",
+          "description": "Blue-GIFT aidera les entreprises de l'Espace Atlantique à tester la prochaine génération de technologie d’Énergie Marine Renouvelable (ERM) dans des environnements marins réels et à démontrer qu’une source d'énergie peut être générée de manière économique par l'océan. Ce projet générera au moins 8 démonstrations précommerciales de technologie éolienne flottante, de vagues ou de marées, plus de 24 000 heures de fonctionnement, travaillera avec plus de 20 PME, préservant plus de 30 emplois et contribuant à sécuriser les investissements de 15 millions d'euros dans les entreprises des EMR.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 28,
+          "title": "Renewable energy"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 718,
+    "partners": 543,
+    "programmes": 1,
+    "docs": 923
+  },
+  "project_ids": [
+    22134,
+    22133,
+    22132,
+    22131,
+    22127,
+    22126,
+    22125,
+    22124,
+    22122,
+    22120,
+    22119,
+    22117,
+    22116,
+    22115,
+    22114,
+    22112,
+    22111,
+    22110,
+    22109,
+    22107,
+    22103,
+    22101,
+    22096,
+    22095,
+    22092,
+    22088,
+    22084,
+    19380,
+    19379,
+    19378,
+    19377,
+    19376,
+    19375,
+    19373,
+    19371,
+    19370,
+    19367,
+    19366,
+    19363,
+    19361,
+    19359,
+    19357,
+    19356,
+    19355,
+    19353,
+    19352,
+    19351,
+    19350,
+    19349,
+    19348,
+    19347,
+    19345,
+    19342,
+    19341,
+    19338,
+    19337,
+    19336,
+    19335,
+    19334,
+    19332,
+    19331,
+    19328,
+    19314,
+    19309,
+    19303,
+    19300,
+    19295,
+    19292,
+    19290,
+    19287,
+    19280
+  ]
+}

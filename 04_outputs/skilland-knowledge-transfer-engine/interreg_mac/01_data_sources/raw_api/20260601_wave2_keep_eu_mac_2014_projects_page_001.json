@@ -1,0 +1,388 @@
+{
+  "current": 1,
+  "next": "https://keep.eu/api/search/projects/?page=2",
+  "previous": null,
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23655,
+      "acronym": "AEDENET",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "INSTITUTIONAL COOPERATION TO ENHANCE THE EFFECTIVENESS AND EFFICIENCY OF PUBLIC HEALTH POLICY LINKED TO THE INTRODUCTION OF TROPICAL DISEASES IN MACARONESIA",
+          "description": "AEDENET is a project of collaboration and cooperation between administrations and public health support institutes of the Canary Islands and Cape Verde with the aim of improving the effectiveness and results of this public health policy vis-à-vis its citizens. For this, joint collaboration and coordination agreements are established, protocols of action tested in the territory, both Canarian and Cape Verdean are established, training is carried out among professionals and tools and actions of dissemination and awareness are carried out between them and the general population. All within the framework of the fight against the introduction and spread of vector-borne tropical diseases (mainly mosquitoes). Finally, it is expected to achieve a safer and stronger Macaronesian region in the face of this threat that will undoubtedly be greater in the coming years with climate change and the globalisation of transports and movements of people and goods.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "COOPERACIÓN INSTITUCIONAL PARA ELEVAR LA EFICACIA Y EFICIENCIA DE LA POLÍTICA DE SALUD PÚBLICA VINCULADA A LA INTRODUCCIÓN DE ENFERMEDADES TROPICALES EN LA MACARONESIA",
+          "description": "AEDENET es un proyecto de colaboración y cooperación entre administraciones e institutos de apoyo de Salud Pública de Canarias y Cabo Verde con el objetivo de mejorar la eficacia y los resultados de dicha política de salud pública frente a sus ciudadanos. Para ello se establecen acuerdos de colaboración y coordinación conjuntos, se establecen protocolos de actuación testedados en el territorio, tanto canario como caboverdiano, se realizan formaciones entre los profesionales y se realizan herramientas y actuaciones de difusión y sensibilización entre ellos y la población en general. Todo dentro del marco de la lucha frente a la introducción y propagación de las enfermedades tropicales transmitidas por vectores (principalmente mosquitos). Finalmente se espera conseguir una región macaronésica más segura y fortalecida frente a esta amenaza que sin duda será mayor en los próximos años con el cambio climático y la globalización de los transportes y movimientos de personas y mercancías.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23654,
+      "acronym": "DYNAMIC-EGOV",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "ICT GOVERNANCE",
+          "description": "The DYNAMIC-EGOV project aims to promote the use of ICT, related to e-government in the governments of Macaronesia, improving public services, productivity and efficiency of public personnel, as well as information and formalities and services with citizens. To achieve this objective, the project partners will mainly develop five axes of action: \n\n(1) Coordination with all the actions being carried out to improve governance, promoting a transnational cooperation network for the use of ICT. \n\n(2) Develop a unique inventory of existing ICT applications, design a strategy for leveraging them in each government. \n\n(3) Develop and use ICT tools, making real cases. \n\n(4) Coordination with the ICT sector of each region, for the evolution, maintenance and growth of ICT eGovernment tools. \n \n(5) Dissemination and dissemination of the advantages of these tools.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "TIC GOBERNANZA",
+          "description": "El proyecto DYNAMIC-EGOV pretende impulsar el uso de las TIC, relacionadas con la administración electrónica en los Gobiernos de la Macaronesia, mejorando los servicios públicos, la productividad y eficacia del personal público, así como la información y trámites y servicios con los ciudadanos. Para lograr este objetivo los socios del proyecto desarrollarán principalmente cinco ejes de actuación:\n\n(1) Coordinación con todas las actuaciones que se están realizando para mejorar la gobernanza, impulso de una red de cooperación transnacional para el uso de las TIC. \n\n(2) Elaboración de un inventario único de aplicaciones TIC existentes, diseñar una estrategia de aprovechamiento de las mismas en cada gobierno. \n\n(3) Desarrollar y usar herramientas TIC, realizando casos reales. \n\n(4) Coordinación con el sector TIC de cada región, para la evolución, mantenimiento y crecimiento de las herramientas TIC de Administración electrónica. \n\n(5) Divulgación y difusión de las ventajas de estas herramientas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23653,
+      "acronym": "RIGPAP-ACV",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "GREEN CAPE 2020",
+          "description": "RIGPAP-ACV is a project of modernisation and administrative simplification, focused on the intervention in the “business processes” of the Public Administration of the Azores and Cape Verde, enhancing the creation of a platform for shared use and the restructuring of services and dematerialisation of administrative procedures, with the aim of promoting the otimisation of processes and improving the efficiency and effectiveness of the response to the citizen.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CABO VERDE 2020",
+          "description": "RIGPAP-ACV es un proyecto de modernización y simplificación administrativa, enfocado a la intervención en los “procesos de negocio” de la Administración Pública de Azores y Cabo Verde, potenciando la creación de una plataforma de uso compartido y la reestructuración de servicios y desmaterialización de procedimentos administrativos, con el objetivo de promover la otimización de procesos y mejorar la eficiencia y eficacia de la respuesta al ciudadano.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "pt": {
+          "name": "REDE INTEGRADA DE GESTÃO DE PROCESSOS NA ADMINISTRAÇÃO PÚBLICA – AÇORES",
+          "description": null,
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23652,
+      "acronym": "CIFCAM",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "MEDICAL SCIENCE FRUGAL INNOVATION CENTER OF MACARONESIA",
+          "description": "The CIFCAM Project aims to democratise access to advanced medical technology by introducing frugal innovation processes, a concept that includes those production processes that allow the obtaining of products of equal utility to other pre-existing ones, but with a complexity and cost of production significantly lower. The innovative advances of these characteristics within the health field allow the implementation of medical techniques or processes that lead to a reduction in the costs of existing technologies, which facilitates the access of state-of-the-art medical technologies to strata of the population that currently does not have access to them. \nThe project will have from the beginning with the participation of researchers specialised in the field. These will train health professionals from the Canary Islands, Cape Verde and Senegal in the most advanced techniques of developing low-cost, easy-to-implement medical devices.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CENTRO DE INNOVACIÓN FRUGAL EN CIENCIAS MÉDICAS DE MACARONESIA",
+          "description": "El Proyecto CIFCAM pretende democratizar el acceso a tecnología médica avanzada introduciendo procesos de innovación frugal, concepto que comprende a aquellos procesos de producción que permiten la obtención de productos de igual utilidad a otros preexistentes, pero con una complejidad y coste de producción netamente inferior. Los avances innovadores de estas características dentro del ámbito sanitario permiten implementar técnicas o procesos médicos que conlleven un abaratamiento con respecto a los costes de las tecnologías existentes, lo que facilita el acceso de tecnologías médicas de última generación a estratos de la población que en la actualidad no tiene acceso a ellas. \nEl proyecto contará desde un inicio con la participación de investigadores especializados en la materia. Estos capacitarán a profesionales sanitarios de Canarias, Cabo Verde y Senegal en las técnicas más avanzadas de desarrollo de dispositivos médicos de bajo coste y fácil implementación.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23651,
+      "acronym": "LAZOS",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "STRENGTHENING THE LINKS BETWEEN MACARONESICAS CITIES AND THEIR NEIGHBOURHOOD IN TERMS OF GOOD GOVERNANCE AND DEVELOPMENT",
+          "description": "The LAZOS project seeks to contribute to the development of the capital cities of the countries of Cape Verde, Mauritania, Senegal and Las Palmas de Gran Canaria and to promote more efficient and effective models of municipal organisation and management, through a participatory process of exchange of experience, information, training, participatory diagnosis and improvement plans. Above all, it is intended to address the problem of the growth of African cities (it is estimated that they double their population in 20 years). All this will help to improve the management capacities of cities, especially in urban and environmental areas and strengthen cooperation ties at political and technical level, as set out in the Partnership Protocol signed by the partners in July \n\n2017. This project is the beginning of a permanent work of the partner cities, which will serve as the basis for implementing new projects and programs in common areas in the future.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "FORTALECIMIENTO DE LOS LAZOS ENTRE CIUDADES MACARONESICAS Y SU VECINDAD EN MATERIA DE BUENA GOBERNANZA Y DESARROLLO",
+          "description": "El proyecto LAZOS busca contribuir al desarrollo de las ciudades capitales de los países de Cabo Verde, Mauritania, Senegal y Las Palmas de Gran Canaria y promover modelos de organización y gestión municipal más eficientes y eficaces, a través de un proceso participativo de intercambio de experiencia, información, formación, diagnóstico participativo y planes de mejora. Sobretodo se pretende abordar la problemática del crecimiento de las ciudades africanas (se estima que doblen su población en 20 años). Todo esto contribuirá a mejorar las capacidades de gestión de las ciudades, especialmente en los ámbitos urbanísticos y medioambientales y estrechar los lazos de cooperación a nivel político y técnico, tal como se recogió en el Protocolo de Colaboración firmado por los socios en julio de \n\n2017. Este proyecto es el inicio de un trabajo permanente de las ciudades socias, lo que servirá de base para implementar a futuro nuevos proyectos y programas en ámbitos comunes.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23650,
+      "acronym": "OpenDx28",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "MACARONESIAN OPEN DIAGNOSTIC NETWORK",
+          "description": "OpenDx28 is born with a double objective. On the one hand, it aims to correct the difficulties of rural communities’ access to diagnostic tests through a strategy in which all public health services in the cooperating territories actively participate.The rapid testing devices produced by pharmaceutical companies are expensive; however, with the implementation of OpenDX28 innovative and local manufacturers will be able to quickly assemble economic testing devices, allowing local communities to perform checks on the most relevant health parameters, and improve their ability to respond to the emergence of new pathogens. As a second objective, public systems will take advantage of the information generated by rapid diagnostic devices to create an analysis platform on the epidemiological situation of the cooperating territories and thus improve efficiency in health surveillance.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "RED MACARONÉSICA DE DIAGNÓSTICO ABIERTO",
+          "description": "OpenDx28 nace con un doble objetivo. Por un lado, pretende corregir las dificultades de acceso de las comunidades rurales a pruebas de diagnóstico a través de una estrategia en la que participan activamente todos los servicios públicos de salud de los territorios cooperantes.Los dispositivos de prueba rápidos producidos por las compañías farmacéuticas son caros; sin embargo, con la implantación de OpenDX28 innovadores y fabricantes locales podrán ensamblar rápidamente dispositivos de prueba económicos, permitiendo a las comunidades locales realizar controles en los parámetros de salud más relevantes, y mejorar su capacidad de respuesta ante la aparición de nuevos patógenos. Como segundo objetivo, los sistemas públicos aprovecharán la información generada por los dispositivos de diagnóstico rápido para crear una plataforma de análisis sobre la situación epidemiológica de los territorios cooperantes y mejorar así la eficiencia en la vigilancia de la salud.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

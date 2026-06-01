@@ -1,0 +1,382 @@
+{
+  "current": 7,
+  "next": "https://keep.eu/api/search/projects/?page=8",
+  "previous": "https://keep.eu/api/search/projects/?page=6",
+  "total_pages": 21,
+  "count": 123,
+  "results": [
+    {
+      "id": 23619,
+      "acronym": "CUSTOMS",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "TRADE FACILITATION SYSTEM TO INCREASE TRADE EXCHANGE IN THE AREA OF COOPERATION AND OF THE SPACE OF COOPERATION WITH OUTSIDE",
+          "description": "The CUSTOMS project focuses on two major areas of action: \n\n\n\n1. Increase trade within the area of cooperation. To this end, it is intended to: I). Identify those segments where complementarities can occur between regions; II). Promote trade between regions in these segments; enhance the capacities of SMEs in these priority sectors so that they can take advantage of existing market opportunities within the cooperation area. \n\n\n\n2. To break down the customs problems that hinder these trades. For which it is intended: I). Identify the main customs and tariff barriers that hinder the internationalisation of SMEs; II). Establish actions to eliminate/decrease identified customs problems; III). Improving the capacities of SMEs and public bodies in the use and use of customs/fiscal systems in the cooperation area.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "SISTEMA DE FACILITACIÓN DEL COMERCIO PARA INCREMENTAR EL INTERCAMBIO COMERCIAL EN EL ESPACIO DE COOPERACIÓN Y DEL ESPACIO DE COOPERACIÓN CON EL EXTERIOR",
+          "description": "El proyecto CUSTOMS se centra en dos grandes ámbitos de actuación:\n\n\n\n1. Aumentar los intercambios comerciales dentro del espacio de cooperación. Para ello se pretende: i). Identificar aquellos segmentos donde se puedan producir complementariedades entre las regiones; ii). Promocionar el intercambio comercial entre las regiones en estos segmentos; iii) Mejorar las capacidades de las pymes de estos sectores prioritarios para que puedan aprovechar las oportunidades de mercado existentes dentro del espacio de cooperación.\n\n\n\n2. Derribar los problemas aduaneros que dificultan estos intercambios comerciales. Para lo cual se pretende: i). Identificar las principales barreras aduaneras y arancelarias que suponen un obstáculo para la internacionalización de las pymes; ii). Establecer acciones para eliminar/disminuir los problemas aduaneros identificados; iii). Mejorar las capacidades de las pymes y organismos públicos en el uso y aprovechamiento de los sistemas aduaneros/fiscales del espacio de cooperación",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23618,
+      "acronym": "SMART-ECO",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "INTELLIGENT TERRITORIES FOR THE IMPROVEMENT OF THE DIGITAL COMPETITIVENESS OF COMPANIES AND ENTREPRENEURS OF THE MAC SPACE.",
+          "description": "The SMART-ECO project consists of creating a platform of smart cities to improve the digital competitiveness of companies, micro-enterprises, self-employed and entrepreneurs. This digital transformation of the local economy will result in greater capacity for companies to grow in regional, national and international markets and contribute to the economic diversification of the MAC Space. \nThe project is structured around three work blocks: (1) Creating a collaborative framework for the generation of a local digital ecosystem, (2) Technological innovation in the local productive fabric (“digital adopters”), (3) Improving “digital natives” and start-ups.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "TERRITORIOS INTELIGENTES PARA LA MEJORA DE LA COMPETITIVIDAD DIGITAL DE LAS EMPRESAS Y EMPRENDEDORES DEL ESPACIO MAC.",
+          "description": "El proyecto SMART-ECO consiste en crear una plataforma de ciudades inteligentes para la mejora de la competitividad digital de las empresas, las microempresas, los autónomos y los emprendedores. Esta transformación digital de la economía local redundará en una mayor capacidad de las empresas para crecer en los mercados regionales, nacionales e internacionales y contribuirá a la diversificación económica del Espacio MAC. \nEl proyecto se estructura en torno a tres bloques de trabajo: (1) Creación de un marco de colaboración para la generación de un ecosistema digital local, (2) Innovación tecnológica en el tejido productivo local (“digital adopters”), (3) Impulso a los “nativos digitales” y las start-up.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23617,
+      "acronym": "CITY+",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "CONSOLIDATION OF MACARONESIA’S NETWORK OF WORLD HERITAGE CITIES",
+          "description": "The CITY+ project is primarily focused on: \n1) The internationalisation of professionals and local companies.- It is intended to achieve this goal, through mobility actions and exchange between professionals, entrepreneurs, companies, and young talents, among the participating cities of the network. This is not only done to provide them with the intrinsic enrichment that comes associated with the exchange, but also to provide them with tools, resources and provide the context so that they can expand their products, services or even ideas and seeds of projects in markets other than their own. That is why the project encompasses various exchange activities that aim to mobilise at least 50 professionals. \n2) The promotion and dissemination of the brand “World Heritage of Humanity” and what the title represents.- This project contemplates different activities related to the awareness of professionals and local companies.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CONSOLIDACIÓN DE LA RED DE CIUDADES PATRIMONIO DE LA HUMANIDAD DE LA MACARONESIA",
+          "description": "El proyecto CITY+ está enfocado fundamentalmente a: \n1) La internacionalización de profesionales y empresas locales.- Se pretende conseguir dicho fin, a través de acciones de movilidad e intercambio entre profesionales, emprendedores, empresas, y jóvenes talentos, entre las ciudades participantes de la red. Esto no solo se hace para dotarles del enriquecimiento intrínseco que viene asociado con el intercambio, si no para dotarle de herramientas, de recursos y propiciar el contexto para que puedan expandir sus productos, servicios o incluso ideas y semillas de proyectos en otros mercados distintos al suyo propio. Es por ello que el proyecto engloba diversas actividades de intercambio que pretenden logar movilizar a al menos 50 profesionales. \n2) La promoción y difusión de la marca \"Patrimonio Mundial de la Humanidad\" y de lo que el título representa.- Es proyecto contempla distintas actividades relacionadas con la sensibilización de profesionales y empresas locales.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23616,
+      "acronym": "SMARTBLUEF",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "STRENGTHENING THE CENTRAL ATLANTIC ALLIANCE FOR SME COMPETITIVENESS IN THE BLUE ECONOMY",
+          "description": "SMARTBLUEF aims to consolidate the transnational alliance of agents in support of innovation as a tool to promote innovative culture and internationalisation, through the use of synergies, capacities and shared resources in the area of MAC cooperation. To this end, it is structured in 3 specific objectives: \n\nOE 1. Governance — Strengthen territorial cooperation in the blue economy through governance and networking processes of the Alliance of Innovation Support Agents. \n\nOE 2. Innovation — Promoting innovation, diversification and smart specialisation of blue economy SMEs through the development of advisory services, actions and projects aimed at the company. \n\nOE 3. Internationalisation — Promote the international presence of blue economy companies in the MAC territorial cooperation area by launching promotion and joint offering actions.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CONSOLIDACIÓN DE LA ALIANZA DEL ATLÁNTICO CENTRAL PARA LA COMPETITIVIDAD PYME DE LA ECONOMÍA AZUL",
+          "description": "SMARTBLUEF tiene como objetivo consolidar la alianza transnacional de agentes de apoyo a la innovación como herramienta para promover la cultura innovadora y la internacionalización, mediante el aprovechamiento de sinergias, capacidades y recursos compartidos en el área de cooperación MAC. Para ello, se estructura en 3 objetivos específicos:\n\nOE 1. GOBERNANZA - Fortalecer la cooperación territorial en economía azul mediante procesos de gobernanza y trabajo en red de la alianza de agentes de apoyo a la innovación.\n\nOE 2. INNOVACIÓN - Fomentar la innovación, diversificación y especialización inteligente de las PYMEs de economía azul mediante el desarrollo de servicios de asesoramiento, acciones y proyectos dirigidos a la empresa.\n\nOE 3. INTERNACIONALIZACIÓN - Promover el aumento la presencia internacional de las empresas de economía azul del espacio de cooperación territorial MAC mediante la puesta en marcha de acciones de promoción y oferta conjunta.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23615,
+      "acronym": "FiiHUB",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "CREATION AND IMPLEMENTATION OF THE FIRST DIGITAL INNOVATION HUB OF THE INTERNET OF THE FUTURE FOR THE TECHNOLOGICAL ACCELERATION OF SMES IN MACARONESIA",
+          "description": "Innovation Hubs or iHubs are taking a leading role in the business world, especially from European companies. The FiiHUB project proposes to create an ecosystem in the region, consisting of the main actors: SMEs, startups, researchers, accelerators, investors, etc. that have in common the interest in creating the best conditions for long-term business success for everyone involved. All of them would form an “Innovation Hub”, in such a way that this synergy ensures that every company (small or large, high-tech or not) can take advantage of digital opportunities and European initiatives. The Macaronesian region would benefit greatly from establishing a FIWARE iHub, as all regional economic activity is demanding certain capacities, resources and services.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "CREACIÓN Y EJECUCIÓN DEL PRIMER DIGITAL INNOVATION HUB DEL INTERNET DEL FUTURO PARA LA ACELERACIÓN TECNOLÓGICA DE LAS PYMES DE LA MACARONESIA",
+          "description": "Los “innovation Hubs o iHubs” están cobrando un protagonismo en el mundo empresarial, especialmente por parte de las empresas europeas. El proyecto FiiHUB propone crear un ecosistema en la región, que estuviera formado por los principales actores: pymes, startups, investigadores, aceleradoras, inversores, etc. que tienen en común el interés en crear las mejores condiciones para el éxito empresarial a largo plazo para todo los involucrados. Todos ellos, formarían un “Innovation Hub”, de tal manera que esta sinergia asegura que cada empresa (pequeña o grande, de alta tecnología o no) pueda aprovechar las oportunidades digitales y las iniciativas europeas. La región de la Macaronesia se beneficiaría notablemente de establecer un FIWARE iHub, pues toda actividad económica regional está exigiendo determinadas capacidades, recursos y servicios.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 23614,
+      "acronym": "4p0rt",
+      "programme": {
+        "id": 83,
+        "title": "2014 - 2020 INTERREG V-A Spain - Portugal (Madeira - Açores - Canarias (MAC))"
+      },
+      "translations": {
+        "en": {
+          "name": "TRANSITION OF ENTITIES AND PORT COMPANIES FROM THE MAC COOPERATION SPACE TO INDUSTRY 4.0 AND SMART PORTS",
+          "description": "The 4p0rt project will focus on achieving three key objectives: \n\n— Create the action strategy based on the analysis of global initiatives and local capabilities in the field of Industry \n\n4.0 and Smart Port, as well as provide port entities/companies/startup with tools and services for their digitisation and the acceleration of innovative business ideas. \n\n— Address awareness, training, generation of synergies and promotion of elements of traction on port entities/companies as measures to boost their digital transformation and their transition to Industry \n\n4.0 and the concept of Smart Port. \n \n— Prepare use cases and pilots that facilitate port entities/companies the implementation of digital technology adoption and application projects, as well as assist these companies and other maritime startups in accelerating technology and innovative and global business ideas.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "es": {
+          "name": "TRANSICIÓN DE LAS ENTIDADES Y EMPRESAS PORTUARIAS DEL ESPACIO DE COOPERACIÓN MAC HACIA LA INDUSTRIA 4.0 Y LOS SMART PORT",
+          "description": "El proyecto 4p0rt se centrará en la consecución tres objetivos fundamentales como son:\n\n- Crear la estrategia de acción en base al análisis de iniciativas globales y capacidades locales en materia de Industria \n\n4.0 y Smart Port, así como dotar a las entidades/empresas/startup portuarias de herramientas y servicios para su digitalización y la aceleración de ideas de negocio innovadoras.\n\n- Abordar la concienciación, capacitación, generación de sinergias y promoción de elementos de tracción sobre las entidades/empresas portuarias como medidas de impulso para su transformación digital y su transición hacia la Industria \n\n4.0 y el concepto de Smart Port.\n\n- Preparar casos de uso y pilotos que faciliten a las entidades/empresas portuarias la implementación de proyectos de adopción y aplicación de tecnologías digitales, así como asistir a estas empresas y otras startups marítimas en la aceleración de tecnología e ideas de negocio innovadoras y globales.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 38,
+          "title": "Infrastructure"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 123,
+    "partners": 85,
+    "programmes": 1,
+    "docs": 679
+  },
+  "project_ids": [
+    23655,
+    23654,
+    23653,
+    23652,
+    23651,
+    23650,
+    23649,
+    23648,
+    23647,
+    23646,
+    23645,
+    23644,
+    23643,
+    23642,
+    23641,
+    23640,
+    23639,
+    23638,
+    23637,
+    23636,
+    23635,
+    23634,
+    23633,
+    23632,
+    23631,
+    23630,
+    23629,
+    23628,
+    23627,
+    23626,
+    23625,
+    23624,
+    23623,
+    23622,
+    23621,
+    23620,
+    23619,
+    23618,
+    23617,
+    23616,
+    23615,
+    23614,
+    23613,
+    23612,
+    23611,
+    23610,
+    23609,
+    23608,
+    23607,
+    23606,
+    23605,
+    23604,
+    23603,
+    23602,
+    23601,
+    23600,
+    23599,
+    23598,
+    23597,
+    23596,
+    23595,
+    23594,
+    23593,
+    23592,
+    23591,
+    23590,
+    23589,
+    20501,
+    20490,
+    20486,
+    20481,
+    20478,
+    20471,
+    20463,
+    20462,
+    20450,
+    20445,
+    20440,
+    20438,
+    20437,
+    20435,
+    20430,
+    20427,
+    20424,
+    20421,
+    20417,
+    20404,
+    20400,
+    20397,
+    20393,
+    20390,
+    20387,
+    20385,
+    20382,
+    20369,
+    20368,
+    20364,
+    20362,
+    20356,
+    20354,
+    20347,
+    20345,
+    20344,
+    20342,
+    20341,
+    20340,
+    20334,
+    20333,
+    20329,
+    20327,
+    20326,
+    20321,
+    20316,
+    20315,
+    20314,
+    20308,
+    20305,
+    20304,
+    20303,
+    20302,
+    20301,
+    20285,
+    20254
+  ]
+}

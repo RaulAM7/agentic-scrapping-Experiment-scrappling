@@ -1,0 +1,409 @@
+{
+  "current": 10,
+  "next": "https://keep.eu/api/search/projects/?page=11",
+  "previous": "https://keep.eu/api/search/projects/?page=9",
+  "total_pages": 24,
+  "count": 142,
+  "results": [
+    {
+      "id": 21416,
+      "acronym": "ChIMERA",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Industries Culturelles et Créatives dans l'espace de coopération MED",
+          "description": "Les Industries Culturelles et Créatives (ICC)représentent les PME innovantes.Pour les Régions participantes les ICC sont un secteur de développement comme souligné dans leurs RIS3,mais ce potentiel est entravée par un manque d'informations sur les obstacles à l'innovation,l’accès au marché et un manque de soutien pour stimuler l'innovation et l'internationalisation.L’objectif de ChIMERA est d'améliorer les capacités d'innovation des ICC à travers une coopération entre entreprises,recherche, autorités publiques et société civile.Grâce à ChIMERA,les acteurs ICC vont améliorer les capacités d'innovation,les régions vont renforcer les groupements d'entreprises (GE) ICC innovantes,coopérant dans un réseau transnational.les GE bénéficieront de services adaptés aux besoins d’innovation et les régions donneront suite aux stratégies d'innovation sur les ICC.Principaux résultats:10 plans d'action stratégiques,1 plan opérationnel transnational pour développer les GE ICC innovantes;10 plans d'activité des GE;12 services d'internationalisation pour combler les lacunes en matière d'innovation des ICC;20 instruments financiers;10 projets d'innovation.Autorités régionales et locales,centres de recherche,PME,GE ICC innovantes,investisseurs,société civile seront les utilisateurs finaux.ChIMERA soutien RIS3,ainsi que le développement transnational des GE ICC.Un approche transnational pour individuer synergies entre spécializations ICC et promovoir internationalization de GE innovatifs.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Innovative cultural and creative clusters in the MED area",
+          "description": "Cultural and creative industries (CCIs) represent highly innovative SMEs.For participating regions CCIs is a strategic sector of development as underlined in their RIS3s,but this potential is hampered by a gap of information on CCI local environment,innovation and market barriers and a lack of tailored support to stimulate innovation,internationalization and cross fertilization.ChIMERA main objective is to improve innovation capacities of CCI public and private actors through strengthened cooperation among companies, research bodies,public authorities and civil society.Thanks to ChIMERA,CCIs key actors will improve their innovation capacities, regions will strengthen innovative CCIs clusters,cooperating in a transnational network, clusters members will benefit of tailored services to meet innovation needs and regions will concretely pursue innovation strategies on CCIs.\nMain outputs: 10 Strategic action plans,1 transnational operational to develop innovative CCIs clusters; 10 clusters business plans; 12 internationalization services to fill CCIs innovation gaps;20 financial tools; 10 innovation projects.Regional and local authorities, research&education centres, SMEs, CCIs clusters, investors, civil society are outputs end users. \nChIMERA follows an integrated approach to support RIS3s and development of CCIs Clusters. Transnational approach is necessary to find synergies among regional CCIs specializations and to promote internationalization of CCIs innovative clusters.",
+          "expected_results": "1 Increased innovation capacities of key public and private actors in cultural creative industry sector in participating regions and in the MED area : Project will increase innovation capacities of key public and private actors in CCI sector as result of specific activities in wp 3 (analysis of state of the art and best practices, capacity building of innovation key actors, development of strategies to stimulate innovation in CCI sector), wp 4 (capacity building to develop innovative clusters/networks in CCI sector, new services and financial tools for CCIs clusters to stimulate innovation&internationalization, living labs) and wp 5 (transferring of tested models to key actors in CCIs sector). Representatives of the quadruple helix of each participating region are the target groups of such activities. The envisaged activities at transnational level will consolidate a transnational network of CCIs innovation systems that actively cooperate and coordinate based on complementarities of competencies and specializations. Increased innovation capacities of key public and private actors in CCIs means creating an innovation-enabling environment, a crucial element to establish new innovative CCIs clusters or strengthen the existing ones in the participating regions and in the MED area. Transnational dimension and chosen approach will allow new/existing clusters to offer to their members a mix of transnational and shared services.1 Increased innovation capacities of key public and private actors in cultural creative industry sector in participating regions and in the MED area : Project will increase innovation capacities of key public and private actors in CCI sector as result of specific activities in wp 3 (analysis of state of the art and best practices, capacity building of innovation key actors, development of strategies to stimulate innovation in CCI sector), wp 4 (capacity building to develop innovative clusters/networks in CCI sector, new services and financial tools for CCIs clusters to stimulate innovation&internationalization, living labs) and wp 5 (transferring of tested models to key actors in CCIs sector). Representatives of the quadruple helix of each participating region are the target groups of such activities. The envisaged activities at transnational level will consolidate a transnational network of CCIs innovation systems that actively cooperate and coordinate based on complementarities of competencies and specializations. Increased innovation capacities of key public and private actors in CCIs means creating an innovation-enabling environment, a crucial element to establish new innovative CCIs clusters or strengthen the existing ones in the participating regions and in the MED area. Transnational dimension and chosen approach will allow new/existing clusters to offer to their members a mix of transnational and shared services.2 Functioning innovative CCI clusters and networks in participating regions and in the MED area : ChIMERA stimulates the cooperation among key innovation actors in CCIs, strengthening existing innovative CCIs clusters and/or CCIs networks (in territories without a CCIs cluster organization). In particular, envisaged actions deeply impacting the CCIs innovation systems of participating regions and MED regions are:-\tthe capacity building for innovation key actors, cluster managers and enablers; -\tthe development of: regional action plans to improve innovation system for CCIs sector, innovative clusters business plans, a transnational work-plan to coordinate supporting tools for innovative CCIs sector; -\tthe testing phase and the implementation of initiatives and services to operationalize the transnational workplan, the action plans and the clusters business plans;-\ttransferring of tested innovation model/approach to other MED regionsThese clusters start up, development and capacity building actions will be carried out within a transnational dimension. Therefore, project result “Functioning innovative CCI clusters and networks in participating regions and in the MED area” contributes to the programme result indicator “share of innovative clusters offering to their members a consolidated mix of transnational activities in key sectors of the med area”.3 Verified set of transnational activities/tools offered to networks’ and clusters’ members in participating regions and in the MED area : The transnational network will outline, test and implement a set of transnational services/activities related to: capacity building (training of innovation key actors; training of clusters managers and enablers; mentoring of new entrepreneurs); international trade and partnering (organization of matchmaking/brokerage events; services to support internationalization of start ups); financial opportunities and schemes (investment forum, public/private funding schemes / tools, support to entrepreneurs to access funds for mobility, etc.); international cooperation and networking (clusters network, development of EU funded projects). Such services/activities will be addressed to clusters and networks members, involving the quadruple helix representatives. The model will be transferred to other MED regions thanks to connections with relevant horizontal MED projects and other European initiatives. Thus, the developed innovative clusters and networks will offer to their members a portfolio of transnational services: this result well contributes to the programme result indicator “share of innovative clusters offering to their members a consolidated mix of transnational activities in key sectors of the med area”4 Regional Innovation Strategies on cultural and creative industries implemented : CCIs are a strategic sector of development for participating regions being a specialization of their RIS3. ChIMERA will allow the implementation and the transnational coordination of regional innovation strategies in selected subsectors and themes (audiovisual, design, digital craft, digitalization), thanks to the established transnational network of innovative CCIs clusters and to the strengthening of CCIs innovation systems of participating regions. Therefore, this project result contributes to the programme result indicator “share of innovative clusters offering to their members a consolidated mix of transnational activities in key sectors of the med area”.",
+          "achievements": "The project was developed at both transnational and regional level following a common methodology and developing the activities with the involvement of local stakeholders in main CCIs sectors. WP3 output was achieved: WP coordinator together with other partners outlined and integrated the model on the process for the development of regional CCI sector by carrying out a survey of the beneficiaries.In this reporting period testing phase was mostly finalized. The cluster business plans were delivered thanks to the cooperation between partners and cluster managers and meetings on CCIs financial instruments were held at regional level in the involved areas. Moreover, living labs process was carried out in all partner regions with a broad and open involvement of quadruple helix actors of allregions involved. Partners organized workshops to implement and finalize their living labs achieving innovation projects focused on different issues (design of cluster’s services, new web platform for Cluster, creative solutions in the field of urban mobility, an interactive Newsletter for CCIs, etc.). Moreover, partnership estimated the value of the non-financial support to SMEs that were involved in B2B and matchmaking events, closing the task on the tested services for internationalization and innovation of CCIs enterprises. Partners put in place actions to promote the transferability of ChIMERA results: project results were presented and transferred in occasion of different events (workshops, conferences). Last, final publication was set up and communication manager started the collection of partners’ contributions. As for overall management, the project was prolonged of 6 months and the request of budget reallocation of among partners was accepted. LP made every effort to ensure a smooth communication flow inside the partnership, but in some specific cases the exchange of information was difficult and slow. The fourth payment claim was presented and 1 steering committee and coordination meeting was held in Malaga in April.",
+          "expected_outputs": "Process for the development of regional CCI sectors,Enterprises and Services for internationalization and innovation,living labs & innovation projects",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 20,
+          "title": "Cultural heritage and arts"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21415,
+      "acronym": "CreativeWear",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "L’habillement creative pour l’espace méditerranéen",
+          "description": "CreativeWear (CW) revitalise le textile et habillement (T&C) à travers une nouvelle attention à la créativité, design personnalisé et le production artisanale pour les chaînes de valeur territorialement spécifiques dans les modèles d'affaires axés sur la clientèle. CW étend le projet en cours H2020-TCBL, qui complète l'innovation techno-industrielle avec le sociale pour revenir à 5% de la capacité Europeénne et une réduction de 20% de l'impact environnemental d'ici à 2025, à des cluster créatives dans l'espace MED, leur intégration dans l'écosystème TCBL. CreativeWear vise de récupérer et valoriser le patrimoine de connaissance de T&C dans les cultures méditerranéennes (MED-Texmedin) et d'apporter nouvelle énergie pour les clusters T&C en renforçant leur capacité d'innovation basée sur la créativité et l'intégration en les chaînes de valeur transnationales émergentes (CreativeMED).\r\nCreativeWear teste l'adaptation du modèle de réseau TCBL (qui combine des Labs design, make et place avec les pilotes commerciaux dans des modèles d'affaires innovants) aux clusters créatifs existants, tels que les musées, centres de créativité, écoles de mode, centres de conception, d'organisations bénévoles, etc. CW se déroule M15-M42 du projet TCBL (48 mois), parfaitement aligner les essais et le développement des approches complémentaires. Le modèle CW transférable permet ainsi une plus grande cohérence avec les politiques FEDER et FSE dans les différents contextes nationaux et régionaux.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Creative Clothing for the Mediterranean Space",
+          "description": "CreativeWear revitalizes the crisis-ridden Textile & Clothing (T&C) sector through a new attention to creativity, personalised design, and artisan and small-scale production for territorially specific value chains in customer-driven business models. CreativeWear extends the on-going H2020 TCBL project (which complements techno-industrial with social innovation to return 5% of capacity to Europe and attain a 20% reduction in environmental impact by 2025) to creative clusters in the MED space, integrating them into the broader TCBL ecosystem. CreativeWear aims both to recover and valorise the design heritage and tacit “making” knowledge of T&C in Mediterranean cultures (MED-Texmedin) and to bring new energy to creative T&C clusters by reinforcing their creativity-based innovation capacity and integrating their activity into emergent transnational value chains (CreativeMED).\r\nCreativeWear tests adaptation of the TCBL network model (which couples Design, Making, and Place Labs with Business Pilots in innovative value chain scenarios) to existing creative clusters such as museums, creative hubs, fashion schools, design centres, volunteer organisations, etc. Testing in CreativeWear unfolds across months 15-42 of the 48-month H2020-TCBL project, perfectly aligning the development of the complementary approaches. The transferrable CreativeWear model thus allows for greater coherence with ERDF and ESF policy frameworks in different national and regional contexts.",
+          "expected_results": "1 CreativeWear model for creativity-based business model innovation : The CreativeWear model consolidates the role and relevance of creative clusters/hubs, with the local and transnational dimension of activity in mutually reinforcing synergy. At the local level, CreativeWear engages the T&C businesses in the 5 pilot regions in the process from the start, in order to ensure a “demand-driven” approach to the definition of the creative hubs, the relevance of their activities to the needs of T&C enterprises, and ultimately the rationale for their sustainability over time.At the transnational level, the CreativeWear model is based on the transnational links created through the different service concepts. For local creative activities and entrepreneurs, the CreativeWear model foresees the transnational exchange of activities and creative energies (as with the FabFoundation network of FabLabs). Through each hub’s conntection with local enterprises, CreativeWear hubs can act as clearing houses to extend the market for creative services to businesses throughout the network. Finally, as a reference point for local T&C enterprises wishing to engage in creativity driven business model innovations, the CreativeWear hubs can accompany the formation of transnational value chains.The mix of transnational activities of a CreativeWear hub thus include different levels of interaction for both the creative and business communities.1 CreativeWear model for creativity-based business model innovation : The CreativeWear model consolidates the role and relevance of creative clusters/hubs, with the local and transnational dimension of activity in mutually reinforcing synergy. At the local level, CreativeWear engages the T&C businesses in the 5 pilot regions in the process from the start, in order to ensure a “demand-driven” approach to the definition of the creative hubs, the relevance of their activities to the needs of T&C enterprises, and ultimately the rationale for their sustainability over time.At the transnational level, the CreativeWear model is based on the transnational links created through the different service concepts. For local creative activities and entrepreneurs, the CreativeWear model foresees the transnational exchange of activities and creative energies (as with the FabFoundation network of FabLabs). Through each hub’s conntection with local enterprises, CreativeWear hubs can act as clearing houses to extend the market for creative services to businesses throughout the network. Finally, as a reference point for local T&C enterprises wishing to engage in creativity driven business model innovations, the CreativeWear hubs can accompany the formation of transnational value chains.The mix of transnational activities of a CreativeWear hub thus include different levels of interaction for both the creative and business communities.2 5 piloted and tested CreativeWear hubs in 4 Member States : The CreativeWear pilots carry out a concrete validation of the CreativeWear model, applying its general principles and frameworks to the specific realities in 5 pilot regions. The iterative, two-cycle piloting process experiments both the local and transnational service mix in a variety of contexts and with a range of stakeholder types as the partners initiating and managing the individual hubs.The transnational activities are further validated through the pilot exchange activity, where the different hubs meet on a rotating basis to compare governance models, methods, and service offers. In addition, they come into direct contact with the stakeholders in partner regions and thus can gain a clearer vision of the kinds of transnational services needed.These activities and services are thus constructed over a 21-month period marked by transnational collaboration, which means that the transnational activities defined have concrete added value to both the creative and industrial actors. This careful validation of the service offer constitutes the best guarantee of a lasting result that will be able to offer transnational activities and services over time.3 3 additional CreativeWear hubs integrated into the network by project end : The programme objective aims for a constantly increasing share of clusters offering transnational activities and services. To work towards this end, CreativeWear not only sets up a seed network of the 5 pilot territories, it aims to set in place scaling up and out processes that will continue after the project’s end. In order for these processes to effectively spark off viral uptake, it is necessary not only to develop a transferrable model but to test its transfer and application during the project’s lifetime, incorporating the lessions learned from the first experiences of network expansion into the final version of the model itself.CreativeWear does this by developing a hypothesis model at a relatively early stage (month 16 of the project), and then launching a Call for Expressions of Interest for new hubs. In addition, this Call occurs in parallel with the 3rd similarly-structured Call of the H2020 TCBL project, so as to capture the dissemination and uptake potentials already in progress. From this Call, 8 new hubs are selected and integrated into the network through mentoring on the part of the 5 pilots for a period of 9 months.This scaling up process, integrated into that of the Europe-wide H2020 project, ensures not only that CreativeWear can contribute to the share of innovation clusters offering transnational activities, but ensure that that share increases over time even after completion of project activities.",
+          "achievements": "During the 4th semester partners were involved in the implementation of phase 2 of the pilot and transferring activities with the aim to strengthen the network among Hubs and consolidate the CreativeWear transnational cluster and its integration into the Europe-wide TCBL ecosystem . This was done through the organisation of common events, the development of collaborative projects and the exchange of services for SMEs and creatives. The 2nd call for new hubs was closed at the end of July, and in September four new hubs joined the Creative Wear network: 1) The Awareness Hub - Teksmer Technical Textiles Research and Development Center (Turkey); 2) The Sustainability Hub - Cittadellarte - Fondazione Pistoletto (Piemonte – Italy); 3) The Training Hub - Social cooperative Humana Nova Čakovec (Croatia) and 4) The Innovation Hub - ESTIA – Bidart (Nouvelle Aquitaine / Euskadi / Navarra - France). Project partners developed several collaboration projects and organised one networking event in Palermo, the VESTINO 2018 Festival. Collaborative projects among hubs included crossed creative residences and the exchange of services between hubs, the development of common artistic projects to valorise the textile heritage, the prototypation of design and fashion items, and the development of traceability protocols for cotton. The VESTINO 2018 event engaged over 60 artists and creatives belonging to the project’s creative communities in events all over the city of Palermo (IT) during several days, from the 18th to the 22nd of October \n\n2018. An exhibition of the hubs’ works and prototypes, as well as joint workshops and interactive sessions were organised within the event. Designers, artists, textile companies and research laboratories from the creative communities of Valencia, Ljubljana, Athens and Prato presented fabrics, capsule collections, clothing items, creative prints, design objects, artistic creations and cutting-edge technological processes to the public, to show how creativity can lead to innovative applications for the European T&C sector and the Mediterranean area.",
+          "expected_outputs": "Creative entrepreneurs supported,T&C Industries served by creative entrepreneurs,CreativeWear transnational innovation cluster,CreativeWear Model",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21412,
+      "acronym": "PANORAMED",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "en": {
+          "name": "MED Governance Platform",
+          "description": "In complement to its 3 thematic priorities – innovation, energy and environment - the MED Programme integrates in its architecture a cross-sector axis specifically tackling the capacity of national and regional authorities to contribute to governance processes in the Mediterranean Region: the axis 4 Enhancing Mediterranean Governance. \nConcretely, this will be achieved through a top-down evidence based platform of national and regional authorities, the PANORAMED project. \nThe overall goal of PANORAMED is to establish an innovative permanent dialogue and decision making process among national and regional public authorities and stakeholders to contribute to informed policy and decision making processes at national and transnational level on common challenges and opportunities in the Mediterranean Region. Specifically, the initiative will support the definition of transnational governance joint frameworks for the identification and implementation of shared approaches, policies and strategic projects. \nThe top down partnership scheme includes 17 ministerial and regional partners from the MED eligible countries identified directly by the MED programme Monitoring Committee. The identified associated partners complement the partnership scheme and comprise the main actors and initiatives and strategies present in the basin and are recognized as key driver for exploring and developing complementarities and synergies as well as for defining possible alignment of initiatives.",
+          "expected_results": "1 Reinforced transnational dialogue : Improved institutional capacity of the public authorities in charge of the management of EU funds/Programmes at transnational, national and regional level, to liaise and exchange on identified strategic themes.1 Reinforced transnational dialogue : Improved institutional capacity of the public authorities in charge of the management of EU funds/Programmes at transnational, national and regional level, to liaise and exchange on identified strategic themes.2 Developed evidence based approach : Enhanced institutional capacity of relevant public authorities to use data evidence produced by the projects as base for policy elaboration and strategy planning at transnational and national level.3 Identification of informed policy approaches and papers : Enhanced capacity for better assessment of needs/gaps and potentialities in the Mediterranean both at transnational level and national/regional level in order to contribute to the definition of relevant policy approaches and papers.4 Enhanced contribution to common strategic vision and consensus building at transnational level : Contribution to enhanced functional relations between countries and between relevant national and regional authorities to define sector and cross-sector policies with a common strategic and long-term vision also backed by MoU, specific cooperation schemes/frameworks.5 Identification of sustainable strategic initiatives : Increased capacity of the relevant public authorities to jointly identify, plan and implement top-down strategic initiatives at transnational level.6 Increased capacity to develop and act mainstreaming processes : Increased impact of MED programme funds through a more fortified process of coordination and efficient complementarity with other structural funds financed programmes at national/regional.7 Reinforced capacity to contribute to social emergencies affecting the area : Enhanced capacity of the concerned national and regional public authorities and stakeholders to tackle and contribute to migration challenges with a transnational approach.",
+          "achievements": "Panoramed a pioneering and continued governance experience in the Mediterranean” Panoramed contributed to the improvement of governance in the Mediterranean, strengthening the relationship, coordination and cooperation between public, private and civil society institutions that have participated directly or indirectly in the project.The partnership involved a total de 21 partners including 12 European countries from the Northern Shore of the Mediterranean, 6 Regional authorities and 3 institutions acting as well as leaders or coleaders of the technical working groups. This gave a special character to the approach, which established a permanent dialogue among national and regional public authorities, experts, and stakeholders.The working architecture of Panoramed was structured in ten fields of work:-\tManagement, Administrative Coordination and Communication as operational working groups.-\tThree thematic working groups on Coastal and Maritime Tourism, Maritime Surveillance and Innovation -\tCross-cutting themes: Liaising, intended to coordinate with other European Territorial Cooperation programmes; Migration, identified elements with a view to be included into Interreg MED projects; and Mainstreaming working on the transfer of results of the projects in territorial policies and programmes-\tMethodology and Evaluation as a complex exercise of integrating top-down and bottom-up mechanisms to ensure, in the long term, the sustainability of its results and methodologiesThese tasks were at the backbone of the architecture of Panoramed, together with the capacity of learning through the process and the close cooperation among partners constituted key elements of the project’s success, transferability and sustainabilityPANORAMED has substantially contributed to the improvement of interregional and multi-level dialogue, through its thematic working groups providing tailored recommendations for governments, consolidated in three thematic Key Policy Papers and with relevant contribution to a better Governance in a horizontal approachAll in all, the project has laid the foundations for the development of a governance strategy and monitoring system in the Mediterranean through the MED Positioning Paper. It has also created an innovative and replicable methodology for articulating regional cooperation through a dialogue platform setting the basis for future opportunities in the field of governance.",
+          "expected_outputs": "Main output n.1 Transnational cross sector/thematic high level events,Main output n.2 Thematic working groups meetings,Main output n.3 Terms of reference of strategic projects,Main output n.1 Transnational cross sector/thematic high level events,Main output n.2 Thematic working groups meetings,Main output n.3 Terms of reference of strategic projects,Main output n.1 Joint events/working sessions,Main output n.1 Reports: Gaps on migration with reference to WP5, WP6, WP10 themes,Main output n.1 Experimentation and transferability reports",
+          "delivered_outputs": "Number of stakeholders (structures) involved in supported initiatives (per category representing public and private stakeholders), Expenditures declared to the EC for Axis 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "fr": {
+          "name": "Plateforme MED de gouvernance",
+          "description": "En complément de 3 priorités thématiques - innovation, énergie et environnement - le programme MED intègre, dans son architecture, un axe intersectoriel qui vise la capacité des autorités nationales et régionales à contribuer aux processus de gouvernance dans la région méditerranéenne : l’axe 4 Renforcer la gouvernance Méditerranéenne.\nConcrètement, cela sera réalisé à travers un projet top down de plateforme d’autorités nationales et régionales qui se base sur une approche ‘scientifiquement fonde’. \nL'objectif général de PANORAMED est d'établir un processus innovateur de dialogue permanent et de prise de décision entre les autorités publiques nationales et régionales et les parties prenantes afin de contribuer aux processus de prise de décision au niveau national et transnational par rapport aux défis et opportunités dans la Région Méditerranéenne. L'initiative soutiendra la définition des cadres conjoints de gouvernance transnationale pour l'identification et la mise en œuvre d'approches, de politiques et de projets stratégiques. Le partenariat top down inclut 17 partenaires ministériels et régionaux des pays éligibles MED qui ont été identifié directement par le Comité de Suivi du Programme MED. Les partenaires associés complémentent le schéma et correspondent aux principaux acteurs et initiative et stratégies présentes dans le bassin et sont reconnus comme un moteur clé pour explorer des complémentarités et synergies aussi bien que pour définir alignement d’initiatives.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de stakeholders (structures) impliquées dans initiatives soutenues (par représentation de catégorie d'organisations publiques et privées), Dépenses déclarées à la CE pour Axe 4,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 17,
+          "title": "Institutional cooperation and cooperation networks"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21407,
+      "acronym": "COWORKMed",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Recherche innovation sociale sur les clusters de Coworking",
+          "description": "L'innovation résulte de processus territoriaux de coopération entre différentes catégories d'acteurs et de la participation des utilisateurs dans la création de biens et de services. Elle peut être une réponse à la crise économique. Dans de nombreux territoires méditerranéens, des travailleurs indépendants partageant un même bureau sont à l’origine de solutions compétitives, durables et inclusives. Ainsi, pour faire face au déficit de capacité d'innovation des territoires méditerranéens, COWORKMed propose de développer de nouveaux modèles d'entrepreneuriat et d'innovation sociale en encourageant les échanges et les passerelles opérationnelles entre acteurs publics, universités et centres de recherche, clusters « classiques » et la société civile. COWORKMed vise ainsi à promouvoir les processus de coworking et leur structuration transnationale comme levier d'innovation sociale en Méditerranée. En effet, la présence sur un même espace de travailleurs indépendants et d'entrepreneurs favorise l'émergence de projets communs innovants. Ces innovations peuvent bénéficier aux acteurs et aux clusters \"classiques\" : la mise en place d'un système de mobilité transnationale des coworkers pourrait favoriser leur activité transnationale. Afin d'identifier le potentiel quantitatif et qualitatif de cette contribution, COWORKMed rassemble un partenariat multidisciplinaire et pluraliste afin de mener une étude ayant vocation à ouvrir la voie à de futures expérimentations.",
+          "expected_results": "",
+          "achievements": "",
+          "expected_outputs": "",
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Social Innovation Research On Coworking Clusters",
+          "description": "Innovation is a territorial cooperation process involving different categories of stakeholders for the designing of new products and services. Innovation may therefore be considered as a response to the economic crisis. In many Mediterranean territories, independent workers sharing offices are increasingly co-designing innovative products with an observed high level of competitiveness and sustainability. Hence, addressing the \"innovation gap\" that characterizes Mediterranean territories, COWORKMed will develop a new model of entrepreneurship and social innovation by favouring cooperation and operational bridging between public actors, universities, training centres and \"mainstream\" clusters together with civil society. COWORKMed will promote co-working processes and their transnational organization as a lever of social innovation in Mediterranean. Indeed, innovative products emerging from the cooperation of independent workers sharing offices could benefit more and better to \"mainstream\" clusters. Optimizing this contribution could also allow the transnational activity of key clusters through the implementation of a mobility scheme connecting ideas and people from co-working areas of the MED metropolitan areas. In order to assess the qualitative and quantitative potential of such synergies, COWORKMed will gather a multidisciplinary and pluralistic partnership able to carry out a study that could pave the way to future testing activities.",
+          "expected_results": "1 Knowledge on innovation, growth and territorial potential of coworking stakeholders and their potential contribution to the key sectors of the MED : SIROCCO project will allow the elaboration of a set of studies, (market study, socio-economic study, etc.) including legal framework analysis, quantitative analysis, emerging business models report, social benefits report, and SWOT analysis both at territorial and transnational levels.Considering the relative absence of knowledge on coworking processes, and related potential impacts for economies and territories, SIROCCO project will gather and consolidate knowledge; addressing three main types of studies:-\tthe potential of coworking in triggering new processes of innovation and the development of strategies in order to have positive repercussions on the economic development of the MED territories and strenghten the links between “mainstream” clusters and independent qualified workers, following a quadruple-helix approach; -\tthe potentiality of coworking on the social inclusion process, with the possibility of offering non-financial support (human capital) to the labour market as well as the creation of new networks skills and services; -\tthe coworking as an instrument for urban regeneration, through the upgrading of disused spaces, the creation of services in marginal areas of the city, optimization of spaces’ allocation, mobility management and optimization of the demand in public transportation1 Knowledge on innovation, growth and territorial potential of coworking stakeholders and their potential contribution to the key sectors of the MED : SIROCCO project will allow the elaboration of a set of studies, (market study, socio-economic study, etc.) including legal framework analysis, quantitative analysis, emerging business models report, social benefits report, and SWOT analysis both at territorial and transnational levels.Considering the relative absence of knowledge on coworking processes, and related potential impacts for economies and territories, SIROCCO project will gather and consolidate knowledge; addressing three main types of studies:-\tthe potential of coworking in triggering new processes of innovation and the development of strategies in order to have positive repercussions on the economic development of the MED territories and strenghten the links between “mainstream” clusters and independent qualified workers, following a quadruple-helix approach; -\tthe potentiality of coworking on the social inclusion process, with the possibility of offering non-financial support (human capital) to the labour market as well as the creation of new networks skills and services; -\tthe coworking as an instrument for urban regeneration, through the upgrading of disused spaces, the creation of services in marginal areas of the city, optimization of spaces’ allocation, mobility management and optimization of the demand in public transportation2 Knowledge on coordination and innovative community-management mechanisms, needed to activate transnational network of coworking activities and micro-f : SIROCCO project will deploy innovative instruments and methodologies in order to activate quadruple helix partnerships (involvement and connexion among SMEs, public authorities, civil society and universities or research institutes); at territorial and transnational levels that will reinforce innovation capacities of clusters as well as their transnational activities. Adding –through digital and physical involvement - coworking spaces and independent workers to the quadruple helix concept will develop common approaches and strategies at transnational level, to manage innovative spaces and innovative services. This result will foreshadow the creation of innovative transnational ecosystems trough the networking of existing co-working spaces and the mobility of human capital, in order to increase transnational activity of innovative clusters and networks of key sectors of the MED area.This knowledge and related tools will enable the design of awareness raising, innovative communication channels and new training concepts addressed to traditional cluster managers that are willing to increase their transnational activities and social innovation capacities.The community management impulsed within SIROCCO project will enable the emergence of an open and collaborative ecosystem, a network of networks, managed, enriched and fostered by the community itself.3 Set of recommendations for the emergence of a cluster of coworking communities, to facilitate human capital mobility in the partner regions and across : SIROCCO project will draft an ecosystem of open enterprises that will reinforce the innovation capacities of the MED space’s private and public stakeholders in the fields of blue and green growth. To achieve this goal, the project will analyse and describe innovation processes and their relevance for clusters, the collaboration approaches between clusters and traditional industries, and the new concepts and process schemes for collaboration approaches between clusters.This “open” ecosystem will allow the creation of innovative services in order to mutualise skills, to convert available spaces into coworking spaces, to create synergies among entrepreneurs and clusters, to mutually apply to calls for tender, to exchange databases, clients, to allow cluster organisations to offer better services to SMEs in their region etc.",
+          "achievements": null,
+          "expected_outputs": "State of the art on coworking in the Mediterranean area, for the realization of operational tools,Common approaches and strategies to strengthen clusters' transnational innovation capacities,Cluster of innovative hubs involving actors of the quadruple helix",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21406,
+      "acronym": "ESMARTCITY",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": null,
+          "description": "Poursuivre la Croissance Écologique Durable et Intelligente est une façon de reconnaître que le wellness des citoyens est basèe sur la croissance économique et la durabilité des zones urbaines.\nLe projet a pour objectif global l'amélioration de la capacité d'innovation des villes MED a travers la création d'écosystèmes d'innovation, impliquant les acteurs de la quadruple hélice, et l'application du concept Smart City, qui utilise les technologies numériques et l'économie d'énergie pour mettre à disposition des citoyens de meilleurs services et moins d'impact sur l'environnement, produisant en outre de nouvelles scénarios d'emploi et de vie meilleure.\nPour atteindre cet objectif, le projet prévoit le test pilote du concept Smart City Smart City dans le domaine des districts urbains intelligents, l'efficacité énergétique des bâtiments et l'éclairage public Intelligent.\nLes piliers sur lesquels repose le projet sont: (i) l'amélioration des clusters innovants existants et le renforcement de la mise en réseau des acteurs de l'hélice quadruple; \n(II) la mobilisation des villes pour changer la manière dont elles opèrent et traiter avec les citoyens en intégrant la technologie dans leurs services;\n(III) la participation proactive des communautés locales à la création d'écosystèmes d'innovation.\nUtiliser une approche réseau pour transférer les résultats du projet (sous la forme d'une recommandation de changement de politique d'innovation) aux autorités publiques de la zone MED.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": "Amélioration du potentiel d'innovation des PME,Livre vert sur le changement de politique d'innovation,-,-",
+          "delivered_outputs": "Nombre d’instruments opérationnels en faveur de l’innovation des PME, Nombre d'entreprises béneficiant de subventions, Nombre d'entreprises recevant un soutien non-financier, Nombre de clusters d'innovation transnationaux soutenus, Dépenses déclarées à la CE pour Axe 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Enabling Smarter City in the MED Area through Networking",
+          "description": "To pursue the Smart Sustainable Green Growth is a way to recognize that citizen welfare lies on economic growth and sustainability of urban areas.\nThe project has its primary objective in improving the innovation capacity of MED cities by creating innovation ecosystems, which involve actors of the quadruple helix (Citizens, Businesses Operators, Research, Universities and Public Authorities) , and in applying the Smart City concept, which utilizes digital and energy saving technologies to allow better services for the citizen with less impact on the environment, producing furthermore new employability and living scenarios. \nTo achieve this goal, the project envisages the pilot testing of the Smart City concept to provide specific services to citizens in the field of intelligent urban districts, energy efficiency of buildings and smarter public lighting.\nThe pillars on which the project lies are; (i) enhancement of existing innovative clusters and reinforcement of international networking of different relevant quadruple helix actors; (ii) mobilization of cities to change the way they operate and transact with the citizen by incorporating technology to their services; (iii) proactive involvement of local communities (Citizens and local Public Authorities) in creating innovation ecosystems.\nA networking approach will be used to transfer the project results (in the form of Innovation Policy Change Recommendations) to Public Authorities in the MED area.",
+          "expected_results": "1 Upgrade of existing innovative clusters in the area integrating Smart City concept : Two of the project partners have a strong liaison with innovation. Capenergies represents an innovation cluster in the field of energy with over 500 members. ISI is part of the ATHENA RC, a unit of which is Corallia, the Greek cluster formation platform having established three clusters in microelectronics, gaming and space technologies. Both partners will focus on upgrading existing clusters in the MED area by integrating the Smart City thematic in their areas of interest. The Green Growth community will benefit from this upgrade of clusters that is also expected to assist the diffusion towards their members increasing their overall potential. The interregional communication, networking and transferring activities envisaged in the framework of the project will be part of the transnational activities offered to their members related to the key sector of Green Growth. Thus, the project directly contributes to the chosen programme result indicator.1 Upgrade of existing innovative clusters in the area integrating Smart City concept : Two of the project partners have a strong liaison with innovation. Capenergies represents an innovation cluster in the field of energy with over 500 members. ISI is part of the ATHENA RC, a unit of which is Corallia, the Greek cluster formation platform having established three clusters in microelectronics, gaming and space technologies. Both partners will focus on upgrading existing clusters in the MED area by integrating the Smart City thematic in their areas of interest. The Green Growth community will benefit from this upgrade of clusters that is also expected to assist the diffusion towards their members increasing their overall potential. The interregional communication, networking and transferring activities envisaged in the framework of the project will be part of the transnational activities offered to their members related to the key sector of Green Growth. Thus, the project directly contributes to the chosen programme result indicator.2 Networking activities led by existing innovation clusters involving Smart City community quadruple helix actors : Following their upgrade towards the Smart City sub theme, existing innovative clusters of the MED area will lead transnational networking activities involving quadruple helix actors related to Smart Cities. The resulting international network that will derive from the project will focus on a subset of the Smart City theme, specifically intelligent districts and smart energy, and smart lighting. Different actors of the quadruple helix coming from the business world, academia and research, public / city authorities and policy makers, and citizens and the wider public, will be part of this networked community. Synergies with the existing clusters in the area will be sought. This wider networking framework will enhance coordination efforts associated with Smart City enforcement in the MED area. It will make relevant MED actors more visible also at a European level and showcasing the area critical mass in the field. The project will facilitate Capacity Building (training), International Partnering (matchmaking and brokerage) and International Cooperation and Networking activities. Project led coordination of the networked community created, as well as integration of existing innovation clusters in the partner areas and enhancement of their transnational activities, directly contributes to the program result indicator.3 Making MED territorial policies more efficient to improve city ecosystem innovation capacities : The project will bring together public /city authorities and citizens from one hand, and businesses and academia / research from the other with reference to the Smart City concept. It is expected that the project pilot deployments will help towards matching the existing technology push offered by the latter, with an adequate end user pull that has to be stimulated. The sustainability of this paradigm has to be addressed by making MED territorial innovation policies more efficient. Influencing territorial policies, especially for tenders, so that the Smart City concept is addressed and the existing Smart City infrastructure is taken into account is a secure path leading to sustainability. In this context city ecosystem innovation capacities can change and experimentation with new potential applications can be pursued. Policy makers at local/regional level will be involved in a project launched debate/dialogue to this end. It is expected that existing innovation clusters participating in the project activities will benefit from such a paradigm shift, getting involved in the project transnational territorial policy change. Thus, this policy paradigm change directly contributes to the program result indicator.",
+          "achievements": "During the 4th reporting period, the ESMARTCITY project continued to achieve results in the field of communication as well as in the technical activities and mainly in WP3 that has been completed. In fact all partners completed deployments assessments of pilot actions, as well as capacity building events. Project partners submitted the 3rd payment claim and met in several occasion (SC meetings and other meetings also online).",
+          "expected_outputs": "Enhancement of innovative potential of SMEs,Green Paper on Innovation Policy Change,Upgraded Cluster,Smart City Protocol acceptance by regional / local authorities in the partner territories",
+          "delivered_outputs": "Number of operational instruments to favour innovation of SMEs, Number of enterprises receiving grants, Number of enterprises receiving non-financial support, Number of transnational innovation clusters supported, Expenditures declared to the EC for Axis 1,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 21405,
+      "acronym": "FishMPABlue 2",
+      "programme": {
+        "id": 55,
+        "title": "2014 - 2020 INTERREG VB Mediterranean"
+      },
+      "translations": {
+        "fr": {
+          "name": "Gouvernance de la péche dans les AMP: potentialitès pour l'Economie Blue 2",
+          "description": "FishMPABlue 2 est la suite de FishMPABlue: tandis que FishMPABlue analysé la gestion de la pêche artisanale à l'intérieur et autour d'une AMP, en identifiant le changement adapté (application des capacités de gestion d’une AMP) atteint grâce à une réponse concrète (boîte à outils de gouvernance innovante), FishMPABlue 2 souhaite tester cette boîte à outils afin de démontrer réellement son efficacité dans la réalisation des résultats escomptés (renforcement des capacités de gestion et de mise en réseau des AMP méditerranée). La proposition s’adapte concrètement au programme d'indicateur de résultat grâce à une étude scientifiquement valable (résultats de FishMPABlue), une approche claire par des tests (où les tests de la boîte à outils sont parmi les principales activités) et une large stratégie de transfert de résultats (grâce aux réseaux de MedPAN & MedWet); il crée les conditions d'une potentielle mainstreaming dans toute la région méditerranéenne (grâce à la participation des principaux décideurs politiques régionaux et nationaux). Les partenaires sont les mêmes du projet FishMPABlue, enrichis d'autres acteurs basés dans la région Med et avec le seul réseau Med existant de petits pêcheurs. La liste des associés a été enrichi avec les décideurs clés au niveau national. La chronologie du projet a été décidé en relation avec les contraintes réelles (pour le suivi de l'environnement marin) et les possibilités existantes de synergie avec d'autres grands événements de diffusion.",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": "Nombre de plans de gouvernance communs, Surface d'habitats soutenus pour atteindre un meilleur statut de conservation, Nombre de secteurs protégés engagés (par des chartes, des protocoles, le MoU) dans la mise en œuvre de stratégies de gestion, Dépenses déclarées à la CE pour Axe 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        },
+        "en": {
+          "name": "Fishing governance in MPAs: potentialities for Blue Economy 2",
+          "description": "FishMPABlue 2 proposal is the follow-up of FishMPABlue 2007-2013 (from now on: FishMPABlue 1): as the first one carried out the analysis of the management of small scale fishery within and around an MPA, identifying the suitable change (enforcing MPA management capacities) to be achieved through a concrete response (innovative governance toolkit), as current proposal wants to test such toolkit to actually demonstrate its effectiveness in achieving expected results (strengthening the management - and networking - capacities of Med MPAs). The proposal fits concretely on Programme result indicator thanks to a scientifically sound study (FishMPABlue 1 results), a clear testing approach (where the monitoring of outcomes coming from toolkit testing is among key activities), a wide (thanks to networks of MedPAN & MedWet) results transfer strategy (exploiting already existing tools and channels); it creates the conditions for a potential mainstreaming into the whole Mediterranean region (thanks to the involvement of the main regional-national policy makers). Partnership is the FishMPABlue 1 one, enriched with other Med-region based actors and with the only existing Med network of small scale fishermen. Associates list has been enriched too with key policy makers at national level. Timeline (and so the project start) has been decided in relation with actual constraints (for the marine environment monitoring) and existing opportunities of synergy with other major dissemination events.",
+          "expected_results": "1 11 MPAs having tested and adopted the “governance toolkit” for small scale fishery in and around MPA : 11 MPAs will improve their conservation-related effectiveness and their capacity in managing one of the main human-based pressures for a MPA: local small scale fishery1 11 MPAs having tested and adopted the “governance toolkit” for small scale fishery in and around MPA : 11 MPAs will improve their conservation-related effectiveness and their capacity in managing one of the main human-based pressures for a MPA: local small scale fishery2 30 MPAs being trained for adapting and adopting the “governance toolkit”, 5 of them with a formal commitment : 30 MPAs from 11 Med countries, thanks to WP “Local transfer”, will be deeply trained on the “governance toolkit” and on the results of its testing in the 11 Pilot MPAs (also with on-site visits); they will be trained even on how to adapt it to their specific situation, at least 5 of them will be supported in order to formally commit themselves in its adoption and implementation",
+          "achievements": "Even in PR5 project management continued smoothly: 3 PSC meetings (February, March and May - first via Skype) were held, assuring prompt decisions in due time. Third and last AP Workshop was carried out in Rome 08/05/19), in close cooperation with Panacea Workshop. A project representative attended MED event in Thessaloniki, as well as GFCM Workshop in Podgorica - Montenegro (6-7 March 2019) and GFCM Conference \"International day for the fight against IUU fishing\" (Marrakech, Morocco, 11–12/06/19), where FishMPABlue2 was awarded for \"Best Practices in Scientific Research relating to the fight against IUU fishing\".Since the main project results (tested toolkit and assessment of its impacts) were finally available, external communications dramatically increased: 20 video \"pills\" (short videos where a fisher from pilot MPA \"teaches\" sustainability to other fishers) were issued, as well as the \"project\" video, with main achieved results. Campaigns on socials and news and articles in the media increased acc.; a brochure for policy makers summarising the toolkit and a leaflet on main project results were issued. Preparation of final event at GFCM premises (Rome, 01-02/10/2019) and of Photo exhibition (Museo di Roma in Trastevere, 02/10/2019) started in due time.Since the \"ex post\" monitoring campaign (assessment of impacts of tested SSF mgt measures) included also an innovative technique about fish's DNA, and processing of collected data needs a long time, Del \n\n3.\n\n3.2 will be updated and issued in PR\n\n6. During PR5 the updated SSF Governance Toolkit was edited in a easy-to-read online publication, downloadable from project website.One National Technical Workshop (Del \n\n5.\n\n1.3), involving the main stakeholder at national level concerning marine environment conservation and fisheries management, was organized in each of the 6 project's countries, providing useful hints for drafting the policy principles and related national adapted recommendations (Del \n\n5.\n\n1.1 & \n\n5.\n\n1.2). Drafting of recommendations for international policy makers (Del \n\n5.\n\n2.1) started but will be finalised with the inputs from the final event. Eight additional MPAs and the Montenegro agency devoted to MPAs creation formally expressed their will to apply SSF Governance Toolkit: so project partnership drafted a \"Support Strategy\" for it, foreseeing (and financing) a summer school on monitoring techniques (in September); know-how exchange visits (in autumn); a webinar on project results (in October)",
+          "expected_outputs": "tested and upgraded version of the \"governance toolkit\",Evaluation Report on Pilot Actions results on MPAS territories,Pilot MPA engagement in Pilot Project implementation and upgraded toolkit adoption,Formal engagement in \"Governance Toolkit\" adoption and implementation,New concepts and procedures for associating conservation (MPAs) and sustainable fisheries (FRAs)",
+          "delivered_outputs": "Number of joint governance plans, Surface of habitats supported to attain a better conservation status, Number of protected areas engaged (through charters, protocols, MoU) in implementing management strategies, Expenditures declared to the EC for Axis 3,",
+          "expected_achievements": null,
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 1327,
+    "partners": 825,
+    "programmes": 1,
+    "docs": 4160
+  },
+  "project_ids": [
+    27366,
+    27365,
+    27364,
+    27363,
+    27362,
+    27361,
+    27360,
+    27359,
+    27358,
+    27357,
+    27356,
+    27355,
+    27354,
+    27353,
+    27352,
+    27351,
+    27350,
+    27349,
+    27348,
+    27347,
+    27346,
+    27345,
+    27344,
+    27343,
+    25083,
+    25082,
+    23493,
+    23492,
+    23491,
+    23490,
+    23489,
+    23488,
+    23487,
+    23486,
+    23485,
+    23484,
+    23483,
+    23482,
+    23481,
+    23480,
+    23479,
+    23478,
+    23477,
+    23476,
+    23475,
+    23474,
+    23473,
+    23472,
+    23471,
+    23470,
+    23469,
+    21420,
+    21419,
+    21418,
+    21416,
+    21415,
+    21412,
+    21407,
+    21406,
+    21405,
+    21404,
+    21402,
+    21399,
+    21396,
+    21394,
+    21393,
+    21392,
+    21391,
+    21390,
+    21389,
+    21388,
+    21387,
+    21386,
+    21384,
+    21380,
+    21379,
+    21378,
+    21377,
+    21376,
+    21374,
+    21373,
+    21372,
+    21371,
+    21370,
+    21369,
+    21368,
+    21367,
+    21366,
+    21365,
+    21364,
+    21363,
+    21362,
+    21361,
+    21360,
+    21359,
+    21358,
+    21357,
+    21356,
+    21355,
+    21354,
+    21353,
+    21352,
+    21351,
+    21350,
+    21349,
+    21348,
+    21347,
+    21346,
+    21345,
+    21344,
+    21343,
+    21342,
+    21341,
+    21340,
+    21339,
+    21338,
+    21337,
+    21336,
+    21335,
+    21334,
+    21333,
+    21332,
+    21331,
+    21330,
+    21329,
+    21328,
+    21327,
+    21326,
+    21325,
+    21324,
+    21323,
+    21322,
+    21321,
+    21320,
+    21319,
+    21303,
+    21286,
+    21276,
+    21271,
+    19161,
+    19137,
+    19133
+  ]
+}

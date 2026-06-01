@@ -1,0 +1,298 @@
+{
+  "current": 7,
+  "next": "https://keep.eu/api/search/projects/?page=8",
+  "previous": "https://keep.eu/api/search/projects/?page=6",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33235,
+      "acronym": "Waste2Fashion~A_T_2.4_...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Developing a pilot circular system for post-consumer textile waste in the Mediterranean",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 075. Support to environmentally-friendly production processes and resource efficiency in SMEs\n~\nSUMMARY: Waste2Fashion aims to help Mediterranean countries transition to a circular and resource-efficient economy by minimising the negative environmental impact of post-consumer textile waste and maximising the socio-economic opportunities presented by the growing sustainable fashion sector. The project will deliver two pilots to 1) collect, re-use and recycle and 2) to prevent and revalorise post-consumer textile waste. \n\nThe post-consumer textile waste management and treatment pilot (WP3) will address the shared challenges of Egypt, Italy, Lebanon, Spain, and Tunisia: adequate collection and sorting systems to meet the scale of need presented by a linear ‘fast’ fashion industry and the technical challenge of fibre separation in recycling. The holistic model, adapted to context, will include collection infrastructure; the transfer of leading-edge textile sorting technology; and the development of sustainable local value chains for the commercial exploitation of the treated materials. \n\nThe waste reduction and revalorisation pilot (WP4) aims to increase the ability of designers and start-ups to reduce waste in the design phase and to develop circular initiatives to revalorise recycled materials. The cross-border Eco-design Academy will build the capacity of 60 designers to contribute to waste-reduction in the design phase and to develop a circular business model. The cross-border Acceleration Lab will support the development of 10 economic initiatives that make use of recycled materials in their product design, including those produced by the waste management pilot, optimising industrial symbiosis. Initiatives will be supported with a range of business support services, including access to finance. \n\nThe holistic project model, including results and learnings, alongside policy recommendations will be disseminated across the region (WP2 & WP5), providing an actionable solution for policymakers and sector leaders to address the impacts of post-consumer textile waste.\n~\nKEEP KEYWORDS: Innovation capacity and awareness-raising, Knowledge and technology transfer, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Replicable cross-border pilots have reduced and valorised post-consumer textile waste.\n~\nEXPECTED RESULT: Increased resource efficiency, improved eco-design practices and the creation of new business opportunities achieved via closed-loop post-consumer textile waste recycling demonstration pilots.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Replicable cross-border pilots have reduced and valorised post-consumer textile waste.\n~\nEXPECTED RESULT: Increased resource efficiency, improved eco-design practices and the creation of new business opportunities achieved via closed-loop post-consumer textile waste recycling demonstration pilots.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Replicable cross-border pilots have reduced and valorised post-consumer textile waste.\n~\nEXPECTED RESULT: Increased resource efficiency, improved eco-design practices and the creation of new business opportunities achieved via closed-loop post-consumer textile waste recycling demonstration pilots.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 41,
+          "title": "Knowledge and technology transfer"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33234,
+      "acronym": "EUSEEDS~A_T_3.1_0172",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Enable, Upgrade and Spread Employability, Entrepreneurship and Digital Skills of the Eastern Mediterranean youth through dedicated university centers",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 140. Support for labour market matching and transitions\n~\nSUMMARY: Le projet EUSEEDS (Enable, Upgrade and Spread Employability, Entrepreneurship and Digital Skills) vise à déployer 20 centres universitaires dans 5 pays est-méditerranéens pour développer l’employabilité et les compétences numériques de la jeunesse.\nLes pays méditerranéens concernés partagent nombre de défis communs telles qu’une jeunesse éprouvant des difficultés à s’insérer sur le marché de l’emploi formel. Cet enjeu de stabilité est imputable à une massification de l’accès à l’enseignement supérieur couplée à une inadéquation entre formations universitaires et besoins en main d’œuvre, qui crée un déficit généralisé d’employabilité. Le potentiel de création de richesse par le numérique reste trop réduit.\nProposé par un consortium équilibré et solide réunissant des partenaires de référence (Chypre, Égypte, France, Jordanie, Liban, Palestine), le projet, qui vise un impact massif en termes de personnes formées (7100 bénéficiaires finaux dans le cadre du projet, 4100 ensuite en flux annuel, objectifs atteignables), prévoit une réponse collective à des défis communs, sur la base d’initiatives déjà éprouvées, mises à l’échelle, pour une meilleure insertion professionnelle, en améliorant l’employabilité d’étudiants et jeunes diplômés, en développant leurs compétences professionnelles en numérique, leurs compétences transversales et l’auto-entrepreneuriat.\nLes étudiants et jeunes diplômés ne seront pas les seuls bénéficiaires finaux. Les centres établis cibleront des publics spécifiques vulnérables au sein de leur communauté comme des jeunes sans emploi, en proposant des formations adaptées et à distance.\nLe modèle consiste à équiper et doter des compétences nécessaires 20 centres de ressources universitaires pérennes situés dans des zones à fort enjeu social des 5 pays, dont la mission sera de fournir durablement des services internes (formations, préincubation de projets) et externes vers la communauté (formations à la littéracie et à la professionnalisation numérique).\n~\nKEEP KEYWORDS: Education and training, ICT and digital society, Labour market and employment",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Améliorer l’employabilité et l’accès à l’emploi de la jeunesse par l’acquisition de compétences professionnelles en numérique et de compétences transversales en adéquation avec les besoins du marché du travail, et par l’accompagnement à l’auto-entrepreneuriat.\n~\nEXPECTED RESULT: - Augmentation massive de capacités de formation professionnelle en numérique, en compétences transversales et en préincubation de projets d’entrepreneuriat étudiant. \n- Augmentation du partage de savoirs faire, des compétences et de la coopération transnationale d’organisations sectorielles.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Améliorer l’employabilité et l’accès à l’emploi de la jeunesse par l’acquisition de compétences professionnelles en numérique et de compétences transversales en adéquation avec les besoins du marché du travail, et par l’accompagnement à l’auto-entrepreneuriat.\n~\nEXPECTED RESULT: - Augmentation massive de capacités de formation professionnelle en numérique, en compétences transversales et en préincubation de projets d’entrepreneuriat étudiant. \n- Augmentation du partage de savoirs faire, des compétences et de la coopération transnationale d’organisations sectorielles.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Améliorer l’employabilité et l’accès à l’emploi de la jeunesse par l’acquisition de compétences professionnelles en numérique et de compétences transversales en adéquation avec les besoins du marché du travail, et par l’accompagnement à l’auto-entrepreneuriat.\n~\nEXPECTED RESULT: - Augmentation massive de capacités de formation professionnelle en numérique, en compétences transversales et en préincubation de projets d’entrepreneuriat étudiant. \n- Augmentation du partage de savoirs faire, des compétences et de la coopération transnationale d’organisations sectorielles.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Améliorer l’employabilité et l’accès à l’emploi de la jeunesse par l’acquisition de compétences professionnelles en numérique et de compétences transversales en adéquation avec les besoins du marché du travail, et par l’accompagnement à l’auto-entrepreneuriat.\n~\nEXPECTED RESULT: - Augmentation massive de capacités de formation professionnelle en numérique, en compétences transversales et en préincubation de projets d’entrepreneuriat étudiant. \n- Augmentation du partage de savoirs faire, des compétences et de la coopération transnationale d’organisations sectorielles.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33233,
+      "acronym": "MedYCI~A_Y_3.1_0394",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "MEDiterranean Youth for Creative Impact",
+          "description": "PROJECT TYPE: 2 - Youth-oriented projects\n~\nMAIN INTERVENTION FIELD: 152. Measures to promote equal opportunities and active participation in society\n~\nSUMMARY: The MED-Y.C.I project addresses transnational challenges in the Mediterranean region, targeting educational disparities, digital gap, and high youth unemployment. With a significant youth demographic facing low civic engagement, and informal employment, particularly among young women, the project unites France, Spain, Turkey, Tunisia, and Egypt to co-develop an innovative training program for youth Civil Society Organizations (CSOs).\nMED-Y.C.I aims to foster digital, creative, and analytical skills crucial for new job markets and active civic participation. By pooling expertise from multidisciplinary experts and artists across five countries, the project develops new educational practices that promote lifelong learning and regional solidarity. The initiative integrates international exchanges, cross-border and regional actions led by youth, rethinking engagement as a cross-cutting skill for better employability and empowerment.\n \nIn this frame, MED-Y-CI aims to train 200 youths aged 18-30 from diverse backgrounds through an original joint scheme training within an analytical, a creative and a practical part. Additionally, video facilities, known as MED-Y.C.I Studios, are established in each partner country to serve as hubs for ongoing skill development and innovation. Managed by the youth, they impact at least 500 additional youngsters.\n \nThanks to this infrastructure, transnational WebTV shows (Medtlaks) and creative engaged events are produced by trained youngsters and shared in international events, to advocate with regional authorities. Moreover, the project plan to involve 50 young entrepreneurs showcasing their initiatives for positive changes, highlighting different mediterranean approaches. In addition, to ensure the replicability and sustainability of the project’s methodologies, a MED-Y.C.I Handbook and E-learning Platform are created.\n~\nKEEP KEYWORDS: Education and training",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Co-design and develop a transnational training program for Mediterranean youth  CSOs, blending digital and face-to- face methods, focusing on engagement as a key skill for employment and addressing regional challenges through social and artistic innovation.\n~\nEXPECTED RESULT: Med-Y.C.I program successfully trained 200 young people from Turkey, France, Spain, Tunisia and Egypt, co-developing and applying innovative learning methods that fostered engagement and enhanced employment skills - digital, creative, and analytical - while addressing Mediterranean challenges.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Support and engage young Mediterranean people to advocate for positive changes in Mediterranean societies through the implementation of concrete local and transnational creative actions and promoting original projects.\n~\nEXPECTED RESULT: Young people's civic actions strengthen community ties and foster a transnational participatory dynamic. Through joint actions and projects aiming to advocate for positive change, youngsters of each participant territory engage authorities on supportive politics to solve Mediterranean youth issues.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Support and engage young Mediterranean people to advocate for positive changes in Mediterranean societies through the implementation of concrete local and transnational creative actions and promoting original projects.\n~\nEXPECTED RESULT: Young people's civic actions strengthen community ties and foster a transnational participatory dynamic. Through joint actions and projects aiming to advocate for positive change, youngsters of each participant territory engage authorities on supportive politics to solve Mediterranean youth issues.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 38,
+          "title": "Infrastructure"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33232,
+      "acronym": "FOODGaP~A_G_4.1_0185",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Food Governance and Policies at local level",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: The FOOD GaP project aims at providing a significant contribution for a better cooperation governance in the Mediterranean, thus grasping the extraordinary opportunity offered by this novel priority in the NEXT-MED programme. The project aim is to support local public authorities and stakeholders to adopt improved governance models for local food policies development in the Mediterranean. \nFood policies' focus is key to address complex and intertwined challenges threatening cities in both shores of the programme area (such as urbanization, resources depletion, food insecurity, import dependency, as the international crisis and COVID-19 demonstrated, rural-urban disconnections) and a coordination is needed both with local stakeholders and cross borders to reduce the pressures on local communities wellbeing, welfare and social and political stability.\nFOOD GaP objective will be achieved by: i. fostering local public authorities capacities to coordinate their efforts within their administrations and with the local actors (institutions, civil society, academia, and economic and social partners), ii. designing local participatory governance models, iii. piloting them by testing the improved services, embedded by the local food policies’ development, iv. establishing the Mediterranean Coalition for local food policies development. \nCiheam Bari will lead the project with 4 local public authorities (Tyre, LB, the metropolitan City Mersin, TR, the Metropolitan city of Rome, IT, Houmt Souk, TN), EPLO, EL, and 5 Associate partners, representing EU and international networks and organizations. All together will contribute advocate for a city food diplomacy and create new avenues for extended collaborations within the programme area, other cities, international networks and higher policy levels.\n~\nKEEP KEYWORDS: Governance, partnership, Institutional cooperation and cooperation networks, Urban development",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the institutional capacities of local public authorities and other stakeholders to adopt participatory governance models for local food policies in the Mediterranean\n~\nEXPECTED RESULT: -Increased local public authorities’ capacities to collaborate across-sectors and actors to develop local food policies\n-A transnational cooperation among local public authorities and stakeholders is strengthened and commitment agreed to develop local food policies in the Mediterranean\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the institutional capacities of local public authorities and other stakeholders to adopt participatory governance models for local food policies in the Mediterranean\n~\nEXPECTED RESULT: -Increased local public authorities’ capacities to collaborate across-sectors and actors to develop local food policies\n-A transnational cooperation among local public authorities and stakeholders is strengthened and commitment agreed to develop local food policies in the Mediterranean\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the institutional capacities of local public authorities and other stakeholders to adopt participatory governance models for local food policies in the Mediterranean\n~\nEXPECTED RESULT: -Increased local public authorities’ capacities to collaborate across-sectors and actors to develop local food policies\n-A transnational cooperation among local public authorities and stakeholders is strengthened and commitment agreed to develop local food policies in the Mediterranean\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To improve the institutional capacities of local public authorities and other stakeholders to adopt participatory governance models for local food policies in the Mediterranean\n~\nEXPECTED RESULT: -Increased local public authorities’ capacities to collaborate across-sectors and actors to develop local food policies\n-A transnational cooperation among local public authorities and stakeholders is strengthened and commitment agreed to develop local food policies in the Mediterranean",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 22,
+          "title": "Clustering and economic cooperation"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33231,
+      "acronym": "EONANOBIOPS~A_T_1.1_0167",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Essential Oil-derived Next generation Nano-Biopesticides for Sustainable Eco-Friendly Agriculture",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 029. Research and innovation processes, technology transfer and cooperation between enterprises, research centres and universities, focusing on the low carbon economy, resilience and adaptation to climate change\n~\nSUMMARY: EONANOBIOPS project addresses critical agricultural challenges in the Medit, specifically targeting the overuse of synthetic pesticides that harm the environment, public health, & contribute to pest resistance. Focusing on tomato crops, the project aims to revolutionize pest mgmt by developing EO-derived nano-biopesticides as an eco-friendly alternative. This innovation will significantly reduce agriculture's environmental footprint, enhance crop yield, & improve food safety\nEONANOBIOPS seeks to mitigate env degradation, pest resistance, & health risks by introducing biodegradable NANOBIOPS. This approach will reduce harmful pesticide residues, improve pest control effectiveness, & support healthier agric practices, leading to better tomato yields & safer food production.\nKey outputs include development & validation of NANOBIOPS, implementation of sustainable pest mgmt practices, & comprehensive training programs for stakeholders. Farmers & agric workers will benefit from reduced pesticide use, improved crop health, & higher yields. Local comm will enjoy safer food & a healthier environment, while agric SMEs, startups, researchers, & policymakers will gain access to new technologies & practices, fostering innovation & sust agric\nRigorous EIA will ensure minimal env impact, benefiting regulators, env groups, & society at large. The project also focuses on commercial scale-up, facilitating the transition from research to full-scale production, benefiting consortium partners & startups involved in the industrialization of NANOBIOPS. This will enhance market entry, create new job opportunities in agricultural & biotech sectors, & contribute to long-term env health, economic stability, & food security\nBy addressing these challenges & implementing innovative solutions, the project will create a more sust & resilient agricultural sector in the Medit. It will improve tomato crop mgmt, reduce pest impacts, & benefit the env, agric economy, & comm well-being across the region\n~\nKEEP KEYWORDS: Climate change and biodiversity, Knowledge and technology transfer, New products and services",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Developing and scaling up innovative nano biopesticide solutions for global agricultural challenges, and enhancing the innovation ecosystem for sustainable agricultural technologies\n~\nEXPECTED RESULT: Development & commercialization of new generation of EO-based nano biopesticides, characterized by enhanced efficacy, targeted delivery, & reduced environmental impact.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Developing and scaling up innovative nano biopesticide solutions for global agricultural challenges, and enhancing the innovation ecosystem for sustainable agricultural technologies\n~\nEXPECTED RESULT: Development & commercialization of new generation of EO-based nano biopesticides, characterized by enhanced efficacy, targeted delivery, & reduced environmental impact.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Establish & scale a startup focused on the production of biopesticides to industrial levels, and enhancing economic maturation, and devising robust business plans for the commercial exploitation of developed nano biopesticides solutions\n~\nEXPECTED RESULT: Formation of a transnational research network enhancing agricultural innovation and technology transfer. This network will share advanced methods and insights, promote commercial opportunities, and establish nano-biopesticide production, supporting sustainable semi-arid communities.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 3,
+          "title": "Health and social services"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33230,
+      "acronym": "MERAVIGLIA~A_T_3.1_0396",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Entrepreneurship's Real Added Values to Innovate and Green Local and Inner Areas",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 140. Support for labour market matching and transitions\n~\nSUMMARY: MERAVIGLIA répond à 3 défis conjoints: 1) La difficulté d’accès à l’emploi des personnes peu ou pas qualifiés et en particulier les jeunes, les femmes et les chômeurs de longue durée; 2) La nécessité de répondre aux défis environnementaux communs au plus près des besoins identifiés par les populations; 3) La nécessité de renforcer les compétences vertes et faire émerger les emplois innovants pour répondre à ces défis environnementaux. \n\nFace à ces défis, MERAVIGLIA vise 2 objectifs spécifiques: 1) Renforcer l’insertion professionnelle des personnes éloignées de l’emploi par l’acquisition de compétences environnementales et entrepreneuriales; 2) Faire de la micro-entreprise une solutions viable pour répondre aux défis de l’insertion professionnelle et aux besoins environnementaux des communautés. \n\nPour y répondre, MERAVIGLIA engage une série d’activités pilotes dans un cadre de coopération interculturelle: A) Le développement d’un nouvel espace de formation: le Tiers-Lieux de compétences environnementales pour l’émergence d’éco-entreprises portées par les personnes éloignées de l’emploi (WP3); B) La mobilisation des communautés locales dans le diagnostic des besoins et l’élaboration des parcours de formation, et la collaboration transnationale pour professionnaliser les animateurs des Tiers-Lieux (WP4); C) En complémentarité de cet ancrage local, le développement d’une offre transnationale de formation capitalisant les meilleures pratiques disponibles au niveau Euro-Méditerranéen et favorisant les coopérations entre professionnels de la formation et créateurs d’entreprises: une Académie Virtuelle (O5.1) portera cet offre de formation et mentorat et 4 Résidences d’Entrepreneurs (O5.3) offriront un cadre original pour le partage d’expérience entre créateurs (WP5); d) La capitalisation des résultats et leur promotion dans le cadre de recommandations aux parties prenantes méditerranéennes renforcera la durabilité et la transférabilité des méthodes et outils (WP6).\n~\nKEEP KEYWORDS: Education and training, SME and entrepreneurship, Social inclusion and equal opportunities",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Établir, mettre en œuvre et tester un modèle novateur et un réseau méditerranéen de 12 tiers-lieux adapté aux besoins des communautés côtières, rurales, intérieures et des quartiers urbains périphériques, en renforçant les compétences environnementales, entrepreneuriales et transversales de 320 indi\n~\nEXPECTED RESULT: Un modèle novateur de tiers-lieux est défini au niveau méditerrenéen et 12 tiers-lieux sont créés grâce aux investissements de MERAVIGLIA pour renforcer les compétences environnementales, entrepreneuriales et transversales des individus éloignés des opportunités d'éducation et du marché du travail\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Offrir un parcours de formation transnational novateur combinant l'entrepreneuriat et le développement durable à travers une académie virtuelle, des modules de formation en ligne, et 28 jours d'expérience pratique pour 440 aspirants entrepreneurs de la région méditerranéenne\n~\nEXPECTED RESULT: 440 aspirants entrepreneurs parmi des individus éloignés des opportunités d'éducation et du marché du travail beneficient d'un parcours de formation transnational novateur combinant l'entrepreneuriat, le développement durable, une académie virtuelle et 28 jours d'expérience pratique transnationale\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Offrir un parcours de formation transnational novateur combinant l'entrepreneuriat et le développement durable à travers une académie virtuelle, des modules de formation en ligne, et 28 jours d'expérience pratique pour 440 aspirants entrepreneurs de la région méditerranéenne\n~\nEXPECTED RESULT: 440 aspirants entrepreneurs parmi des individus éloignés des opportunités d'éducation et du marché du travail beneficient d'un parcours de formation transnational novateur combinant l'entrepreneuriat, le développement durable, une académie virtuelle et 28 jours d'expérience pratique transnationale\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Établir, mettre en œuvre et tester un modèle novateur et un réseau méditerranéen de 12 tiers-lieux adapté aux besoins des communautés côtières, rurales, intérieures et des quartiers urbains périphériques, en renforçant les compétences environnementales, entrepreneuriales et transversales de 320 indi\n~\nEXPECTED RESULT: Un modèle novateur de tiers-lieux est défini au niveau méditerrenéen et 12 tiers-lieux sont créés grâce aux investissements de MERAVIGLIA pour renforcer les compétences environnementales, entrepreneuriales et transversales des individus éloignés des opportunités d'éducation et du marché du travail",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 25,
+          "title": "Education and training"
+        },
+        {
+          "id": 29,
+          "title": "Social inclusion and equal opportunities"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}

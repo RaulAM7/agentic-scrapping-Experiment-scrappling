@@ -1,0 +1,298 @@
+{
+  "current": 8,
+  "next": "https://keep.eu/api/search/projects/?page=9",
+  "previous": "https://keep.eu/api/search/projects/?page=7",
+  "total_pages": 10,
+  "count": 59,
+  "results": [
+    {
+      "id": 33229,
+      "acronym": "SPEEDUP~A_T_1.2_0543",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "EU-MED hubs to accelerate SMEs sustainable and competitive growth",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 026. Support for innovation clusters including between businesses, research organisations and public authorities and business networks primarily benefiting SMEs\n~\nSUMMARY: The SPEEDUP project \"EU-MED hubs to accelerate SMEs sustainable and competitive growth\" is the instrument that will deliver to unemployed and disadvantaged people the mentoring, motivation and organizational services they need to set up own sustainable and competitive business in the countries Greece, Spain, Jordan, Egypt, Lebanon, Cyprus and Tunisia.\nThe concept of the SPEEDUP project is an evolution of previous initiatives based on the implementation of a locally distributed Accelerator for different aims, such as quality and sustainability. Within SPEEDUP, the Accelerator concept will be extended to include the whole Environmental, Social and Governance (ESG) spectrum, and Green and Circular Economy as well, with a special attention to equality, inclusiveness and competitiveness.\nThis main objective will be reached through the implementation of a network of local hubs in the project countries, acting as catalysts and clusters and uniting all the relevant stakeholders in each area that are related to entrepreneurship in the form of startups. The SPEEDUP hubs will operate as a distributed kind of “Park”, offering training/mentoring locally, in the form of jointly developed Acceleration programme.\nThe partnership by itself will demonstratively put in place the long term development of the SPEEDUP network: applicant and partners will act as main local hubs, ensuring the financial sustainability, the local coordination and the international connection among all SPEEDUP main hubs; the associated partners will join the network as local member hubs, make use of the SPEEDUP achievements and continue fostering the SMEs sustainable growth after the end of the action; additional local actors will be encouraged to join the network and operate local member hubs within the implementation.\nThrough its Acceleration programme, SPEEDUP will infuse sustainability issues into 210 SMEs participating to the project pilot and promote the start and competitive growth of 140 businesses.\n~\nKEEP KEYWORDS: Institutional cooperation and cooperation networks, Labour market and employment, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: International network of Accelerating hubs\n~\nEXPECTED RESULT: Accelerating hubs created, human resources to operate hubs trained\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Acceleration programme\n~\nEXPECTED RESULT: Acceleration programme created and practiced; enhancement of SMEs' growth and competitiveness; job creation in SMEs\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: Acceleration programme\n~\nEXPECTED RESULT: Acceleration programme created and practiced; enhancement of SMEs' growth and competitiveness; job creation in SMEs",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 16,
+          "title": "Labour market and employment"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33228,
+      "acronym": "MATRIX~A_T_2.4_0289",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Mediterranean Pathway for Circular Textiles",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 075. Support to environmentally-friendly production processes and resource efficiency in SMEs\n~\nSUMMARY: The textile & fashion industry are notorious for its significant environmental footprint, ranking among the top sectors for negative life cycle impacts, water & land use, raw material consumption & greenhouse gas emissions. This environmental toll is felt throughout the value chain, but the design phase is especially crucial as it sets the stage for all subsequent impacts. MATRIX aims to revolutionize the fashion design process in the Mediterranean textile industry by shifting from linear to circular production. It tackles the joint challenges of environmental sustainability faced by Mediterranean fashion SMEs. By leveraging cutting-edge innovations & technologies, MATRIX will foster a new, circular Mediterranean value chain. The expected change is transformative: we will equip the fashion industry, particularly SMEs, with the tools, knowledge & awareness needed to adopt circular practices & meet the EU's high standards on circularity & emerging market trends. Our main output, the Circular Fashion Design Toolbox, will provide innovative solutions focused on 3 strategic areas: resources (water & energy), materials & digitalization. This toolbox will serve as the cornerstone of a comprehensive training program, empowering 200 SMEs & stakeholders to implement these solutions effectively. Furthermore, 90 selected SMEs will pilot these solutions, generating tangible improvements in circularity through actions such as footprint measurement, sustainability plans, new circular product prototypes using AI & digital technologies or obtaining relevant ecolabel certifications. The project will also feature study visits, peer-review exchanges, & matchmaking event connecting circular solution providers with the fashion industry. These activities will foster collaboration & knowledge sharing, culminating in the Mediterranean Pact for Circularity—a new value chain that brings together policymakers, tech centers, civil society & the industry.\n~\nKEEP KEYWORDS: Green technologies, Knowledge and technology transfer, SME and entrepreneurship",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Rethinking the fashion products’ design process in the Mediterranean textile industry by uptaking cutting-edge innovations and technologies and move from linear to circular production\n~\nEXPECTED RESULT: Create a new proximity Mediterranean value chain by enhancing the capacities, cooperation, knowledge & awareness of the fashion industry, especially SMEs, to transit towards a circular & integrated model fully adapted to the higher standards on circularity set by the EU & the emerging market trends.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Rethinking the fashion products’ design process in the Mediterranean textile industry by uptaking cutting-edge innovations and technologies and move from linear to circular production\n~\nEXPECTED RESULT: Create a new proximity Mediterranean value chain by enhancing the capacities, cooperation, knowledge & awareness of the fashion industry, especially SMEs, to transit towards a circular & integrated model fully adapted to the higher standards on circularity set by the EU & the emerging market trends.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Rethinking the fashion products’ design process in the Mediterranean textile industry by uptaking cutting-edge innovations and technologies and move from linear to circular production\n~\nEXPECTED RESULT: Create a new proximity Mediterranean value chain by enhancing the capacities, cooperation, knowledge & awareness of the fashion industry, especially SMEs, to transit towards a circular & integrated model fully adapted to the higher standards on circularity set by the EU & the emerging market trends.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33227,
+      "acronym": "SMARTMED~A_G_4.1_0529",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "SMART-MED-CITIES",
+          "description": "PROJECT TYPE: 3 - Governance Projects\n~\nMAIN INTERVENTION FIELD: 173. Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context\n~\nSUMMARY: SMART-MED-CITIES (SMARTMED) aims to address a common challenge: the digital transition of Mediterranean cities and their transformation into smart cities. Transnational cooperation can strengthen the programme’s impact and help create more innovative, sustainable, and human-centered cities that offer a better quality of life to their residents. SMARTMED presents an ambitious and forward-thinking approach to urban development, especially tailored for Mediterranean cities. Its focus on digital transition through transnational cooperation is timely, considering the increasing importance of smart city initiatives worldwide. Universities, innovation hubs, companies, and municipalities join their forces to help cities:\n- improve infrastructure and services by exchanging best practices and developing common strategies\n- increase competitiveness\n- share knowledge and experience \n- be more democratic and social digital cities by enhancing citizens' participation in the decision-making process of digitalization\n- improve skills for digital transition \nTo achieve these goals, we aim to:\n- Create two local hubs and an online platform to support interaction, good practices, sharing information on existing services. All this data will be available for use by local authorities to adapt their policies, strategies, and actions\n- Provide training services for city executives in smart cities tools and related technologies in the energy and environment, and community health sectors\n- Consult/mentor Municipalities for their transformation into smart cities\n- Provide pilot applications of smart city services in the areas of interest\n- Test & implement transnational networking activities, networking tools, advisory services to connect local authorities \n- Facilitate collaboration among local authorities and citizens from Mediterranean countries\nBeneficiaries of the program will also be the citizens who will enjoy smart city services and a better quality of life in the city\n~\nKEEP KEYWORDS: Governance, partnership, ICT and digital society, Innovation capacity and awareness-raising",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implementation of measures and pilot actions to improve the institutional capacity of public authorities in their digitalization strategy\n~\nEXPECTED RESULT: Upgrade the municipal services and position the cities as a leader in innovation and digitalization, fostering further advancements.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implementation of measures and pilot actions to improve the institutional capacity of public authorities in their digitalization strategy\n~\nEXPECTED RESULT: Upgrade the municipal services and position the cities as a leader in innovation and digitalization, fostering further advancements.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implementation of measures and pilot actions to improve the institutional capacity of public authorities in their digitalization strategy\n~\nEXPECTED RESULT: Upgrade the municipal services and position the cities as a leader in innovation and digitalization, fostering further advancements.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Implementation of measures and pilot actions to improve the institutional capacity of public authorities in their digitalization strategy\n~\nEXPECTED RESULT: Upgrade the municipal services and position the cities as a leader in innovation and digitalization, fostering further advancements.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 18,
+          "title": "Governance, partnership"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33226,
+      "acronym": "SmartGreenEcos~A_T_1.2...",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Building Smart Green SME Ecosystem: Transforming MED SMEs into active participants of a smart and green ecosystem and enhancing the economic activity of the food industry",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 026. Support for innovation clusters including between businesses, research organisations and public authorities and business networks primarily benefiting SMEs\n~\nSUMMARY: PROJECT IDEA: This project aims to create a MED food industry ecosystem comprising 100 SMEs to foster collaboration and facilitate digital and green transitions, aligning with three main EU policies: industrial strategy and ecosystems development, digital transition, and green transition. It includes four implementation WPs: WP3 focusing on setting up the SME ecosystem, WP4 dedicated to developing services and collaborative platforms for digital and green practices, WP5 on using these services by 100 SMEs, and WP6 ensuring the ecosystem's sustainability and its scale-up to all MED countries.\nCHALLENGES: The project addresses growth challenges in the MED food industry. It promotes ecosystem development, collaboration, and supply chains among SMEs in MED countries. Additionally, it advances the digital and green transition of SMEs through data awareness, benchmarking, learning, capacity building, and collaborative new product development.\nEXPECTED CHANGE to EXISTING SITUATION: The project will lead to the development of an ecosystem, 100 procurement agreements, smart green capacity building in 10 thematic areas, and NPD collaboration and creation of 10 new product prototypes. The services sustaining these outputs will be offered to all MED food SMEs. \nMAIN OUTPUTS: The project will establish an ecosystem of 100 SMEs from four MED countries. Beyond the project, it will open the ecosystem for participation to all MED SMEs. It will create an Association of SMEs to promote the MED food industry and develop four platform-based services for AI-based benchmarking, capacity building, digital procurement/trade, and new product development. The project will ensure the utilization of all services by 100 SMEs in the food industry, sustaining joint supply chains, and digital and green practices. Ultimately, the project aims to provide a model for ecosystem development and smart green transition in the MED food industry, enabling future replication in other industry groups.\n~\nKEEP KEYWORDS: Clustering and economic cooperation, ICT and digital society, Innovation capacity and awareness-raising",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To create and promote a transnational ecosystem of industrial SMEs, cooperating over value chains, business networking, and exchanging data and good practices to improve their digital and green performance and growth. \n(SO inspired from action type A.1.3.2.)\n~\nEXPECTED RESULT: Formation of a smart green ecosystem, comprising industrial SMEs from the MED counties, cooperating across borders, during and after the duration of the project. The ecosystem will comprise SMEs from the 4 cooperating countries, but at the end of the project, through the setting of an association.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To implement transnational initiatives and services for the digital and green transformation of industry SMEs, including transnational e-business/e-commerce tools, skills and capacity building, and collaborative innovations for the green transition. \n(SO inspired from action type A.1.3.5.)\n~\nEXPECTED RESULT: Four services will be organised collaboratively by the SMEs, based on digital platforms and e-tools: (1) benchmarking digital and green performance to draft related action plans, (2) capacity building for smart green good practice, (3) digital procurement, (4) collaborative new product development.\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To implement transnational initiatives and services for the digital and green transformation of industry SMEs, including transnational e-business/e-commerce tools, skills and capacity building, and collaborative innovations for the green transition. \n(SO inspired from action type A.1.3.5.)\n~\nEXPECTED RESULT: Four services will be organised collaboratively by the SMEs, based on digital platforms and e-tools: (1) benchmarking digital and green performance to draft related action plans, (2) capacity building for smart green good practice, (3) digital procurement, (4) collaborative new product development.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To create and promote a transnational ecosystem of industrial SMEs, cooperating over value chains, business networking, and exchanging data and good practices to improve their digital and green performance and growth. \n(SO inspired from action type A.1.3.2.)\n~\nEXPECTED RESULT: Formation of a smart green ecosystem, comprising industrial SMEs from the MED counties, cooperating across borders, during and after the duration of the project. The ecosystem will comprise SMEs from the 4 cooperating countries, but at the end of the project, through the setting of an association.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 1,
+          "title": "Innovation capacity and awareness-raising"
+        },
+        {
+          "id": 13,
+          "title": "ICT and digital society"
+        },
+        {
+          "id": 32,
+          "title": "SME and entrepreneurship"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33225,
+      "acronym": "PLANBEE~A_T_1.2_0450",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Promoting Local Apiary Networks and Bee Entrepreneurial Excellence",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 021. SME business development and internationalisation, including productive investments\n~\nSUMMARY: Three years ago in a rural village coffeeshop, a group of young people expressed despair over the lack of job opportunities & contemplated emigration. This scene reflects a common rural challenge: sustaining businesses & creating jobs remains difficult. MSMEs particularly struggle in industrialized markets due to their small scale, remoteness, limited innovation & weak identity. This economic fragility not only threatens local livelihoods but also contributes to depopulation & environmental degradation exacerbated by unsustainable agricultural practices. Recognizing this shared plight across the EuroMed region, we successfully completed the MedBEESinessHubs project to support local communities in Cyprus, Egypt, Italy, Lebanon & Palestine using the honeybee as a catalyst for prosperity. Our established partnership, now extended to Jordan, aims to leverage Bee Economy for rural revitalization, community empowerment & proactive environmental stewardship, using differentiation techniques & enhancing the potential offered by Apitourism. We envision returning to that same coffeeshop, witnessing the smiles of those we've assisted, while embracing the broader Bee Economy Concept. This vision encapsulated by the PLAN-BEE acronym responds to the urgent signal of declining bee populations worldwide—this is the only Plan B for our planet. Under ‘beeTRAINED’ we use mixed reality tools to attract young people & women into the beekeeping world, existing beekeepers are upskilled with sustainable beekeeping practices, bee-entrepreneurs are offered customised professional services. ‘beeDIFFERENT’ emphasises differentiation: the MED Queen Bee branding highlights female bee entrepreneurs, smart beehives encourage innovation & promote authentic, flora-based honey. Under ‘beeCONNECTED’ 6 regional offices are established to support new & existing HoneyBeeRoutes developed under MedBEESinessHubs, expanding Apitourism to even higher levels on the global stage.\n~\nKEEP KEYWORDS: Agriculture and fisheries and forestry, SME and entrepreneurship, Tourism",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To empower Bee-enterprises for sustainable growth & global reach by developing value chains & business networks, enhancing their competitiveness through innovative capacity building activities, product differentiation techniques and organising them in regional and transnational destination brands.\n~\nEXPECTED RESULT: 120+ upskilled entrepreneurs form 1 transnational & 6 regional Bee branded clusters, emphasizing female-led MSMEs, floral authenticity & globally leveraging HoneyRoutes via 6 regional Apitourism Offices. Bee Economy's role in Med sustainable growth extends via the 6-region PLANBEE Policy Committee.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To empower Bee-enterprises for sustainable growth & global reach by developing value chains & business networks, enhancing their competitiveness through innovative capacity building activities, product differentiation techniques and organising them in regional and transnational destination brands.\n~\nEXPECTED RESULT: 120+ upskilled entrepreneurs form 1 transnational & 6 regional Bee branded clusters, emphasizing female-led MSMEs, floral authenticity & globally leveraging HoneyRoutes via 6 regional Apitourism Offices. Bee Economy's role in Med sustainable growth extends via the 6-region PLANBEE Policy Committee.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To empower Bee-enterprises for sustainable growth & global reach by developing value chains & business networks, enhancing their competitiveness through innovative capacity building activities, product differentiation techniques and organising them in regional and transnational destination brands.\n~\nEXPECTED RESULT: 120+ upskilled entrepreneurs form 1 transnational & 6 regional Bee branded clusters, emphasizing female-led MSMEs, floral authenticity & globally leveraging HoneyRoutes via 6 regional Apitourism Offices. Bee Economy's role in Med sustainable growth extends via the 6-region PLANBEE Policy Committee.\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: To empower Bee-enterprises for sustainable growth & global reach by developing value chains & business networks, enhancing their competitiveness through innovative capacity building activities, product differentiation techniques and organising them in regional and transnational destination brands.\n~\nEXPECTED RESULT: 120+ upskilled entrepreneurs form 1 transnational & 6 regional Bee branded clusters, emphasizing female-led MSMEs, floral authenticity & globally leveraging HoneyRoutes via 6 regional Apitourism Offices. Bee Economy's role in Med sustainable growth extends via the 6-region PLANBEE Policy Committee.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 9,
+          "title": "Demographic change and immigration"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        },
+        {
+          "id": 42,
+          "title": "Community integration and common identity"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    },
+    {
+      "id": 33224,
+      "acronym": "SWAMED~A_T_2.3_0561",
+      "programme": {
+        "id": 385,
+        "title": "2021 - 2027 Interreg VI-B NEXT Mediterranean Sea Basin (NEXT MED)"
+      },
+      "translations": {
+        "en": {
+          "name": "Sustainable WAter management for smart agriculture in the MEDiterranean regions",
+          "description": "PROJECT TYPE: 1 - Thematic projects\n~\nMAIN INTERVENTION FIELD: 064. Water management and water resource conservation (including river basin management, specific climate change adaptation measures, reuse, leakage reduction)\n~\nSUMMARY: SWAMED targets Priority 2 Specific Objective 2.3 (RSO 2.5) Access to water and sustainable water management \nClimate change, droughts, increasing population cause water scarcity affecting agriculture and ecosystems, increasing competition for water resources between rural and urban areas. SWAMED tackles these common challenges across the Mediterranean Countries.\nSWAMED codesigns in a multi stakeholder approach a water monitoring and management system for irrigated agriculture adaptable to local conditions in 4 pilot demonstration in Tunisia, Turkey, Egypt, Greece, intended for farmers and water management entities.The system includes at the level of farms or group of farms commercial level sensors for basic water quality, flow, soil nutrients, humidity, temperature, weather station, actuators and controllers, aerial drones for crop status, and commercial (level. flow) and new wireless sensors by UCLVs for water afferents (canals pipelines) integrity and theft, monitoring, and for water quality (pollutants) Satellite observation tools are complementing field data for field monitoring and small catchment evaluation Data are input to a Decision Support System based on Artificial Intelligence enabling the optimal water use sustainable and climate change resilient practices. This will result in at least 30% reduction of irrigation water (mis-)use and losses. Additional technological assets for data streams are drones and satellite observation. The prompt availability of online information enables dynamic water allocation and pricing schemes, and evidence based governance and policies.SWAMED evaluates activities through a new micro and farm level WEFE framework, Life cycle assessment, multifaceted cost benefit analysis. Gender, discrimination, and fundamental rights issues are taken care of by specific activities all along the project lifetime. Beneficiaries are farmers, water management and quality authorities, local communities, governance and policy actors\n~\nKEEP KEYWORDS: Agriculture and fisheries and forestry, Sustainable management of natural resources, Water management",
+          "expected_results": null,
+          "achievements": null,
+          "expected_outputs": null,
+          "delivered_outputs": null,
+          "expected_achievements": "Management coordination\nCommunication and dissemination\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To provide technology tools for water monitoring and management enabling data and evidence based new dynamic allocation schemes (urban VS rural), new governance schemes, new policies.\n~\nEXPECTED RESULT: Positive evaluation and adoption by farmers, water management entities, stakeholders, policy makers as a results of successful pilot demonstrations implementation, increased awareness,  new dynamic pricing schemes, governance and policy approaches\nCODE: SO2ER2\n~\nSPECIFIC OBJECTIVE: To provide technology tools for water monitoring and management enabling data and evidence based new dynamic allocation schemes (urban VS rural), new governance schemes, new policies.\n~\nEXPECTED RESULT: Positive evaluation and adoption by farmers, water management entities, stakeholders, policy makers as a results of successful pilot demonstrations implementation, increased awareness,  new dynamic pricing schemes, governance and policy approaches\nCODE: SO1ER1\n~\nSPECIFIC OBJECTIVE: Sustainable water management through smart irrigation of crops, canals monitoring against leakages, levees integrity, water quality control against chemical contaminants.\n~\nEXPECTED RESULT: Smart irrigation procedures exploiting aerial drones, satellites, and on-site sensors for vegetation cover monitoring and humidity measurements.\nSensors network for waterways monitoring and water quality control.",
+          "actual_achievements": null
+        }
+      },
+      "themes": [
+        {
+          "id": 2,
+          "title": "Water management"
+        },
+        {
+          "id": 36,
+          "title": "Waste and pollution"
+        },
+        {
+          "id": 37,
+          "title": "Agriculture and fisheries and forestry"
+        }
+      ],
+      "small_project": false,
+      "technical_assistance": false,
+      "resourcetype": "InterregProject"
+    }
+  ],
+  "related_count": {
+    "partnerships": 384,
+    "partners": 324,
+    "programmes": 1,
+    "docs": 0
+  },
+  "project_ids": [
+    33271,
+    33270,
+    33269,
+    33268,
+    33267,
+    33266,
+    33265,
+    33264,
+    33263,
+    33262,
+    33261,
+    33260,
+    33259,
+    33258,
+    33257,
+    33256,
+    33255,
+    33254,
+    33253,
+    33252,
+    33251,
+    33250,
+    33249,
+    33248,
+    33247,
+    33246,
+    33245,
+    33244,
+    33243,
+    33242,
+    33241,
+    33240,
+    33239,
+    33238,
+    33237,
+    33236,
+    33235,
+    33234,
+    33233,
+    33232,
+    33231,
+    33230,
+    33229,
+    33228,
+    33227,
+    33226,
+    33225,
+    33224,
+    33223,
+    33222,
+    33221,
+    33220,
+    33219,
+    33218,
+    33217,
+    33216,
+    33215,
+    33214,
+    33213
+  ]
+}
