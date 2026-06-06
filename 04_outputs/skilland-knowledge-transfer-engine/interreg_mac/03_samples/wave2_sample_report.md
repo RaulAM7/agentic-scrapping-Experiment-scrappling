@@ -69,7 +69,7 @@ Fecha: 2026-06-01T04:31:57.141Z
 - 4.9 | Empresa Municipal de Iniciativas y Actividades Empresariales de Málaga, S.A. | MED4REGEN | 2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)
 - 4.9 | Ayuntamiento de Lleida | Sole MED | 2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)
 - 4.8 | La Palma Research Centre (La Palma Office) | Impact4Mar | 2021 - 2027 Interreg VI-B Atlantic Area
-- 4.8 | Asociación de Industrias de Conocimiento y Tecnología - GAIA - Euskal Herriko Ezagutza eta Teknologia Industrien Elkartea (Servicios Cluster) | BEACon | 2021 - 2027 Interreg VI-B Atlantic Area
+- 4.8 | Asociación de Industrias de Conocimiento y Tecnología - GAIA - Euskal Herriko Ezagutza eta Teknologia Industrien Elkartea (Servicios Cluster) | BEACon | 2021 - 2027 Interreg VI-B Atlantic Areano 
 - 4.8 | Asociación de Empresas Tecnológicas Innovalia (Research and development) | UPWELLING | 2021 - 2027 Interreg VI-B Atlantic Area
 
 ## Limitaciones
