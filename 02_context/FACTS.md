@@ -46,6 +46,14 @@
   Source: WHAT-IS-THIS-REPO.md, section 2
   Confidence: high
 
+- Fact: The repository is not meant to stop at generic organization discovery; the operative target is an outreach-ready lead list
+  Source: user directive 2026-06-07
+  Confidence: high
+
+- Fact: From 2026-06-07 onward, a lead without email or explicit `email_status` is considered incomplete
+  Source: user directive 2026-06-07
+  Confidence: high
+
 - Fact: The evaluation criteria include both technical and workflow dimensions: friction of adoption, clarity of mental model, flexibility, ease of orchestration by Claude inside a repo, fit for structured research, future scalability
   Source: WHAT-IS-THIS-REPO.md, section 4
   Confidence: high

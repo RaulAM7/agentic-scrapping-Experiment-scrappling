@@ -1,20 +1,20 @@
 # BRIEF
 
-- **What this project is**: An experiment to evaluate the [Scrapling](https://github.com/D4Vinci/Scrapling) library as a smart scraping layer inside an agentic business workflow. One side of a paired comparative benchmark (the other stack is not identified in this repo yet). Not a production system — a structured evaluation.
+- **What this project is**: A repository for evaluating and operationalizing smart scraping inside an agentic business workflow, with the explicit goal of turning extracted organizations into prospectable B2B leads. It started as a structured Scrapling evaluation and now also acts as a working lab for email-first prospect generation patterns.
 
 - **Who it is for**: The team building an agentic business operating system. The downstream beneficiaries are document-heavy professional firms (law, accounting, tax advisory) in the Canary Islands who suffer from operational overload, manual document handling, and administrative bottleneck.
 
-- **Measurable outcome**: A clear, decision-ready evaluation of Scrapling covering: installation friction, usability inside an agentic repo workflow, fit for ICP-driven research, strengths/weaknesses/tradeoffs, and a recommendation on whether it deserves a place in the larger system.
+- **Measurable outcome**: Decision-ready evidence that the scraping layer can move from discovery to lead generation: usable extraction, field traceability, website/contact preservation, and outputs that can be enriched into outreach-ready leads.
 
 - **Time horizon**: Unknown — not stated in sources.
 
-- **Success definition**: The repo produces enough hands-on evidence (installation docs, realistic mini-tests tied to the ICP, structured findings) to make a confident comparative decision about this stack vs. the alternative.
+- **Success definition**: The repo produces enough hands-on evidence and reusable process patterns to turn market entities into lead datasets usable for outreach. A discovered organization without email or explicit `email_status` is incomplete.
 
 ## Strategic chain this sits inside
 
-ICP definition → smart scraping → offer design → funnel building → outreach/emailing → CRM
+ICP definition → smart scraping → contact enrichment → outreach/emailing → CRM
 
-The scraping layer is being evaluated as one operational bridge between strategic market understanding and commercial execution.
+The scraping layer is being evaluated as one operational bridge between strategic market understanding and commercial execution. Discovery alone is not enough; the output must preserve the path to contactability.
 
 ## Grounding use case
 

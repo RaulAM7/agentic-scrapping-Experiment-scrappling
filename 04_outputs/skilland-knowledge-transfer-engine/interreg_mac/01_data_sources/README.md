@@ -15,3 +15,4 @@ Esta carpeta contiene fuentes de datos para el caladero Interreg MAC / keep.eu.
 - Guardar URL de origen.
 - Mantener trazabilidad.
 - Separar raw de processed.
+- Recordar que `raw_*` no es un lead export; solo es evidencia para la siguiente fase de normalizacion y enrichment.

@@ -4,7 +4,7 @@
 
 Este caladero busca detectar proyectos, partners, entidades y consorcios relacionados con Interreg y, en particular, con el espacio MAC, que puedan encajar con `Skilland Knowledge Transfer Engine`.
 
-El objetivo no es vender directamente desde keep.eu, sino generar un dataset inicial de oportunidades para investigación comercial posterior.
+El objetivo no es vender directamente desde keep.eu, pero tampoco quedarse en research generico. El objetivo operativo es construir una tuberia `entity discovery -> contact enrichment -> outreach-ready lead`.
 
 ## 2. Que buscamos
 
@@ -85,4 +85,5 @@ El resultado esperado del scraping sera:
 - muestras validadas;
 - scoring de proyectos y partners;
 - reportes de oportunidades;
-- listados priorizados para investigacion posterior.
+- listados priorizados para enrichment;
+- base trazable para extraer emails y cerrar `lead_readiness`.

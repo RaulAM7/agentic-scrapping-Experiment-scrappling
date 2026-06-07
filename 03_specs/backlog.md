@@ -15,3 +15,4 @@ One line per item.
 - [done] Experimento 1 Fase 3: piloto acotado + scorecard — ver 05_scratch/experimento_1/2026-03-07_pilot-scorecard_experimento-1.md
 - [done] Experimento 1 Fase 4: dataset consolidado con dedupe y contactability_score — ver 04_outputs/experimento_1/2026-03-07_dataset-consolidado-experimento-1_v1.md
 - [done] Experimento 1 Fase 5: evaluation report comparativo contra Experimento 0 — ver 04_outputs/experimento_1/2026-03-08_evaluation-report_experimento-1-vs-experimento-0_v1.md
+- [doing] Backfill email-first de datasets historicos: normalizacion, enrichment y export canonico de leads para Interreg / Knowledge Transfer — ver 03_specs/now/005_now.md

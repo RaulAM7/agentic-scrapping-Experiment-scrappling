@@ -6,6 +6,12 @@ Priorizar proyectos, partners y entidades por encaje con `Skilland Knowledge Tra
 
 La logica del score es priorizar no solo tema, sino capacidad real de activar transferencia de conocimiento con beneficiarios claros y entidades accionables.
 
+Regla clave:
+
+- `score` mide encaje comercial / estrategico;
+- `lead_readiness` mide si el registro ya esta listo para outreach;
+- un `Score 5` sin email sigue siendo un lead incompleto.
+
 ## 2. Score 5 — Muy alto encaje
 
 Caracteristicas:
@@ -174,3 +180,30 @@ Checks minimos antes de subir a `Score 4` o `Score 5`:
 - beneficiario identificable;
 - entidad o partner accionable;
 - geografia y periodo consistentes con la prioridad.
+
+## 10. Capa de contactabilidad
+
+Campos minimos que deben existir antes de exportar a outreach:
+
+- `contact_name` si existe;
+- `contact_role` si existe;
+- `email` o `contact_email`;
+- `email_status` si no hay email;
+- `contact_url`;
+- `email_source_url`;
+- `lead_readiness`.
+
+Enum recomendado para `email_status`:
+
+- `email_found`
+- `email_not_found_no_website`
+- `email_not_found_no_contact_channel`
+- `email_not_found_form_only`
+- `email_not_found_scrape_blocked`
+- `email_not_found_manual_review`
+
+Estados recomendados para `lead_readiness`:
+
+- `ready_for_outreach`
+- `not_outreach_ready`
+- `manual_review_needed`

@@ -15,3 +15,4 @@ Esta carpeta alojara scripts y experimentos de scraping para keep.eu / Interreg 
 - Cachear.
 - Loguear fuente y fecha.
 - No mezclar raw y processed.
+- No confundir `partner scored` con lead final: si falta email, el scraping aun no ha terminado.

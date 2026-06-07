@@ -667,6 +667,13 @@ Baja prioridad si:
 
 ## 11. Scoring comercial para scraping
 
+Regla de lectura:
+
+- el `score` mide encaje comercial y estrategico;
+- la contactabilidad se mide aparte;
+- un lead sin email no esta completo aunque tenga `Score 5`.
+
+
 ### Score 5 — Muy alto encaje
 
 Características:
@@ -756,6 +763,10 @@ Para cada entidad o proyecto, intentar extraer:
 | Señales de reporting/impacto | Sí/no + detalle |
 | Idiomas | ES, EN, FR, PT, etc. |
 | Contactos | Nombre, cargo, email, LinkedIn si aparece |
+| Email status | `email_found`, `email_not_found_*` o revision manual |
+| Email source URL | URL exacta donde se encontro el email o donde se constato su ausencia |
+| Contact source URL | URL principal usada para enrichment de contacto |
+| Lead readiness | `ready_for_outreach`, `not_outreach_ready`, `manual_review_needed` |
 | Score | 1–5 |
 | Razonamiento score | Por qué tiene ese score |
 | Mensaje recomendado | Qué ángulo usar |
@@ -1079,7 +1090,9 @@ Para scraping, lo más importante no es encontrar cualquier web bonita, sino det
 - deliverables reutilizables;
 - beneficiarios claros;
 - contacto accionable;
-- encaje con transferencia.
+- encaje con transferencia;
+- ruta real para encontrar email;
+- o evidencia suficiente para cerrar `email_status`.
 
 ---
 

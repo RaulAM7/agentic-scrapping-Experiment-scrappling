@@ -40,6 +40,10 @@ Output:
 - sample processed;
 - mini report.
 
+Condicion de salida:
+
+- la wave queda validada solo si conserva URLs suficientes para enrichment posterior.
+
 Notas para este caladero:
 
 - usar primero export GUI o URLs estables;
@@ -63,6 +67,10 @@ Output:
 
 - dataset Interreg MAC raw;
 - dataset Interreg MAC scored.
+
+Condicion de salida:
+
+- este dataset sigue siendo intermedio; no cuenta como export final de prospeccion mientras `contact_email` siga vacio.
 
 Condicion:
 
@@ -89,6 +97,10 @@ Output:
 - datasets por geografia;
 - ranking de entidades/proyectos.
 
+Condicion de salida:
+
+- los rankings sirven para priorizar enrichment, no para outreach directo.
+
 ## Wave 4 — Enriquecimiento web
 
 Objetivo:
@@ -98,12 +110,14 @@ Objetivo:
 - documentos;
 - paginas de contacto;
 - outputs visibles;
-- senales formativas.
+- senales formativas;
+- emails publicos y fuente exacta del email.
 
 Output:
 
 - dataset enriched;
-- report de mejores oportunidades.
+- log de `email_status`;
+- report de mejores oportunidades con `lead_readiness`.
 
 ## Wave 5 — Dataset final de scraping
 
@@ -113,4 +127,5 @@ Objetivo:
 - deduplicado;
 - scored;
 - con fuente trazable;
-- listo para que otro proceso/agente lo use.
+- con `email` o `email_status`;
+- listo para outreach o para cierre explicito de no-contactabilidad.
