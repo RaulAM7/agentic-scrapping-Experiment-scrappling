@@ -1,0 +1,910 @@
+organization_id,organization_name,recovery_lane,query_pack,candidate_url,candidate_domain,discovery_status,validation_reason,validated_website_url
+org_lebanon_fab4757c,الجامعة اللبنانية,discovery,,,,not_attempted,no_viable_query,
+org_tunisia_cbs_rnrt_tn_2b553b27,مركز البيوتكنولوجيا بصفاقس,discovery,,,,not_attempted,no_viable_query,
+org_universidad_de_huelva_spain_uhu_es_b672c674,Universidad de Huelva,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uhu.es/
+org_lebanon_biatcenter_org_52dd71e2,جمعية تطوير الأعمال في طرابلس,own_site_not_ready,,,,not_needed,used_existing_website,https://www.biatcenter.org/
+org_greece_uoa_gr_910a5e49,Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uoa.gr/
+org_jordan_narc_gov_jo_9d90b862,المركز الوطني للبحوث الزراعية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.narc.gov.jo/
+org_associaci_fons_catal_de_cooperaci_al_des_bb4836cc,Associació Fons Català de Cooperació al Desenvolupament,own_site_not_ready,,,,not_needed,used_existing_website,https://fonscatala.org/
+org_tunisia_inrgref_iresa_tn_3870dfac,المعھد الوطني للبحوث في الھندسة الریفیة و المیاه والغابات,discovery,,,,not_attempted,no_viable_query,
+org_lebanon_ldn_lb_org_38481d7b,الشبكة اللبنانية للتنمية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ldn-lb.org/
+org_direcci_n_general_de_sal_d_p_blica_del_s_e2a3a100,Dirección General de Salúd Pública del Servicio,discovery,,,,not_attempted,no_viable_query,
+org_agencia_canaria_de_investigaci_n_innovac_981a8496,"Agencia Canaria de Investigación, Innovación y Sociedad",discovery,,,,not_attempted,no_viable_query,
+org_ayuntamiento_de_las_palmas_de_gran_spain_bf505e65,AYUNTAMIENTO DE LAS PALMAS DE GRAN,discovery,,,,not_attempted,no_viable_query,
+org_universit_degli_studi_di_cagliari_italy_f28a689a,Università degli Studi di Cagliari,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unica.it/it
+org_dire_o_regional_de_organiza_o_e_administ_3aaa1510,Direção Regional de Organização e Administração,discovery,,,,not_attempted,no_viable_query,
+org_centre_tunisien_pour_l_entrepreneuriat_s_1b06eb1d,Centre Tunisien pour l'Entrepreneuriat Social,own_site_not_ready,,,,not_needed,used_existing_website,https://tcse.network/
+org_greece_uom_gr_e5ec92e8,Πανεπιστήμιο Μακεδονίας,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uom.gr/
+org_servicio_canario_de_la_salud_spain_301c692a,Servicio Canario de la Salud,discovery,,,,not_attempted,no_viable_query,
+org_palestine_jericho_plo_ps_6d64cdb5,محافظة اريحا والأغوار,discovery,,,,not_attempted,no_viable_query,
+org_kizanlikli_e_i_ti_m_dani_manlik_ko_luk_t_85f2b3a2,KIZANLIKLI EĞİTİM DANIŞMANLIK KOÇLUK TURİZM LTD. ŞTİ,own_site_not_ready,,,,not_needed,used_existing_website,https://kizanlikliacademy.com/
+org_fondazione_centro_euro_mediterraneo_sui_76d3771a,Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cmcc.it/
+org_ayuntamiento_de_lleida_spain_7489b669,Ayuntamiento de Lleida,discovery,,,,not_attempted,no_viable_query,
+org_universit_degli_studi_di_firenze_italy_u_a0bfa05d,Università degli Studi di Firenze,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unifi.it/
+org_rea_metropolitana_de_barcelona_spain_8980308c,Àrea Metropolitana de Barcelona,discovery,,,,not_attempted,no_viable_query,
+org_sapienza_university_of_rome_italy_unirom_13ec2610,Sapienza University of Rome,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uniroma1.it/it/
+org_greece_kmop_org_cd8c0111,ΚΕΝΤΡΟ ΜΕΡΙΜΝΑΣ ΟΙΚΟΓΕΝΕΙΑΣ ΚΑΙ ΠΑΙΔΙΟΥ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.kmop.gr/
+org_ayuntamiento_de_quart_de_poblet_spain_90723f2d,Ayuntamiento de Quart de Poblet,discovery,,,,not_attempted,no_viable_query,
+org_palestine_najah_edu_7a827e7f,جامعة النجاح الوطنية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.najah.edu/en/
+org_universit_iuav_di_venezia_italy_iuav_it_58bbf262,Università Iuav di Venezia,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iuav.it/it
+org_consiglio_nazionale_delle_ricerche_italy_8289f8f7,Consiglio Nazionale delle Ricerche,discovery,,,,not_attempted,no_viable_query,
+org_pk_rs_podru_na_privredna_komora_banja_lu_c1ea9bb7,PK RS – Područna privredna komora Banja Luka,discovery,,,,not_attempted,no_viable_query,
+org_regione_del_veneto_italy_regione_veneto_b6bdd544,REGIONE DEL VENETO,own_site_not_ready,,,,not_needed,used_existing_website,https://www.regione.veneto.it/
+org_fundaci_n_corporaci_n_tecnol_gica_de_and_e09a517d,Fundación Corporación Tecnológica De Andalucía,own_site_not_ready,,,,not_needed,used_existing_website,https://www.corporaciontecnologica.com/
+org_universit_degli_studi_di_ferrara_italy_u_178d5628,Università degli Studi di Ferrara,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unife.it/it
+org_regione_liguria_italy_regione_liguria_it_4b98f733,Regione Liguria,own_site_not_ready,,,,not_needed,used_existing_website,https://www.regione.liguria.it/
+org_mancomunidad_tur_stica_de_sierra_espu_a_117852a1,Mancomunidad Turística de Sierra Espuña,own_site_not_ready,,,,not_needed,used_existing_website,https://territoriosierraespuna.com/
+org_greece_certh_gr_f6d70492,Εθνικό Κέντρο Έρευνας Και Τεχνολογικής Ανάπτυξης (Πτολεμαΐδα),own_site_not_ready,,,,not_needed,used_existing_website,https://www.certh.gr/
+org_exo_soc_cons_a_r_l_italy_exo_ricerca_it_421bdf8d,EXO Soc. Cons. a R. L.,own_site_not_ready,,,,not_needed,used_existing_website,https://exo-ricerca.it/
+org_generaci_n_de_energ_as_alternativas_s_l_7ababe44,"Generación de Energías Alternativas, S.L.U.",own_site_not_ready,,,,not_needed,used_existing_website,https://www.grupoenercoop.es/
+org_vitale_tecnologie_comunicazione_viteco_s_a87945f2,VITALE TECNOLOGIE COMUNICAZIONE VITECO SRL,own_site_not_ready,,,,not_needed,used_existing_website,https://www.vitecoelearning.eu/
+org_fondazione_museo_del_tessuto_di_prato_it_e39ee019,Fondazione Museo del Tessuto di Prato,discovery,,,,not_attempted,no_viable_query,
+org_universitat_de_barcelona_spain_ub_edu_98638501,Universitat de Barcelona,own_site_not_ready,,,,not_needed,used_existing_website,https://web.ub.edu:443/ca/web/ub/
+org_asociaci_n_para_el_desarrollo_de_la_coma_721d0248,Asociación para el Desarrollo de la Comarca del Aljarafe-Doñana,discovery,,,,not_attempted,no_viable_query,
+org_y_greece_ypen_gov_gr_b2b5a495,YΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://ypen.gov.gr/
+org_empresa_municipal_de_iniciativas_y_activ_0db590aa,"Empresa Municipal de Iniciativas y Actividades Empresariales de Málaga, S.A.",own_site_not_ready,,,,not_needed,used_existing_website,https://www.promalaga.es/
+org_universit_di_torino_italy_unito_it_34692cf6,Università di Torino,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unito.it/
+org_asociaci_n_catalana_para_la_innovaci_n_y_0e1d5607,"Asociación Catalana para la Innovación y la Internacionalización del Sector del Agua, Catalan Water Partnership",discovery,,,,not_attempted,no_viable_query,
+org_universit_degli_studi_di_siena_italy_uni_926f4380,Università degli studi di Siena,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unisi.it/
+org_centro_europeo_de_empresas_e_innovaci_n_6f4fa8ff,Centro Europeo de Empresas e Innovación de Valencia,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_de_recerca_cl_nic_barcelona_inst_1d3add50,Fundació de Recerca Clínic Barcelona-Institut d’Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS),own_site_not_ready,,,,not_needed,used_existing_website,https://www.clinicbarcelona.org/
+org_stazione_zoologica_anton_dohrn_italy_4aea02e6,Stazione Zoologica Anton Dohrn,discovery,,,,not_attempted,no_viable_query,
+org_turisti_ka_zajednica_splitsko_dalmatinsk_7f6012dc,TURISTIČKA ZAJEDNICA SPLITSKO-DALMATINSKE ŽUPANIJE,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dalmatia.hr/
+org_hospital_cl_nic_de_barcelona_spain_clini_29aaa265,Hospital Clínic de Barcelona,own_site_not_ready,,,,not_needed,used_existing_website,https://www.clinicbarcelona.org/
+org_camara_oficial_de_comercio_industria_ser_c8623e1d,"CAMARA OFICIAL DE COMERCIO INDUSTRIA, SERVICIOS Y NAVEGACION DE VALENCIA",own_site_not_ready,,,,not_needed,used_existing_website,https://www.camaravalencia.com/
+org_anysolution_s_l_spain_anysolution_eu_79c10666,AnySolution S.L.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.anysolution.eu/
+org_jordan_university_of_science_and_techno_d4800fa0,جامعة العلوم والتكنولوجيا الأردنية Jordan University of Science and Technology,own_site_not_ready,,,,not_needed,used_existing_website,https://www.just.edu.jo/Pages/Default.aspx
+org_institut_europeu_de_la_mediterr_nia_spai_0ef280dd,Institut Europeu de la Mediterrània,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iemed.org/
+org_ag_ncia_de_residus_de_catalunya_spain_me_b92c1e5f,Agència de Residus de Catalunya,own_site_not_ready,,,,not_needed,used_existing_website,https://www.medwaves-centre.org/
+org_confartigianato_imprese_sud_sardegna_ita_4a5b574c,Confartigianato Imprese Sud Sardegna,own_site_not_ready,,,,not_needed,used_existing_website,https://confartigianato.cagliari.it/
+org_enea_agenzia_nazionale_per_le_nuove_tecn_71fa3cbd,"ENEA Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile",discovery,,,,not_attempted,no_viable_query,
+org_association_internationale_des_for_ts_m_b2da5258,Association Internationale des Forêts Méditerranéennes,own_site_not_ready,,,,not_needed,used_existing_website,https://aifm.org/en/home/
+org_fakultet_strojarstva_i_brodogradnje_sveu_e7198e07,Fakultet strojarstva i brodogradnje Sveučilišta u Zagrebu,own_site_not_ready,,,,not_needed,used_existing_website,https://www.fsb.unizg.hr/index.php?fsbonline
+org_privredna_komora_crne_gore_montenegro_871564b0,Privredna komora Crne Gore,discovery,,,,not_attempted,no_viable_query,
+org_consell_insular_de_formentera_spain_98bbcd5d,Consell Insular de Formentera,discovery,,,,not_attempted,no_viable_query,
+org_ente_di_gestione_dei_sacri_monti_italy_5e083236,ENTE DI GESTIONE DEI SACRI MONTI,discovery,,,,not_attempted,no_viable_query,
+org_ayuntamiento_de_murcia_spain_murcia_es_80199df2,Ayuntamiento de Murcia,own_site_not_ready,,,,not_needed,used_existing_website,https://web.murcia.es/
+org_legambiente_nazionale_aps_rete_associati_97142e86,Legambiente Nazionale APS - Rete Associativa ETS,own_site_not_ready,,,,not_needed,used_existing_website,https://www.legambiente.it/
+org_ag_ncia_catalana_de_turisme_spain_act_ca_6d318cd3,AGÈNCIA CATALANA DE TURISME,discovery,,,,not_attempted,no_viable_query,
+org_fondazione_istituto_sui_trasporti_e_la_l_b0d67ea9,Fondazione Istituto sui Trasporti e la Logistica,own_site_not_ready,,,,not_needed,used_existing_website,https://www.fondazioneitl.org/
+org_porto_conte_ricerche_srl_italy_portocont_d36c3922,Porto Conte Ricerche srl,own_site_not_ready,,,,not_needed,used_existing_website,https://www.portocontericerche.it/
+org_agencia_estatal_consejo_superior_de_inve_335d04e0,Agencia Estatal Consejo Superior de Investigaciones Científicas - Instituto Español de Oceanografia,own_site_not_ready,,,,not_needed,used_existing_website,https://www.csic.es/es
+org_fundaci_n_musol_spain_musol_org_c9ec2029,Fundación MUSOL,own_site_not_ready,,,,not_needed,used_existing_website,https://musol.org/
+org_fondazione_slow_food_ets_italy_slowfood_f024d536,Fondazione Slow Food ETS,own_site_not_ready,,,,not_needed,used_existing_website,https://www.slowfood.com/
+org_eurovertice_s_l_spain_055da782,Eurovertice S.L.,discovery,,,,not_attempted,no_viable_query,
+org_otb_europe_portugal_otbeurope_com_71dc7883,OTB Europe,own_site_not_ready,,,,not_needed,used_existing_website,https://otbeurope.com/
+org_regione_autonoma_della_sardegna_italy_re_acb2faa2,Regione Autonoma della Sardegna,own_site_not_ready,,,,not_needed,used_existing_website,https://www.regione.sardegna.it/
+org_association_of_the_mediterranean_chamber_254ac171,Association of the Mediterranean Chambers of Commerce and Industry,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ascame.org/
+org_regione_di_lazio_italy_visitlazio_com_4bf01a68,Regione di Lazio,own_site_not_ready,,,,not_needed,used_existing_website,https://www.visitlazio.com/
+org_diputaci_n_provincial_de_teruel_spain_dp_1d0a3a76,Diputación Provincial de Teruel,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dpteruel.es/DPTweb/
+org_ministria_e_turizmit_dhe_mjedisit_albani_0cd69f6e,Ministria e Turizmit dhe Mjedisit,discovery,,,,not_attempted,no_viable_query,
+org_greece_afs_edu_gr_726dbc54,Αμερικάνικη Γεωργική Σχολή,own_site_not_ready,,,,not_needed,used_existing_website,https://afs.edu.gr/
+org_o_north_macedonia_strumica_gov_mk_0303261c,Oпштина Струмица,own_site_not_ready,,,,not_needed,used_existing_website,https://strumica.gov.mk/
+org_greece_thessaly_gov_gr_256409a1,ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ,discovery,,,,not_attempted,no_viable_query,
+org_lebanon_ccib_org_lb_33259aaa,غرفة التجارة والصناعة والزراعة في بيروت وجبل لبنان,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ccib.org.lb/
+org_greece_crete_gov_gr_9e12461d,ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.crete.gov.gr/
+org_greece_en_uoa_gr_b837f2da,Εθνικό Καποδιστριακό Πανεπιστήμιο Αθηνών,own_site_not_ready,,,,not_needed,used_existing_website,https://en.uoa.gr/
+org_asociaci_n_espa_ola_para_la_internaciona_803d9022,ASOCIACIÓN ESPAÑOLA PARA LA INTERNACIONALIZACIÓN Y LA INNOVACIÓN DE LAS EMPRESAS SOLARES,own_site_not_ready,,,,not_needed,used_existing_website,https://www.solartys.org/es/
+org_bulgaria_sandanski_bg_83a766e4,Община Сандански,own_site_not_ready,,,,not_needed,used_existing_website,https://sandanski.bg/
+org_egypt_have_adream_com_f1a6aabf,هاف ادريم,own_site_not_ready,,,,not_needed,used_existing_website,https://Have-adream.com/
+org_greece_anatoliki_gr_08f4b846,"Αναπτυξιακός Οργανισμός Τοπικής Αυτοδιοίκησης, Ανατολικη Α.Ε",own_site_not_ready,,,,not_needed,used_existing_website,https://anatoliki.gr/
+org_t_c_evre_ehircilik_ve_i_klim_de_i_ikli_i_7f222195,"T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı / Yapı İşleri Genel Müdürlüğü",discovery,,,,not_attempted,no_viable_query,
+org_lebanon_lcec_org_lb_2ca5be23,المركز اللبناني لحفظ الطاقة,own_site_not_ready,,,,not_needed,used_existing_website,https://www.lcec.org.lb/
+org_jordan_specto_co_889f5098,مهارات لقيادة الحاسوب,own_site_not_ready,,,,not_needed,used_existing_website,https://www.specto.co/
+org_tarsus_ticaret_borsas_turkey_tarsustb_or_28e95347,Tarsus Ticaret Borsası,own_site_not_ready,,,,not_needed,used_existing_website,https://www.tarsustb.org.tr/
+org_greece_crete_gov_gr_b58c959c,Περιφέρεια Κρήτης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.crete.gov.gr/
+org_ayuntamiento_de_matar_spain_mataro_cat_b05a1129,Ayuntamiento de Mataró,own_site_not_ready,,,,not_needed,used_existing_website,https://www.mataro.cat/
+org_jordan_rss_jo_fd3294a2,الجمعية العلمية الملكية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rss.jo/Default/En
+org_bulgaria_razlog_bg_4acffc8b,Община Разлог,own_site_not_ready,,,,not_needed,used_existing_website,https://razlog.bg/wps/portal/municipality-razlog/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwLcHT3cLQwMAkICzQwCA8zNA9yCDY3cHQ31wwkpiAJKG-AAjgZA_VFgJXATPFxCHIEmBBkGBHuZGZj4G0IV4DGjIDfCINNRUREAFqcd0w!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/
+org_jordan_just_edu_jo_3b5dea5b,جامعة العلوم والتكنولوجيا الأردنية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.just.edu.jo/Pages/Default.aspx
+org_lebanon_instagram_com_a2a8c436,شركة الحرية الدولية ش.م.م,own_site_not_ready,,,,not_needed,used_existing_website,https://www.instagram.com/
+org_cyprus_aradippou_org_cy_a92ed47d,Δήμος Αραδίππου,own_site_not_ready,,,,not_needed,used_existing_website,https://aradippou.org.cy/
+org_stratigon_finance_greece_stratigon_gr_d284d181,Stratigon Finance Ιδιωτική Κεφαλαιουχική Εταιρία,own_site_not_ready,,,,not_needed,used_existing_website,https://stratigon.gr/
+org_ministeru_g_all_agrikoltura_sajd_u_dritt_da517eea,"Ministeru għall-Agrikoltura, Sajd u Drittijiet għall-Annimali",discovery,,,,not_attempted,no_viable_query,
+org_egypt_ceeba_org_fd9d77fe,اتحاد منظمات الأعمال المصرية الأوروبية,own_site_not_ready,,,,not_needed,used_existing_website,https://ceeba.org/
+org_anakkale_teknopark_teknoloji_geli_tirme_9b8e75b6,Çanakkale Teknopark Teknoloji Geliştirme Bölgesi A.Ş.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.canakkaleteknopark.com.tr/
+org_jordan_aqaba_com_71c9d7e0,سلطة منطقة العقبة الاقتصادية الخاصة,own_site_not_ready,,,,not_needed,used_existing_website,https://wn.com/Aqaba?from=aqaba.com
+org_kaleseramik_anakkale_kalebodur_seramik_s_4634a4e0,"Kaleseramik, Çanakkale Kalebodur Seramik San. A.Ş.",own_site_not_ready,,,,not_needed,used_existing_website,https://www.kale.com.tr/
+org_cyprus_sustainable_tourism_initiative_cy_d64a9f0f,Cyprus Sustainable Tourism Initiative,own_site_not_ready,,,,not_needed,used_existing_website,https://csti-cyprus.org/
+org_greece_pilea_hortiatis_gr_a1d5e787,ΔΗΜΟΣ ΠΥΛΑΙΑΣ-ΧΟΡΤΙΑΤΗ,own_site_not_ready,,,,not_needed,used_existing_website,https://pilea-hortiatis.gr/
+org_lebanon_aub_edu_lb_d9d8fed7,الجامعة الأميركية في بيروت,own_site_not_ready,,,,not_needed,used_existing_website,https://www.aub.edu.lb/
+org_actionaid_greece_actionaid_gr_32bf959e,ACTIONAID ΕΛΛΑΣ ΑΣΤΙΚΗ ΜΕ ΚΕΡΔΟΣΚΟΠΙΚΗ ΕΤΑΙΡΕΙΑ,own_site_not_ready,,,,not_needed,used_existing_website,https://actionaid.gr/
+org_cyprus_atlantis_consulting_eu_802872b0,ΑΤΛΑΝΤΙΣ ΠΕΡΙΒΑΛΛΟΝ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑ ΛΤΔ,own_site_not_ready,,,,not_needed,used_existing_website,https://atlantis-consulting.eu/en/main-page/
+org_tunisia_cawtar_org_77a507f2,مركز المرأة العربية للتدريب و البحوث,own_site_not_ready,,,,not_needed,used_existing_website,https://cawtar.org/en
+org_palestine_leadersinternational_org_18c47703,مؤسسة قيادات,own_site_not_ready,,,,not_needed,used_existing_website,https://leadersinternational.org/
+org_jordan_edama_jo_49bae8a0,ةئيبلاو ەا􁘭ملاو ةقاطلل ةمادا ة􁘭عمج,own_site_not_ready,,,,not_needed,used_existing_website,https://edama.jo/
+org_egypt_1e02a0b9,أكاديمية البحث العلمي والتكنولوجيا,discovery,,,,not_attempted,no_viable_query,
+org_i_zmir_valili_i_turkey_4fe054e7,İzmir Valiliği,discovery,,,,not_attempted,no_viable_query,
+org_lebanon_lses_lb_org_4cfc979f,الجمعية اللبنانية للطاقة الشمسية,discovery,,,,not_attempted,no_viable_query,
+org_fabricaid_sal_lebanon_40f2bbab,FabricAID SAL,discovery,,,,not_attempted,no_viable_query,
+org_greece_rc_uoi_gr_a2c9c8d0,Πανεπιστήμιο Ιωαννίνων - Επιτροπή Ερευνών,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rc.uoi.gr/
+org_jordan_youth_innovation_forum_jordan_jyi_686bdbcc,Jordan Youth Innovation Forumالملتقى الأردني للإبداع الشبابي,own_site_not_ready,,,,not_needed,used_existing_website,https://www.jyif.org/
+org_greece_certh_gr_c836bbb0,ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ ΚΑΙ ΤΕΧΝΟΛΟΓΙΚΗΣ ΑΝΑΠΤΥΞΗΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.certh.gr/
+org_center_for_social_innovation_cyprus_csic_cc44ce47,Center for Social Innovation,own_site_not_ready,,,,not_needed,used_existing_website,https://csicy.com/
+org_kinno_innovation_intermediaries_greece_k_a93d9034,KiNNO INNOVATION INTERMEDIARIES ΜΟΝΟΠΡΟΣΩΠΗ Ε.Π.Ε.,own_site_not_ready,,,,not_needed,used_existing_website,https://kinno.eu/
+org_egypt_sekem_com_a41239df,جمعية سيكم للتنمية,own_site_not_ready,,,,not_needed,used_existing_website,https://sekem.com/en/home/
+org_egypt_exactbusiness_com_fcdfc19d,اجزاكت بيزنيس,own_site_not_ready,,,,not_needed,used_existing_website,https://www.exactbusiness.com/
+org_cyprus_39bc710a,Κυπριακό Ινστιτούτο για τη Θάλασσα και τη Ναυτιλία,discovery,,,,not_attempted,no_viable_query,
+org_egypt_egyptianclothingbank_org_846aabfb,بنك الكساء المصرى,own_site_not_ready,,,,not_needed,used_existing_website,https://egyptianclothingbank.org/ar
+org_agence_du_tourisme_de_la_corse_france_vi_eacf1483,Agence du Tourisme de la Corse,own_site_not_ready,,,,not_needed,used_existing_website,https://www.visit-corsica.com/fr/
+org_aix_marseille_universit_france_univ_amu_95a144b0,Aix-Marseille Université,own_site_not_ready,,,,not_needed,used_existing_website,https://www.univ-amu.fr/
+org_agencia_de_estrategia_tur_stica_de_las_i_f3695a39,Agencia de Estrategia Turística de las Islas Baleares (AETIB),discovery,,,,not_attempted,no_viable_query,
+org_idryma_texnologias_kai_erevnas_greece_fo_12b6944d,Idryma Texnologias kai Erevnas,own_site_not_ready,,,,not_needed,used_existing_website,https://www.forth.gr/en/home/
+org_ayuntamiento_de_chiclana_de_la_frontera_c3044520,Ayuntamiento de Chiclana de la Frontera,own_site_not_ready,,,,not_needed,used_existing_website,https://www.chiclana.es/
+org_chambre_de_commerce_et_d_industrie_du_va_f0410c95,Chambre de Commerce et d'Industrie du Var,own_site_not_ready,,,,not_needed,used_existing_website,https://www.var.cci.fr/
+org_universit_de_corse_pascal_paoli_france_u_85de7117,Université de Corse Pascal-Paoli,own_site_not_ready,,,,not_needed,used_existing_website,https://www.universita.corsica/fr/
+org_e_i_ti_m_geri_atri_ekoloji_k_tarim_turi_bd835e3d,"EĞİTİM, GERİATRİ, EKOLOJİK TARIM, TURİZM VAKFI",own_site_not_ready,,,,not_needed,used_existing_website,https://www.eget.org.tr/
+org_greece_certh_gr_fbb6c1e2,Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.certh.gr/
+org_pi_gen_lik_derne_i_turkey_pigenclikderne_24eaa67f,Pi Gençlik Derneği,own_site_not_ready,,,,not_needed,used_existing_website,https://www.pigenclikdernegi.org/tr/ana-sayfa/
+org_greece_yce_gr_91d13550,ΑΜΚΕ ΚΕΝΤΡΟ ΝΕΩΝ ΗΠΕΙΡΟΥ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.yce.gr/
+org_greece_en_uoa_gr_f1bae560,Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών,own_site_not_ready,,,,not_needed,used_existing_website,https://en.uoa.gr/
+org_institut_ru_er_bo_kovi_croatia_irb_hr_be59c0cd,Institut Ruđer Bošković,own_site_not_ready,,,,not_needed,used_existing_website,https://www.irb.hr/
+org_politistiki_kinisi_lemesou_epilogi_cypru_8fcf1810,Politistiki Kinisi Lemesou Epilogi,own_site_not_ready,,,,not_needed,used_existing_website,https://www.epilogi.org/
+org_lebanon_rmf_org_lb_e9359432,مؤسسة رينه معوض,own_site_not_ready,,,,not_needed,used_existing_website,https://linktr.ee/ReneMoawadFoundation?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnTJOE2tba5GMCEjDrzSsIDl4a3Fc9tc4SjcYd4siFLLCEJBD3biSA4hSXH94_aem_iArUJ5u6rluVAydgPXqLsw
+org_jordan_wadi_jordan_org_f5a31d2e,جمعية وادي لتنمية النظم البيئية المستدامة,own_site_not_ready,,,,not_needed,used_existing_website,https://wadi-jordan.org/
+org_lebanon_lri_lb_org_94b5354a,جمعية التحريج في لبنان,own_site_not_ready,,,,not_needed,used_existing_website,https://www.lri-lb.org/
+org_algeria_asal_dz_b46ed3b3,الوكـالة الفضـائية الجـزائرية,own_site_not_ready,,,,not_needed,used_existing_website,https://asal.dz/
+org_r2m_solution_sas_france_r2msolution_com_246b4fc5,R2M Solution SAS,own_site_not_ready,,,,not_needed,used_existing_website,https://www.r2msolution.com/it/
+org_lebanon_facebook_com_360ff1e7,الرابطة الوطنية للثقافة والتنمية,discovery,,,,not_attempted,no_viable_query,
+org_lebanon_pdalebanon_org_0864eed5,جمعية التصميم والتنمية - الفرج,own_site_not_ready,,,,not_needed,used_existing_website,https://pdalebanon.org/
+org_greece_hcmr_gr_0fe13449,ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΘΑΛΑΣΣΙΩΝ ΕΡΕΥΝΩΝ (ΕΛ.ΚΕ.Θ.Ε.),own_site_not_ready,,,,not_needed,used_existing_website,https://www.hcmr.gr/en/
+org_comune_di_genova_italy_smart_comune_geno_ff37bf22,Comune di Genova,own_site_not_ready,,,,not_needed,used_existing_website,https://smart.comune.genova.it/
+org_greece_hcmr_gr_49437d4b,Ελληνικό Κέντρο Θαλασσίων Ερευνών,own_site_not_ready,,,,not_needed,used_existing_website,https://www.hcmr.gr/en/
+org_ett_s_p_a_italy_ettsolutions_com_ea6b1533,ETT S.P.A.,own_site_not_ready,,,,not_needed,used_existing_website,https://ettsolutions.com/
+org_provincia_di_livorno_italy_provincia_liv_5bff57f7,Provincia di Livorno,own_site_not_ready,,,,not_needed,used_existing_website,https://www.provincia.livorno.it/
+org_cyprus_a2a3fae4,Πανεπιστήμιο Κύπρου,discovery,,,,not_attempted,no_viable_query,
+org_uicn_union_internationale_pour_la_conser_7ea89df7,UICN - UNION INTERNATIONALE POUR LA CONSERVATION DE LA NATURE ET DE SES RESSOURCES,discovery,,,,not_attempted,no_viable_query,
+org_institut_national_des_sciences_et_techno_287a91b6,Institut National des Sciences et Technologies de la Mer,own_site_not_ready,,,,not_needed,used_existing_website,https://www.instm.agrinet.tn/
+org_eco_union_spain_ecounion_eu_4ff09a5a,Eco-Union,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ecounion.eu/
+org_fondazione_messina_italy_fdcmessina_org_b32d6162,Fondazione MeSSInA,own_site_not_ready,,,,not_needed,used_existing_website,https://fdcmessina.org/
+org_fundaci_ent_spain_fundacioent_cat_e596b58f,Fundació ENT,own_site_not_ready,,,,not_needed,used_existing_website,https://ent.cat/
+org_greece_noa_gr_55514a1b,Εθνικό Αστεροσκοπείο Αθηνών,own_site_not_ready,,,,not_needed,used_existing_website,https://www.noa.gr/
+org_greece_noa_gr_93740048,ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ του ΕΘΝΙΚΟΥ ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ ΑΘΗΝΩΝ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.noa.gr/
+org_universidad_de_alicante_spain_ua_es_1d414a56,Universidad de Alicante,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ua.es/
+org_agenzijia_dwar_l_energija_u_l_ilma_malta_1aa7f885,Agenzijia dwar l-Energija u l-Ilma,own_site_not_ready,,,,not_needed,used_existing_website,https://www.energywateragency.gov.mt/
+org_association_la_saison_bleue_tunisia_lasa_f0f3d54d,Association La Saison Bleue,own_site_not_ready,,,,not_needed,used_existing_website,https://lasaisonbleue.com/
+org_op_tina_nik_i_montenegro_b1580d02,Opština Nikšić,discovery,,,,not_attempted,no_viable_query,
+org_tunisia_utap_org_tn_382e47af,الاتحاد التونسي للفلاحة و الصيد البحري,own_site_not_ready,,,,not_needed,used_existing_website,https://www.utap.org.tn/language/en/
+org_greece_n_skiathos_gr_a7aa9609,Δήμος Σκιάθου,own_site_not_ready,,,,not_needed,used_existing_website,https://www.n-skiathos.gr/el/
+org_zebbug_local_council_gozo_malta_zebbuggo_c66ebe40,Zebbug Local Council (Gozo),own_site_not_ready,,,,not_needed,used_existing_website,https://www.issaleo.com/blogs/fashion-art/classic-rebels-never-die
+org_op_tina_budva_montenegro_cd7780a2,Opština Budva,discovery,,,,not_attempted,no_viable_query,
+org_lebanon_tatweerbaladna_org_606d92be,طوير بلدن ا,discovery,,,,not_attempted,no_viable_query,
+org_ministria_e_turizmit_dhe_mjedisit_albani_82500bbe,Ministria e Turizmit dhe Mjedisit,discovery,,,,not_attempted,no_viable_query,
+org_greece_e05c849f,Δήμος Ιωαννιτών,discovery,,,,not_attempted,no_viable_query,
+org_d_partement_du_var_france_var_fr_1a744b92,Département du Var,own_site_not_ready,,,,not_needed,used_existing_website,https://www.var.fr/
+org_grad_split_croatia_split_hr_071b53a0,Grad Split,own_site_not_ready,,,,not_needed,used_existing_website,https://split.hr/
+org_greece_pta_gov_gr_44079722,Περιφερειακό Ταμείο Ανάπτυξης Ανατολικής Μακεδονίας και Θράκης,own_site_not_ready,,,,not_needed,used_existing_website,https://pta.gov.gr/el/home-temp/
+org_egypt_aast_edu_891d5ab0,الأكاديمية العربية للعلوم والتكنولوجيا والنقل البحري,own_site_not_ready,,,,not_needed,used_existing_website,https://aast.edu/en/index.php
+org_universidad_de_la_laguna_spain_ull_es_5ca99e7a,Universidad de La Laguna,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ull.es/
+org_mre_a_znanja_d_o_o_croatia_06c7f3fb,Mreža znanja d.o.o.,discovery,,,,not_attempted,no_viable_query,
+org_auleda_agjencia_e_zhvillimit_ekonomik_lo_cf5a32d1,AULEDA – Agjencia e Zhvillimit Ekonomik Lokal,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auleda.org.al/
+org_greece_kito_gr_6615581c,ΚΗΤΩ ΙΧΘΥΟΚΑΛΛΙΕΡΓΕΙΕΣ ΛΕΡΟΥ Α.Ε.,own_site_not_ready,,,,not_needed,used_existing_website,https://kito.gr/
+org_rea_metropolitana_de_barcelona_spain_am_6341912d,Àrea Metropolitana de Barcelona,own_site_not_ready,,,,not_needed,used_existing_website,https://www.amb.cat/s/home.html
+org_consorci_de_la_ribera_spain_consorcidela_608926f0,Consorci de la Ribera,own_site_not_ready,,,,not_needed,used_existing_website,https://www.consorcidelaribera.com/
+org_c_mara_italiana_barcelona_spain_camerait_040cf3da,Cámara Italiana Barcelona,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cameraitalianabarcelona.com/
+org_jordan_rscn_org_jo_9a0e0c31,الجمعية الملكية لحماية الطبيعة,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rscn.org.jo/
+org_greece_pde_gov_gr_75067404,ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://pde.gov.gr/el/
+org_oxfam_italia_onlus_associazione_italy_ox_920b8347,Oxfam Italia Onlus associazione,own_site_not_ready,,,,not_needed,used_existing_website,https://www.oxfamitalia.org/
+org_ambiente_italia_srl_italy_ambienteitalia_2c7d2eff,Ambiente Italia Srl.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ambienteitalia.it/en/
+org_regione_toscana_italy_regione_toscana_it_d75bf671,Regione Toscana,own_site_not_ready,,,,not_needed,used_existing_website,https://www.regione.toscana.it/
+org_greece_ped_in_gr_4da0b9e9,Περιφερειακή Ένωση Δήμων Ιονίων Νήσων,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ped-in.gr/
+org_greece_dfa1eac8,Περιφέρεια Πελοποννήσου,discovery,,,,not_attempted,no_viable_query,
+org_turismo_de_portugal_portugal_turismodepo_c8e34244,Turismo de Portugal,own_site_not_ready,,,,not_needed,used_existing_website,https://www.turismodeportugal.pt/pt/Paginas/homepage.aspx
+org_fit_consulting_s_r_l_italy_fitconsulting_7500f674,FIT Consulting s.r.l.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.fitconsulting.it/
+org_port_de_plaisance_de_saint_florent_franc_0ca678b3,Port De Plaisance De Saint Florent,own_site_not_ready,,,,not_needed,used_existing_website,https://www.portsaintflorent.com/en/
+org_egypt_niof_eg_com_112e1be6,المعهد القومي لعلوم البحار والمصايد,own_site_not_ready,,,,not_needed,used_existing_website,https://niof-eg.com/
+org_mersin_b_y_k_ehir_belediyesi_turkey_mers_d523d39c,Mersin Büyükşehir Belediyesi,discovery,,,,not_attempted,no_viable_query,
+org_t_greece_kean_gr_173c0789,ΚΥΤTΑΡΟ ΕΝΑΛΛΑΚΤΙΚΩΝ ΑΝΑΖΗΤΗΣΕΩΝ ΝΕΩΝ,own_site_not_ready,,,,not_needed,used_existing_website,https://kean.gr/
+org_office_d_equipement_hydraulique_de_corse_26bd262d,Office d’Equipement Hydraulique de Corse,own_site_not_ready,,,,not_needed,used_existing_website,https://www.oehc.corsica/
+org_greece_eurotraining_gr_a0957952,ΕΚΠΑΙΔΕΥΤΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΓΙΟΥΡΟΤΡΕΙΝΙΝΓΚ,own_site_not_ready,,,,not_needed,used_existing_website,https://eurotraining.gr/
+org_fundaci_privada_knowledge_innovation_mar_5668e30c,Fundació Privada Knowledge Innovation Market BCN,own_site_not_ready,,,,not_needed,used_existing_website,https://kimglobal.com/
+org_centar_za_turisti_ki_razvoj_i_saradnju_m_6b073453,Centar za turistički razvoj i saradnju,discovery,,,,not_attempted,no_viable_query,
+org_universit_des_sciences_et_technologie_mo_9519f2d5,Université des sciences et technologie Mohamed Boudiaf -USTO Oran,own_site_not_ready,,,,not_needed,used_existing_website,https://www.univ-usto.dz/en/
+org_centar_za_regionalne_aktivnosti_programa_149c8366,Centar za regionalne aktivnosti Programa prioritetnih akcija,own_site_not_ready,,,,not_needed,used_existing_website,https://paprac.org/
+org_caritas_jordan_jordan_caritasjordan_org_af9cac1d,كاريتاس الأردن Caritas Jordan,own_site_not_ready,,,,not_needed,used_existing_website,https://www.caritasjordan.org.jo/
+org_zavod_za_trajnostni_razvoj_slovenia_isd_a6d81e12,Zavod za trajnostni razvoj,own_site_not_ready,,,,not_needed,used_existing_website,https://www.isd.si/
+org_parkovi_d_o_o_croatia_parkovi_eu_6ab04d37,Parkovi d.o.o.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.parkovi.eu/
+org_cyprus_ntb_org_cy_bce79841,ΕΤΑΙΡΕΙΑ ΤΟΥΡΙΣΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΠΡΟΒΟΛΗΣ ΛΕΥΚΩΣΙΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://ntb.org.cy/el/
+org_bulgaria_reap_bg_eu_03556a01,Регионална енергийна агенция - Пазарджик,own_site_not_ready,,,,not_needed,used_existing_website,https://reap-bg.eu/
+org_cyprus_eeel_org_cy_4c545e31,Εφορεία Ελληνικών Εκπαιδευτηρίων Λευκωσίας,own_site_not_ready,,,,not_needed,used_existing_website,https://www.eeel.org.cy/
+org_aciisi_agencia_canaria_de_investigaci_n_81fed515,"ACIISI - Agencia Canaria de Investigación,",discovery,,,,not_attempted,no_viable_query,
+org_r_gion_autonome_friuli_venezia_giulia_d_5a99a9a0,Région autonome Friuli Venezia Giulia - Département de la culture et des sports,discovery,,,,not_attempted,no_viable_query,
+org_sarga_gouvernement_d_aragon_spain_ec224d03,SARGA - Gouvernement d'Aragon,discovery,,,,not_attempted,no_viable_query,
+org_agjensia_rajonale_e_zhvillimit_tirane_ar_374bb7f6,Agjensia Rajonale e Zhvillimit Tirane (ARZH),own_site_not_ready,,,,not_needed,used_existing_website,https://rdatirana.al/
+org_associazione_distretto_produttivo_puglia_8f3866fe,ASSOCIAZIONE DISTRETTO PRODUTTIVO PUGLIA CREATIVA,discovery,,,,not_attempted,no_viable_query,
+org_chambre_de_commerce_du_montenegro_monten_35d2f481,Chambre de commerce du Montenegro,discovery,,,,not_attempted,no_viable_query,
+org_lebanon_cnrs_edu_lb_e860e467,المجلس الوطني للبحوث العلمية,own_site_not_ready,,,,not_needed,used_existing_website,https://cnrs.edu.lb/
+org_lebanon_jezzine_union_com_4992c6bc,إتحاد بلديّات جزين,own_site_not_ready,,,,not_needed,used_existing_website,https://www.jezzine-union.com/
+org_plan_bleu_pour_l_environnement_et_le_d_v_2715b09e,Plan Bleu pour l’Environnement et le Développement en Méditerranée,own_site_not_ready,,,,not_needed,used_existing_website,https://planbleu.org/
+org_greece_aenaosthalassa_com_3276f0c0,Αέναος Θάλασσα,own_site_not_ready,,,,not_needed,used_existing_website,https://aenaosthalassa.com/
+org_terre_di_siena_lab_italy_4acf097a,Terre di Siena Lab,discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_veda_bg_eu_83e50d8a,Агенция за икономическо развитие - Варна,own_site_not_ready,,,,not_needed,used_existing_website,https://www.veda-bg.eu/
+org_municipality_of_ohrid_north_macedonia_oh_2bbe90b2,MUNICIPALITY OF OHRID,own_site_not_ready,,,,not_needed,used_existing_website,https://ohrid.gov.mk/
+org_r_gion_de_l_ombrie_direction_r_gionale_a_0b745e62,"Région de l'Ombrie - Direction régionale Agriculture, environnement, énergie, culture, divertissement et culture",discovery,,,,not_attempted,no_viable_query,
+org_jordan_johud_org_jo_497f08b0,الصندوق الأردني الهاشمي للتنمية البشرية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.johud.org.jo/
+org_c_mara_de_comercio_e_industria_de_terras_2f4c039f,Cámara de Comercio e Industria de Terrasa,discovery,,,,not_attempted,no_viable_query,
+org_universit_des_etudes_de_padoue_interuniv_695c7ff6,Université des Etudes de Padoue - Interuniversity research centre of public economics CRIEP,discovery,,,,not_attempted,no_viable_query,
+org_chambre_officielle_de_commerce_d_industr_ae7cc496,"Chambre Officielle de Commerce, d'Industrie et de Navégation de Seville",discovery,,,,not_attempted,no_viable_query,
+org_mestna_ob_ina_nova_gorica_slovenia_24b4d2cb,MESTNA OBČINA NOVA GORICA,discovery,,,,not_attempted,no_viable_query,
+org_agence_de_d_veloppement_conomique_r_gion_7307214f,Agence de développement économique régional de Sarajevo SERDA,discovery,,,,not_attempted,no_viable_query,
+org_prism_social_enterprise_srl_italy_700272f8,PRISM Social Enterprise srl,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_n_canaria_para_la_reforestaci_n_c68b7788,Fundación Canaria para la Reforestación,discovery,,,,not_attempted,no_viable_query,
+org_viceconsejer_a_de_lucha_contra_el_cambio_12960b86,Viceconsejería de Lucha contra el Cambio,discovery,,,,not_attempted,no_viable_query,
+org_jordan_ardd_jo_org_c44e00b7,النهضة العربية للديمقراطية و التنمية,own_site_not_ready,,,,not_needed,used_existing_website,https://ardd-jo.org/
+org_fundaci_universit_ria_balmes_spain_94c623ce,Fundació Universitària Balmes,discovery,,,,not_attempted,no_viable_query,
+org_wwf_m_diterran_e_italy_c1ed6fc3,WWF Méditerranée,discovery,,,,not_attempted,no_viable_query,
+org_d_putation_de_g_rone_spain_5ae6c35d,DÉPUTATION DE GÉRONE,discovery,,,,not_attempted,no_viable_query,
+org_regione_piemonte_settore_sviluppo_energe_3d153630,REGIONE PIEMONTE - Settore Sviluppo Energetico Sostenibile,discovery,,,,not_attempted,no_viable_query,
+org_compagnia_di_san_paolo_italy_63383705,COMPAGNIA DI SAN PAOLO,discovery,,,,not_attempted,no_viable_query,
+org_agence_de_l_energie_et_d_veloppement_dur_b7d5d68a,AGENCE DE L'ENERGIE ET DÉVELOPPEMENT DURABLE,discovery,,,,not_attempted,no_viable_query,
+org_federaci_n_andaluza_de_municipios_y_prov_b8fcc559,Federación Andaluza de Municipios y Provincias,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_camerino_cole_de_bioscience_eef2453f,Université de Camerino - École de biosciences et de médecine vétérinaire,discovery,,,,not_attempted,no_viable_query,
+org_federaci_n_valenciana_de_municipios_y_pr_7be22d7b,Federación Valenciana de Municipios y Provincias,discovery,,,,not_attempted,no_viable_query,
+org_fund_de_la_com_valenciana_para_la_invest_51cb1114,"Fund de la Com. Valenciana para la investigación, promoción y estudios comerciales de Valenciaport",discovery,,,,not_attempted,no_viable_query,
+org_azienda_autonoma_di_soggiorno_e_turismo_713b831d,Azienda Autonoma di Soggiorno e Turismo di Termoli,discovery,,,,not_attempted,no_viable_query,
+org_agenzia_per_l_energia_del_friuli_venezia_32f4a74a,Agenzia per l’energia del Friuli Venezia Giulia,discovery,,,,not_attempted,no_viable_query,
+org_ag_ncia_de_energia_e_ambiente_da_arr_bid_b56fe163,Agência de Energia e Ambiente da Arrábida,discovery,,,,not_attempted,no_viable_query,
+org_jordan_rss_jo_f550bf1b,الجمعية العلمية الملكية/المركز الوطني لبحوث الطاقة,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rss.jo/Default/En
+org_citt_metropolitana_di_bologna_italy_73a35733,Città Metropolitana di Bologna,discovery,,,,not_attempted,no_viable_query,
+org_enea_agence_nationale_italienne_pour_les_cd7f1bb5,"ENEA - Agence Nationale Italienne pour les Nouvelles Technologies, l'Energie et le Développement Economique Durable (Roma)",discovery,,,,not_attempted,no_viable_query,
+org_federalimentare_servizi_srl_italy_d62e5398,FEDERALIMENTARE SERVIZI SRL,discovery,,,,not_attempted,no_viable_query,
+org_energy_agency_of_savinjska_ale_ka_and_ko_eada00b5,"Energy Agency of Savinjska, Šaleška and Koroška Region",discovery,,,,not_attempted,no_viable_query,
+org_greece_52682d66,ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ,discovery,,,,not_attempted,no_viable_query,
+org_greece_d43a5dd5,ΕΠΙΜΕΛΗΤΗΡΙΟ ΗΛΕΙΑΣ,discovery,,,,not_attempted,no_viable_query,
+org_e_greece_certh_gr_4e4be7be,Eθνικό Κέντρο Έρευνας και ΤεχνολογικήςΑνάπτυξης (Πτολεμαΐδα),own_site_not_ready,,,,not_needed,used_existing_website,https://www.certh.gr/
+org_viceconsejer_a_de_acci_n_exterior_del_go_e8706f0b,Viceconsejería de Acción Exterior del Gobierno de,discovery,,,,not_attempted,no_viable_query,
+org_universit_ca_foscari_venise_d_partement_a892c412,Universitè Ca' Foscari Venise - Département d'économie,discovery,,,,not_attempted,no_viable_query,
+org_associazione_nazionale_citt_dell_olio_it_83d4578c,Associazione Nazionale Città dell’Olio,discovery,,,,not_attempted,no_viable_query,
+org_instituto_valenciano_de_la_edificaci_n_f_21e94cc6,"Instituto Valenciano de la Edificación, Fundación de la Comunidad Valenciana",discovery,,,,not_attempted,no_viable_query,
+org_generalitat_de_catalogne_direction_g_n_r_d7f33513,Generalitat de Catalogne - Direction générale du tourisme,discovery,,,,not_attempted,no_viable_query,
+org_centre_euromediterranean_pou_le_d_velopp_c88af2d5,Centre EuroMediterranean pou le développement durable,discovery,,,,not_attempted,no_viable_query,
+org_arpa_veneto_agence_r_gionale_pour_la_pro_516a2dc9,ARPA Veneto - Agence régionale pour la protection de l'environnement dans la région du Veneto,discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_namrb_org_b893377b,Национално Сдружение на Общините в Република България,own_site_not_ready,,,,not_needed,used_existing_website,https://www.namrb.org/bg
+org_universit_de_s_ville_energy_engineering_bd26ae06,Université de Séville - Energy engineering department,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_vora_portugal_1082b18a,Université de Évora,discovery,,,,not_attempted,no_viable_query,
+org_consorzio_arca_italy_6b97b79f,Consorzio Arca,discovery,,,,not_attempted,no_viable_query,
+org_in_titut_za_zdravje_in_okolje_slovenia_23fd114a,Inštitut za zdravje in okolje,discovery,,,,not_attempted,no_viable_query,
+org_udru_enje_centar_za_ekologiju_okolinu_i_4a7d738e,"UDRUŽENJE CENTAR ZA EKOLOGIJU, OKOLINU I RESURSE",discovery,,,,not_attempted,no_viable_query,
+org_agence_regionale_de_l_energie_et_du_clim_2c889e72,AGENCE REGIONALE DE L'ENERGIE ET DU CLIMAT OCCITANIE,discovery,,,,not_attempted,no_viable_query,
+org_conference_of_peripheral_maritime_region_edb26745,Conference of Peripheral Maritime Regions,own_site_not_ready,,,,not_needed,used_existing_website,https://cpmr.org/
+org_lokalna_energetska_agencija_za_pomurje_s_065ec46d,Lokalna energetska agencija za Pomurje,discovery,,,,not_attempted,no_viable_query,
+org_auvergne_rh_ne_alpes_nergie_environnemen_29998377,AUVERGNE-RHÔNE-ALPES ÉNERGIE ENVIRONNEMENT (AURA-EE),discovery,,,,not_attempted,no_viable_query,
+org_anatoliki_s_a_organisation_pour_le_d_vel_e2318672,ANATOLIKI S.A. - ORGANISATION POUR LE DÉVELOPPEMENT LOCAL,discovery,,,,not_attempted,no_viable_query,
+org_bureau_du_premier_ministre_du_gouverneme_4daad546,BUREAU DU PREMIER MINISTRE DU GOUVERNEMENT DU CANTON HERZEGOVINA-NERETVA,discovery,,,,not_attempted,no_viable_query,
+org_regionalna_razvojna_agencija_dubrova_ko_65e09222,REGIONALNA RAZVOJNA AGENCIJA DUBROVAČKO-NERETVANSKE ŽUPANIJE - DUNEA,discovery,,,,not_attempted,no_viable_query,
+org_op_ina_neum_bosnia_and_herzegovina_11e61b80,Općina Neum,discovery,,,,not_attempted,no_viable_query,
+org_coop_rative_pour_le_d_veloppement_de_l_e_dd81db5d,Coopérative pour le développement de l’emploi dans les métiers du patrimoine - PETRA PATRIMONIA CORSICA,discovery,,,,not_attempted,no_viable_query,
+org_centar_za_energiju_energijsku_efikasnost_f990fa10,"Centar za energiju, energijsku efikasnost i okolinu",discovery,,,,not_attempted,no_viable_query,
+org_op_tina_ulcinj_montenegro_3cb2147a,Opština Ulcinj,discovery,,,,not_attempted,no_viable_query,
+org_energetska_agencija_za_podravje_zavod_za_f1f56599,Energetska agencija za Podravje – zavod za trajnostno rabo energije,discovery,,,,not_attempted,no_viable_query,
+org_centre_r_gional_d_innovation_et_de_trans_3e32e3bb,Centre Régional d'Innovation et de Transfert de Technologies Agroalimentaires,discovery,,,,not_attempted,no_viable_query,
+org_agence_locale_de_l_energie_de_gorica_gol_96f82c05,Agence Locale de l'Energie de Gorica - GOLEA,discovery,,,,not_attempted,no_viable_query,
+org_administration_de_la_s_curit_alimentaire_53687d75,"Administration de la sécurité alimentaire, des affaires vétérinaires et phytosanitaires",discovery,,,,not_attempted,no_viable_query,
+org_universit_de_mostar_facult_d_agriculture_8cf7187a,Université de Mostar - Faculté d'Agriculture et de technologie alimentaire,discovery,,,,not_attempted,no_viable_query,
+org_federation_of_hellenic_food_industries_g_cc847847,FEDERATION OF HELLENIC FOOD INDUSTRIES,discovery,,,,not_attempted,no_viable_query,
+org_comitat_de_split_dalmatie_croatia_0cecf974,Comitat de Split-Dalmatie,discovery,,,,not_attempted,no_viable_query,
+org_construction_cluster_of_slovenia_economi_be935656,"CONSTRUCTION CLUSTER OF SLOVENIA, economic interest grouping",discovery,,,,not_attempted,no_viable_query,
+org_instituto_canario_de_estad_stica_istac_s_18304dd7,Instituto Canario de Estadística (ISTAC),discovery,,,,not_attempted,no_viable_query,
+org_association_r_gionale_du_gouvernement_lo_7e399ac5,ASSOCIATION RÉGIONALE DU GOUVERNEMENT LOCAL DE LA MACÉDOINE OCCIDENTALE,discovery,,,,not_attempted,no_viable_query,
+org_cabildo_de_gran_canaria_jard_n_bot_nico_73bf9751,CABILDO DE GRAN CANARIA-Jardín Botánico,discovery,,,,not_attempted,no_viable_query,
+org_consortium_de_la_ribera_spain_8c28af30,CONSORTIUM DE LA RIBERA,discovery,,,,not_attempted,no_viable_query,
+org_cabildo_de_gran_canaria_spain_ca87817f,Cabildo de Gran Canaria,discovery,,,,not_attempted,no_viable_query,
+org_comune_di_narni_italy_24b2d9c7,Comune di Narni,discovery,,,,not_attempted,no_viable_query,
+org_sviluppumbria_agence_regional_du_develop_7e0a6845,SVILUPPUMBRIA -AGENCE REGIONAL DU DEVELOPPEMENT ECONOMIQUE,discovery,,,,not_attempted,no_viable_query,
+org_comt_de_dubrovnik_neretva_d_partement_de_0149f1ac,Comté de Dubrovnik-Neretva - Département de l'économie et des affaires maritimes,discovery,,,,not_attempted,no_viable_query,
+org_minist_re_du_d_veloppement_economique_et_a4cec494,Ministère du Développement Economique et du Tourisme du Montenegro,discovery,,,,not_attempted,no_viable_query,
+org_agence_de_d_veloppement_du_sud_de_l_g_e_8cf63f07,Agence de développement du Sud de l'Égée Région - Energiaki S.A.,discovery,,,,not_attempted,no_viable_query,
+org_egtc_efxini_poli_greece_a98a1632,EGTC EFXINI POLI,discovery,,,,not_attempted,no_viable_query,
+org_valdanos_montenegro_2878bbec,VALDANOS,discovery,,,,not_attempted,no_viable_query,
+org_prisme_cae_scic_france_f8339524,Prisme CAE SCIC,discovery,,,,not_attempted,no_viable_query,
+org_agence_de_d_veloppement_zepce_ltd_bosnia_4cca56b9,Agence de développement Zepce Ltd,discovery,,,,not_attempted,no_viable_query,
+org_universit_aristote_de_thessalonique_cole_4110dfef,Université Aristote de Thessalonique - École de physique,discovery,,,,not_attempted,no_viable_query,
+org_creative_thinking_development_greece_6326a164,CREATIVE THINKING DEVELOPMENT,discovery,,,,not_attempted,no_viable_query,
+org_city_of_tuzla_bosnia_and_herzegovina_5fcaf799,City of Tuzla,discovery,,,,not_attempted,no_viable_query,
+org_greece_ntua_gr_b4a8b024,ΕΘΝΙΚΟ ΜΕΤΣΟΒΕΙΟ ΠΟΛΥΤΕΧΝΕΙΟ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ntua.gr/el/
+org_regionalna_energetska_agencija_sjever_cr_2d03cb2f,Regionalna Energetska Agencija Sjever,discovery,,,,not_attempted,no_viable_query,
+org_gal_tirreno_eolie_scarl_italy_356fdfb2,GAL TIRRENO EOLIE SCARL,discovery,,,,not_attempted,no_viable_query,
+org_javno_preduze_e_bit_centar_d_o_o_u_tuzli_5e643e75,Javno preduzeće “BIT Centar” d.o.o. u Tuzli,discovery,,,,not_attempted,no_viable_query,
+org_grad_sarajevo_bosnia_and_herzegovina_0f8461b6,Grad Sarajevo,discovery,,,,not_attempted,no_viable_query,
+org_certh_centre_de_recherche_et_de_technolo_ec7b909c,CERTH - Centre de Recherche et de Technologie Hellas (Ptolemais),discovery,,,,not_attempted,no_viable_query,
+org_gruppo_di_azione_locale_baldo_lessinia_i_93ffb981,Gruppo di Azione Locale Baldo-Lessinia,discovery,,,,not_attempted,no_viable_query,
+org_make_it_better_associa_o_para_a_inova_o_4d3c2000,"Make it Better, Associação para a Inovação e Economia Social",discovery,,,,not_attempted,no_viable_query,
+org_agence_de_d_veloppement_du_bergued_spain_d931363d,Agence de développement Du Berguedà,discovery,,,,not_attempted,no_viable_query,
+org_consortium_oltrep_mantovano_italy_2197eae4,CONSORTIUM OLTREPÓ MANTOVANO,discovery,,,,not_attempted,no_viable_query,
+org_syndicat_mixte_canig_grand_site_france_ea290d82,Syndicat Mixte CANIGÓ Grand Site,discovery,,,,not_attempted,no_viable_query,
+org_javna_ustanova_rera_s_d_za_koordinaciju_345125f8,Javna ustanova RERA S.D za koordinaciju i razvoj Splitsko-dalmatinske županije,discovery,,,,not_attempted,no_viable_query,
+org_commonspace_greece_commonspace_gr_e4ea511f,Συνεταιρισμος Εργαζομενων Commonspace,own_site_not_ready,,,,not_needed,used_existing_website,https://www.commonspace.gr/
+org_javne_slu_be_ptuj_d_o_o_slovenia_js_ptuj_df029eed,Javne službe Ptuj d.o.o.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.js-ptuj.si/
+org_ambiente_italia_srl_italy_be71af68,Ambiente Italia Srl.,discovery,,,,not_attempted,no_viable_query,
+org_turisti_ka_organzacija_podgorica_montene_3ac2f259,Turistička organzacija Podgorica,discovery,,,,not_attempted,no_viable_query,
+org_greece_dc1a075f,Πιερική Αναπτυξιακή Α.Ε.-Ο.Τ.Α.,discovery,,,,not_attempted,no_viable_query,
+org_regionalni_centar_za_informisanje_i_obra_4e79723a,Regionalni centar za informisanje i obrazovanje iz održivog razvoja iz Jugoistočne Evrope,discovery,,,,not_attempted,no_viable_query,
+org_lokalna_energetska_agencija_gorenjske_sl_0e307afe,Lokalna energetska agencija Gorenjske,discovery,,,,not_attempted,no_viable_query,
+org_service_hydrographique_et_oc_anographiqu_9c139ca5,Service hydrographique et océanographique de la Marine,discovery,,,,not_attempted,no_viable_query,
+org_institut_pour_l_innovation_et_le_d_velop_614426df,Institut pour l'innovation et le développement de l'Université de Ljubljana,discovery,,,,not_attempted,no_viable_query,
+org_instituto_de_astrof_sica_de_canarias_spa_a2ac5b91,Instituto de Astrofísica de Canarias,discovery,,,,not_attempted,no_viable_query,
+org_jard_n_bot_nico_canario_viera_y_clavijo_547e8d50,Jardín Botánico Canario 'Viera y Clavijo'-Unidad,discovery,,,,not_attempted,no_viable_query,
+org_universidade_nova_de_lisboa_faculdade_de_d46f34e6,Universidade NOVA de Lisboa - Faculdade de Ciências e Tecnologia,discovery,,,,not_attempted,no_viable_query,
+org_centro_tecnol_gico_das_ind_strias_t_xtil_0f1c9d78,Centro Tecnológico das Indústrias Têxtil e do Vestuário de Portugal,own_site_not_ready,,,,not_needed,used_existing_website,https://www.citeve.pt/
+org_universit_degli_studi_di_bergamo_italy_u_b2901ab5,Università degli studi di Bergamo,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unibg.it/
+org_istituto_per_le_risorse_biologiche_e_le_486e9fb3,Istituto per le Risorse Biologiche e le Biotecnologie Marine- Consiglio Nazionale delle Ricerche,discovery,,,,not_attempted,no_viable_query,
+org_consejo_superior_de_investigaciones_cien_e6a80521,Consejo Superior de Investigaciones Cientificas - Instituto Geologico y Minero de España,own_site_not_ready,,,,not_needed,used_existing_website,https://www.igme.es/
+org_shoqata_e_kerkimeve_urbane_albania_uri_o_6f14d845,Shoqata e Kerkimeve Urbane,own_site_not_ready,,,,not_needed,used_existing_website,https://uri.org.al/
+org_comune_di_monfalcone_italy_comune_monfal_ff7eb8a9,Comune di Monfalcone,own_site_not_ready,,,,not_needed,used_existing_website,https://www.comune.monfalcone.go.it/
+org_catalan_fashion_cluster_spain_modacc_cat_061c09a0,Catalan Fashion Cluster,own_site_not_ready,,,,not_needed,used_existing_website,https://www.modacc.cat/
+org_universit_degli_studi_di_siena_italy_en_b7264e25,Università degli studi di Siena,own_site_not_ready,,,,not_needed,used_existing_website,https://en.unisi.it/
+org_universit_degli_studi_di_firenze_diparti_f7f55bd5,Università degli Studi di Firenze - Dipartimento di Architettura,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unifi.it/
+org_eticas_research_and_consulting_s_l_spain_e051b762,Eticas Research and Consulting S.L,own_site_not_ready,,,,not_needed,used_existing_website,https://www.eticas.ai/
+org_consejer_a_de_infraestructuras_transport_825f06ba,"Consejería de Infraestructuras, Transporte y Vivienda",own_site_not_ready,,,,not_needed,used_existing_website,https://www.juntaex.es/
+org_asociaci_n_centro_tecnol_gico_naval_spai_ab897cf0,Asociación Centro Tecnológico Naval,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ctnaval.com/
+org_fundaci_universit_ria_balmes_spain_betat_a15623a7,Fundació Universitària Balmes,own_site_not_ready,,,,not_needed,used_existing_website,https://betatechcenter.com/
+org_sapienza_universit_di_roma_italy_uniroma_a07a1b24,Sapienza Università di Roma,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uniroma1.it/it/
+org_universit_degli_studi_di_urbino_carlo_bo_99bba48d,"Università degli Studi di Urbino ""Carlo Bo""",own_site_not_ready,,,,not_needed,used_existing_website,https://www.uniurb.it/
+org_universit_degli_studi_di_roma_la_sapienz_fb79e84e,Università degli Studi di Roma - La Sapienza,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uniroma1.it/it/
+org_universitat_jaume_i_de_castell_spain_uji_4700b716,UNIVERSITAT JAUME I DE CASTELLÓ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uji.es/
+org_institut_de_recherche_pour_le_d_veloppem_1e167dfa,Institut de Recherche pour le Développement,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ird.fr/
+org_institut_fran_ais_de_recherche_pour_l_ex_9dc130e2,Institut français de recherche pour l’exploitation de la mer,discovery,,,,not_attempted,no_viable_query,
+org_e_zavod_slovenia_ezavod_si_4c3bd612,E-zavod,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ezavod.si/
+org_universiteti_bujq_sor_i_tiran_s_albania_7f5672c9,Universiteti bujqësor i Tiranës,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_institut_de_recerca_en_energia_d_61a45224,Fundació Institut de Recerca en Energia de Catalunya,own_site_not_ready,,,,not_needed,used_existing_website,https://www.irec.cat/
+org_fondazione_per_la_ricerca_e_l_innovazion_7a77a150,Fondazione per la Ricerca e l’Innovazione,own_site_not_ready,,,,not_needed,used_existing_website,https://fondazionericercaunifi.it/
+org_alma_mater_studiorum_universit_di_bologn_361c785e,Alma Mater Studiorum - Università di Bologna,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unibo.it/it
+org_alma_master_studiorum_universita_di_bolo_028c244d,Alma Master Studiorum-Universita di Bologna,own_site_not_ready,,,,not_needed,used_existing_website,https://www.unibo.it/it
+org_ag_ncia_d_estrategia_turistica_de_les_il_96499613,Agència d'Estrategia Turistica de les Illes Balears,own_site_not_ready,,,,not_needed,used_existing_website,https://Illesbalears.travel/
+org_ayuntamiento_de_granada_spain_granada_or_cb831683,Ayuntamiento de Granada,own_site_not_ready,,,,not_needed,used_existing_website,https://www.granada.org/
+org_enea_agenzia_nazionale_per_le_nuove_tecn_2090bb9e,"ENEA Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile",own_site_not_ready,,,,not_needed,used_existing_website,https://www.enea.it/it/
+org_greece_io_hcmr_gr_6de8a014,ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΘΑΛΑΣΣΙΩΝ ΕΡΕΥΝΩΝ (ΕΛ.ΚΕ.Θ.Ε.),own_site_not_ready,,,,not_needed,used_existing_website,https://io.hcmr.gr/
+org_greece_tuc_gr_5c51128c,Πολυτεχνείο Κρήτης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.tuc.gr/el/archi
+org_greece_tuc_gr_cd41dccb,ΠΟΛΥΤΕΧΝΕΙΟ ΚΡΗΤΗΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.tuc.gr/el/archi
+org_azienda_ospedaliera_universitaria_meyer_2aead2b5,Azienda Ospedaliera Universitaria “Meyer” Istituto di Ricovero e Cura a Carattere Scientifico,discovery,,,,not_attempted,no_viable_query,
+org_pole_mondial_de_competitivite_eau_france_6d6533bf,Pole Mondial De Competitivite Eau,own_site_not_ready,,,,not_needed,used_existing_website,https://aqua-valley.com/
+org_infrastrutture_recupero_energia_agenzia_2769bedd,Infrastrutture Recupero Energia Agenzia Regionale Ligure - IRE spa,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ireliguria.it/
+org_universite_claude_bernard_lyon_1_france_f92790ca,Universite Claude Bernard Lyon 1,own_site_not_ready,,,,not_needed,used_existing_website,https://www.univ-lyon1.fr/
+org_institut_catala_d_energia_spain_icaen_ge_99f894ae,INSTITUT CATALA D'ENERGIA,own_site_not_ready,,,,not_needed,used_existing_website,https://icaen.gencat.cat/ca/inici/
+org_comunidad_de_regantes_del_campo_de_carta_51a42c23,Comunidad de Regantes del Campo de Cartagena,own_site_not_ready,,,,not_needed,used_existing_website,https://www.crcc.es/
+org_deco_proteste_lda_portugal_deco_proteste_fa8c82f3,Deco Proteste Lda,own_site_not_ready,,,,not_needed,used_existing_website,https://www.deco.proteste.pt/
+org_servei_de_salut_de_les_illes_balears_spa_86658002,Servei de Salut de les Illes Balears,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ibsalut.es/
+org_universit_degli_studi_g_d_annunzio_di_ch_5c0e0ad1,"Università degli studi ""G.d’Annunzio"" di Chieti e Pescara",own_site_not_ready,,,,not_needed,used_existing_website,https://en.unich.it/
+org_azolla_efkt_sl_spain_azollaprojects_com_fe5e224c,Azolla EFKT SL,own_site_not_ready,,,,not_needed,used_existing_website,https://www.azollaprojects.com/
+org_icu_istituto_per_la_cooperazione_univers_6fb2163d,ICU - Istituto per la Cooperazione Universitaria,own_site_not_ready,,,,not_needed,used_existing_website,https://www.icu.it/
+org_institut_menorqu_d_estudis_observatori_s_92401cba,Institut Menorquí d'Estudis-Observatori Socioambiental de Menorca,own_site_not_ready,,,,not_needed,used_existing_website,https://www.obsam.cat/
+org_associazione_fabbrica_intelligente_lomba_c2f51c56,Associazione Fabbrica Intelligente Lombardia,own_site_not_ready,,,,not_needed,used_existing_website,https://www.afil.it/
+org_universit_degli_studi_roma_tre_dipartime_055f0391,Università degli Studi Roma Tre - Dipartimento di Architettura,own_site_not_ready,,,,not_needed,used_existing_website,https://architettura.uniroma3.it/
+org_association_d_education_relative_l_envir_e9354ca2,Association d'Education Relative à l'Environnement de Hammamet,discovery,,,,not_attempted,no_viable_query,
+org_greece_readsa_gr_35035de5,Αναπτυξιακή Εταιρεία Περιφέρειας Νοτίου Αιγαίου – ΕΝΕΡΓΕΙΑΚΗ Α.Ε.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.readsa.gr/
+org_greece_fodsakm_gr_8806cd41,ΠΕΡΙΦΕΡΕΙΑΚΟΣ ΣΥΝΔΕΣΜΟΣ ΦΟΡΕΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΣΤΕΡΕΩΝ ΑΠΟΒΛΗΤΩΝ (ΦΟΔΣΑ) ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://fodsakm.gr/
+org_fundacion_zaragoza_logistics_center_spai_51433462,Fundacion Zaragoza Logistics Center,own_site_not_ready,,,,not_needed,used_existing_website,https://www.zlc.edu.es/
+org_ocu_ediciones_sa_spain_ocu_org_a05dbf16,OCU EDICIONES SA,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ocu.org/
+org_chambre_de_commerce_et_d_industrie_de_co_afc466aa,Chambre de Commerce et d'Industrie de Corse,discovery,,,,not_attempted,no_viable_query,
+org_centre_de_difusi_tecnol_gica_fusta_i_mob_a0bee258,Centre de Difusió Tecnològica Fusta i Moble de Catalunya,own_site_not_ready,,,,not_needed,used_existing_website,https://ambitcluster.org/es/
+org_ju_razvojna_agencija_unsko_sanskog_kanto_bde8438e,JU Razvojna agencija Unsko-sanskog kantona Bihać,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rausk.ba/
+org_bsc_busines_support_centre_l_t_d_kranj_s_912952b3,"BSC, Busines support centre L.t.d. ,Kranj",discovery,,,,not_attempted,no_viable_query,
+org_greece_elgo_gr_45e840c3,"Ελ.Γ.Ο-Δημητρα, Ελληνικος Γεωργικος Οργανισμος Δημητρα",own_site_not_ready,,,,not_needed,used_existing_website,https://www.elgo.gr/
+org_bsc_podporno_podjetni_ki_center_d_o_o_kr_2baad45e,"BSC, podporno podjetniški center, d.o.o., Kranj",discovery,,,,not_attempted,no_viable_query,
+org_centro_euro_mediterraneo_sui_cambiamenti_b274d8f8,Centro Euro-Mediterraneo sui Cambiamenti Climatici,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cmcc.it/
+org_fondazione_amesci_italy_amesci_org_91757627,Fondazione AMESCI,own_site_not_ready,,,,not_needed,used_existing_website,https://www.amesci.org/
+org_legambiente_nazionale_aps_rete_associati_c87990ca,Legambiente nazionale APS - RETE ASSOCIATIVA - ETS,own_site_not_ready,,,,not_needed,used_existing_website,https://www.legambiente.it/
+org_koprivni_ko_kri_eva_ka_upanija_croatia_k_70cf9b07,Koprivničko-križevačka županija,own_site_not_ready,,,,not_needed,used_existing_website,https://www.kckzz.hr/hr/
+org_universidad_de_granada_spain_ugr_es_d007f51d,UNIVERSIDAD DE GRANADA,own_site_not_ready,,,,not_needed,used_existing_website,https://WWW.UGR.ES/
+org_cyprus_ucy_ac_cy_58596f19,ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΥΠΡΟΥ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ucy.ac.cy/
+org_cyprus_ucy_ac_cy_9ca5d625,Πανεπιστήμιο Κύπρου,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ucy.ac.cy/
+org_greece_iceht_forth_gr_c3db0176,Ίδρυμα Τεχνολογίας και Έρευνας / Ινστιτούτο Επιστημών Χημικής Μηχανικής,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iceht.forth.gr/
+org_e_zavod_zavod_za_projektno_svetovanje_ra_a941956a,"E-ZAVOD, ZAVOD ZA PROJEKTNO SVETOVANJE, RAZISKOVANJE IN RAZVOJ CELOVITIH RESITEV",own_site_not_ready,,,,not_needed,used_existing_website,https://www.ezavod.si/
+org_ekonomski_fakultet_sveu_ili_ta_u_rijeci_d3bb3bfd,Ekonomski fakultet Sveučilišta u Rijeci,discovery,,,,not_attempted,no_viable_query,
+org_regione_emilia_romagna_italy_regione_emi_e47fa3fd,Regione Emilia-Romagna,own_site_not_ready,,,,not_needed,used_existing_website,https://www.regione.emilia-romagna.it/
+org_cnet_centre_for_new_energy_technologies_33f53763,CNET Centre for New Energy Technologies SA,own_site_not_ready,,,,not_needed,used_existing_website,https://edp.com/en
+org_chambre_de_commerce_et_d_industrie_du_va_e9f81335,Chambre de Commerce et d’Industrie du Var,own_site_not_ready,,,,not_needed,used_existing_website,https://www.var.cci.fr/
+org_regione_marche_italy_regione_marche_it_1347ac65,REGIONE MARCHE,own_site_not_ready,,,,not_needed,used_existing_website,"https://validate.perfdrive.com/?ssa=a0978ea5-a52e-4490-a7ce-3e474c958612&ssb=46846208521&ssc=https%3A%2F%2Fwww.regione.marche.it%2F&ssi=c9b57afd-d3ou-44e9-a7a9-ab5d5d9f1484&ssk=botmanager_support@radware.com&ssm=87775556743608752103881404293792&ssn=1c25e915360d28a8bec6a5f88f587eb970a2ca250825-6efc-4d07-8c8705&sso=d420eba4-cbcb8024360b1e44965b68bb6e567d0beef9f167dd9cbbbf&ssp=97862929621780869803178083875654244&ssq=33719595107039831978051070894069152063330&ssr=NzkuMTE3LjE2Mi41OQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMmNhMzJkZTQtNGJlNi00YzllLWFhNWYtNTg1YjRkZjE0YzkzMS0xNzgwODUxMDcwMzY2MC0xYjMyNGZmYTU5MTY2ZTM2MTAiLCJfX3V6bWYiOiI3ZjkwMDBjYTI1MDgyNS02ZWZjLTRkMDctOGJhNC1jYmNiODAyNDM2MGIxLTE3ODA4NTEwNzAzNjYwLTAwMzFkZTZiMGNkODUzNzM0MmExMCIsInJkIjoicmVnaW9uZS5tYXJjaGUuaXQifQ=="
+org_consejer_a_de_sostenibilidad_medio_ambie_83b96584,"Consejería de Sostenibilidad, Medio Ambiente y Economía Azul. Junta de Andalucía",discovery,,,,not_attempted,no_viable_query,
+org_p_le_mer_m_diterran_e_toulon_var_technol_2cedb4d1,Pôle Mer Méditerranée – Toulon Var Technologies,discovery,,,,not_attempted,no_viable_query,
+org_qendra_shqiptare_per_mbrojtjen_e_mjedisi_85cf7556,Qendra Shqiptare per Mbrojtjen E Mjedisit Dhe Zhvillimin e Qendrueshem,discovery,,,,not_attempted,no_viable_query,
+org_instituto_portugu_s_do_mar_e_da_atmosfer_b3d75902,"Instituto Português do Mar e da Atmosfera, I.P.",own_site_not_ready,,,,not_needed,used_existing_website,https://www.ipma.pt/pt/index.html
+org_universitat_polit_cnica_de_catalunya_bar_beac456d,Universitat Politècnica de Catalunya-Barcelona TECH,own_site_not_ready,,,,not_needed,used_existing_website,https://www.upc.edu/ca
+org_autorit_di_sistema_portuale_del_mar_tirr_3209040d,Autorità di Sistema Portuale del Mar Tirreno Settentrionale,discovery,,,,not_attempted,no_viable_query,
+org_consejer_a_de_sostenibilidad_medio_ambie_12de7dd8,"Consejería de Sostenibilidad, Medio Ambiente y Economía Azul. Junta de Andalucía",own_site_not_ready,,,,not_needed,used_existing_website,https://www.juntadeandalucia.es/
+org_confederazione_nazionale_dell_artigianat_6f3deadf,Confederazione Nazionale dell’Artigianato e della Piccola e Media Impresa,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cnaabruzzo.it/
+org_regione_autonoma_della_sardegna_italy_cad6b2f0,Regione Autonoma della Sardegna,discovery,,,,not_attempted,no_viable_query,
+org_confederazione_nazionale_dell_artigianat_8ee01b55,CONFEDERAZIONE NAZIONALE DELL’ARTIGIANATO E DELLA PICCOLA e MEDIA IMPRESA Abruzzo,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cnaabruzzo.it/
+org_universidad_de_almer_a_spain_56eb523c,Universidad de Almería,discovery,,,,not_attempted,no_viable_query,
+org_agjencia_kombetare_e_burimeve_natyrore_a_4f3a84ac,Agjencia Kombetare e Burimeve Natyrore,discovery,,,,not_attempted,no_viable_query,
+org_neapolis_university_pafos_cyprus_nup_ac_9f27e192,Neapolis University Pafos,own_site_not_ready,,,,not_needed,used_existing_website,https://www.nup.ac.cy/
+org_greece_resel_tuc_gr_d47ac712,Πολυτεχνείο Κρήτης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.resel.tuc.gr/
+org_environment_park_parco_scientifico_tecno_e0892042,Environment Park – Parco Scientifico Tecnologico Per L'Ambiente Spa,own_site_not_ready,,,,not_needed,used_existing_website,https://www.envipark.com/
+org_consejo_superior_de_investigaciones_cien_c3903a40,Consejo Superior de Investigaciones Cientificas,own_site_not_ready,,,,not_needed,used_existing_website,http://www.icm.csic.es/ca
+org_greece_e_patras_gr_b8828508,ΔΗΜΟΣ ΠΑΤΡΕΩΝ,own_site_not_ready,,,,not_needed,used_existing_website,https://e-patras.gr/el
+org_nacionalni_in_titut_za_biologijo_sloveni_71918f7b,Nacionalni inštitut za biologijo,own_site_not_ready,,,,not_needed,used_existing_website,https://www.nib.si/
+org_splitsko_dalmatinska_upanija_croatia_dal_b3ae35f1,Splitsko-dalmatinska županija,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dalmacija.hr/
+org_etra_investigati_n_y_desarrollo_spain_gr_2fe9d069,Etra Investigatiόn y Desarrollo,own_site_not_ready,,,,not_needed,used_existing_website,https://www.grupoetra.com/
+org_bulgaria_smolyan_bg_75861e92,Община Смолян,own_site_not_ready,,,,not_needed,used_existing_website,https://www.smolyan.bg/
+org_consiglio_nazionale_delle_ricerche_italy_501e8e65,Consiglio Nazionale delle Ricerche,own_site_not_ready,,,,not_needed,used_existing_website,https://www.irsa.cnr.it/
+org_regionalna_energetska_klimatska_agencija_cf97afb4,Regionalna energetska-klimatska agencija Sjeverozapadne Hrvatske,own_site_not_ready,,,,not_needed,used_existing_website,https://www.regea.org/
+org_op_tina_ulcinj_montenegro_ul_gov_me_ebe9a15b,Opština Ulcinj,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ul-gov.me/
+org_palestine_birzeit_edu_14c6d6ef,جامعة النجاح الوطنية,own_site_not_ready,,,,not_needed,used_existing_website,https://www.birzeit.edu/
+org_cambra_oficial_de_comer_ind_stria_i_serv_d3009eb3,"Cambra Oficial de Comerç, Indústria i Serveis de Terrassa",own_site_not_ready,,,,not_needed,used_existing_website,https://cambraterrassa.org/
+org_universitat_de_les_illes_balears_spain_u_40b316ea,Universitat de les Illes Balears,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uib.eu/
+org_universitat_polit_cnica_de_catalunya_spa_0739ec79,Universitat Politècnica de Catalunya,own_site_not_ready,,,,not_needed,used_existing_website,https://www.upc.edu/ca
+org_world_bio_consulting_tunisia_connect_inn_8b2c6134,World Bio Consulting,own_site_not_ready,,,,not_needed,used_existing_website,https://www.connect-innov.com/
+org_lebanon_adr_org_lb_5cbb673d,جمعية إنماء القدرات في الريف,discovery,,,,not_attempted,no_viable_query,
+org_i_zmir_kalk_nma_ajans_turkey_izka_org_tr_dd8f2a86,İzmir Kalkınma Ajansı,own_site_not_ready,,,,not_needed,used_existing_website,https://izka.org.tr/
+org_greece_uowm_gr_790a502b,Επιτροπή Ερευνών Πανεπιστημίου Δυτικής Μακεδονίας,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uowm.gr/
+org_greece_ntua_gr_b3000932,ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ,own_site_not_ready,,,,not_needed,used_existing_website,https://ntua.gr/el/
+org_tunisia_c7372c02,بزنسماد ( الإتحاد المتوسطي لمنظمات الأعراف),discovery,,,,not_attempted,no_viable_query,
+org_jordan_deirallacity_gov_jo_d58d7e8e,بلدية ديرعلا,discovery,,,,not_attempted,no_viable_query,
+org_greece_aua_gr_17b282c5,Γεωπονικό Πανεπιστήμιο Αθηνών-ΕΛΚΕ,own_site_not_ready,,,,not_needed,used_existing_website,https://www2.aua.gr/el
+org_agjencia_p_r_efi_enc_n_e_energjis_albani_bfba18a0,Agjencia për Efiçencën e Energjisë,own_site_not_ready,,,,not_needed,used_existing_website,https://eficenca.gov.al/
+org_jordan_d062cee7,شركة عالم الاستثمار للتنمية والتكنولوجيا,discovery,,,,not_attempted,no_viable_query,
+org_istituto_per_la_cooperazione_universitar_076f4b09,Istituto per la Cooperazione Universitaria (ICU),own_site_not_ready,,,,not_needed,used_existing_website,https://www.icu.it/
+org_cyprus_ccci_org_cy_89936e71,ΚΥΠΡΙΑΚΟ ΕΜΠΟΡΙΚΟ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ccci.org.cy/
+org_jordan_handinhand_foundation_a1274e1f,إيد بإيد للتمكين الاقتصادي والريادة,own_site_not_ready,,,,not_needed,used_existing_website,https://handinhand.foundation/
+org_pole_de_competitivit_monastir_el_fejja_t_e19b73e0,Pole de Competitivité Monastir-El Fejja,own_site_not_ready,,,,not_needed,used_existing_website,https://mfcpole.tn/
+org_minist_re_de_la_sant_tunisia_67e8c25a,Ministère de la Santé,discovery,,,,not_attempted,no_viable_query,
+org_t_c_manisa_valili_i_turkey_eng_manisaab_47998e39,T.C. Manisa Valiliği,own_site_not_ready,,,,not_needed,used_existing_website,https://eng.manisaab.gov.tr/
+org_greece_dramanet_gr_f86d045b,ΕΠΙΜΕΛΗΤΗΡΙΟ ΔΡΑΜΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dramanet.gr/drama/
+org_egypt_alexcham_org_07a3ce0a,الغرفة التجارية المصرية بالاسكندرية,own_site_not_ready,,,,not_needed,used_existing_website,https://alexcham.org/
+org_palestine_birzeit_edu_97d57554,جامعة بيرزيت,own_site_not_ready,,,,not_needed,used_existing_website,https://www.birzeit.edu/
+org_cyprus_larnaka_org_cy_4f8a28f6,Δήμος Λάρνακας,own_site_not_ready,,,,not_needed,used_existing_website,https://www.larnaka.org.cy/
+org_unione_della_romagna_faentina_italy_roma_1623f85d,Unione della Romagna Faentina,own_site_not_ready,,,,not_needed,used_existing_website,https://www.romagnafaentina.it/
+org_tunisia_ecopark_tn_bde6510f,شركة التصرف في القطب التكنولوجي ببرج السدرية,own_site_not_ready,,,,not_needed,used_existing_website,https://ecopark.tn/
+org_cyprus_anelem_com_cy_d285bf66,ΑΝΑΠΤΥΞΙΑΚΗ ΕΤΑΙΡΕΙΑ ΕΠΑΡΧΙΑΣ ΛΕΜΕΣΟΥ ΛΤΔ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.anelem.com.cy/
+org_adana_b_y_k_ehir_belediyesi_turkey_adana_6341f088,Adana Büyükşehir Belediyesi,own_site_not_ready,,,,not_needed,used_existing_website,https://www.adana.bel.tr/
+org_greece_diadyma_gr_4409df2f,Ανώνυμη εταιρία διαχείρισης απορριμμάτων Δυτικής Μακεδονίας,own_site_not_ready,,,,not_needed,used_existing_website,https://diadyma.gr/
+org_lebanon_cciaz_org_lb_8c9dec5e,غرفة التجارة والصناعة والزراعة في زحلة والبقاع,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cciaz.org.lb/english/index.php
+org_applus_idiada_spain_applusidiada_com_3afcc30a,Applus Idiada,own_site_not_ready,,,,not_needed,used_existing_website,https://www.applusidiada.com/global/en/
+org_university_of_west_attica_greece_uniwa_g_b1a62a2c,University of West Attica,own_site_not_ready,,,,not_needed,used_existing_website,https://www.uniwa.gr/
+org_autorit_di_sistema_portuale_del_mare_adr_267785c3,Autorità di Sistema Portuale del Mare Adriatico Orientale,discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_bgfa_eu_f13084dc,Българска Модна Асоциация,own_site_not_ready,,,,not_needed,used_existing_website,https://www.bgfa.eu/
+org_bulgaria_9b67da5e,Ърнст и Янг Денкщат ЕООД,discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_a65f9022,Денкщат България ООД,discovery,,,,not_attempted,no_viable_query,
+org_centar_za_energiju_okolinu_i_resurse_bos_974fe092,"Centar za energiju, okolinu i resurse",own_site_not_ready,,,,not_needed,used_existing_website,https://cener21.ba/
+org_greece_3299ee63,Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης,discovery,,,,not_attempted,no_viable_query,
+org_euror_gion_pyr_n_es_m_diterran_e_france_ebf5ee56,Eurorégion Pyrénées Méditerranée,own_site_not_ready,,,,not_needed,used_existing_website,https://euroregio.eu/
+org_greece_ied_eu_344f186b,Ινστιτούτο Ανάπτυξης Επιχειρηματικότητας Αστική Εταιρεία,own_site_not_ready,,,,not_needed,used_existing_website,https://ied.eu/
+org_rtd_talos_limited_cyprus_talos_rtd_com_f5a327c9,RTD TALOS LIMITED,own_site_not_ready,,,,not_needed,used_existing_website,https://www.talos-rtd.com/
+org_centre_des_recherches_et_des_technologie_6c546454,Centre des Recherches et des Technologies des Eaux,discovery,,,,not_attempted,no_viable_query,
+org_greece_io_hcmr_gr_8037a511,Ελληνικό Κέντρο Θαλασσίων Ερευνών,own_site_not_ready,,,,not_needed,used_existing_website,https://io.hcmr.gr/
+org_cyprus_limassoltourism_com_c4ac92c7,ΕΤΑΙΡΙΑ ΤΟΥΡΙΣΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΠΡΟΒΟΛΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΛΕΜΕΣΟΥ ΛΤΔ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.limassoltourism.com/
+org_c_mara_municipal_de_lisboa_portugal_lisb_8c364267,Câmara Municipal de Lisboa,own_site_not_ready,,,,not_needed,used_existing_website,https://www.lisboa.pt/
+org_palestine_asala_pal_org_763587f0,الجمعية الفلسطينية لصاحبات الأعمال – أصالة,discovery,,,,not_attempted,no_viable_query,
+org_greece_auth_gr_3af6844a,Αριστοτελειο Πανεπιστημιο Θεσσαλονικης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auth.gr/
+org_greece_auth_gr_10dcdf9d,Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auth.gr/
+org_institut_za_turizam_croatia_iztzg_hr_e166dcf5,INSTITUT ZA TURIZAM,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iztzg.hr/hr/
+org_e_y_y_greece_noa_gr_7c649eae,Ειδικος Λογαριασμος Κονδυλιων Eρευνας Εθνικοy Αστεροσκοπειοy Αθηνων,own_site_not_ready,,,,not_needed,used_existing_website,https://www.noa.gr/
+org_univerzitet_u_sarajevu_umarski_fakultet_aa6ec52a,Univerzitet u Sarajevu - Šumarski fakultet,own_site_not_ready,,,,not_needed,used_existing_website,https://sfsa.unsa.ba/
+org_bulgaria_ifrvarna_com_d96e7e21,Институт по рибни ресурси,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ifrvarna.com/index.php/bg/
+org_regione_emilia_romagna_direzione_general_7ebb4460,"Regione Emilia-Romagna - Direzione Generale Conoscenza, Ricerca, Lavoro, Imprese",own_site_not_ready,,,,not_needed,used_existing_website,https://www.regione.emilia-romagna.it/
+org_instituto_superior_de_agronomia_linking_816c4440,Instituto Superior de Agronomia-Linking environment agriculture and forests,own_site_not_ready,,,,not_needed,used_existing_website,https://www.isa.ulisboa.pt/
+org_bulgaria_ltu_bg_b0cd85f6,"Лесотехнически Университет, Факултет по Екология и Ландшафтна архитектура",own_site_not_ready,,,,not_needed,used_existing_website,https://ltu.bg/
+org_ajuntament_de_terrassa_spain_terrassa_ca_fb9b2065,Ajuntament de Terrassa,own_site_not_ready,,,,not_needed,used_existing_website,https://www.terrassa.cat/
+org_greece_acg_edu_ae5f6693,Αμερικανικο Κολεγιο Ελλαδας - Ερευνητικο Κεντρο,own_site_not_ready,,,,not_needed,used_existing_website,https://www.acg.edu/
+org_redmint_impresa_sociale_s_c_r_l_italy_re_bbdbb21a,Redmint Impresa Sociale s.c.r.l.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.redminteurope.org/
+org_european_network_of_logistics_competence_c7f860c5,European Network of Logistics Competence Centres,own_site_not_ready,,,,not_needed,used_existing_website,https://www.openenlocc.net/
+org_tusgsal_transportes_urbanos_y_servicios_beb848b2,"TUSGSAL - Transportes Urbanos y Servicios Generales, S.A.L.",own_site_not_ready,,,,not_needed,used_existing_website,https://m.tusgsal.cat/
+org_direcci_n_general_del_agua_spain_carm_es_9ddbd08c,DIRECCIÓN GENERAL DEL AGUA,own_site_not_ready,,,,not_needed,used_existing_website,https://www.carm.es/web/pagina?IDCONTENIDO=1&IDTIPO=180
+org_consorcio_provincial_de_residuos_de_m_la_c04cc448,Consorcio Provincial de Residuos de Málaga,own_site_not_ready,,,,not_needed,used_existing_website,https://Consorciorsumalaga.com/
+org_companhia_carris_de_ferro_de_lisboa_e_m_23c8e72e,"Companhia Carris de Ferro de Lisboa E.M., S.A.",own_site_not_ready,,,,not_needed,used_existing_website,https://www.carris.pt/
+org_univerzitet_donja_gora_montenegro_udg_ed_52bbcdd6,Univerzitet Donja Gora,own_site_not_ready,,,,not_needed,used_existing_website,https://www.udg.edu.me/
+org_corallia_greece_isi_gr_e45fdb3c,Αθηνά Ερευνητικό Κέντρο Καινοτομίας στις Τεχνολογίες της Πληροφορίατων Επικοινωνιών και Γνώσης Μονάδα Corallia,own_site_not_ready,,,,not_needed,used_existing_website,https://www.isi.gr/
+org_fondazione_per_lo_sviluppo_sostenibile_i_25e2516e,Fondazione per lo Sviluppo Sostenibile,own_site_not_ready,,,,not_needed,used_existing_website,https://www.fondazionesvilupposostenibile.it/
+org_submon_spain_submon_org_d6a8b92c,SUBMON,own_site_not_ready,,,,not_needed,used_existing_website,https://www.submon.org/
+org_irradiare_lta_portugal_387f33b9,"IrRADIARE, Lta",discovery,,,,not_attempted,no_viable_query,
+org_imola_faenza_tourism_company_s_c_a_r_l_i_20932e82,Imola Faenza Tourism Company s.c.a r. l.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.imolafaenza.it/
+org_union_internationale_pour_la_conservatio_b1f5d763,Union Internationale pour la Conservation de la Nature et de ses Ressources,own_site_not_ready,,,,not_needed,used_existing_website,https://iucn.org/
+org_irradiare_lta_portugal_irradiare_com_a4e8f74a,"IrRADIARE, Lta",own_site_not_ready,,,,not_needed,used_existing_website,https://www.irradiare.com/
+org_greening_the_islands_italy_greeningtheis_e3a32094,Greening the Islands,own_site_not_ready,,,,not_needed,used_existing_website,https://www.greeningtheislands.org/
+org_auvergne_rh_ne_alpes_energie_environneme_77bb6e9d,Auvergne Rhône-Alpes Energie Environnement,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auvergnerhonealpes-ee.fr/
+org_greece_e54708b3,Περιφερεια Πελοποννησου,discovery,,,,not_attempted,no_viable_query,
+org_d_mos_fyl_s_greece_e7aa8404,Δημος Φυλης - Dímos Fylís,discovery,,,,not_attempted,no_viable_query,
+org_autoridad_portuaria_de_valencia_spain_va_2c85e5b7,Autoridad Portuaria de Valencia,own_site_not_ready,,,,not_needed,used_existing_website,https://www.valenciaport.com/
+org_grad_crikvenica_croatia_819867e2,Grad Crikvenica,discovery,,,,not_attempted,no_viable_query,
+org_ministeru_g_al_g_awdex_u_l_ippjanar_malt_1a978f6e,Ministeru għal Għawdex u l-Ippjanar,discovery,,,,not_attempted,no_viable_query,
+org_grad_cazin_bosnia_and_herzegovina_gradca_6c512a32,Grad Cazin,own_site_not_ready,,,,not_needed,used_existing_website,https://gradcazin.gov.ba/
+org_univerzitet_donja_gorica_montenegro_udg_aac50767,Univerzitet Donja Gorica,own_site_not_ready,,,,not_needed,used_existing_website,https://www.udg.edu.me/
+org_asociaci_n_para_el_desarrollo_urbano_y_c_31071270,Asociación para el Desarrollo Urbano y Comunicación Responsables,own_site_not_ready,,,,not_needed,used_existing_website,https://ducor.es/
+org_international_initiative_for_a_sustainab_3ed90926,international initiative for a Sustainable Built Environment Italia R&D - iiSBE Italia R&D,own_site_not_ready,,,,not_needed,used_existing_website,https://iisbe-rd.it/
+org_grad_sarajevo_bosnia_and_herzegovina_sar_b9dd620f,Grad Sarajevo,own_site_not_ready,,,,not_needed,used_existing_website,https://www.sarajevo.ba/
+org_hydrometeorological_innovative_solutions_9471e429,Hydrometeorological Innovative Solutions,own_site_not_ready,,,,not_needed,used_existing_website,https://www.hyds.es/
+org_regionalna_razvojna_agencija_dubrova_ko_fceb8a36,REGIONALNA RAZVOJNA AGENCIJA DUBROVAČKO-NERETVANSKE ŽUPANIJE - DUNEA,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dunea.hr/
+org_edia_s_a_empresa_de_desenvolvimento_e_in_0d789a5c,EDIA S.A. - Empresa de Desenvolvimento e Infraestruturas do Alqueva S.A.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.edia.pt/en/
+org_comite_regional_du_tourisme_et_des_loisi_9fa92297,COMITE REGIONAL DU TOURISME ET DES LOISIRS OCCITANIE,own_site_not_ready,,,,not_needed,used_existing_website,https://www.tourisme-occitanie.com/
+org_centre_national_de_la_propri_t_foresti_r_5fe26363,Centre National de la Propriété Forestière,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cnpf.fr/
+org_greece_rethymno_gr_374f2cd0,Δήμος Ρεθύμνης,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rethymno.gr/
+org_lu_ka_uprava_rijeka_croatia_portauthorit_1364e694,Lučka uprava Rijeka,own_site_not_ready,,,,not_needed,used_existing_website,https://www.portauthority.hr/
+org_office_francais_de_la_biodiversite_franc_93c486aa,Office Francais de la Biodiversite,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ofb.gouv.fr/
+org_javna_ustanova_razvojna_agencija_ibensko_1de9230c,Javna ustanova Razvojna agencija Šibensko-kninske županije,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rra-sibenik.hr/
+org_greece_ioannina_gr_49f8c103,Δήμος Ιωαννιτών,own_site_not_ready,,,,not_needed,used_existing_website,https://ioannina.gr/
+org_bulgaria_2bd59beb,Община Варна,discovery,,,,not_attempted,no_viable_query,
+org_cyprus_187ddf95,"Υπουργείο Μεταφορών, Επικοινωνιών και Έργων",discovery,,,,not_attempted,no_viable_query,
+org_natura_jadera_javna_ustanova_za_upravlja_93401ce4,NATURA -JADERA javna ustanova za upravljanje zaštićenim dijelovima prirode na području Zadarske Ž.,discovery,,,,not_attempted,no_viable_query,
+org_cyprus_anel_com_cy_a5268448,"ΑΝΕΛ, ΑΝΑΠΤΥΞΙΑΚΗ ΕΤΑΙΡΕΙΑ ΛΕΥΚΩΣΙΑΣ",own_site_not_ready,,,,not_needed,used_existing_website,https://anel.com.cy/
+org_r_gion_provence_alpes_c_te_d_azur_france_5774faf3,Région Provence Alpes Côte d'Azur,discovery,,,,not_attempted,no_viable_query,
+org_greece_a8d491ef,ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΕΡΕΥΝΩΝ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΑΙΓΑΙΟΥ,discovery,,,,not_attempted,no_viable_query,
+org_greece_pin_gov_gr_83db5832,ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ,own_site_not_ready,,,,not_needed,used_existing_website,https://pin.gov.gr/
+org_cyprus_8d1fb13b,Τζεοιματζιν,discovery,,,,not_attempted,no_viable_query,
+org_mu_la_s_tk_ko_man_niversitesi_turkey_mu_16a8d4c4,Muğla Sıtkı Koçman Üniversitesi,own_site_not_ready,,,,not_needed,used_existing_website,https://www.mu.edu.tr/
+org_greece_5bac92b6,Δίκτυο Νησιωτικών επιμελητήριων Ευρωπαϊκής Ένωσης,discovery,,,,not_attempted,no_viable_query,
+org_greece_9cf13c05,Αριστοτελειο Πανεπιστημιο Θεσσαλονικης,discovery,,,,not_attempted,no_viable_query,
+org_udru_enje_centar_za_energiju_okolinu_i_r_cf82a4be,"Udruženje Centar za energiju, okolinu i resurse",own_site_not_ready,,,,not_needed,used_existing_website,https://cener21.ba/
+org_greece_bf30a989,Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης,discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_giitt_org_ea5d0120,Фондация Зелена индустрия иновации и технологичен трансфер,own_site_not_ready,,,,not_needed,used_existing_website,https://giitt.org/
+org_consorci_consell_de_l_horta_de_val_ncia_844bc5bd,Consorci Consell de l'Horta de València,discovery,,,,not_attempted,no_viable_query,
+org_regional_rural_development_standing_work_7e21a5ad,Regional Rural Development Standing Working Group In See,own_site_not_ready,,,,not_needed,used_existing_website,https://www.seerural.org/
+org_greece_ekby_gr_98446c4a,Μουσειο Γουλανδρη Φυσικης Ιστοριας – Ελληνικο Κεντρο Βιοτοπων Υγροτοπων,own_site_not_ready,,,,not_needed,used_existing_website,https://ekby.gr/
+org_cimbal_comunidade_intermunicipal_do_baix_5aebbf4d,CIMBAL - Comunidade Intermunicipal do Baixo Alentejo,own_site_not_ready,,,,not_needed,used_existing_website,https://cimbal.pt/pt/Default.aspx
+org_consejer_a_de_agricultura_pesca_agua_y_d_20c16561,"Consejería de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía",own_site_not_ready,,,,not_needed,used_existing_website,https://www.juntadeandalucia.es/
+org_union_internationale_pour_la_conservatio_5682c58d,Union Internationale pour la Conservation de la Nature et de ses Ressources,discovery,,,,not_attempted,no_viable_query,
+org_f_d_ration_europ_enne_d_agroforesterie_f_c557601e,Fédération Européenne d’Agroforesterie,own_site_not_ready,,,,not_needed,used_existing_website,https://www.europeanagroforestry.eu/
+org_iridra_s_r_l_italy_iridra_eu_05e08651,IRIDRA s.r.l.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iridra.eu/en/
+org_bulgaria_bdcabg_org_576e306c,Асоциация за изследване и развитие на Черноморското крайбрежие и р.Дунав,own_site_not_ready,,,,not_needed,used_existing_website,https://www.bdcabg.org/index.php/bg/
+org_ecole_centrale_de_lyon_france_ec_lyon_fr_b9f24c67,Ecole Centrale de Lyon,own_site_not_ready,,,,not_needed,used_existing_website,https://www.ec-lyon.fr/
+org_f_deration_der_natur_und_nationalparke_e_05a8d5ec,Föderation der Natur- und Nationalparke Europas (Föderation EUROPARC) e.V.,own_site_not_ready,,,,not_needed,used_existing_website,https://www.europarc.org/
+org_jordan_edama_jo_70ec84af,جمعية إدامة للطاقة والمياه والبيئة,own_site_not_ready,,,,not_needed,used_existing_website,https://edama.jo/
+org_maritime_cluster_of_andalusia_spain_23cefb54,Maritime Cluster of Andalusia,discovery,,,,not_attempted,no_viable_query,
+org_javna_ustanova_univerzitet_crne_gore_ins_fabe0e60,Javna ustanova Univerzitet Crne Gore - Institut za biologiju mora,discovery,,,,not_attempted,no_viable_query,
+org_p_le_mer_m_diterran_e_toulon_var_technol_15def375,Pôle Mer Méditerranée – Toulon Var Technologies,own_site_not_ready,,,,not_needed,used_existing_website,https://www.tvt.fr/
+org_capenergies_p_le_de_comp_titivit_france_5475ef27,Capenergies pôle de compétitivité,own_site_not_ready,,,,not_needed,used_existing_website,https://www.capenergies.fr/
+org_regionalna_razvojna_agencija_dubrova_ko_4f566895,Regionalna Razvojna Agencija Dubrovačko – Neretvanske Županije - Dunea,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dunea.hr/
+org_znanstveno_raziskovalno_sredi_e_bistra_p_58ed413f,Znanstveno-raziskovalno središče Bistra Ptuj,own_site_not_ready,,,,not_needed,used_existing_website,https://bistra.si/
+org_qendra_p_r_r_m_m_n_n_shqip_ri_albania_pp_e33f3bb1,Qendra “Për R.M.M.N. në Shqipëri”,discovery,,,,not_attempted,no_viable_query,
+org_3win_action_koinsep_greece_3win_org_d062a612,3win Action KOINSEP,discovery,,,,not_attempted,no_viable_query,
+org_awtorit_g_at_trasport_f_malta_malta_4de4c90d,Awtorità Għat-Trasport F’Malta,discovery,,,,not_attempted,no_viable_query,
+org_soci_t_publique_locale_lyon_confluence_f_297584ef,Société Publique Locale Lyon Confluence,discovery,,,,not_attempted,no_viable_query,
+org_cyprus_akamasmunicipality_org_cy_47ff65ec,Δήμος Ακάμα,own_site_not_ready,,,,not_needed,used_existing_website,https://akamasmunicipality.org.cy/
+org_sarajevo_susret_kultura_bosnia_and_herze_16320aa7,Sarajevo Susret Kultura,own_site_not_ready,,,,not_needed,used_existing_website,https://smoc.ba/bs/home
+org_cyprus_pegeiamunicipality_com_1b0605b7,Δήμος Πέγειας,own_site_not_ready,,,,not_needed,used_existing_website,https://akamasmunicipality.org.cy/
+org_rra_zeleni_kras_d_o_o_slovenia_rra_zk_si_bf17770d,RRA Zeleni kras d.o.o,own_site_not_ready,,,,not_needed,used_existing_website,https://www.rra-zk.si/
+org_dubrovnik_neretva_regional_development_a_9b53379d,Dubrovnik Neretva Regional Development Agency DUNEA,discovery,,,,not_attempted,no_viable_query,
+org_r_seau_des_chambres_de_commerce_et_d_ind_736b1b17,Réseau des Chambres de Commerce et d'Industrie Insulaires de l'Union Européenne - INSULEUR,discovery,,,,not_attempted,no_viable_query,
+org_national_university_of_ireland_galway_ir_03a8d5b6,National University of Ireland Galway,discovery,,,,not_attempted,no_viable_query,
+org_tunisia_certe_rnrt_tn_2a520094,مركز البحوث والتكنولوجيا المياه,discovery,,,,not_attempted,no_viable_query,
+org_polis_network_belgium_polisnetwork_eu_4ea93af1,POLIS Network,own_site_not_ready,,,,not_needed,used_existing_website,https://www.polisnetwork.eu/
+org_univerzitet_crne_gore_biotehni_ki_fakult_b685edd5,"Univerzitet Crne Gore, Biotehnički fakultet",discovery,,,,not_attempted,no_viable_query,
+org_energies_2050_france_energies2050_org_d09aaa2f,Energies 2050,own_site_not_ready,,,,not_needed,used_existing_website,https://energies2050.org/
+org_ville_de_marseille_france_marseille_fr_d341a778,Ville de Marseille,own_site_not_ready,,,,not_needed,used_existing_website,https://www.marseille.fr/
+org_atos_france_atos_net_595e6d6c,Atos,own_site_not_ready,,,,not_needed,used_existing_website,https://atos.net/en/
+org_greece_53f7fa80,ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΙΑ ΠΡΟΣΤΑΣΙΑΣ ΤΗΣ ΦΥΣΗΣ,discovery,,,,not_attempted,no_viable_query,
+org_stratagem_energy_ltd_cyprus_stratagem_co_d7696efa,Stratagem Energy Ltd,own_site_not_ready,,,,not_needed,used_existing_website,https://www.stratagem.com.cy/
+org_atmo_auvergne_rh_ne_alpes_france_atmo_au_5d70d779,Atmo Auvergne-Rhône-Alpes,own_site_not_ready,,,,not_needed,used_existing_website,https://www.atmo-auvergnerhonealpes.fr/
+org_chrysalis_leap_ltd_cyprus_chrysalisleap_0d5c8dff,Chrysalis Leap Ltd,own_site_not_ready,,,,not_needed,used_existing_website,https://chrysalisleap.com/
+org_javne_slu_be_ptuj_d_o_o_slovenia_js_ptuj_27255ae3,"Javne službe Ptuj, d.o.o.",own_site_not_ready,,,,not_needed,used_existing_website,https://www.js-ptuj.si/
+org_dynamic_vision_greece_21b6d318,Dynamic Vision,discovery,,,,not_attempted,no_viable_query,
+org_instituti_per_ruajtjen_e_natyres_ne_shqi_de3acd53,Instituti per Ruajtjen e Natyres ne Shqiperi,own_site_not_ready,,,,not_needed,used_existing_website,https://www.inca-al.org/sq/
+org_chambre_de_commerce_et_d_industrie_nice_19273677,Chambre de Commerce et d’Industrie Nice Côte d’Azur,own_site_not_ready,,,,not_needed,used_existing_website,https://www.cote-azur.cci.fr/
+org_nature_trust_malta_malta_naturetrustmalt_4bad99a9,Nature Trust Malta,own_site_not_ready,,,,not_needed,used_existing_website,https://naturetrustmalta.org/
+org_autoriteti_portul_durres_albania_durresp_bb19d304,Autoriteti Portul Durres,own_site_not_ready,,,,not_needed,used_existing_website,https://www.durresport.al/
+org_regjun_ghawdex_malta_regjunghawdex_com_519cdcef,Regjun Ghawdex,own_site_not_ready,,,,not_needed,used_existing_website,https://regjunghawdex.com/
+org_greece_auth_gr_a2af53f6,Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης – Ειδικός Λογαριασμός Κονδυλίων Έρευνας,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auth.gr/
+org_geres_france_geres_eu_54faa112,GERES,own_site_not_ready,,,,not_needed,used_existing_website,https://www.geres.eu/
+org_luka_bar_ad_montenegro_lukabar_me_f24a5d05,Luka Bar AD,own_site_not_ready,,,,not_needed,used_existing_website,https://lukabar.me/
+org_laboratoire_des_sciences_et_ing_nierie_m_e06a4deb,Laboratoire des sciences et ingénierie maritime-LSIMUniversité des sciences et technologie Mohamed Boudiaf -USTO Oran,own_site_not_ready,,,,not_needed,used_existing_website,https://www.univ-usto.dz/en/
+org_universidad_de_las_palmas_de_gran_canari_5df541ac,UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA,discovery,,,,not_attempted,no_viable_query,
+org_federaci_n_provincial_de_la_pyme_del_met_dec39316,Federación Provincial de la Pyme del Metal y Nuevas,discovery,,,,not_attempted,no_viable_query,
+org_dotsoft_a_e_greece_dotsoft_gr_d3f15c31,Dotsoft A.E. Ολοκληρωμενες Λυσεις Τεχνολογιας Πληροφορικης Ανωνυμη Εταιρια,own_site_not_ready,,,,not_needed,used_existing_website,https://www.dotsoft.gr/
+org_fundaci_n_canaria_puertos_de_las_palmas_10fe7c06,Fundación Canaria Puertos de Las Palmas,discovery,,,,not_attempted,no_viable_query,
+org_ayuntamiento_de_adeje_spain_7d77ba16,Ayuntamiento de Adeje,discovery,,,,not_attempted,no_viable_query,
+org_sociedad_de_promoci_n_econ_mica_de_gran_ed995f4a,Sociedad de Promoción Económica de Gran,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_n_canaria_universitaria_de_las_p_7fc98f8d,Fundación Canaria Universitaria de Las Palmas,discovery,,,,not_attempted,no_viable_query,
+org_tunisia_agriculture_tn_29976500,الإدارة العامة للصيد البحري و تربية الأسماك / وزارة الفلاحة و الموارد المائية و الصيد البحري,own_site_not_ready,,,,not_needed,used_existing_website,https://www.agriculture.tn/
+org_ceeeta_eco_energy_consultants_ltd_portug_f8312f97,"CEEETA-ECO, Energy Consultants, Ltd.",discovery,,,,not_attempted,no_viable_query,
+org_instituto_portugu_s_do_mar_e_da_atmosfer_ccc06e0a,"Instituto Português do Mar e da Atmosfera, I.P.",discovery,,,,not_attempted,no_viable_query,
+org_greece_olp_gr_9fe0a1f4,ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΠΕΙΡΑΙΩΣ ΑΕ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.olp.gr/en/
+org_fondazione_imc_centro_marino_internazion_7badb7b4,Fondazione IMC - Centro Marino Internazionale,discovery,,,,not_attempted,no_viable_query,
+org_greece_gwp_org_feda1996,Μεσογειακό Γραφείο Πληροφόρησης / Μεσογειακό Σκέλος Παγκόσμιας Σύμπραξης για το Νερό,own_site_not_ready,,,,not_needed,used_existing_website,https://gwpo-gwp.org/
+org_taormina_etna_consortium_italy_690a1020,Taormina Etna Consortium,discovery,,,,not_attempted,no_viable_query,
+org_united_nations_office_for_project_servic_757d50ef,United Nations Office for Project Services,own_site_not_ready,,,,not_needed,used_existing_website,https://getstation.com/
+org_associaci_medcities_spain_7f796640,Associació MedCities,discovery,,,,not_attempted,no_viable_query,
+org_cl_ster_mar_timo_de_las_illes_balears_sp_aad9066a,Clúster Marítimo De Las Illes Balears,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_marche_d_partement_de_l_conomie_d_950193f9,Région Marche - Département de l'économie du secteur de la pêche,discovery,,,,not_attempted,no_viable_query,
+org_regione_campania_italy_d69aafae,Regione Campania,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_l_algarve_cria_division_de_36759619,Université de l'Algarve - CRIA - Division de l'entrepreneuriat et du transfert de technologies,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_n_platoniq_spain_da4d7b5a,Fundación Platoniq,discovery,,,,not_attempted,no_viable_query,
+org_dan_europe_foundation_malta_daneurope_or_78d5739f,DAN Europe Foundation,discovery,,,,not_attempted,no_viable_query,
+org_art_er_s_cons_p_a_italy_63d1f451,ART-ER - S. CONS P.A,discovery,,,,not_attempted,no_viable_query,
+org_barcelona_activa_sa_spm_spain_3104d876,Barcelona Activa SA SPM,discovery,,,,not_attempted,no_viable_query,
+org_communaut_intermunicipale_de_l_alentejo_b0f37490,Communauté Intermunicipale de l'Alentejo Central,discovery,,,,not_attempted,no_viable_query,
+org_regione_lazio_direction_r_gionale_de_la_4bba602c,Regione Lazio - Direction Régionale de la Culture et de la Politique de Jeunesse,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_valencia_d_partement_d_cono_f19a4daf,Université de Valencia - Département d'économie appliquée,discovery,,,,not_attempted,no_viable_query,
+org_tml_transportes_metropolitanos_de_lisboa_ab0c9578,TML - Transportes Metropolitanos de Lisboa,own_site_not_ready,,,,not_needed,used_existing_website,https://www.tmlmobilidade.pt/en/
+org_aster_s_cons_p_a_italy_0da36a87,ASTER S.cons.p.a.,discovery,,,,not_attempted,no_viable_query,
+org_chambre_de_commerce_d_industrie_des_serv_f20d142e,"Chambre de commerce, d'industrie, des services et de la navigation Mallorca",discovery,,,,not_attempted,no_viable_query,
+org_ville_de_bologne_italy_6274f926,Ville de Bologne,discovery,,,,not_attempted,no_viable_query,
+org_greece_palaiofaliro_gr_b33cbb4a,Δήμος Παλαιού Φαλήρου,own_site_not_ready,,,,not_needed,used_existing_website,https://palaiofaliro.gr/
+org_cyprus_visitpafos_org_cy_65eccd1a,Εταιρεία Τουριστικής Ανάπτυξης και Προβολής Περιφέρειας Πάφου,own_site_not_ready,,,,not_needed,used_existing_website,https://www.visitpafos.org.cy/
+org_comit_fran_ais_de_l_uicn_france_fb0123b4,Comité français de l’UICN,discovery,,,,not_attempted,no_viable_query,
+org_wwf_adria_udruga_za_za_titu_prirode_i_o_761e95e3,WWF Adria– Udruga za Zaštitu Prirode i Očuvanje Biološke Raznolikosti,discovery,,,,not_attempted,no_viable_query,
+org_leader_mre_a_hrvatske_croatia_a8a40a9e,LEADER mreža Hrvatske,discovery,,,,not_attempted,no_viable_query,
+org_reghionalna_razvojna_agencija_za_bjelasi_f28d640b,"Reghionalna razvojna agencija za Bjelasicu, Komove i Prokletije",own_site_not_ready,,,,not_needed,used_existing_website,https://bjelasica-komovi.me/
+org_association_des_vignerons_de_la_commune_6650f4b6,Association des vignerons de la commune de Palmela,discovery,,,,not_attempted,no_viable_query,
+org_lazio_region_association_des_villes_et_c_19b5a3f4,Lazio Region Association des Villes et Communes - ANCI Lazio,discovery,,,,not_attempted,no_viable_query,
+org_association_des_municipalit_s_du_centre_cf8a9c15,Association des municipalités du centre de l'Alentejo,discovery,,,,not_attempted,no_viable_query,
+org_parc_marin_de_la_c_te_bleue_france_parcm_8323ddb7,Parc Marin de la Côte Bleue,own_site_not_ready,,,,not_needed,used_existing_website,https://parcmarincotebleue.fr/
+org_national_agency_of_scientific_research_a_38489906,National Agency of Scientific Research and Innovation-International Programs Directory,discovery,,,,not_attempted,no_viable_query,
+org_plan_bleu_pour_l_environnement_et_le_d_v_fdc2956e,Plan Bleu pour l'Environnement et le Développement en Méditerranée,own_site_not_ready,,,,not_needed,used_existing_website,https://planbleu.org/
+org_association_des_municipalit_s_toscane_it_84e7cf68,Association des Municipalités Toscane,discovery,,,,not_attempted,no_viable_query,
+org_tour_du_valat_france_tourduvalat_org_3a770c79,Tour du Valat,own_site_not_ready,,,,not_needed,used_existing_website,https://tourduvalat.org/
+org_euror_gion_pyr_n_es_m_diterran_e_france_6597966d,Eurorégion Pyrénées Méditerranée,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_milie_romagne_direction_g_n_rale_69f0a8f8,"Région Émilie-Romagne - Direction générale de la connaissance, du travail et de l'économie d'entreprise",discovery,,,,not_attempted,no_viable_query,
+org_universidad_de_la_laguna_spain_d5ee754d,Universidad de La Laguna,discovery,,,,not_attempted,no_viable_query,
+org_minist_re_de_l_agriculture_de_la_p_che_e_9f364cfa,"Ministère de l'Agriculture, de la Pêche et l'Alimentation",discovery,,,,not_attempted,no_viable_query,
+org_conseil_national_de_recherche_science_du_17a4d39b,Conseil National de Recherche - Science du système terrestre et technologies environnementales,discovery,,,,not_attempted,no_viable_query,
+org_agence_de_d_veloppement_r_gional_de_l_al_b5b89396,Agence de développement régional de l'Alentejo - Département économique,discovery,,,,not_attempted,no_viable_query,
+org_national_inter_university_consortium_for_b0853db7,National Inter-University Consortium for Marine Sciences,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_autonome_friuli_venezia_giulia_it_44462e43,Région Autonome Friuli Venezia Giulia,discovery,,,,not_attempted,no_viable_query,
+org_ascame_association_of_mediterranean_cham_1b0f0259,ASCAME (Association of Mediterranean Chambers of Commerce and Industry),discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_parks_bg_c5cb0abd,Асоциация на парковете в България,own_site_not_ready,,,,not_needed,used_existing_website,https://parks.bg/
+org_universite_de_patras_department_of_civil_e9922e96,Universite de Patras - Department of Civil Engineering,discovery,,,,not_attempted,no_viable_query,
+org_stratagem_energy_ltd_cyprus_4c2b6a81,Stratagem Energy Ltd,discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_humorhouse_bg_479af401,Музей на хумора и сатирата,own_site_not_ready,,,,not_needed,used_existing_website,https://humorhouse.bg/
+org_agence_de_d_veloppement_local_de_larnaca_3e25bae9,Agence de développement local de Larnaca-Famagusta (ANETEL),discovery,,,,not_attempted,no_viable_query,
+org_toulon_var_technologies_france_21e24976,Toulon Var Technologies,discovery,,,,not_attempted,no_viable_query,
+org_department_of_fisheries_and_aquaculture_d981f434,"Department of Fisheries and Aquaculture within the Ministry of Agriculture, Fisheries and Animal Rights",discovery,,,,not_attempted,no_viable_query,
+org_dynamic_vision_p_c_greece_32064e88,Dynamic Vision P.C,discovery,,,,not_attempted,no_viable_query,
+org_institute_for_comprehensive_development_3cb7e155,Institute for Comprehensive Development Solutions - eZAVOD,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_de_cr_te_direction_du_d_veloppeme_301f9ba8,Région de Crète - Direction du Développement Rural,discovery,,,,not_attempted,no_viable_query,
+org_region_de_macedoine_centrale_direction_d_c550c0c6,REGION DE MACEDOINE CENTRALE - Direction de l'Innovation et de l'Entrepreneuriat,discovery,,,,not_attempted,no_viable_query,
+org_facult_des_sciences_conomiques_et_commer_81cad70c,"Faculté des sciences économiques et commerciales, Université de Rijeka",discovery,,,,not_attempted,no_viable_query,
+org_bulgaria_pz_government_bg_c85f6acb,Областна администрация Пазарджик,own_site_not_ready,,,,not_needed,used_existing_website,https://www.pz.government.bg/
+org_council_of_vlora_region_albania_8851e727,COUNCIL OF VLORA REGION,discovery,,,,not_attempted,no_viable_query,
+org_european_crowdfunding_network_belgium_5f109a14,European Crowdfunding Network,discovery,,,,not_attempted,no_viable_query,
+org_cyprus_b3513e20,ΚΥΠΡΙΑΚΟ ΕΜΠΟΡΙΚΟ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ,discovery,,,,not_attempted,no_viable_query,
+org_aide_aux_musiques_innovatrices_france_c0201fc8,AIDE AUX MUSIQUES INNOVATRICES,discovery,,,,not_attempted,no_viable_query,
+org_ap_marine_environmental_consultancy_ltd_46161914,AP Marine Environmental Consultancy Ltd,own_site_not_ready,,,,not_needed,used_existing_website,https://www.apmarine.com.cy/
+org_arty_farty_france_87119963,Arty Farty,discovery,,,,not_attempted,no_viable_query,
+org_aix_marseille_university_mio_france_b8d364cc,AIX-MARSEILLE UNIVERSITY MIO,discovery,,,,not_attempted,no_viable_query,
+org_crowdpolicy_greece_c5d80bc8,Crowdpolicy,discovery,,,,not_attempted,no_viable_query,
+org_university_of_montenegro_institut_de_bio_8157dea4,University of Montenegro - Institut de biologie marine,discovery,,,,not_attempted,no_viable_query,
+org_private_scientific_research_institution_4b5ea2ab,Private scientific research institution – “Institute of modern technology Montenegro”,discovery,,,,not_attempted,no_viable_query,
+org_instituto_canario_de_investigaciones_spa_d6bd8c6a,INSTITUTO CANARIO DE INVESTIGACIONES,discovery,,,,not_attempted,no_viable_query,
+org_associazione_kyoto_club_italy_fb04e918,Associazione Kyoto Club,discovery,,,,not_attempted,no_viable_query,
+org_universit_degli_studi_di_roma_la_sapienz_ed71c9ee,"Università degli Studi di Roma ""La Sapienza"" - PDTA Department",discovery,,,,not_attempted,no_viable_query,
+org_unione_nazionale_comuni_comunit_enti_mon_c8183d49,Unione Nazionale Comuni Comunità Enti Montani – Delegazione Regionale del Lazio,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_n_musol_spain_f459cda4,Fundación MUSOL,discovery,,,,not_attempted,no_viable_query,
+org_i_borghi_pi_belli_d_italia_italy_4e8ed4ca,I Borghi più belli d’Italia,discovery,,,,not_attempted,no_viable_query,
+org_ayuntamiento_de_san_crist_bal_de_la_lagu_2b429e70,AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA,discovery,,,,not_attempted,no_viable_query,
+org_ag_ncia_nacional_de_inova_o_s_a_ani_port_eb4dfe56,"Agência Nacional de Inovação, S.A. (ANI)",discovery,,,,not_attempted,no_viable_query,
+org_universit_de_murcie_d_partement_de_g_nie_928798da,Université de Murcie - Département de génie de l'information et des communications,discovery,,,,not_attempted,no_viable_query,
+org_conseil_national_de_recherches_institute_b99596f2,Conseil National de Recherches - Institute for Biological Resources and Marine Biotechnologies (Ancona),discovery,,,,not_attempted,no_viable_query,
+org_confesercenti_toscana_italy_6f798cc5,Confesercenti Toscana,discovery,,,,not_attempted,no_viable_query,
+org_agence_de_tourisme_des_iles_bal_ares_con_1b4b63c8,"Agence de tourisme des Iles Baléares - Conselleria de Model Econòmic, Turisme i Treball",discovery,,,,not_attempted,no_viable_query,
+org_lamma_consortium_environmental_monitorin_1fa17bbb,LaMMA Consortium - Environmental Monitoring and Modelling Laboratory for Sustainable Development-- Division of Oceanography,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_des_pouille_service_de_structure_394c59e8,Région des Pouille - Service de Structure de Staff à l'appui de la Coordination des Politiques Internationales,discovery,,,,not_attempted,no_viable_query,
+org_istituto_nazionale_di_oceanografia_e_di_df0a2db5,Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS,discovery,,,,not_attempted,no_viable_query,
+org_csic_institut_des_sciences_marines_spain_ed690e23,CSIC - Institut des sciences marines,discovery,,,,not_attempted,no_viable_query,
+org_ports_de_la_generalitat_de_catalunya_spa_18eb27d8,Ports de la Generalitat de Catalunya,discovery,,,,not_attempted,no_viable_query,
+org_port_des_les_bal_ares_spain_b242bbcb,Port des Îles Baléares,discovery,,,,not_attempted,no_viable_query,
+org_euro_mediterranean_economists_associatio_b53f934c,Euro-Mediterranean Economists Association,discovery,,,,not_attempted,no_viable_query,
+org_area_science_park_italy_eaf78a7b,Area Science Park,discovery,,,,not_attempted,no_viable_query,
+org_isv_sssa_institute_scuola_superiore_sant_1ef51255,ISV SSSA - Institute Scuola Superiore Sant'Anna,discovery,,,,not_attempted,no_viable_query,
+org_regional_government_of_the_balearic_isla_34badc4c,"Regional Government of the Balearic Islands - Direction Générale de l'Éducation Environnementale, de la Qualité de l'Environnement et des Déchets",discovery,,,,not_attempted,no_viable_query,
+org_associa_o_rcdi_rede_de_compet_ncias_para_50c06719,Associação RCDI – Rede de Competências para o Desenvolvimento e a Inovação,discovery,,,,not_attempted,no_viable_query,
+org_citt_metropolitana_di_roma_capitale_ital_735f77e2,Città metropolitana di Roma Capitale,discovery,,,,not_attempted,no_viable_query,
+org_la_mairie_de_palma_spain_5cda0a9c,La mairie de Palma,discovery,,,,not_attempted,no_viable_query,
+org_sviluppo_basilicata_spa_italy_48407c1a,Sviluppo Basilicata SPA,discovery,,,,not_attempted,no_viable_query,
+org_institute_technologique_d_aragon_spain_c14b035d,Institute Technologique d'Aragon,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_des_abruzzes_coop_ration_service_ff065542,Région des Abruzzes - Coopération Service Territorial IPA Adriatic,discovery,,,,not_attempted,no_viable_query,
+org_region_emilia_romagna_direction_g_n_rale_51d02d0b,Region Emilia-Romagna - Direction générale Territoire et Protection de l'Environnement,discovery,,,,not_attempted,no_viable_query,
+org_centre_internacional_de_m_todes_num_rics_0452ce60,Centre Internacional de Mètodes Numèrics a l'Enginyeria,discovery,,,,not_attempted,no_viable_query,
+org_government_of_catalonia_department_of_te_d06376de,Government of Catalonia -Department of Territory and Sustainability,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_lazio_direction_des_politiques_de_d35c24f4,"RÉGION LAZIO - DIRECTION DES POLITIQUES DE L'INFRASTRUCTURE, DE L'ENVIRONNEMENT ET DU LOGEMENT",discovery,,,,not_attempted,no_viable_query,
+org_r_gion_emilia_romagna_direction_g_n_rale_c701e64c,"Région Emilia Romagna - Direction Générale de l'Aménagement du Territoire et des Accords Négociés. Relations Européennes et Internationales, accords et Unité des programmes de zone",discovery,,,,not_attempted,no_viable_query,
+org_generalitat_de_catalogne_d_partement_de_78c336f7,"Generalitat de Catalogne - Département de la Gouvernance, Administrations Publiques et Logement",discovery,,,,not_attempted,no_viable_query,
+org_assocjazzjoni_tal_kunsilli_lokali_local_f7d9de38,Assocjazzjoni tal-Kunsilli Lokali - Local Council’s Association,discovery,,,,not_attempted,no_viable_query,
+org_association_nationale_des_collectivit_s_319f017a,"Association nationale des collectivités, des associations et des entreprises pour la gestion des déchets, de l’énergie et des réseaux de chaleur",discovery,,,,not_attempted,no_viable_query,
+org_chrysalis_leap_limited_cyprus_6145d3f3,Chrysalis LEAP Limited,discovery,,,,not_attempted,no_viable_query,
+org_himara_municipality_albania_b9425b54,Himara Municipality,discovery,,,,not_attempted,no_viable_query,
+org_chambre_d_conomie_croate_chambre_du_comt_50699345,Chambre d'économie croate - Chambre du comté de Zadar,discovery,,,,not_attempted,no_viable_query,
+org_universit_aleksander_moisiu_durres_alban_58a1551f,Universitè “Aleksander Moisiu” Durres -,discovery,,,,not_attempted,no_viable_query,
+org_institution_regional_energy_agency_kvarn_27daf1d0,Institution Regional Energy Agency Kvarner,discovery,,,,not_attempted,no_viable_query,
+org_region_de_crete_direction_environnement_9027da4a,REGION DE CRETE - DIRECTION ENVIRONNEMENT ET PLANIFICATION TERRITORIALE,discovery,,,,not_attempted,no_viable_query,
+org_greece_80b4b29a,ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΘΑΛΑΣΣΙΩΝ ΕΡΕΥΝΩΝ (ΕΛ.ΚΕ.Θ.Ε.),discovery,,,,not_attempted,no_viable_query,
+org_fab_lim_le_labo_des_territoires_alimenta_dd33e696,"FAB'LIM, Le Labo des Territoires Alimentaires Méditerranéens",own_site_not_ready,,,,not_needed,used_existing_website,https://fablim.org/
+org_enalia_physis_environmental_research_cen_9f9c4e4a,Enalia Physis Environmental Research Centre,discovery,,,,not_attempted,no_viable_query,
+org_chambre_de_commerce_et_d_industrie_nice_13154493,Chambre de Commerce et d’Industrie Nice Côte d’Azur,discovery,,,,not_attempted,no_viable_query,
+org_el_legado_andalusi_andalusian_public_fou_baff3bfc,El legado andalusi Andalusian Public Foundation,discovery,,,,not_attempted,no_viable_query,
+org_bsc_business_support_centre_ltd_kranj_re_0ceeeadf,"BSC, Business Support Centre Ltd, Kranj, Regional Development Agency",discovery,,,,not_attempted,no_viable_query,
+org_lazio_region_regional_tourism_agency_ita_d895c8ed,Lazio Region - Regional Tourism Agency,discovery,,,,not_attempted,no_viable_query,
+org_obshtina_burgas_bulgaria_burgas_bg_f6645e3b,OBSHTINA BURGAS,own_site_not_ready,,,,not_needed,used_existing_website,https://www.burgas.bg/
+org_association_des_nergies_renouvelables_d_20948df2,ASSOCIATION DES ÉNERGIES RENOUVELABLES D'ANDALUCÍA,discovery,,,,not_attempted,no_viable_query,
+org_european_regions_research_and_innovation_cbaa36be,European Regions Research and Innovation Network,discovery,,,,not_attempted,no_viable_query,
+org_mediterranean_sea_and_coast_foundation_i_0c897609,Mediterranean Sea and Coast Foundation,discovery,,,,not_attempted,no_viable_query,
+org_crowdpolicy_psifiakes_symmetoxikes_ypire_dfafe031,Crowdpolicy Psifiakes Symmetoxikes Ypiresies IKE,discovery,,,,not_attempted,no_viable_query,
+org_instituto_tecnol_gico_de_canarias_s_a_it_485083be,Instituto Tecnológico de Canarias S.A. - ITC,discovery,,,,not_attempted,no_viable_query,
+org_ente_p_blico_empresarial_consejo_insular_945d4ec3,Ente Público Empresarial Consejo Insular de la Energía,discovery,,,,not_attempted,no_viable_query,
+org_cabildo_de_fuerteventura_spain_4956599d,Cabildo de Fuerteventura,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_autonome_de_sardaigne_minist_re_d_499c8f78,Région autonome de Sardaigne - Ministère de l'Environnement - Office de Conservation de la Nature et politiques forestières,discovery,,,,not_attempted,no_viable_query,
+org_union_internationale_pour_la_conservatio_f590b976,Union internationale pour la conservation de la nature,discovery,,,,not_attempted,no_viable_query,
+org_directorate_general_maritime_authority_p_bc0cf6ce,Directorate-General Maritime Authority,discovery,,,,not_attempted,no_viable_query,
+org_conseil_national_de_la_recherche_institu_18e931be,Conseil National de la Recherche - Institut pour l'étude de l'impact anthropique et de la durabilité dans le milieu marin,discovery,,,,not_attempted,no_viable_query,
+org_fondation_marilles_pour_la_conservation_b1d79b00,Fondation Marilles pour la conservation de la Mer des Baléares,discovery,,,,not_attempted,no_viable_query,
+org_consorzio_di_gestione_di_torre_guaceto_i_26d43bb0,CONSORZIO DI GESTIONE DI TORRE GUACETO,discovery,,,,not_attempted,no_viable_query,
+org_aire_marine_prot_g_torre_del_cerrano_ita_6da78111,"Aire Marine Protégéé ""Torre del Cerrano""",discovery,,,,not_attempted,no_viable_query,
+org_consortium_de_gestion_des_aires_marines_3b80d345,Consortium de GESTION des AIRES MARINES PROTEGEES DE PORTOFINO,discovery,,,,not_attempted,no_viable_query,
+org_regione_lazio_direction_de_l_environneme_ba0153f0,Regione Lazio - Direction de l Environnement,discovery,,,,not_attempted,no_viable_query,
+org_gouvernement_de_catalogne_departament_d_83f922ab,"Gouvernement de Catalogne - Departament d'Agricultura, Ramaderia, Pesca i Alimentació",discovery,,,,not_attempted,no_viable_query,
+org_junta_de_andaluc_a_regional_ministry_of_02a8cd01,"Junta de Andalucía - Regional Ministry of Agriculture, Livestock, Fishing and Sustainable Development",discovery,,,,not_attempted,no_viable_query,
+org_r_gion_autonome_de_sardaigne_minist_re_d_a833179a,Région autonome de Sardaigne - Ministère de l'Environnement,discovery,,,,not_attempted,no_viable_query,
+org_gesti_n_de_servicios_para_la_salud_y_seg_7c1b0896,Gestión de Servicios para la Salud y Seguridad en,discovery,,,,not_attempted,no_viable_query,
+org_cluster_mar_timo_de_canarias_cmc_spain_e83872dc,Cluster Marítimo de Canarias (CMC),discovery,,,,not_attempted,no_viable_query,
+org_make_it_better_associa_o_para_a_inova_o_725e8b1f,"Make it Better, Associação para a Inovação e Economia Social",discovery,,,,not_attempted,no_viable_query,
+org_universit_de_l_algarve_facult_d_economie_7d1e7f02,Université de l’Algarve - Faculté d'Economie,discovery,,,,not_attempted,no_viable_query,
+org_association_albanaise_des_municipalit_s_d9243f66,Association albanaise des Municipalités,discovery,,,,not_attempted,no_viable_query,
+org_federacion_aragonesa_de_municipios_comar_a400aaad,FEDERACION ARAGONESA DE MUNICIPIOS COMARCAS Y PROVINCIAS,discovery,,,,not_attempted,no_viable_query,
+org_arc_latin_spain_fdfd456e,Arc Latin,discovery,,,,not_attempted,no_viable_query,
+org_cueim_consorzio_universitario_di_economi_f5d1f82b,CUEIM Consorzio Universitario di Economia Industriale e Manageriale,discovery,,,,not_attempted,no_viable_query,
+org_revolve_mediterraneo_spain_2efebf81,REVOLVE MEDITERRANEO,discovery,,,,not_attempted,no_viable_query,
+org_parco_scientifico_tecnologico_per_l_ambi_72f19c7a,Parco Scientifico Tecnologico Per L'Ambiente,discovery,,,,not_attempted,no_viable_query,
+org_agence_d_cologie_urbaine_de_barcelone_sp_31a3208c,Agence d'écologie urbaine de Barcelone,discovery,,,,not_attempted,no_viable_query,
+org_irradiare_science_for_evolution_lda_port_f966e662,"IrRADIARE, Science for evolution®, Lda.",discovery,,,,not_attempted,no_viable_query,
+org_natural_environment_climate_change_agenc_c7f0b42b,Natural Environment & Climate Change Agency/Management Unit of Acheloos Valley and Amvrakikos Gulf Protected Areas,discovery,,,,not_attempted,no_viable_query,
+org_kmetijsko_gozdarska_zbornica_slovenije_k_f7e9c798,Kmetijsko gozdarska zbornica Slovenije – Kmetijsko gozdarski zavod Maribor,discovery,,,,not_attempted,no_viable_query,
+org_ju_razvojna_agencija_unsko_sanskog_kanto_eb878ec8,JU “Razvojna agencija Unsko-sanskog kantona” Bihać,discovery,,,,not_attempted,no_viable_query,
+org_union_centrale_des_municipalit_s_grecque_1159fa57,Union centrale des municipalités grecques,discovery,,,,not_attempted,no_viable_query,
+org_centre_d_entrepreneuriat_djakovo_ltd_cro_36ddfce7,Centre d'entrepreneuriat Djakovo Ltd.,discovery,,,,not_attempted,no_viable_query,
+org_universit_technique_de_cr_te_cole_d_ing_181645d2,"Université Technique de Crète, École d'Ingénierie de l'Environnement",discovery,,,,not_attempted,no_viable_query,
+org_ville_de_capljina_bureau_du_maire_bosnia_50823679,Ville de Capljina - bureau du maire,discovery,,,,not_attempted,no_viable_query,
+org_cyprus_43f0c1a3,ΕΝΩΣΗ ΚΟΙΝΟΤΗΤΩΝ ΚΥΠΡΟΥ,discovery,,,,not_attempted,no_viable_query,
+org_ville_de_nisyros_greece_7aa4e77b,ville de Nisyros,discovery,,,,not_attempted,no_viable_query,
+org_nau_no_tehnolo_ki_park_cren_gore_montene_c371bb0e,NAUČNO – TEHNOLOŠKI PARK CREN GORE,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_l_attique_ouest_34_5000_d_p_66e4680d,UNIVERSITÉ DE L'ATTIQUE OUEST-34/5000 département d'ingénieurs en mécanique,discovery,,,,not_attempted,no_viable_query,
+org_fakultet_strojarstva_i_brodogradnje_sveu_7a599c3c,Fakultet strojarstva i brodogradnje Sveučilišta u Zagrebu,discovery,,,,not_attempted,no_viable_query,
+org_institut_national_de_biologie_station_bi_85143b09,Institut national de biologie - Station biologique marine de Piran,discovery,,,,not_attempted,no_viable_query,
+org_conf_rence_des_r_gions_p_riph_riques_et_c768b5c1,Conférence des Régions Périphériques et Maritimes d’Europe,discovery,,,,not_attempted,no_viable_query,
+org_agence_du_tourisme_de_la_corse_france_758581c1,Agence du Tourisme de la Corse,discovery,,,,not_attempted,no_viable_query,
+org_institut_za_poljoprivredu_i_turizam_croa_01ad929e,Institut za poljoprivredu i turizam,discovery,,,,not_attempted,no_viable_query,
+org_gect_pyren_es_mediterran_e_france_8033a4c1,GECT Pyrenées Mediterranée,discovery,,,,not_attempted,no_viable_query,
+org_klaster_intermodalnog_prijevoza_croatia_087aa5fd,Klaster intermodalnog prijevoza,discovery,,,,not_attempted,no_viable_query,
+org_hrvatska_agencija_za_malo_gospodarstvo_i_92ea0d38,"Hrvatska agencija za malo gospodarstvo, inovacije i investicije",discovery,,,,not_attempted,no_viable_query,
+org_universit_de_malte_groupe_de_recherche_e_89b388b7,Université de Malte - Groupe de recherche en océanographie physique (Département des géosciences),discovery,,,,not_attempted,no_viable_query,
+org_autorit_portuaire_d_h_raklion_greece_204e59f6,Autorité portuaire d'Héraklion,discovery,,,,not_attempted,no_viable_query,
+org_sveu_ili_te_u_rijeci_pomorski_fakultet_c_782b2d76,"Sveučilište u Rijeci, Pomorski fakultet",discovery,,,,not_attempted,no_viable_query,
+org_sas_noveltis_france_5b8b5a26,SAS NOVELTIS,discovery,,,,not_attempted,no_viable_query,
+org_athena_centre_de_recherche_et_d_innovati_cf62fca3,"Athena Centre de Recherche et d’Innovation a l’Information, la Communication and les Technologies de Connaissance / Corallia",discovery,,,,not_attempted,no_viable_query,
+org_port_de_sete_sud_de_france_france_2dbc54dd,"PORT DE SETE, SUD DE FRANCE",discovery,,,,not_attempted,no_viable_query,
+org_greece_f15aff6e,Δήμος Ρεθύμνης,discovery,,,,not_attempted,no_viable_query,
+org_municipalite_larnaka_cyprus_515e87dd,Municipalite Larnaka,discovery,,,,not_attempted,no_viable_query,
+org_ministry_for_gozo_malta_acf9b43a,Ministry for Gozo,discovery,,,,not_attempted,no_viable_query,
+org_agenzijia_dwar_l_energija_u_l_ilma_malta_48b18632,Agenzijia dwar l-Energija u l-Ilma,discovery,,,,not_attempted,no_viable_query,
+org_civinet_cy_el_secretariat_soci_t_civile_46dd7043,CIVINET CY-EL Secretariat Société civile sans but lucratif,discovery,,,,not_attempted,no_viable_query,
+org_albanian_institute_of_transport_albania_28a14122,ALBANIAN INSTITUTE OF TRANSPORT,discovery,,,,not_attempted,no_viable_query,
+org_znanstvenoraziskovalni_center_slovenske_d6e4b6f2,Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti,discovery,,,,not_attempted,no_viable_query,
+org_kulturno_izobra_evalno_dru_tvo_associazi_20c433eb,Kulturno izobraževalno društvo - Associazione Culturale ed Educativa - Pina,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_crete_agence_r_gionale_de_l_nergi_a074d90e,RÉGION CRETE - AGENCE RÉGIONALE DE L'ÉNERGIE DE CRETE,discovery,,,,not_attempted,no_viable_query,
+org_communaut_de_communes_des_aspres_france_aa9151a2,Communauté de Communes des Aspres,discovery,,,,not_attempted,no_viable_query,
+org_ecole_d_ing_nieurs_de_purpan_france_7690fcf3,Ecole d'ingénieurs de Purpan,discovery,,,,not_attempted,no_viable_query,
+org_centre_for_renewable_energy_sources_and_fa861f1e,CENTRE FOR RENEWABLE ENERGY SOURCES AND SAVING - CRES,discovery,,,,not_attempted,no_viable_query,
+org_cabildo_insular_de_la_palma_spain_a76f1edb,CABILDO INSULAR DE LA PALMA,discovery,,,,not_attempted,no_viable_query,
+org_croatian_chamber_of_economy_rijeka_count_a1d3e857,Croatian Chamber of Economy - Rijeka County Chamber,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_sienne_d_partement_de_physi_2452ac50,"Université de Sienne - Département de physique, de la terre et sciences de l'environnement",discovery,,,,not_attempted,no_viable_query,
+org_u_space_espa_a_sl_spain_878bfa7f,U-SPACE ESPAÑA SL,discovery,,,,not_attempted,no_viable_query,
+org_indaco2_italy_76141089,INDACO2,discovery,,,,not_attempted,no_viable_query,
+org_ifla_europe_the_european_region_of_the_i_16f37df0,IFLA EUROPE – the European Region of the International Federation of Landscape Architects,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iflaeurope.eu/
+org_ifla_europe_the_european_region_of_the_i_75fa94df,IFLA EUROPE - The European Region of the International Federation of Landscape Architects,own_site_not_ready,,,,not_needed,used_existing_website,https://www.iflaeurope.eu/
+org_plovput_limited_liability_commercial_com_b3fe5e4a,Plovput limited liability commercial company for maintenance of maritime waterways and radio service,discovery,,,,not_attempted,no_viable_query,
+org_centre_d_affaires_et_innovation_de_valen_570fe186,CENTRE D'AFFAIRES ET INNOVATION DE VALENCIA,discovery,,,,not_attempted,no_viable_query,
+org_cabildo_insular_de_la_gomera_spain_17fb301f,Cabildo Insular de La Gomera,discovery,,,,not_attempted,no_viable_query,
+org_instituto_volcanol_gico_de_canarias_invo_0482b4bb,Instituto Volcanológico de Canarias (INVOLCAN),discovery,,,,not_attempted,no_viable_query,
+org_itc_instituto_tecnol_gico_de_canarias_s_3a4b2ab9,"ITC - Instituto Tecnológico de Canarias, S.A.",discovery,,,,not_attempted,no_viable_query,
+org_direcci_n_general_de_seguridad_y_emergen_29911c6e,Dirección General de Seguridad y Emergencias del Gobierno De Canarias,discovery,,,,not_attempted,no_viable_query,
+org_ayuntamiento_de_teguise_spain_17ab1eb3,Ayuntamiento de Teguise,discovery,,,,not_attempted,no_viable_query,
+org_universit_della_calabria_dimeg_italy_8e589c53,Università della Calabria - DIMEG,discovery,,,,not_attempted,no_viable_query,
+org_greece_pkm_gov_gr_808f037c,ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.pkm.gov.gr/
+org_puglia_region_department_of_tourism_econ_9e1ad0b7,"Puglia region- DEPARTMENT OF TOURISM, ECONOMY OF CULTURE AND VALORIZATION OF TERRITORY",discovery,,,,not_attempted,no_viable_query,
+org_f_d_ration_italienne_des_parcs_et_des_r_47ad20bb,Fédération Italienne des Parcs et des Réserves Naturelles,discovery,,,,not_attempted,no_viable_query,
+org_conseil_national_de_recherches_institut_befe84f4,Conseil National de Recherches - Institut des méthodologies pour l'analyse environnementale,discovery,,,,not_attempted,no_viable_query,
+org_universidad_de_zaragoza_spain_7dbe05bc,Universidad de Zaragoza,discovery,,,,not_attempted,no_viable_query,
+org_laboratoire_national_d_energie_et_de_g_o_1e5d66ed,"Laboratoire National d’Energie et de Géologia, I.P.",discovery,,,,not_attempted,no_viable_query,
+org_r_gion_calabraise_d_partement_de_program_f54f75c0,Région calabraise - Département de Programmation - Programmation de la coopération et de la capacité institutionnelle,discovery,,,,not_attempted,no_viable_query,
+org_junta_de_andaluc_a_minist_re_du_tourisme_d2ffc67d,"Junta de Andalucía - Ministère du Tourisme, de la Régénération, de la Justice et de l'Administration locale",discovery,,,,not_attempted,no_viable_query,
+org_universit_d_algarve_ecole_de_management_d238c188,"Université d'Algarve - Ecole de Management, Hôtellerie et Tourisme",discovery,,,,not_attempted,no_viable_query,
+org_consortium_de_gestion_de_aire_marine_pro_b0b6ddc7,Consortium de gestion de Aire Marine Protégée de Tavolara Punta Coda Cavallo,discovery,,,,not_attempted,no_viable_query,
+org_unimed_union_des_universit_s_de_la_m_dit_20e57f7e,UNIMED-Union des Universités de la Méditerranée,discovery,,,,not_attempted,no_viable_query,
+org_universit_politecnica_delle_marche_italy_d0eb97a2,Università Politecnica delle Marche,discovery,,,,not_attempted,no_viable_query,
+org_diputaci_de_barcelona_spain_afffed96,Diputació de Barcelona,discovery,,,,not_attempted,no_viable_query,
+org_dan_europe_foundation_malta_afd55151,DAN Europe Foundation,discovery,,,,not_attempted,no_viable_query,
+org_greece_ied_eu_e9a17b59,Ινστιτουτο Αναπτυξης Επιχειρηματικοτητας,own_site_not_ready,,,,not_needed,used_existing_website,https://ied.eu/
+org_regione_liguria_d_partement_de_l_agricul_daa2c407,"Regione Liguria - Département de l'agriculture, du tourisme, de la formation et du travail - Secteur Parcs et biodiversité",discovery,,,,not_attempted,no_viable_query,
+org_universit_de_vigo_future_oceans_lab_spai_75e402e1,Université de Vigo – Future Oceans Lab,discovery,,,,not_attempted,no_viable_query,
+org_malta_marittima_agency_malta_000a0530,Malta Marittima Agency,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_autonome_vall_e_d_aoste_assessora_fd322064,"Région autonome Vallée d’Aoste- Assessorat du tourisme, des sports, du commerce, de l’agriculture et des biens culturels",discovery,,,,not_attempted,no_viable_query,
+org_fondation_centre_euro_m_diterran_en_sur_07907401,Fondation Centre euro-méditerranéen sur les changements climatiques,discovery,,,,not_attempted,no_viable_query,
+org_agence_pour_l_nergie_portugais_portugal_31c95af6,Agence pour l'énergie portugais,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_institut_de_recerca_en_energia_d_b9a20dfd,Fundació Institut de Recerca en Energia de Catalunya,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_rome_tre_d_partement_d_arch_27b37925,Université de Rome Tre - Département d'architecture,discovery,,,,not_attempted,no_viable_query,
+org_amvrakikos_gulf_lefkada_management_agenc_5670845a,Amvrakikos Gulf – Lefkada Management Agency,discovery,,,,not_attempted,no_viable_query,
+org_soci_t_espagnole_d_ornithologie_spain_84dda46a,Société espagnole d'ornithologie,discovery,,,,not_attempted,no_viable_query,
+org_aquaprogram_srl_italy_98513309,AQUAPROGRAM srl,discovery,,,,not_attempted,no_viable_query,
+org_action_renewables_united_kingdom_redawn_253353fa,Action Renewables,discovery,,,,not_attempted,no_viable_query,
+org_region_provence_alpes_c_te_d_azur_direct_9328ce4f,Region Provence-Alpes-Côte d'Azur – Direction de la Biodiversité et de la mer - Service mer et littoral,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_de_mac_doine_centrale_direction_d_a2ea609b,"Région de Macédoine centrale - Direction du soutien à l'innovation et à l'entreprenariat, Département des programmes européens et des synergies",discovery,,,,not_attempted,no_viable_query,
+org_manisa_su_ve_kanalizasyon_i_daresi_genel_add5de6d,Manisa Su ve Kanalizasyon İdaresi Genel Müdürlüğü / Manisa Water and Sewerage Administration General Directorate,own_site_not_ready,,,,not_needed,used_existing_website,https://www.manisasu.gov.tr/
+org_natura_jadera_javna_ustanova_za_upravlja_eac5293a,NATURA -JADERA javna ustanova za upravljanje zaštićenim dijelovima prirode na području Zadarske Ž.,discovery,,,,not_attempted,no_viable_query,
+org_ministarstvo_kapitalnih_investicija_mont_1db346ca,Ministarstvo kapitalnih investicija,discovery,,,,not_attempted,no_viable_query,
+org_service_sp_cial_des_fonds_structurels_de_1c71cc14,Service Spécial des Fonds Structurels de l'Union Européenne au Ministère des Affaires Maritimes et de la Politique Insulaire,discovery,,,,not_attempted,no_viable_query,
+org_nacionalni_in_titut_za_biologijo_sloveni_5133a131,Nacionalni inštitut za biologijo,discovery,,,,not_attempted,no_viable_query,
+org_r_seau_des_aires_marines_prot_g_es_en_m_8cadd950,Réseau des Aires Marines Protégées en Méditerranée,discovery,,,,not_attempted,no_viable_query,
+org_instituti_per_ruajtjen_e_natyres_ne_shqi_48d744b2,Instituti per Ruajtjen e Natyres ne Shqiperi,discovery,,,,not_attempted,no_viable_query,
+org_organisme_de_gestion_du_parc_national_ma_2f9c8bad,Organisme de Gestion du Parc National Marin de Zakynhthos,discovery,,,,not_attempted,no_viable_query,
+org_javni_zavod_krajinski_park_strunjan_slov_9d438421,Javni zavod Krajinski park Strunjan,discovery,,,,not_attempted,no_viable_query,
+org_javna_ustanova_nacionalni_park_brijuni_c_17d0667a,Javna ustanova Nacionalni park Brijuni,discovery,,,,not_attempted,no_viable_query,
+org_agjencia_komb_tare_e_zonave_t_mbrojtura_5dbacae9,Agjencia Kombëtare e Zonave të Mbrojtura,discovery,,,,not_attempted,no_viable_query,
+org_parc_national_de_port_cros_france_b28fec01,Parc national de Port-Cros,discovery,,,,not_attempted,no_viable_query,
+org_institut_za_turizam_croatia_74a74eb0,INSTITUT ZA TURIZAM,discovery,,,,not_attempted,no_viable_query,
+org_municipalit_de_kotor_montenegro_e4bc2cf3,Municipalité de Kotor,discovery,,,,not_attempted,no_viable_query,
+org_oto_na_razvojna_agencija_d_o_o_croatia_87780219,Otočna razvojna agencija d.o.o.,discovery,,,,not_attempted,no_viable_query,
+org_anima_investment_network_france_1e3d5304,ANIMA Investment Network,discovery,,,,not_attempted,no_viable_query,
+org_src_bistra_ptuj_centre_de_recherche_scie_7f630aa0,SRC Bistra Ptuj - Centre de recherche scientifique Bistra Ptuj,discovery,,,,not_attempted,no_viable_query,
+org_agence_pour_l_nergie_et_l_environment_de_ffc0e670,Agence pour l'énergie et l’environment de l'Egée,discovery,,,,not_attempted,no_viable_query,
+org_universite_nationale_polytechnique_d_ath_29b74a4c,UNIVERSITE NATIONALE POLYTECHNIQUE D' ATHENES - École d'architecture navale et d'ingénierie maritime,discovery,,,,not_attempted,no_viable_query,
+org_regionalna_energetska_klimatska_agencija_9d2550af,Regionalna energetska-klimatska agencija Sjeverozapadne Hrvatske,discovery,,,,not_attempted,no_viable_query,
+org_plan_bleu_pour_l_environnement_et_le_d_v_c77d5f9b,Plan Bleu pour l’Environnement et le Développement en Méditerranée,discovery,,,,not_attempted,no_viable_query,
+org_sociedad_canaria_de_fomento_econ_mico_s_6e659d8e,"Sociedad Canaria de Fomento Económico, S. A.",discovery,,,,not_attempted,no_viable_query,
+org_entidad_p_blica_empresarial_puertos_spai_f3da4433,ENTIDAD PÚBLICA EMPRESARIAL PUERTOS,discovery,,,,not_attempted,no_viable_query,
+org_instituto_canario_de_investigaciones_agr_1eb21aa9,Instituto Canario de Investigaciones Agrarias (ICIA),discovery,,,,not_attempted,no_viable_query,
+org_geoimaging_limited_cyprus_62d459ae,Geoimaging limited,discovery,,,,not_attempted,no_viable_query,
+org_agjencia_kombetare_e_burimeve_natyrore_a_2af10756,Agjencia Kombetare e Burimeve Natyrore,discovery,,,,not_attempted,no_viable_query,
+org_universit_c_te_d_azur_france_1dbf5b20,Université Côte d'Azur,discovery,,,,not_attempted,no_viable_query,
+org_cyprus_f6502eed,Ενεργειακό Γραφείο Κυπρίων Πολιτών,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_de_thessalie_fonds_r_gional_de_d_1a5b7959,Région de Thessalie - Fonds régional de développement,discovery,,,,not_attempted,no_viable_query,
+org_wwf_adria_udruga_za_za_titu_prirode_i_o_c86a5dfc,WWF ADRIA – UDRUGA ZA ZAŠTITU PRIRODE I OČUVANJE BIOLOŠKE RAZNOLIKOSTI,discovery,,,,not_attempted,no_viable_query,
+org_greece_a3f5e1cc,Πανεπιστήμιο Αιγαίου – Ειδικός Λογαριασμός Έρευνας,discovery,,,,not_attempted,no_viable_query,
+org_vlora_municipalite_albania_904f46eb,VLORA MUNICIPALITE,discovery,,,,not_attempted,no_viable_query,
+org_atlantis_consulting_sa_greece_e1bed3dc,ATLANTIS CONSULTING SA,discovery,,,,not_attempted,no_viable_query,
+org_nacionalna_turisti_ka_organizacija_crne_9609d1eb,Nacionalna turistička organizacija Crne Gore,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_maribor_facult_du_tourisme_c8f4fef0,Université de Maribor - Faculté du Tourisme,discovery,,,,not_attempted,no_viable_query,
+org_malta_council_for_science_and_technology_94730bdc,Malta Council for Science and Technology,discovery,,,,not_attempted,no_viable_query,
+org_ministry_of_tourism_general_secretariat_5238f29b,Ministry of Tourism - General Secretariat for Tourism Policy and Development,discovery,,,,not_attempted,no_viable_query,
+org_network_of_european_regions_for_a_sustai_a9c06d22,Network of European Regions for a Sustainable and Competitive Tourism,discovery,,,,not_attempted,no_viable_query,
+org_agence_r_gionale_de_d_veloppement_karst_a0312ed5,Agence régionale de développement Karst Vert Ltd.,discovery,,,,not_attempted,no_viable_query,
+org_jadransko_jonska_euroregija_croatia_dead3fa2,Jadransko Jonska Euroregija,discovery,,,,not_attempted,no_viable_query,
+org_universit_de_thessalie_comite_de_recherc_eab847dc,Université de Thessalie - Comite de Recherche,discovery,,,,not_attempted,no_viable_query,
+org_etablissement_public_du_parc_national_de_054d167b,Etablissement public du Parc national des Calanques,discovery,,,,not_attempted,no_viable_query,
+org_ville_de_nice_france_07795285,Ville de Nice,discovery,,,,not_attempted,no_viable_query,
+org_minist_re_du_tourisme_et_de_l_environnem_48bdf6f0,Ministère du tourisme et de l'environnement - Direction de la conception et de la faisabilité des projets environnementaux,discovery,,,,not_attempted,no_viable_query,
+org_greece_c07a67d6,Μεσογειακό Γραφείο Πληροφόρησης για το Περιβάλλον τον Πολιτισμό και την Αειφόρο Ανάπτυξη,discovery,,,,not_attempted,no_viable_query,
+org_university_of_primorska_faculty_of_touri_0d601574,University of Primorska - Faculty of Tourism Studies - Turistica,discovery,,,,not_attempted,no_viable_query,
+org_initiative_pour_les_zones_humides_m_dite_4b240595,Initiative pour les zones humides méditerrannénnes,discovery,,,,not_attempted,no_viable_query,
+org_energy_cities_france_91bd841d,Energy Cities,discovery,,,,not_attempted,no_viable_query,
+org_tour_du_valat_france_c2570f65,Tour du Valat,discovery,,,,not_attempted,no_viable_query,
+org_directorare_general_for_maritime_policy_2ec64c91,Directorare General for Maritime Policy,discovery,,,,not_attempted,no_viable_query,
+org_andalouse_institut_de_recherche_agricole_bc9b5bb0,"Andalouse Institut de recherche agricole et de la Formation, de la pêche, de l'Alimentation et de la production biologique",discovery,,,,not_attempted,no_viable_query,
+org_ministry_of_energy_commerce_and_industry_0eacd0e3,"Ministry of Energy, Commerce and Industry",discovery,,,,not_attempted,no_viable_query,
+org_spain_7fa2a430,-,discovery,,,,not_attempted,no_viable_query,
+org_rea_metropolitana_de_barcelona_agence_d_ec928281,"Àrea Metropolitana de Barcelona, Agence de Développement Economique et Social",discovery,,,,not_attempted,no_viable_query,
+org_turismo_de_portugal_i_p_portugal_22415264,"Turismo de Portugal, I.P",discovery,,,,not_attempted,no_viable_query,
+org_cabildo_insular_de_lanzarote_spain_edeae809,Cabildo Insular de Lanzarote,discovery,,,,not_attempted,no_viable_query,
+org_conseil_national_de_recherches_institut_b679fac4,Conseil National de Recherches - Institut des Sciences Marines (Bologne),discovery,,,,not_attempted,no_viable_query,
+org_association_pour_la_p_che_et_les_activit_91408836,Association pour la Pêche et les Activités Maritimes,discovery,,,,not_attempted,no_viable_query,
+org_societ_locale_d_initiatives_et_d_activit_80daa178,Societè locale d'initiatives et d'activitès de Malaga S.A,discovery,,,,not_attempted,no_viable_query,
+org_r_gion_des_pouilles_d_partement_du_d_vel_456fe0f2,"Région des Pouilles - Département du Développement Economique, de l'Innovation, de l'Education, de la Formation et du Travail",discovery,,,,not_attempted,no_viable_query,
+org_aldo_moro_universit_des_etud_s_de_bari_dd4dd804,"""Aldo Moro"" Université des Etudès de Bari, Départment de Ordinateur Science",discovery,,,,not_attempted,no_viable_query,
+org_universit_de_malaga_centre_th_matique_eu_bb1b2c2d,Université de Malaga - Centre Thématique Européen,discovery,,,,not_attempted,no_viable_query,
+org_latte_creative_s_r_l_italy_ec809a80,LATTE CREATIVE S. R. L.,discovery,,,,not_attempted,no_viable_query,
+org_dru_tvo_sa_ograni_enom_odgovorno_u_inova_dc712289,Društvo sa ograničenom odgovornošću Inovaciono preduzetnički centar Tehnopolis,discovery,,,,not_attempted,no_viable_query,
+org_tehnolo_ki_park_ljubljana_d_o_o_slovenia_37e3ec8f,Tehnološki park Ljubljana d.o.o.,discovery,,,,not_attempted,no_viable_query,
+org_ruder_boskovic_institute_croatia_36d36a2d,Ruder Boskovic Institute,discovery,,,,not_attempted,no_viable_query,
+org_greece_75006af5,"Εθνικό Κέντρο Έρευνας Φυσικών Επιστημών ""Δημόκριτος""",discovery,,,,not_attempted,no_viable_query,
+org_mministry_of_tourism_and_sport_republic_ba118c87,"MMinistry of tourism and sport - Republic of Croatia - Sector for strategic planning, digitalization and EU programmes and projects",discovery,,,,not_attempted,no_viable_query,
+org_atout_france_direction_de_l_ingenierie_e_951cd0d4,ATOUT FRANCE-DIRECTION DE L’INGENIERIE ET DU DEVELOPPEMENT DES TERRITOIRES,discovery,,,,not_attempted,no_viable_query,
+org_minist_re_du_ourisme_r_publique_ell_niqu_518c77d4,"Ministère du Τourisme, République Ηellénique",discovery,,,,not_attempted,no_viable_query,
+org_greece_auth_gr_42247976,ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ - ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auth.gr/
+org_aristotelio_panepistimio_thessalonikis_e_64da9b4d,Aristotelio Panepistimio Thessalonikis - Eidikos Logariasmos Kondilion Erevnas,own_site_not_ready,,,,not_needed,used_existing_website,https://www.auth.gr/
+org_ministry_of_sustainable_development_and_735b331f,"Ministry of Sustainable Development and Tourism, Directorate for Competitiveness Development and Investments in Tourism",discovery,,,,not_attempted,no_viable_query,
+org_r_gion_occitanie_pyr_n_es_m_diterran_e_d_01d594c4,"Région Occitanie / Pyrénées-Méditerranée, Direction du Tourisme et du Thermalisme",discovery,,,,not_attempted,no_viable_query,
+org_management_body_of_samaria_national_park_68ccda3c,Management Body of Samaria National Park - Western Crete,discovery,,,,not_attempted,no_viable_query,
+org_the_tourist_board_of_herzegovina_neretva_04d9a15d,The Tourist Board of Herzegovina-Neretva Canton,discovery,,,,not_attempted,no_viable_query,
+org_institut_d_velopement_de_l_entrepreneuri_d5787f74,Institut Dévelopement de l'entrepreneuriat,discovery,,,,not_attempted,no_viable_query,
+org_razvojna_agencija_grada_prijedora_preda_ce000199,Razvojna agencija grada Prijedora „PREDA“,discovery,,,,not_attempted,no_viable_query,
+org_european_network_of_living_labs_aisbl_be_fd3cc945,European Network of Living Labs aisbl,discovery,,,,not_attempted,no_viable_query,
+org_institut_za_more_croatia_2f366e79,Institut za More,discovery,,,,not_attempted,no_viable_query,
+org_instituto_de_productos_naturales_y_spain_cf554ac3,INSTITUTO DE PRODUCTOS NATURALES Y,discovery,,,,not_attempted,no_viable_query,
+org_instituto_tecnologico_de_canarias_s_a_sp_f6f0e962,INSTITUTO TECNOLOGICO DE CANARIAS S.A.,discovery,,,,not_attempted,no_viable_query,
+org_cruz_roja_espa_ola_spain_f3df9206,Cruz Roja Española,discovery,,,,not_attempted,no_viable_query,
+org_ministarstvo_ekologije_prostornog_planir_ffe49f2d,"Ministarstvo ekologije, prostornog planiranja i urbanizma",discovery,,,,not_attempted,no_viable_query,
+org_fundaci_n_canaria_parque_cient_fico_tecn_fc67758d,Fundación Canaria Parque Científico Tecnológico,discovery,,,,not_attempted,no_viable_query,
+org_ayuntamiento_de_elche_spain_f09f0a00,Ayuntamiento de Elche,discovery,,,,not_attempted,no_viable_query,
+org_durres_municipality_albania_f706fbbb,Durres Municipality,discovery,,,,not_attempted,no_viable_query,
+org_fundaci_val_ncia_clima_i_energia_spain_71a18247,Fundació València Clima i Energia,discovery,,,,not_attempted,no_viable_query,
+org_regionalni_razvojni_center_koper_sloveni_04385a18,Regionalni razvojni center Koper,discovery,,,,not_attempted,no_viable_query,
+org_polis_promotion_of_operational_links_wit_42b2badb,Polis - Promotion of Operational Links with Integrated Services aisbl,discovery,,,,not_attempted,no_viable_query,
+org_codatu_agir_pour_une_mobilit_soutenable_b422a70e,CODATU – Agir pour une mobilité soutenable dans les villes en développement,discovery,,,,not_attempted,no_viable_query,
+org_dublin_city_university_ireland_monitoolp_5d59d8d8,Dublin City University,own_site_not_ready,,,,not_needed,used_existing_website,https://www.monitoolproject.eu/
+org_greece_hmu_gr_9a18f8c7,Ελληνικό Μεσογειακό Πανεπιστήμιο/Ειδικός Λογαριασμός Κονδυλίων Έρευνας,own_site_not_ready,,,,not_needed,used_existing_website,https://hmu.gr//
